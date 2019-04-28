@@ -114,6 +114,17 @@
         <mark key="^" line="181" column="49" />
       </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/pom.xml" timestamp="1556190576157" />
+      <file name="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/resources/application-dev.properties" timestamp="1556443245335">
+        <mark key="[" line="0" column="21" />
+        <mark key="]" line="0" column="21" />
+        <mark key="." line="0" column="21" />
+        <mark key="^" line="0" column="26" />
+      </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/AdminDataAccess/src/main/resources/config/application-prod.properties" timestamp="1556443522666">
+        <mark key="[" line="1" column="84" />
+        <mark key="]" line="1" column="84" />
+        <mark key="." line="1" column="84" />
+      </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/bean/WechatLoginResult.java" timestamp="1555313568393">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="10" column="32" />
@@ -137,6 +148,12 @@
         <mark key="]" line="21" column="3" />
         <mark key="^" line="21" column="3" />
         <mark key="." line="21" column="3" />
+      </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/AdminDataAccess/src/main/resources/config/application-dev.properties" timestamp="1556443269095">
+        <mark key="[" line="1" column="50" />
+        <mark key="]" line="1" column="60" />
+        <mark key="." line="1" column="60" />
+        <mark key="^" line="1" column="60" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/SpringBootDeploy/src/main/java/com/uf/member/filter/AuthenFilter.java" timestamp="1555061245974">
         <mark key="[" line="58" column="52" />
@@ -474,6 +491,12 @@
         <mark key="^" line="35" column="26" />
         <mark key="." line="35" column="26" />
       </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/resources/application-prod.properties" timestamp="1556443292267">
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="0" column="20" />
+        <mark key="." line="0" column="20" />
+        <mark key="^" line="0" column="20" />
+      </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-output-interpreter/src/main/java/com/moodys/sav/sfs/output/util/ABSDefaultRateMappingUtil.java" timestamp="1556421804260" />
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-monitor/pom.xml" timestamp="1556188732869" />
       <file name="/fragment.java" timestamp="1556431139130">
@@ -589,11 +612,11 @@
       <jump line="10" column="0" filename="$USER_HOME$/gitBucket/membersystem/AdminDataAccess/src/main/java/com/uf/member/dao/mysql/entity/StoreAppConfigration.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CSAgICAgICAgU3ByaW5nQXBwbGljYXRpb24ucnVuKEFwcGxpY2F0aW9uLmNsYXNzLCBhcmdzKTsK</text>
+      <register name="&quot;" type="4">
+        <text>${app.contextName}</text>
       </register>
       <register name="-" type="4">
-        <text>-monitor</text>
+        <text>${app.contextName}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3ZWNoYXRBcHBFbWFpbFw+</text>
