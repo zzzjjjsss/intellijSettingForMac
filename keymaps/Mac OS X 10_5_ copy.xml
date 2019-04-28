@@ -17,6 +17,9 @@
   <action id="ActivateVersionControlToolWindow">
     <keyboard-shortcut first-keystroke="meta 8" />
   </action>
+  <action id="CallHierarchy">
+    <keyboard-shortcut first-keystroke="ctrl meta h" />
+  </action>
   <action id="CheckinProject">
     <keyboard-shortcut first-keystroke="alt k" />
   </action>
@@ -82,11 +85,16 @@
     <mouse-shortcut keystroke="meta alt button1" />
     <keyboard-shortcut first-keystroke="ctrl i" />
   </action>
+  <action id="GotoNextError">
+    <keyboard-shortcut first-keystroke="ctrl close_bracket" />
+  </action>
+  <action id="GotoPreviousError">
+    <keyboard-shortcut first-keystroke="ctrl open_bracket" />
+  </action>
   <action id="GotoSuperMethod">
     <keyboard-shortcut first-keystroke="ctrl u" />
   </action>
   <action id="GotoTypeDeclaration">
-    <keyboard-shortcut first-keystroke="shift meta b" />
     <mouse-shortcut keystroke="shift meta button1" />
     <keyboard-shortcut first-keystroke="shift ctrl g" />
   </action>
@@ -95,13 +103,16 @@
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
   <action id="JumpToLastChange">
-    <keyboard-shortcut first-keystroke="ctrl l" />
+    <keyboard-shortcut first-keystroke="shift ctrl back_space" />
   </action>
   <action id="List-selectNextRow">
     <keyboard-shortcut first-keystroke="down" />
   </action>
   <action id="MethodDown">
     <keyboard-shortcut first-keystroke="ctrl period" />
+  </action>
+  <action id="MethodHierarchy">
+    <keyboard-shortcut first-keystroke="shift ctrl h" />
   </action>
   <action id="MethodUp">
     <keyboard-shortcut first-keystroke="ctrl comma" />
