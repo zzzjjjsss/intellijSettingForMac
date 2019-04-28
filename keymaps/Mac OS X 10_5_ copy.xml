@@ -20,6 +20,7 @@
   <action id="CallHierarchy">
     <keyboard-shortcut first-keystroke="ctrl meta h" />
   </action>
+  <action id="ChangesView.Diff" />
   <action id="CheckinProject">
     <keyboard-shortcut first-keystroke="alt k" />
   </action>
@@ -33,14 +34,17 @@
     <keyboard-shortcut first-keystroke="meta divide" />
     <keyboard-shortcut first-keystroke="ctrl slash" />
   </action>
+  <action id="CompareTwoFiles" />
   <action id="Console.Execute.Multiline" />
   <action id="Debug" />
+  <action id="Diff.ShowDiff" />
   <action id="DirDiffMenu.SynchronizeDiff.All" />
   <action id="DuplicatesForm.SendToRight" />
   <action id="EditorChooseLookupItemDot" />
   <action id="EditorDown">
     <keyboard-shortcut first-keystroke="down" />
   </action>
+  <action id="EditorDuplicate" />
   <action id="EditorLineEnd">
     <keyboard-shortcut first-keystroke="end" />
     <keyboard-shortcut first-keystroke="meta right" />
@@ -60,6 +64,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl semicolon" />
   </action>
   <action id="ExportToTextFile" />
+  <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.GotoModule" />
   <action id="FileChooser.GotoProject" />
   <action id="FileStructurePopup">
@@ -107,6 +112,7 @@
   </action>
   <action id="Groovy.Shell.Execute" />
   <action id="GuiDesigner.CreateListener" />
+  <action id="GuiDesigner.Duplicate" />
   <action id="Images.Editor.ActualSize">
     <keyboard-shortcut first-keystroke="meta divide" />
   </action>
@@ -145,7 +151,7 @@
     <keyboard-shortcut first-keystroke="down" />
   </action>
   <action id="QuickImplementations">
-    <keyboard-shortcut first-keystroke="meta y" />
+    <keyboard-shortcut first-keystroke="meta d" />
   </action>
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="f1" />
@@ -157,9 +163,11 @@
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
   <action id="Run" />
+  <action id="RunDashboard.CopyConfiguration" />
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="shift ctrl n" />
   </action>
+  <action id="SendEOF" />
   <action id="ShowContent">
     <keyboard-shortcut first-keystroke="shift ctrl down" />
   </action>
@@ -185,4 +193,6 @@
   </action>
   <action id="Vcs.UpdateProject" />
   <action id="ViewSource" />
+  <action id="XDebugger.CopyWatch" />
+  <action id="openAssertEqualsDiff" />
 </keymap>
