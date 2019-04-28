@@ -73,9 +73,7 @@
   <action id="FindNext">
     <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
-  <action id="FindUsages">
-    <keyboard-shortcut first-keystroke="meta u" />
-  </action>
+  <action id="FindUsages" />
   <action id="Generate">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
@@ -96,9 +94,6 @@
   <action id="GotoImplementation">
     <mouse-shortcut keystroke="meta alt button1" />
     <keyboard-shortcut first-keystroke="ctrl i" />
-  </action>
-  <action id="GotoNextError">
-    <keyboard-shortcut first-keystroke="ctrl close_bracket" />
   </action>
   <action id="GotoPreviousError">
     <keyboard-shortcut first-keystroke="ctrl open_bracket" />
@@ -176,6 +171,9 @@
   </action>
   <action id="ShowPopupMenu">
     <keyboard-shortcut first-keystroke="ctrl meta down" />
+  </action>
+  <action id="ShowUsages">
+    <keyboard-shortcut first-keystroke="meta u" />
   </action>
   <action id="SmartTypeCompletion">
     <keyboard-shortcut first-keystroke="ctrl meta slash" />
