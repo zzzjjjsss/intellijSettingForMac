@@ -148,6 +148,7 @@
         <mark key="^" line="21" column="3" />
         <mark key="." line="21" column="3" />
       </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/SpringBootDeploy/src/main/resources/application-dev.properties" timestamp="1556503888171" />
       <file name="$USER_HOME$/gitBucket/membersystem/AdminDataAccess/src/main/resources/config/application-dev.properties" timestamp="1556443269095">
         <mark key="[" line="1" column="50" />
         <mark key="]" line="1" column="60" />
@@ -459,8 +460,11 @@
         <mark key="^" line="39" column="169" />
         <mark key="." line="34" column="72" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/GetInfoService.java" timestamp="1555485117664">
-        <mark key="[" line="181" column="5" />
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/GetInfoService.java" timestamp="1556503743452">
+        <mark key="[" line="133" column="37" />
+        <mark key="]" line="133" column="50" />
+        <mark key="." line="133" column="50" />
+        <mark key="^" line="133" column="50" />
       </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/DealCusipsSynchronizer.java" timestamp="1554964351759">
         <mark key="[" line="116" column="43" />
@@ -608,11 +612,11 @@
       <jump line="31" column="16" filename="$USER_HOME$/gitBucket/membersystem/AdminDataAccess/src/main/java/com/uf/member/dao/mysql/entity/Store.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CXB1YmxpYyBUaW1lc3RhbXAgZ2V0QWRkVGltZSgpIHsKCQlyZXR1cm4gYWRkVGltZTsKCX0KCglwdWJsaWMgdm9pZCBzZXRBZGRUaW1lKFRpbWVzdGFtcCBhZGRUaW1lKSB7CgkJdGhpcy5hZGRUaW1lID0gYWRkVGltZTsKCX0KCg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>Time</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3ZWNoYXRBcHBFbWFpbFw+</text>
