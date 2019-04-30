@@ -114,11 +114,11 @@
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/sf-commons/src/main/java/com/moodys/sav/commons/config/SystemProperties.java" timestamp="1554292477368">
         <mark key="[" line="40" column="46" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/restful/controller/AdminController.java" timestamp="1556616207626">
+      <file name="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/restful/controller/AdminController.java" timestamp="1556616268342">
         <mark key="[" line="23" column="57" />
-        <mark key="]" line="23" column="29" />
-        <mark key="." line="23" column="29" />
-        <mark key="^" line="23" column="12" />
+        <mark key="]" line="24" column="7" />
+        <mark key="." line="24" column="7" />
+        <mark key="^" line="24" column="7" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/storemanager/ConsumeLogController.java" timestamp="1554953185005">
         <mark key="[" line="18" column="17" />
@@ -141,6 +141,7 @@
         <mark key="^" line="40" column="26" />
         <mark key="." line="40" column="26" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/1.13.6.RELEASE/spring-data-commons-1.13.6.RELEASE-sources.jar!/org/springframework/data/domain/Sort.java" timestamp="1556616700859" />
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/storemanager/AppointmentController.java" timestamp="1554953177859">
         <mark key="[" line="27" column="17" />
         <mark key="]" line="27" column="20" />
@@ -155,11 +156,12 @@
         <mark key="." line="21" column="3" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/SpringBootDeploy/src/main/resources/application-dev.properties" timestamp="1556594099153" />
-      <file name="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" timestamp="1556615474677">
-        <mark key="'" line="53" column="0" />
-        <mark key="]" line="85" column="33" />
-        <mark key="^" line="85" column="33" />
-        <mark key="." line="85" column="33" />
+      <file name="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" timestamp="1556617167387">
+        <mark key="'" line="60" column="0" />
+        <mark key="[" line="43" column="76" />
+        <mark key="]" line="43" column="72" />
+        <mark key="." line="43" column="72" />
+        <mark key="^" line="43" column="72" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/AdminDataAccess/src/main/resources/config/application-dev.properties" timestamp="1556443269095">
         <mark key="[" line="1" column="50" />
@@ -184,6 +186,10 @@
         <mark key="]" line="4" column="3" />
         <mark key="^" line="4" column="3" />
         <mark key="." line="4" column="3" />
+      </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/storemanager/ConsumeLogService.java" timestamp="1556616513565">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="66" />
       </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/SFW_DealSynchronizer.java" timestamp="1554713142683">
         <mark key="[" line="18" column="32" />
@@ -291,7 +297,7 @@
         <mark key="." line="60" column="37" />
         <mark key="^" line="60" column="37" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/AdminDataAccess/src/main/java/com/uf/member/dao/mysql/entity/Store.java" timestamp="1556615864396">
+      <file name="$USER_HOME$/gitBucket/membersystem/AdminDataAccess/src/main/java/com/uf/member/dao/mysql/entity/Store.java" timestamp="1556616820984">
         <mark key="'" line="26" column="32" />
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="7" />
@@ -578,31 +584,31 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>sto</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>sto</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSb2xlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgcHJpdmF0ZSBNYXA8U3RyaW5nLFN0cmluZz4gcnVudGltZUNvbmZpZ3M9bmV3IEhhc2hNYXA8U3RyaW5nLFN0cmluZz4oKTsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU2ltcGxlRGF0ZUZvcm1hdCBkYXRlVGltZUZvcm1hdD1uZXcgU2ltcGxlRGF0ZUZvcm1hdCgieXl5eS1NTS1kZCBISDptbSIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CXB1YmxpYyBMaXN0PFN0b3JlPiBnZXRTdG9yZUluZm9zKCkgewoJCXJldHVybiBzdG9yZUluZm9zOwoJfQoKCXB1YmxpYyB2b2lkIHNldFN0b3JlSW5mb3MoTGlzdDxTdG9yZT4gc3RvcmVJbmZvcykgewoJCXRoaXMuc3RvcmVJbmZvcyA9IHN0b3JlSW5mb3M7Cgl9Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc3RvcmVJbmZvUmVwby5maW5kQWxsKCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzdG9yZUluZm9SCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXB1YmxpYyBMaXN0PFN0b3JlPiBnZXRTdG9yZUluZm9zKCkgewoJCXJldHVybiBzdG9yZUluZm9zOwoJfQoKCXB1YmxpYyB2b2lkIHNldFN0b3JlSW5mb3MoTGlzdDxTdG9yZT4gc3RvcmVJbmZvcykgewoJCXRoaXMuc3RvcmVJbmZvcyA9IHN0b3JlSW5mb3M7Cgl9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
