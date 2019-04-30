@@ -83,11 +83,11 @@
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/sf-commons/src/main/java/com/moodys/sav/commons/config/SystemProperties.java" timestamp="1554292477368">
         <mark key="[" line="40" column="46" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/restful/controller/AdminController.java" timestamp="1556606782463">
-        <mark key="[" line="22" column="38" />
-        <mark key="]" line="22" column="36" />
-        <mark key="." line="22" column="36" />
-        <mark key="^" line="22" column="36" />
+      <file name="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/restful/controller/AdminController.java" timestamp="1556609211739">
+        <mark key="[" line="23" column="51" />
+        <mark key="]" line="23" column="73" />
+        <mark key="." line="23" column="73" />
+        <mark key="^" line="23" column="73" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/storemanager/ConsumeLogController.java" timestamp="1554953185005">
         <mark key="[" line="18" column="17" />
@@ -215,6 +215,9 @@
         <mark key="]" line="10" column="35" />
         <mark key="^" line="10" column="35" />
         <mark key="." line="10" column="35" />
+      </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/restful/bean/AddStoreRequest.java" timestamp="1556606812615">
+        <mark key="[" line="2" column="30" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/AdminDataAccess/src/main/java/com/uf/member/dao/mysql/entity/StoreAppConfigration.java" timestamp="1556591579787">
         <mark key="'" line="9" column="44" />
