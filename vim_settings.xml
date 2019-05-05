@@ -185,12 +185,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" timestamp="1557043453016">
-        <mark key="'" line="60" column="15" />
-        <mark key="[" line="133" column="42" />
-        <mark key="]" line="133" column="54" />
-        <mark key="." line="133" column="54" />
-        <mark key="^" line="133" column="54" />
+      <file name="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" timestamp="1557047407717">
+        <mark key="'" line="22" column="8" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="286" column="125" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/AdminDataAccess/src/main/resources/config/application-dev.properties" timestamp="1556443269095">
         <mark key="[" line="1" column="50" />
@@ -286,7 +286,7 @@
         <mark key="^" line="15" column="32" />
         <mark key="." line="15" column="32" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/admin/AdminController.java" timestamp="1557042985045">
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/admin/AdminController.java" timestamp="1557047106343">
         <mark key="'" line="30" column="0" />
         <mark key="[" line="108" column="69" />
         <mark key="]" line="108" column="72" />
@@ -413,6 +413,7 @@
         <mark key="." line="23" column="44" />
         <mark key="^" line="23" column="44" />
       </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/restful/bean/store/SaveConfigureRequest.java" timestamp="1557047209249" />
       <file name="$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.5.16/tomcat-embed-core-8.5.16-sources.jar!/javax/servlet/http/HttpServletRequest.java" timestamp="1556594378961" />
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/CDO_DealSynchronizer.java" timestamp="1554712968663">
         <mark key="[" line="21" column="32" />
@@ -533,7 +534,7 @@
         <mark key="^" line="10" column="43" />
         <mark key="." line="10" column="43" />
       </file>
-      <file name="/fragment.java" timestamp="1557040954429">
+      <file name="/fragment.java" timestamp="1557047188260">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/storemanager/SentedBatchSmsResponse.java" timestamp="1555659029469">
@@ -545,12 +546,6 @@
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/pom.xml" timestamp="1556613269454" />
     </filemarks>
     <jumps>
-      <jump line="88" column="39" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-output-interpreter/src/main/java/com/moodys/sav/sfs/output/bean/Percentile95.java" />
-      <jump line="170" column="26" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-output-interpreter/src/main/java/com/moodys/sav/sfs/output/bean/Percentile95.java" />
-      <jump line="56" column="38" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-output-interpreter/src/main/java/com/moodys/sav/sfs/output/util/BasedRateMappingUtil.java" />
-      <jump line="58" column="21" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-output-interpreter/src/main/java/com/moodys/sav/sfs/output/util/BasedRateMappingUtil.java" />
-      <jump line="48" column="9" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-output-interpreter/src/main/java/com/moodys/sav/sfs/output/util/BasedRateMappingUtil.java" />
-      <jump line="61" column="12" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-scheduler/src/main/java/com/moodys/sav/scheduler/SFCloudScheduler.java" />
       <jump line="21" column="4" filename="$USER_HOME$/gitBucket/membersystem/AdminDataAccess/src/main/java/com/uf/member/dao/mysql/entity/Store.java" />
       <jump line="23" column="4" filename="$USER_HOME$/gitBucket/membersystem/AdminDataAccess/src/main/java/com/uf/member/dao/mysql/entity/Store.java" />
       <jump line="12" column="4" filename="$USER_HOME$/gitBucket/membersystem/AdminDataAccess/src/main/java/com/uf/member/dao/mysql/entity/Store.java" />
@@ -645,66 +640,68 @@
       <jump line="61" column="57" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" />
       <jump line="85" column="26" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" />
       <jump line="60" column="15" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" />
+      <jump line="102" column="86" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" />
+      <jump line="118" column="15" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" />
+      <jump line="185" column="24" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" />
+      <jump line="186" column="35" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" />
+      <jump line="214" column="15" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" />
+      <jump line="22" column="8" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>token</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>token</text>
+        <text>httpGet_ResponseJson</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxiYXNlVXJsXD4=</text>
+        <text encoding="base64">XDxhZGRTbXNVcmxcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBPcGVyYXRpb25SZXN1bHQgcmVzdWx0ID0gbmV3IE9wZXJhdGlvblJlc3VsdCgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXNwb25zZS5zZXRSZXN1bHRDb2RlKFJlc3VsdENvZGUuT0spOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhZG1pblNlcnZpY2Uuc2F2ZUNvbmZpZ3VyZXMocmVxdWVzdC5nZXRDb25maWd1cmVJdGVtcygpKTsK</text>
+        <text encoding="base64">ICAgICAgICBHc29uIGdzb24gPSBuZXcgR3NvbigpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBSZXN0ZnVsUmVzcG9uc2UgcmVzcG9uc2UgPSBuZXcgUmVzdGZ1bFJlc3BvbnNlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXNwb25zZS5zZXRSZW1haW5TbXNDb3VudChzdG9yZS5nZXRSZW1haW5TbXMoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXNwb25zZS5zZXRTdG9yZU5hbWUoc3RvcmUuZ2V0TmFtZSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICBPcGVyYXRpb25SZXN1bHQgcmVzdWx0ID0gbmV3IE9wZXJhdGlvblJlc3VsdCgpOwoKICAgICAgICByZXR1cm4gcmVzdWx0Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTdG9yZSBzdG9yZSA9IHN0b3JlU2VydmljZS5nZXRTdG9yZSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTdG9yZUluZm9SZXNwb25zZSByZXNwb25zZSA9IG5ldyBTdG9yZUluZm9SZXNwb25zZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBPcGVyYXRpb25SZXN1bHQ8U3RvcmVJbmZvUmVzcG9uc2U+IHJlc3VsdCA9IG5ldyBPcGVyYXRpb25SZXN1bHQ8U3RvcmVJbmZvUmVzcG9uc2U+KCk7CiAgICAgICAgcmV0dXJuIHJlc3VsdDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBib29sZWFuIGlzU3VjID0gc3RvcmVTZXJ2aWNlLmFkZFNtcyhhZGRTbXNDb3VudCk7CiAgICAgICAgaWYgKGlzU3VjKSB7CiAgICAgICAgICAgIHJlc3BvbnNlLnNldFJlc3VsdENvZGUoUmVzdWx0Q29kZS5PSyk7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgcmVzcG9uc2Uuc2V0UmVzdWx0Q29kZShSZXN1bHRDb2RlLkZBSUwpOwogICAgICAgICAgICByZXNwb25zZS5zZXRNZXMoIuWFheWAvOWksei0pSEiKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBSZXN0ZnVsUmVzcG9uc2UgcmVzcG9uc2UgPSBuZXcgUmVzdGZ1bFJlc3BvbnNlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBPcGVyYXRpb25SZXN1bHQgcmVzdWx0ID0gbmV3IE9wZXJhdGlvblJlc3VsdCgpOwoKICAgICAgICByZXR1cm4gcmVzdWx0Owo=</text>
       </register>
       <register name=":" type="4">
         <text>map</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxiYXNlVXJsXD4=</last-search>
+      <last-search encoding="base64">XDxhZGRTbXNVcmxcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxiYXNlVXJsXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxhZGRTbXNVcmxcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZXNwb25zZVw+</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpbXBvcnRcPg==</entry>
-        <entry encoding="base64">XDxyZXNwb25zZVw+</entry>
-        <entry encoding="base64">XDxlcnJvckZsYWdTdHJcPg==</entry>
-        <entry encoding="base64">XDxzZXRFcnJvckZsYWdcPg==</entry>
         <entry encoding="base64">XDxyYXRpbmdDb2RlTGlzdFw+</entry>
         <entry encoding="base64">XDxjb2RlTGlzdFw+</entry>
         <entry encoding="base64">XDxjZVJhdGluZ1llYXJsaXN0XD4=</entry>
@@ -721,6 +718,10 @@
         <entry encoding="base64">XDxzdG9yZVw+</entry>
         <entry encoding="base64">XDxyZXN1bHRcPg==</entry>
         <entry encoding="base64">XDxiYXNlVXJsXD4=</entry>
+        <entry encoding="base64">XDxudW1iZXJcPg==</entry>
+        <entry encoding="base64">XDxnZXRDdXN0b21lckluZm9VcmxcPg==</entry>
+        <entry encoding="base64">XDxyZXNwb25zZU9ialw+</entry>
+        <entry encoding="base64">XDxhZGRTbXNVcmxcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>maps</entry>
