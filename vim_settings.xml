@@ -24,7 +24,6 @@
         <mark key="^" line="22" column="24" />
         <mark key="." line="22" column="24" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.8.1/gson-2.8.1-sources.jar!/com/google/gson/JsonElement.java" timestamp="1557038567836" />
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/storemanager/RechargeCardManageController.java" timestamp="1554953202430">
         <mark key="[" line="26" column="17" />
       </file>
@@ -127,12 +126,12 @@
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/sf-commons/src/main/java/com/moodys/sav/commons/config/SystemProperties.java" timestamp="1554292477368">
         <mark key="[" line="40" column="46" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/restful/controller/AdminController.java" timestamp="1557048489565">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="45" column="11" />
-        <mark key="]" line="45" column="10" />
-        <mark key="." line="45" column="10" />
-        <mark key="^" line="45" column="10" />
+      <file name="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/restful/controller/AdminController.java" timestamp="1557051291394">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="125" column="9" />
+        <mark key="]" line="127" column="51" />
+        <mark key="^" line="127" column="51" />
+        <mark key="." line="127" column="51" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/storemanager/ConsumeLogController.java" timestamp="1554953185005">
         <mark key="[" line="18" column="17" />
@@ -160,7 +159,6 @@
         <mark key="^" line="40" column="26" />
         <mark key="." line="40" column="26" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/1.13.6.RELEASE/spring-data-commons-1.13.6.RELEASE-sources.jar!/org/springframework/data/domain/Sort.java" timestamp="1556616700859" />
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/storemanager/AppointmentController.java" timestamp="1554953177859">
         <mark key="[" line="27" column="17" />
         <mark key="]" line="27" column="20" />
@@ -179,18 +177,18 @@
         <mark key="^" line="21" column="3" />
         <mark key="." line="21" column="3" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/SpringBootDeploy/src/main/resources/application-dev.properties" timestamp="1556594099153" />
-      <file name="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/restful/bean/store/StoreInfoResponse.java" timestamp="1557040978374">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/restful/bean/store/StoreInfoResponse.java" timestamp="1557050479109">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="35" />
+        <mark key="." line="9" column="35" />
+        <mark key="^" line="9" column="35" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" timestamp="1557047407717">
+      <file name="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" timestamp="1557050934949">
         <mark key="'" line="22" column="8" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-        <mark key="^" line="286" column="125" />
+        <mark key="[" line="253" column="31" />
+        <mark key="]" line="253" column="37" />
+        <mark key="." line="253" column="37" />
+        <mark key="^" line="253" column="37" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/AdminDataAccess/src/main/resources/config/application-dev.properties" timestamp="1556443269095">
         <mark key="[" line="1" column="50" />
@@ -246,11 +244,8 @@
         <mark key="^" line="52" column="38" />
         <mark key="." line="52" column="38" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/admin/StoreInfoResponse.java" timestamp="1557040940046">
-        <mark key="[" line="2" column="31" />
-        <mark key="]" line="8" column="33" />
-        <mark key="^" line="8" column="33" />
-        <mark key="." line="8" column="33" />
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/admin/StoreInfoResponse.java" timestamp="1557050441378">
+        <mark key="^" line="7" column="15" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/WechatAppApi/src/main/java/com/uf/wechat/miniapp/util/HttpsUtil.java" timestamp="1557024822171">
         <mark key="[" line="49" column="0" />
@@ -286,12 +281,12 @@
         <mark key="^" line="15" column="32" />
         <mark key="." line="15" column="32" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/admin/AdminController.java" timestamp="1557047106343">
-        <mark key="'" line="30" column="0" />
-        <mark key="[" line="108" column="69" />
-        <mark key="]" line="108" column="72" />
-        <mark key="." line="108" column="72" />
-        <mark key="^" line="108" column="72" />
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/admin/AdminController.java" timestamp="1557050422884">
+        <mark key="'" line="33" column="0" />
+        <mark key="[" line="101" column="34" />
+        <mark key="]" line="101" column="66" />
+        <mark key="." line="101" column="66" />
+        <mark key="^" line="101" column="66" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/AdminDataAccess/src/main/java/com/uf/member/dao/mysql/AdminRepo.java" timestamp="1556605557168">
         <mark key="[" line="6" column="26" />
@@ -311,7 +306,6 @@
         <mark key="." line="19" column="3" />
         <mark key="^" line="19" column="3" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/AdminDataAccess/src/main/java/com/uf/member/dao/mysql/entity/StoreAppConfigration.java" timestamp="1557026236276" />
       <file name="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/restful/controller/CommonController.java" timestamp="1556606652307">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
@@ -345,7 +339,7 @@
         <mark key="^" line="5" column="31" />
         <mark key="." line="5" column="31" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/storemanager/MemberManageController.java" timestamp="1555659557937">
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/storemanager/MemberManageController.java" timestamp="1557050388366">
         <mark key="[" line="60" column="16" />
         <mark key="]" line="60" column="37" />
         <mark key="." line="60" column="37" />
@@ -400,7 +394,6 @@
         <mark key="." line="18" column="17" />
         <mark key="^" line="38" column="51" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/WarDeploy/src/main/resources/application-dev.properties" timestamp="1556513662768" />
       <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/AppointmentToCustomerRepo.java" timestamp="1556090947716">
         <mark key="[" line="28" column="61" />
         <mark key="]" line="27" column="100" />
@@ -413,8 +406,6 @@
         <mark key="." line="23" column="44" />
         <mark key="^" line="23" column="44" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/restful/bean/store/SaveConfigureRequest.java" timestamp="1557047209249" />
-      <file name="$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.5.16/tomcat-embed-core-8.5.16-sources.jar!/javax/servlet/http/HttpServletRequest.java" timestamp="1556594378961" />
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/CDO_DealSynchronizer.java" timestamp="1554712968663">
         <mark key="[" line="21" column="32" />
         <mark key="]" line="21" column="39" />
@@ -461,17 +452,20 @@
         <mark key="^" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/restful/bean/CustomerInfoResponse.java" timestamp="1557048521232">
-        <mark key="[" line="2" column="33" />
-        <mark key="]" line="2" column="57" />
-        <mark key="." line="2" column="57" />
-        <mark key="^" line="2" column="57" />
+      <file name="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/restful/bean/CustomerInfoResponse.java" timestamp="1557048630243">
+        <mark key="[" line="2" column="60" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+        <mark key="^" line="40" column="0" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/ConfigKey.java" timestamp="1555643191937">
         <mark key="[" line="4" column="65" />
         <mark key="]" line="4" column="71" />
         <mark key="." line="4" column="71" />
         <mark key="^" line="4" column="71" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1557051333713">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/customer/CustomerAppointmentController.java" timestamp="1555397422494">
         <mark key="[" line="34" column="72" />
@@ -539,7 +533,6 @@
         <mark key="^" line="10" column="48" />
         <mark key="." line="10" column="48" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/pom.xml" timestamp="1556613269454" />
     </filemarks>
     <jumps>
       <jump line="21" column="4" filename="$USER_HOME$/gitBucket/membersystem/AdminDataAccess/src/main/java/com/uf/member/dao/mysql/entity/Store.java" />
@@ -644,44 +637,44 @@
       <jump line="22" column="8" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>AppRuntimeConfigResponse</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBTdG9yZUluZm9SZXNwb25zZSByZXNwb25zZSA9IG5ldyBTdG9yZUluZm9SZXNwb25zZSgpOwogICAgICAgIE9wZXJhdGlvblJlc3VsdDxTdG9yZUluZm9SZXNwb25zZT4gcmVzdWx0ID0gYWRtaW5TZXJ2aWNlLmdldFN0b3JlUnVudGltZUluZm8oc3RvcmVJZCk7CiAgICAgICAgaWYgKHJlc3VsdC5pc1N1Y2Nlc3MoKSkgewogICAgICAgICAgICByZXNwb25zZSA9IHJlc3VsdC5nZXRSZXN1bHRWYWx1ZSgpOwogICAgICAgICAgICByZXNwb25zZS5zZXRSZXN1bHRDb2RlKFJlc3RmdWxSZXNwb25zZS5SZXN1bHRDb2RlLk9LKTsKICAgICAgICAgICAgcmV0dXJuIHJlc3BvbnNlOwogICAgICAgIH0KICAgICAgICByZXNwb25zZS5zZXRSZXN1bHRDb2RlKFJlc3RmdWxSZXNwb25zZS5SZXN1bHRDb2RlLkZBSUwpOwogICAgICAgIHJlc3BvbnNlLnNldE1lcyhyZXN1bHQuZ2V0RXJyb3JNZXNzYWdlKCkpOwogICAgICAgIHJldHVybiByZXNwb25zZTsK</text>
       </register>
       <register name="-" type="4">
-        <text>AppRuntimeConfigResponse</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhZGRTbXNVcmxcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBPcGVyYXRpb25SZXN1bHQgcmVzdWx0ID0gbmV3IE9wZXJhdGlvblJlc3VsdCgpOwo=</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdG9yZUluZm9SZXNwb25zZSByZXNwb25zZSA9IG5ldyBTdG9yZUluZm9SZXNwb25zZSgpOwogICAgICAgIE9wZXJhdGlvblJlc3VsdDxTdG9yZUluZm9SZXNwb25zZT4gcmVzdWx0ID0gYWRtaW5TZXJ2aWNlLmdldFN0b3JlUnVudGltZUluZm8oc3RvcmVJZCk7CiAgICAgICAgaWYgKHJlc3VsdC5pc1N1Y2Nlc3MoKSkgewogICAgICAgICAgICByZXNwb25zZSA9IHJlc3VsdC5nZXRSZXN1bHRWYWx1ZSgpOwogICAgICAgICAgICByZXNwb25zZS5zZXRSZXN1bHRDb2RlKFJlc3RmdWxSZXNwb25zZS5SZXN1bHRDb2RlLk9LKTsKICAgICAgICAgICAgcmV0dXJuIHJlc3BvbnNlOwogICAgICAgIH0KICAgICAgICByZXNwb25zZS5zZXRSZXN1bHRDb2RlKFJlc3RmdWxSZXNwb25zZS5SZXN1bHRDb2RlLkZBSUwpOwogICAgICAgIHJlc3BvbnNlLnNldE1lcyhyZXN1bHQuZ2V0RXJyb3JNZXNzYWdlKCkpOwogICAgICAgIHJldHVybiByZXNwb25zZTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBHc29uIGdzb24gPSBuZXcgR3NvbigpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gIHJlc3BvbnNlOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXNwb25zZS5zZXRNZXMoImFkbWluIHBhc3N3b3JkIGlzIHdyb25nISIpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBPcGVyYXRpb25SZXN1bHQgcmVzdWx0ID0gbmV3IE9wZXJhdGlvblJlc3VsdCgpOwoKICAgICAgICByZXR1cm4gcmVzdWx0Owo=</text>
+        <text encoding="base64">ICAgICAgICByZXNwb25zZS5zZXRSZXN1bHRDb2RlKFJlc3RmdWxSZXNwb25zZS5SZXN1bHRDb2RlLkZBSUwpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBPcGVyYXRpb25SZXN1bHQ8U3RvcmVJbmZvUmVzcG9uc2U+IHJlc3VsdCA9IG5ldyBPcGVyYXRpb25SZXN1bHQ8U3RvcmVJbmZvUmVzcG9uc2U+KCk7CiAgICAgICAgcmV0dXJuIHJlc3VsdDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3BvbnNlLnNldFJlc3VsdENvZGUoUmVzdGZ1bFJlc3BvbnNlLlJlc3VsdENvZGUuT0spOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIVN0cmluZ1V0aWxzLmlzQmxhbmsoYWRtaW5QYXNzd29yZCkmJiJhZG1pbjEyMyIuZXF1YWxzKGFkbWluUGFzc3dvcmQpKXsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBPcGVyYXRpb25SZXN1bHQgcmVzdWx0ID0gbmV3IE9wZXJhdGlvblJlc3VsdCgpOwoKICAgICAgICByZXR1cm4gcmVzdWx0Owo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBpbnQgZ2V0VG90YWxDdXN0b21lcigpIHsKICAgICAgICByZXR1cm4gdG90YWxDdXN0b21lcjsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRUb3RhbEN1c3RvbWVyKGludCB0b3RhbEN1c3RvbWVyKSB7CiAgICAgICAgdGhpcy50b3RhbEN1c3RvbWVyID0gdG90YWxDdXN0b21lcjsKICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>map</text>
