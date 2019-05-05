@@ -114,12 +114,12 @@
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/sf-commons/src/main/java/com/moodys/sav/commons/config/SystemProperties.java" timestamp="1554292477368">
         <mark key="[" line="40" column="46" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/restful/controller/AdminController.java" timestamp="1556618063127">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="22" column="59" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/restful/controller/AdminController.java" timestamp="1557023554578">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="32" column="75" />
+        <mark key="]" line="34" column="0" />
+        <mark key="^" line="24" column="25" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/storemanager/ConsumeLogController.java" timestamp="1554953185005">
         <mark key="[" line="18" column="17" />
@@ -197,6 +197,12 @@
         <mark key="]" line="18" column="39" />
         <mark key="^" line="18" column="39" />
         <mark key="." line="18" column="39" />
+      </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/restful/bean/AppRuntimeConfigResponse.java" timestamp="1557023523951">
+        <mark key="[" line="2" column="64" />
+        <mark key="]" line="8" column="48" />
+        <mark key="^" line="8" column="48" />
+        <mark key="." line="8" column="48" />
       </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/schedule/DealDataFileSyncTask.java" timestamp="1555911346452">
         <mark key="[" line="52" column="28" />
@@ -595,10 +601,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhZG1pblNlcnZpY2Uuc2F2ZVN0b3JlKHJlcXVlc3QpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>findAllStore();</text>
+        <text>ListStoreResponse</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkZXBsb3lDb25maWdcPg==</text>
@@ -607,31 +613,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIE1hcDxTdHJpbmcsU3RyaW5nPiBydW50aW1lQ29uZmlnPW5ldyBIYXNoTWFwPD4oKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhZG1pblNlcnZpY2Uuc2F2ZVN0b3JlKHJlcXVlc3QpOwo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3RvcmVBcHBDb25maWdyYXRpb24gc3RvcmVBcHBDb25maWdyYXRpb24gPSAgYXBwQ29uZmlncy5nZXQoaSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IGFwcENvbmZpZ3Muc2l6ZSgpOyBpKyspIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3RvcmVBcHBDb25maWdyYXRpb24gc3RvcmVBcHBDb25maWdyYXRpb24gPSAgYXBwQ29uZmlncy5nZXQoaSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpdAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IGFwcENvbmZpZ3Muc2l6ZSgpOyBpKyspIHsK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpdAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpdGwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpdAo=</text>
       </register>
       <register name=":" type="4">
         <text>map</text>
