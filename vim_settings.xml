@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/admin/SaveConfigureRequest.java" timestamp="1556000863003">
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/admin/SaveConfigureRequest.java" timestamp="1557043019572">
         <mark key="[" line="6" column="61" />
         <mark key="]" line="6" column="61" />
         <mark key="^" line="6" column="61" />
@@ -185,12 +185,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" timestamp="1557041684671">
-        <mark key="'" line="54" column="37" />
-        <mark key="[" line="68" column="26" />
-        <mark key="]" line="86" column="39" />
-        <mark key="." line="86" column="39" />
-        <mark key="^" line="86" column="39" />
+      <file name="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" timestamp="1557043453016">
+        <mark key="'" line="60" column="15" />
+        <mark key="[" line="133" column="42" />
+        <mark key="]" line="133" column="54" />
+        <mark key="." line="133" column="54" />
+        <mark key="^" line="133" column="54" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/AdminDataAccess/src/main/resources/config/application-dev.properties" timestamp="1556443269095">
         <mark key="[" line="1" column="50" />
@@ -286,12 +286,12 @@
         <mark key="^" line="15" column="32" />
         <mark key="." line="15" column="32" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/admin/AdminController.java" timestamp="1557041025244">
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/admin/AdminController.java" timestamp="1557042985045">
         <mark key="'" line="30" column="0" />
-        <mark key="[" line="31" column="48" />
-        <mark key="]" line="31" column="48" />
-        <mark key="." line="31" column="48" />
-        <mark key="^" line="111" column="62" />
+        <mark key="[" line="108" column="69" />
+        <mark key="]" line="108" column="72" />
+        <mark key="." line="108" column="72" />
+        <mark key="^" line="108" column="72" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/AdminDataAccess/src/main/java/com/uf/member/dao/mysql/AdminRepo.java" timestamp="1556605557168">
         <mark key="[" line="6" column="26" />
@@ -545,11 +545,6 @@
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/pom.xml" timestamp="1556613269454" />
     </filemarks>
     <jumps>
-      <jump line="153" column="16" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-output-interpreter/src/main/java/com/moodys/sav/sfs/output/util/RatingParseUtil.java" />
-      <jump line="148" column="16" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-output-interpreter/src/main/java/com/moodys/sav/sfs/output/util/RatingParseUtil.java" />
-      <jump line="140" column="28" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-output-interpreter/src/main/java/com/moodys/sav/sfs/output/util/RatingParseUtil.java" />
-      <jump line="57" column="21" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-output-interpreter/src/main/java/com/moodys/sav/sfs/output/bean/Percentile95.java" />
-      <jump line="69" column="30" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-output-interpreter/src/main/java/com/moodys/sav/sfs/output/bean/Percentile95.java" />
       <jump line="88" column="39" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-output-interpreter/src/main/java/com/moodys/sav/sfs/output/bean/Percentile95.java" />
       <jump line="170" column="26" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-output-interpreter/src/main/java/com/moodys/sav/sfs/output/bean/Percentile95.java" />
       <jump line="56" column="38" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-output-interpreter/src/main/java/com/moodys/sav/sfs/output/util/BasedRateMappingUtil.java" />
@@ -606,14 +601,11 @@
       <jump line="82" column="0" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" />
       <jump line="81" column="0" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" />
       <jump line="68" column="0" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" />
-      <jump line="61" column="0" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" />
-      <jump line="60" column="0" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" />
       <jump line="53" column="0" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" />
       <jump line="24" column="23" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/restful/controller/AdminController.java" />
       <jump line="17" column="0" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/restful/controller/AdminController.java" />
       <jump line="11" column="0" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/restful/controller/AdminController.java" />
       <jump line="31" column="40" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/util/HttpUtil.java" />
-      <jump line="55" column="24" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" />
       <jump line="106" column="39" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/CommonController.java" />
       <jump line="32" column="38" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/util/HttpUtil.java" />
       <jump line="70" column="0" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/util/HttpUtil.java" />
@@ -622,14 +614,11 @@
       <jump line="25" column="20" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/util/HttpUtil.java" />
       <jump line="20" column="0" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/util/HttpUtil.java" />
       <jump line="66" column="28" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" />
-      <jump line="67" column="8" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" />
       <jump line="78" column="15" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" />
       <jump line="46" column="24" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" />
       <jump line="50" column="12" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" />
-      <jump line="51" column="12" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" />
       <jump line="52" column="19" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" />
       <jump line="62" column="12" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" />
-      <jump line="64" column="19" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" />
       <jump line="73" column="12" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" />
       <jump line="74" column="12" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" />
       <jump line="75" column="19" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" />
@@ -641,67 +630,77 @@
       <jump line="125" column="8" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" />
       <jump line="124" column="8" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" />
       <jump line="123" column="14" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" />
-      <jump line="63" column="42" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" />
-      <jump line="54" column="37" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" />
       <jump line="53" column="11" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/admin/AdminController.java" />
       <jump line="30" column="0" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/admin/AdminController.java" />
+      <jump line="56" column="20" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" />
+      <jump line="51" column="24" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" />
+      <jump line="54" column="12" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" />
+      <jump line="55" column="12" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" />
+      <jump line="83" column="53" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" />
+      <jump line="65" column="20" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" />
+      <jump line="58" column="19" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" />
+      <jump line="63" column="12" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" />
+      <jump line="64" column="12" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" />
+      <jump line="67" column="30" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" />
+      <jump line="61" column="57" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" />
+      <jump line="85" column="26" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" />
+      <jump line="60" column="15" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>String</text>
+        <text>token</text>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text>token</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzdG9yZVw+</text>
+        <text encoding="base64">XDxiYXNlVXJsXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBTdHJpbmc+IGZvcm1EYXRhID0gbmV3IEhhc2hNYXA8PigpOwo=</text>
+        <text encoding="base64">ICAgICAgICBPcGVyYXRpb25SZXN1bHQgcmVzdWx0ID0gbmV3IE9wZXJhdGlvblJlc3VsdCgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBDdXN0b21lckluZm8gcmVzcG9uc2UgPSBuZXcgQ3VzdG9tZXJJbmZvKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXNwb25zZS5zZXRSZXN1bHRDb2RlKFJlc3VsdENvZGUuT0spOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBDdXN0b21lciBjdXN0b21lciA9IHJlY2hhcmdlU2VydmljZS5maW5kQ3VzdG9tZXJCeU1lbWJlck51bWJlcihudW1iZXIpOwogICAgICAgIGlmIChjdXN0b21lciAhPSBudWxsKSB7CiAgICAgICAgICAgIEZsb2F0IGJhbGFuY2UgPSByZWNoYXJnZVNlcnZpY2UuZ2V0Q3VzdG9tZXJCYWxhbmNlKGN1c3RvbWVyKTsKICAgICAgICAgICAgcmVzcG9uc2Uuc2V0QmFsYW5jZShiYWxhbmNlKTsKICAgICAgICAgICAgcmVzcG9uc2Uuc2V0SWQoY3VzdG9tZXIuZ2V0SWQoKSk7CiAgICAgICAgICAgIHJlc3BvbnNlLnNldE5hbWUoY3VzdG9tZXIuZ2V0UmVhbE5hbWUoKSk7CiAgICAgICAgICAgIHJlc3BvbnNlLnNldFJlc3VsdENvZGUoUmVzdWx0Q29kZS5PSyk7CiAgICAgICAgICAgIHJlc3BvbnNlLnNldFBob25lTnVtYmVyKGN1c3RvbWVyLmdldFBob25lTnVtYmVyKCkpOwogICAgICAgICAgICByZXNwb25zZS5zZXRDYXJkTnVtYmVyKGN1c3RvbWVyLmdldENhcmROdW1iZXIoKSk7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgcmVzcG9uc2Uuc2V0UmVzdWx0Q29kZShSZXN1bHRDb2RlLkZBSUwpOwogICAgICAgICAgICByZXNwb25zZS5zZXRNZXMoImNhbid0IGZpbmQgIGN1c3RvbWVyIik7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBhZG1pblNlcnZpY2Uuc2F2ZUNvbmZpZ3VyZXMocmVxdWVzdC5nZXRDb25maWd1cmVJdGVtcygpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBSZXF1ZXN0TWFwcGluZyh2YWx1ZSA9ICJnZXRDdXN0b21lckluZm9CeU1lbWJlck51bWJlciIsIG1ldGhvZCA9IFJlcXVlc3RNZXRob2QuR0VUKQo=</text>
+        <text encoding="base64">ICAgICAgICBSZXN0ZnVsUmVzcG9uc2UgcmVzcG9uc2UgPSBuZXcgUmVzdGZ1bFJlc3BvbnNlKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBSZXF1ZXN0TWFwcGluZyh2YWx1ZSA9ICJnZXRDdXN0b21lckluZm9CeVBob25lTnVtYmVyIiwgbWV0aG9kID0gUmVxdWVzdE1ldGhvZC5HRVQpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXNwb25zZS5zZXRSZW1haW5TbXNDb3VudChzdG9yZS5nZXRSZW1haW5TbXMoKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBSZXF1ZXN0TWFwcGluZyh2YWx1ZSA9ICJjaGFuZ2VDdXN0b21lclRvU3RvcmVNYW5hZ2VyIiwgbWV0aG9kID0gUmVxdWVzdE1ldGhvZC5HRVQpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXNwb25zZS5zZXRTdG9yZU5hbWUoc3RvcmUuZ2V0TmFtZSgpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBSZXF1ZXN0TWFwcGluZyh2YWx1ZSA9ICJhZGRTbXMiLCBtZXRob2QgPSBSZXF1ZXN0TWV0aG9kLkdFVCkK</text>
+        <text encoding="base64">ICAgICAgICBTdG9yZSBzdG9yZSA9IHN0b3JlU2VydmljZS5nZXRTdG9yZSgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBSZXF1ZXN0TWFwcGluZyh2YWx1ZSA9ICJnZXRTdG9yZUluZm8iLCBtZXRob2QgPSBSZXF1ZXN0TWV0aG9kLkdFVCkK</text>
+        <text encoding="base64">ICAgICAgICBTdG9yZUluZm9SZXNwb25zZSByZXNwb25zZSA9IG5ldyBTdG9yZUluZm9SZXNwb25zZSgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBSZXF1ZXN0TWFwcGluZyh2YWx1ZSA9ICJnZXRDb25maWd1cmVzIiwgbWV0aG9kID0gUmVxdWVzdE1ldGhvZC5HRVQpCg==</text>
+        <text encoding="base64">ICAgICAgICBib29sZWFuIGlzU3VjID0gc3RvcmVTZXJ2aWNlLmFkZFNtcyhhZGRTbXNDb3VudCk7CiAgICAgICAgaWYgKGlzU3VjKSB7CiAgICAgICAgICAgIHJlc3BvbnNlLnNldFJlc3VsdENvZGUoUmVzdWx0Q29kZS5PSyk7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgcmVzcG9uc2Uuc2V0UmVzdWx0Q29kZShSZXN1bHRDb2RlLkZBSUwpOwogICAgICAgICAgICByZXNwb25zZS5zZXRNZXMoIuWFheWAvOWksei0pSEiKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBSZXF1ZXN0TWFwcGluZyh2YWx1ZSA9ICJzYXZlQ29uZmlndXJlcyIsIG1ldGhvZCA9IFJlcXVlc3RNZXRob2QuR0VUKQo=</text>
+        <text encoding="base64">ICAgICAgICBSZXN0ZnVsUmVzcG9uc2UgcmVzcG9uc2UgPSBuZXcgUmVzdGZ1bFJlc3BvbnNlKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>map</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzdG9yZVw+</last-search>
+      <last-search encoding="base64">XDxiYXNlVXJsXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzdG9yZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxiYXNlVXJsXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZXNwb25zZVw+</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZXNzaW9uQ2FjaGVcPg==</entry>
         <entry encoding="base64">XDxpbXBvcnRcPg==</entry>
         <entry encoding="base64">XDxyZXNwb25zZVw+</entry>
         <entry encoding="base64">XDxlcnJvckZsYWdTdHJcPg==</entry>
@@ -718,9 +717,10 @@
         <entry encoding="base64">XDxSb2xlXD4=</entry>
         <entry encoding="base64">XDxkZXBsb3lDb25maWdcPg==</entry>
         <entry encoding="base64">XDxoZWFkc1w+</entry>
-        <entry encoding="base64">XDxyZXN1bHRcPg==</entry>
         <entry encoding="base64">XDxpZFw+</entry>
         <entry encoding="base64">XDxzdG9yZVw+</entry>
+        <entry encoding="base64">XDxyZXN1bHRcPg==</entry>
+        <entry encoding="base64">XDxiYXNlVXJsXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>maps</entry>
