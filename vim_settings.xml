@@ -149,7 +149,12 @@
         <mark key="." line="27" column="20" />
         <mark key="^" line="27" column="20" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/AdminDataAccess/src/main/java/com/uf/member/dao/mysql/StoreAppConfigrationRepo.java" timestamp="1556604813593" />
+      <file name="$USER_HOME$/gitBucket/membersystem/AdminDataAccess/src/main/java/com/uf/member/dao/mysql/StoreAppConfigrationRepo.java" timestamp="1557026093979">
+        <mark key="[" line="6" column="4" />
+        <mark key="]" line="6" column="4" />
+        <mark key="^" line="6" column="79" />
+        <mark key="." line="6" column="4" />
+      </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/pcstoremanager/AppointmentController.java" timestamp="1554872743257">
         <mark key="[" line="19" column="50" />
         <mark key="]" line="21" column="3" />
@@ -157,12 +162,12 @@
         <mark key="." line="21" column="3" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/SpringBootDeploy/src/main/resources/application-dev.properties" timestamp="1556594099153" />
-      <file name="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" timestamp="1557024057007">
+      <file name="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" timestamp="1557025835857">
         <mark key="'" line="59" column="36" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="35" column="7" />
-        <mark key="." line="35" column="7" />
-        <mark key="^" line="35" column="7" />
+        <mark key="[" line="32" column="17" />
+        <mark key="]" line="33" column="47" />
+        <mark key="." line="33" column="47" />
+        <mark key="^" line="33" column="47" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/AdminDataAccess/src/main/resources/config/application-dev.properties" timestamp="1556443269095">
         <mark key="[" line="1" column="50" />
@@ -274,6 +279,7 @@
         <mark key="." line="19" column="3" />
         <mark key="^" line="19" column="3" />
       </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/AdminDataAccess/src/main/java/com/uf/member/dao/mysql/entity/StoreAppConfigration.java" timestamp="1557025980022" />
       <file name="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/restful/controller/CommonController.java" timestamp="1556606652307">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
@@ -609,17 +615,17 @@
       <jump line="31" column="40" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/util/HttpUtil.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKCJyZXNwb25zZSBodHRwIHN0YXR1cyA6IiArIHN0YXR1c0xpbmUuZ2V0U3RhdHVzQ29kZSgpKTsK</text>
+      <register name="&quot;" type="4">
+        <text>private</text>
       </register>
       <register name="-" type="4">
-        <text>_ResponseJson</text>
+        <text>private</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkZXBsb3lDb25maWdcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CXByaXZhdGUgc3RhdGljIExvZyBsb2dnZXIgPSBMb2dGYWN0b3J5LmdldExvZyhIdHRwc1V0aWwuY2xhc3MpOwo=</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKCJyZXNwb25zZSBodHRwIHN0YXR1cyA6IiArIHN0YXR1c0xpbmUuZ2V0U3RhdHVzQ29kZSgpKTsK</text>
