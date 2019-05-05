@@ -111,7 +111,7 @@
       <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/WechatUserRepo.java" timestamp="1555986242005">
         <mark key="[" line="8" column="52" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/CommonController.java" timestamp="1557027429901">
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/CommonController.java" timestamp="1557035658237">
         <mark key="'" line="106" column="39" />
         <mark key="[" line="106" column="29" />
         <mark key="]" line="106" column="28" />
@@ -169,12 +169,12 @@
         <mark key="." line="21" column="3" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/SpringBootDeploy/src/main/resources/application-dev.properties" timestamp="1556594099153" />
-      <file name="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" timestamp="1557027454631">
+      <file name="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" timestamp="1557037308588">
         <mark key="'" line="46" column="12" />
-        <mark key="[" line="50" column="57" />
-        <mark key="]" line="50" column="7" />
-        <mark key="." line="50" column="7" />
-        <mark key="^" line="50" column="7" />
+        <mark key="[" line="55" column="102" />
+        <mark key="]" line="55" column="106" />
+        <mark key="." line="55" column="106" />
+        <mark key="^" line="55" column="106" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/AdminDataAccess/src/main/resources/config/application-dev.properties" timestamp="1556443269095">
         <mark key="[" line="1" column="50" />
@@ -182,18 +182,18 @@
         <mark key="." line="1" column="60" />
         <mark key="^" line="1" column="60" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/util/HttpUtil.java" timestamp="1557035353625">
+      <file name="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/util/HttpUtil.java" timestamp="1557037424175">
         <mark key="'" line="20" column="0" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="163" column="4" />
-        <mark key="." line="20" column="0" />
+        <mark key="[" line="40" column="47" />
+        <mark key="]" line="45" column="12" />
+        <mark key="^" line="45" column="12" />
+        <mark key="." line="45" column="12" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/SpringBootDeploy/src/main/java/com/uf/member/filter/AuthenFilter.java" timestamp="1555061245974">
-        <mark key="[" line="58" column="52" />
-        <mark key="]" line="58" column="51" />
-        <mark key="^" line="58" column="51" />
-        <mark key="." line="58" column="51" />
+      <file name="$USER_HOME$/gitBucket/membersystem/SpringBootDeploy/src/main/java/com/uf/member/filter/AuthenFilter.java" timestamp="1557036809544">
+        <mark key="[" line="29" column="96" />
+        <mark key="]" line="29" column="105" />
+        <mark key="^" line="29" column="105" />
+        <mark key="." line="29" column="105" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/CustomerSetting.java" timestamp="1555484917649">
         <mark key="[" line="2" column="30" />
@@ -631,10 +631,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>+</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXN1bHRcPg==</text>
@@ -643,28 +643,28 @@
         <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKCJyZXNwb25zZSBodHRwIHN0YXR1cyA6IiArIHN0YXR1c0xpbmUuZ2V0U3RhdHVzQ29kZSgpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKCJyZXNwb25zZSBodHRwIHN0YXR1cyA6IiArIHN0YXR1c0xpbmUuZ2V0U3RhdHVzQ29kZSgpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0LnNldEVycm9yTWVzc2FnZSgibG9naW4gZmFpbCIpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXRNYXhDb25uUGVyUm91dGUoODAwKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhZG1pblNlcnZpY2Uuc2F2ZVN0b3JlKHJlcXVlc3QpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKCJyZXNwb25zZSBodHRwIHN0YXR1cyA6IiArIHN0YXR1c0xpbmUuZ2V0U3RhdHVzQ29kZSgpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKCJyZXNwb25zZSBodHRwIHN0YXR1cyA6IiArIHN0YXR1c0xpbmUuZ2V0U3RhdHVzQ29kZSgpKTsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
