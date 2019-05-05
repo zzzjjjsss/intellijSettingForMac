@@ -170,11 +170,11 @@
         <mark key="." line="1" column="60" />
         <mark key="^" line="1" column="60" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/util/HttpUtil.java" timestamp="1557024622038">
-        <mark key="[" line="24" column="5" />
-        <mark key="]" line="23" column="42" />
-        <mark key="." line="23" column="42" />
-        <mark key="^" line="23" column="42" />
+      <file name="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/util/HttpUtil.java" timestamp="1557025319869">
+        <mark key="'" line="37" column="40" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/SpringBootDeploy/src/main/java/com/uf/member/filter/AuthenFilter.java" timestamp="1555061245974">
         <mark key="[" line="58" column="52" />
@@ -222,9 +222,9 @@
         <mark key="^" line="8" column="33" />
         <mark key="." line="8" column="33" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/WechatAppApi/src/main/java/com/uf/wechat/miniapp/util/HttpsUtil.java" timestamp="1557024527550">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="50" />
+      <file name="$USER_HOME$/gitBucket/membersystem/WechatAppApi/src/main/java/com/uf/wechat/miniapp/util/HttpsUtil.java" timestamp="1557024822171">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="67" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/cache/CacheService.java" timestamp="1555988762583">
         <mark key="[" line="9" column="90" />
@@ -507,7 +507,6 @@
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/pom.xml" timestamp="1556613269454" />
     </filemarks>
     <jumps>
-      <jump line="16" column="67" filename="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/StoreRepo.java" />
       <jump line="48" column="36" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/storemanager/AdminService.java" />
       <jump line="6" column="31" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/storemanager/AdminService.java" />
       <jump line="0" column="0" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/storemanager/AdminService.java" />
@@ -607,46 +606,47 @@
       <jump line="24" column="23" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/restful/controller/AdminController.java" />
       <jump line="17" column="0" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/restful/controller/AdminController.java" />
       <jump line="11" column="0" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/restful/controller/AdminController.java" />
+      <jump line="31" column="40" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/util/HttpUtil.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.createDefault();</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKCJyZXNwb25zZSBodHRwIHN0YXR1cyA6IiArIHN0YXR1c0xpbmUuZ2V0U3RhdHVzQ29kZSgpKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>.createDefault();</text>
+        <text>_ResponseJson</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkZXBsb3lDb25maWdcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CXByaXZhdGUgc3RhdGljIENsb3NlYWJsZUh0dHBDbGllbnQgaHR0cENsaWVudDsK</text>
+        <text encoding="base64">CXByaXZhdGUgc3RhdGljIExvZyBsb2dnZXIgPSBMb2dGYWN0b3J5LmdldExvZyhIdHRwc1V0aWwuY2xhc3MpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXRNYXhDb25uUGVyUm91dGUoODAwKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKCJyZXNwb25zZSBodHRwIHN0YXR1cyA6IiArIHN0YXR1c0xpbmUuZ2V0U3RhdHVzQ29kZSgpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhZG1pblNlcnZpY2Uuc2F2ZVN0b3JlKHJlcXVlc3QpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXRNYXhDb25uUGVyUm91dGUoODAwKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhZG1pblNlcnZpY2Uuc2F2ZVN0b3JlKHJlcXVlc3QpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3RvcmVBcHBDb25maWdyYXRpb24gc3RvcmVBcHBDb25maWdyYXRpb24gPSAgYXBwQ29uZmlncy5nZXQoaSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IGFwcENvbmZpZ3Muc2l6ZSgpOyBpKyspIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>map</text>
