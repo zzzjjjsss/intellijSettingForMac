@@ -189,7 +189,7 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="19" column="83" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/resources/web/login.html" timestamp="1557112861034">
+      <file name="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/resources/web/login.html" timestamp="1557123290759">
         <mark key="[" line="47" column="13" />
         <mark key="]" line="58" column="38" />
         <mark key="." line="58" column="38" />
@@ -222,11 +222,11 @@
         <mark key="." line="23" column="44" />
         <mark key="^" line="23" column="44" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/resources/web/index.html" timestamp="1557118906203">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="^" line="29" column="21" />
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/resources/web/index.html" timestamp="1557123965516">
+        <mark key="[" line="45" column="35" />
+        <mark key="]" line="41" column="19" />
+        <mark key="^" line="41" column="19" />
+        <mark key="." line="41" column="19" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/CommonController.java" timestamp="1557035658237">
         <mark key="'" line="106" column="39" />
@@ -238,12 +238,12 @@
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/sf-commons/src/main/java/com/moodys/sav/commons/config/SystemProperties.java" timestamp="1554292477368">
         <mark key="[" line="40" column="46" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/restful/controller/AdminController.java" timestamp="1557051291394">
+      <file name="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/restful/controller/AdminController.java" timestamp="1557123424271">
         <mark key="'" line="12" column="0" />
-        <mark key="[" line="125" column="9" />
-        <mark key="]" line="127" column="51" />
-        <mark key="^" line="127" column="51" />
-        <mark key="." line="127" column="51" />
+        <mark key="[" line="14" column="17" />
+        <mark key="]" line="14" column="16" />
+        <mark key="^" line="14" column="16" />
+        <mark key="." line="14" column="16" />
       </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/CDO_DealSynchronizer.java" timestamp="1554712968663">
         <mark key="[" line="21" column="32" />
@@ -646,40 +646,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHRoPjwvdGg+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfWVsc2V7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>详细信息</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhZGRTbXNVcmxcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHRoPjwvdGg+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHRoPuivpue7huS/oeaBrzwvdGg+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHRoPjwvdGg+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfWVsc2V7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkKCIjc3RvcmVUYWJsZSIpLkRhdGFUYWJsZSh7fSk7Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHdpbmRvdy5hbGVydCgi55So5oi35ZCN5oiW5a+G56CB6ZSZ6K+vIik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHdpbmRvdy5sb2NhdGlvbi5ocmVmPSJpbmRleC5odG1sIjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIENvb2tpZXMuc2V0KCJ0b2tlbiIsZS50b2tlbik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9LAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICBkYXRhOnsKICAgICAgICAgICAgInVzZXJOYW1lIjp1c2VyTmFtZSwKICAgICAgICAgICAgInBhc3N3b3JkIjpwYXNzd29yZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgJCgnI2Rvd25sb2FkQnRuJykub24oImNsaWNrIixmdW5jdGlvbigpewogICAgICAgICAgICAgICAgdmFyIGRhdGU9JCgiI2RhdGVwaWNrZXIiKS52YWwoKTsKICAgICAgICAgICAgICAgIHdpbmRvdy5sb2NhdGlvbi5ocmVmPSJzdG9yZW1hbmFnZXIvZG93bmxvYWRPbmVkYXlBcHBvaW50bWVudD9kYXRlPSIrZGF0ZTsKICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBtZXRob2Q6IlBPU1QiLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImlucHV0LWdyb3VwIG1iLTMiPgogICAgICAgIDxkaXYgY2xhc3M9ImlucHV0LWdyb3VwLXByZXBlbmQiPgogICAgICAgICAgICA8c3BhbiBjbGFzcz0iaW5wdXQtZ3JvdXAtdGV4dCIgaWQ9ImJhc2ljLWFkZG9uMSI+6YCJ5oup5pel5pyfPC9zcGFuPgogICAgICAgIDwvZGl2PgogICAgICAgIDxpbnB1dCB0eXBlPSJ0ZXh0IiBpZD0iZGF0ZXBpY2tlciIgY2xhc3M9ImZvcm0tY29udHJvbCIvPgogICAgICAgIDxkaXYgY2xhc3M9ImlucHV0LWdyb3VwLWFwcGVuZCI+CiAgICAgICAgICAgIDxidXR0b24gY2xhc3M9ImJ0biBidG4tb3V0bGluZS1zZWNvbmRhcnkiIHR5cGU9ImJ1dHRvbiIgaWQ9ImRvd25sb2FkQnRuIj7kuIvovb3lrqLmiLfpooTnuqbooag8L2J1dHRvbj4KICAgICAgICA8L2Rpdj4KICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">CgoK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">CgoK</text>
