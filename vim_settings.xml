@@ -104,12 +104,11 @@
         <mark key="." line="60" column="37" />
         <mark key="^" line="60" column="37" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/AdminDataAccess/src/main/java/com/uf/member/dao/mysql/entity/Store.java" timestamp="1556617541766">
+      <file name="$USER_HOME$/gitBucket/membersystem/AdminDataAccess/src/main/java/com/uf/member/dao/mysql/entity/Store.java" timestamp="1557136831172">
         <mark key="'" line="26" column="32" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="7" />
-        <mark key="^" line="74" column="43" />
-        <mark key="." line="74" column="43" />
+        <mark key="]" line="90" column="37" />
+        <mark key="^" line="90" column="37" />
+        <mark key="." line="90" column="37" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/restful/bean/LoginResponse.java" timestamp="1556612412845">
         <mark key="[" line="7" column="4" />
@@ -165,11 +164,6 @@
         <mark key="^" line="23" column="14" />
         <mark key="." line="27" column="30" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/restful/bean/store/ConfigureResponse.java" timestamp="1557039370077">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-      </file>
       <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/SmsInfoRepo.java" timestamp="1555572671061">
         <mark key="[" line="7" column="31" />
         <mark key="]" line="7" column="50" />
@@ -222,11 +216,11 @@
         <mark key="." line="23" column="44" />
         <mark key="^" line="23" column="44" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/resources/web/index.html" timestamp="1557127293687">
-        <mark key="[" line="54" column="15" />
-        <mark key="]" line="54" column="15" />
-        <mark key="^" line="20" column="13" />
-        <mark key="." line="54" column="15" />
+      <file name="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/resources/web/index.html" timestamp="1557137141392">
+        <mark key="[" line="66" column="31" />
+        <mark key="]" line="48" column="0" />
+        <mark key="^" line="47" column="11" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/CommonController.java" timestamp="1557035658237">
         <mark key="'" line="106" column="39" />
@@ -238,12 +232,12 @@
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/sf-commons/src/main/java/com/moodys/sav/commons/config/SystemProperties.java" timestamp="1554292477368">
         <mark key="[" line="40" column="46" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/restful/controller/AdminController.java" timestamp="1557123424271">
+      <file name="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/restful/controller/AdminController.java" timestamp="1557136227648">
         <mark key="'" line="12" column="0" />
-        <mark key="[" line="14" column="17" />
-        <mark key="]" line="14" column="16" />
-        <mark key="^" line="14" column="16" />
-        <mark key="." line="14" column="16" />
+        <mark key="[" line="29" column="27" />
+        <mark key="]" line="29" column="30" />
+        <mark key="^" line="29" column="30" />
+        <mark key="." line="29" column="30" />
       </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/CDO_DealSynchronizer.java" timestamp="1554712968663">
         <mark key="[" line="21" column="32" />
@@ -260,10 +254,11 @@
         <mark key="." line="6" column="37" />
         <mark key="^" line="6" column="37" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/AdminDataAccess/src/main/resources/config/application-prod.properties" timestamp="1556443522666">
-        <mark key="[" line="1" column="84" />
-        <mark key="]" line="1" column="84" />
-        <mark key="." line="1" column="84" />
+      <file name="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/resources/web/storeEdit.html" timestamp="1557136214204">
+        <mark key="[" line="118" column="16" />
+        <mark key="]" line="120" column="0" />
+        <mark key="^" line="120" column="4" />
+        <mark key="." line="120" column="0" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/bean/WechatLoginResult.java" timestamp="1555313568393">
         <mark key="[" line="8" column="0" />
@@ -311,12 +306,12 @@
         <mark key="." line="9" column="35" />
         <mark key="^" line="9" column="35" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" timestamp="1557050934949">
+      <file name="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" timestamp="1557136871996">
         <mark key="'" line="22" column="8" />
-        <mark key="[" line="253" column="31" />
-        <mark key="]" line="253" column="37" />
-        <mark key="." line="253" column="37" />
-        <mark key="^" line="253" column="37" />
+        <mark key="[" line="299" column="44" />
+        <mark key="]" line="299" column="44" />
+        <mark key="." line="299" column="44" />
+        <mark key="^" line="333" column="30" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/pcstoremanager/AuthAspect.java" timestamp="1554873058969">
         <mark key="[" line="2" column="0" />
@@ -372,11 +367,6 @@
         <mark key="]" line="18" column="39" />
         <mark key="^" line="18" column="39" />
         <mark key="." line="18" column="39" />
-      </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/AccountService.java" timestamp="1556430760247">
-        <mark key="[" line="35" column="2" />
-        <mark key="]" line="39" column="31" />
-        <mark key="." line="39" column="31" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/storemanager/CommonSettingResponse.java" timestamp="1555643487599">
         <mark key="[" line="2" column="61" />
@@ -447,6 +437,7 @@
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/admin/StoreInfoResponse.java" timestamp="1557050441378">
         <mark key="^" line="7" column="15" />
       </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/WarDeploy/target/classes/application-dev.properties" timestamp="1557136608614" />
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/cache/CacheService.java" timestamp="1555988762583">
         <mark key="[" line="9" column="90" />
         <mark key="]" line="10" column="62" />
@@ -535,11 +526,8 @@
         <mark key="^" line="10" column="35" />
         <mark key="." line="10" column="35" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/restful/bean/AddStoreRequest.java" timestamp="1556613139216">
-        <mark key="[" line="18" column="32" />
-        <mark key="]" line="19" column="3" />
-        <mark key="." line="19" column="3" />
-        <mark key="^" line="19" column="3" />
+      <file name="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/restful/bean/AddStoreRequest.java" timestamp="1557136750106">
+        <mark key="^" line="13" column="28" />
       </file>
     </filemarks>
     <jumps>
@@ -646,34 +634,34 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IDxmb3JtPgogICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZvcm0tZ3JvdXAgcm93Ij4KICAgICAgICAgICAgICAgICAgICAgICAgPGxhYmVsIGZvcj0iaW5wdXRFbWFpbDMiIGNsYXNzPSJjb2wtc20tMiBjb2wtZm9ybS1sYWJlbCI+RW1haWw8L2xhYmVsPgogICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtc20tMTAiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IHR5cGU9ImVtYWlsIiBjbGFzcz0iZm9ybS1jb250cm9sIiBpZD0iaW5wdXRFbWFpbDMiIHBsYWNlaG9sZGVyPSJFbWFpbCI+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZvcm0tZ3JvdXAgcm93Ij4KICAgICAgICAgICAgICAgICAgICAgICAgPGxhYmVsIGZvcj0iaW5wdXRQYXNzd29yZDMiIGNsYXNzPSJjb2wtc20tMiBjb2wtZm9ybS1sYWJlbCI+UGFzc3dvcmQ8L2xhYmVsPgogICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtc20tMTAiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IHR5cGU9InBhc3N3b3JkIiBjbGFzcz0iZm9ybS1jb250cm9sIiBpZD0iaW5wdXRQYXNzd29yZDMiIHBsYWNlaG9sZGVyPSJQYXNzd29yZCI+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgIDxmaWVsZHNldCBjbGFzcz0iZm9ybS1ncm91cCI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InJvdyI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bGVnZW5kIGNsYXNzPSJjb2wtZm9ybS1sYWJlbCBjb2wtc20tMiBwdC0wIj5SYWRpb3M8L2xlZ2VuZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC1zbS0xMCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iZm9ybS1jaGVjayI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbnB1dCBjbGFzcz0iZm9ybS1jaGVjay1pbnB1dCIgdHlwZT0icmFkaW8iIG5hbWU9ImdyaWRSYWRpb3MiIGlkPSJncmlkUmFkaW9zMSIgdmFsdWU9Im9wdGlvbjEiIGNoZWNrZWQ+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxsYWJlbCBjbGFzcz0iZm9ybS1jaGVjay1sYWJlbCIgZm9yPSJncmlkUmFkaW9zMSI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBGaXJzdCByYWRpbwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2xhYmVsPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZvcm0tY2hlY2siPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW5wdXQgY2xhc3M9ImZvcm0tY2hlY2staW5wdXQiIHR5cGU9InJhZGlvIiBuYW1lPSJncmlkUmFkaW9zIiBpZD0iZ3JpZFJhZGlvczIiIHZhbHVlPSJvcHRpb24yIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxhYmVsIGNsYXNzPSJmb3JtLWNoZWNrLWxhYmVsIiBmb3I9ImdyaWRSYWRpb3MyIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFNlY29uZCByYWRpbwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2xhYmVsPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZvcm0tY2hlY2sgZGlzYWJsZWQiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW5wdXQgY2xhc3M9ImZvcm0tY2hlY2staW5wdXQiIHR5cGU9InJhZGlvIiBuYW1lPSJncmlkUmFkaW9zIiBpZD0iZ3JpZFJhZGlvczMiIHZhbHVlPSJvcHRpb24zIiBkaXNhYmxlZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxhYmVsIGNsYXNzPSJmb3JtLWNoZWNrLWxhYmVsIiBmb3I9ImdyaWRSYWRpb3MzIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFRoaXJkIGRpc2FibGVkIHJhZGlvCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvbGFiZWw+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgPC9maWVsZHNldD4KICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJmb3JtLWdyb3VwIHJvdyI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC1zbS0yIj5DaGVja2JveDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtc20tMTAiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iZm9ybS1jaGVjayI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IGNsYXNzPSJmb3JtLWNoZWNrLWlucHV0IiB0eXBlPSJjaGVja2JveCIgaWQ9ImdyaWRDaGVjazEiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxsYWJlbCBjbGFzcz0iZm9ybS1jaGVjay1sYWJlbCIgZm9yPSJncmlkQ2hlY2sxIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgRXhhbXBsZSBjaGVja2JveAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvbGFiZWw+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgPC9kaXY+CgogICAgICAgICAgICAgICAgPC9mb3JtPg==</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>exampleModalLongTitle</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhZGRTbXNVcmxcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHRoPuivpue7huS/oeaBrzwvdGg+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHdpbmRvdy5sb2NhdGlvbi5ocmVmPSJsb2dpbi5odG1sIjsK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IDxmb3JtPgogICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZvcm0tZ3JvdXAgcm93Ij4KICAgICAgICAgICAgICAgICAgICAgICAgPGxhYmVsIGZvcj0iaW5wdXRFbWFpbDMiIGNsYXNzPSJjb2wtc20tMiBjb2wtZm9ybS1sYWJlbCI+RW1haWw8L2xhYmVsPgogICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtc20tMTAiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IHR5cGU9ImVtYWlsIiBjbGFzcz0iZm9ybS1jb250cm9sIiBpZD0iaW5wdXRFbWFpbDMiIHBsYWNlaG9sZGVyPSJFbWFpbCI+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZvcm0tZ3JvdXAgcm93Ij4KICAgICAgICAgICAgICAgICAgICAgICAgPGxhYmVsIGZvcj0iaW5wdXRQYXNzd29yZDMiIGNsYXNzPSJjb2wtc20tMiBjb2wtZm9ybS1sYWJlbCI+UGFzc3dvcmQ8L2xhYmVsPgogICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtc20tMTAiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IHR5cGU9InBhc3N3b3JkIiBjbGFzcz0iZm9ybS1jb250cm9sIiBpZD0iaW5wdXRQYXNzd29yZDMiIHBsYWNlaG9sZGVyPSJQYXNzd29yZCI+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgIDxmaWVsZHNldCBjbGFzcz0iZm9ybS1ncm91cCI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InJvdyI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bGVnZW5kIGNsYXNzPSJjb2wtZm9ybS1sYWJlbCBjb2wtc20tMiBwdC0wIj5SYWRpb3M8L2xlZ2VuZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC1zbS0xMCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iZm9ybS1jaGVjayI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbnB1dCBjbGFzcz0iZm9ybS1jaGVjay1pbnB1dCIgdHlwZT0icmFkaW8iIG5hbWU9ImdyaWRSYWRpb3MiIGlkPSJncmlkUmFkaW9zMSIgdmFsdWU9Im9wdGlvbjEiIGNoZWNrZWQ+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxsYWJlbCBjbGFzcz0iZm9ybS1jaGVjay1sYWJlbCIgZm9yPSJncmlkUmFkaW9zMSI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBGaXJzdCByYWRpbwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2xhYmVsPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZvcm0tY2hlY2siPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW5wdXQgY2xhc3M9ImZvcm0tY2hlY2staW5wdXQiIHR5cGU9InJhZGlvIiBuYW1lPSJncmlkUmFkaW9zIiBpZD0iZ3JpZFJhZGlvczIiIHZhbHVlPSJvcHRpb24yIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxhYmVsIGNsYXNzPSJmb3JtLWNoZWNrLWxhYmVsIiBmb3I9ImdyaWRSYWRpb3MyIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFNlY29uZCByYWRpbwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2xhYmVsPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZvcm0tY2hlY2sgZGlzYWJsZWQiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW5wdXQgY2xhc3M9ImZvcm0tY2hlY2staW5wdXQiIHR5cGU9InJhZGlvIiBuYW1lPSJncmlkUmFkaW9zIiBpZD0iZ3JpZFJhZGlvczMiIHZhbHVlPSJvcHRpb24zIiBkaXNhYmxlZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxhYmVsIGNsYXNzPSJmb3JtLWNoZWNrLWxhYmVsIiBmb3I9ImdyaWRSYWRpb3MzIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFRoaXJkIGRpc2FibGVkIHJhZGlvCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvbGFiZWw+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgPC9maWVsZHNldD4KICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJmb3JtLWdyb3VwIHJvdyI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC1zbS0yIj5DaGVja2JveDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtc20tMTAiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iZm9ybS1jaGVjayI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IGNsYXNzPSJmb3JtLWNoZWNrLWlucHV0IiB0eXBlPSJjaGVja2JveCIgaWQ9ImdyaWRDaGVjazEiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxsYWJlbCBjbGFzcz0iZm9ybS1jaGVjay1sYWJlbCIgZm9yPSJncmlkQ2hlY2sxIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgRXhhbXBsZSBjaGVja2JveAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvbGFiZWw+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgPC9kaXY+CgogICAgICAgICAgICAgICAgPC9mb3JtPg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0RW1haWxQYXd3c29yZCgpIHsKICAgICAgICByZXR1cm4gZW1haWxQYXd3c29yZDsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRFbWFpbFBhd3dzb3JkKFN0cmluZyBlbWFpbFBhd3dzb3JkKSB7CiAgICAgICAgdGhpcy5lbWFpbFBhd3dzb3JkID0gZW1haWxQYXd3c29yZDsKICAgIH0K</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">PGRpdiBjbGFzcz0iZm9ybS1ncm91cCByb3ciPgogICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtc20tMTAiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGJ1dHRvbiB0eXBlPSJzdWJtaXQiIGNsYXNzPSJidG4gYnRuLXByaW1hcnkiPlNpZ24gaW48L2J1dHRvbj4KICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgPC9kaXY+</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC4uLgo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0RW1haWxQYXd3c29yZCgpIHsKICAgICAgICByZXR1cm4gZW1haWxQYXd3c29yZDsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRFbWFpbFBhd3dzb3JkKFN0cmluZyBlbWFpbFBhd3dzb3JkKSB7CiAgICAgICAgdGhpcy5lbWFpbFBhd3dzb3JkID0gZW1haWxQYXd3c29yZDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxidXR0b24gdHlwZT0iYnV0dG9uIiBjbGFzcz0iYnRuIGJ0bi1wcmltYXJ5IiBpZD0iYnRuQWRkIj48L2J1dHRvbj4K</text>
+        <text encoding="base64">ICAgICAgICBzdG9yZS5zZXRBcHBDb25maWdyYXRpb25zKGFwcENvbmZpZ3JhdGlvbnMpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
