@@ -222,11 +222,11 @@
         <mark key="." line="23" column="44" />
         <mark key="^" line="23" column="44" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/resources/web/index.html" timestamp="1557123965516">
-        <mark key="[" line="45" column="35" />
-        <mark key="]" line="41" column="19" />
-        <mark key="^" line="41" column="19" />
-        <mark key="." line="41" column="19" />
+      <file name="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/resources/web/index.html" timestamp="1557126248153">
+        <mark key="[" line="59" column="7" />
+        <mark key="]" line="43" column="0" />
+        <mark key="^" line="43" column="0" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/CommonController.java" timestamp="1557035658237">
         <mark key="'" line="106" column="39" />
@@ -646,10 +646,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfWVsc2V7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>详细信息</text>
+        <text>buttons: [ 'copy', 'csv', 'excel' ]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhZGRTbXNVcmxcPg==</text>
@@ -658,31 +658,31 @@
         <text encoding="base64">ICAgICAgICAgICAgPHRoPuivpue7huS/oeaBrzwvdGg+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfWVsc2V7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdpbmRvdy5hbGVydCgi55So5oi35ZCN5oiW5a+G56CB6ZSZ6K+vIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdpbmRvdy5sb2NhdGlvbi5ocmVmPSJpbmRleC5odG1sIjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENvb2tpZXMuc2V0KCJ0b2tlbiIsZS50b2tlbik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9LAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhOnsKICAgICAgICAgICAgInVzZXJOYW1lIjp1c2VyTmFtZSwKICAgICAgICAgICAgInBhc3N3b3JkIjpwYXNzd29yZAo=</text>
+        <text encoding="base64">CgoKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtZXRob2Q6IlBPU1QiLAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CgoK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CgoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfWVsc2V7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>map</text>
