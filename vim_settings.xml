@@ -122,12 +122,12 @@
       <file name="$USER_HOME$/gitBucket/membersystem/Gateway/src/main/resources/application.properties" timestamp="1554900450219">
         <mark key="[" line="15" column="30" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/resources/web/runtimeConfig.html" timestamp="1557209375333">
-        <mark key="'" line="100" column="21" />
-        <mark key="[" line="49" column="52" />
-        <mark key="]" line="49" column="72" />
-        <mark key="." line="49" column="72" />
-        <mark key="^" line="49" column="72" />
+      <file name="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/resources/web/runtimeConfig.html" timestamp="1557212667980">
+        <mark key="'" line="121" column="21" />
+        <mark key="[" line="69" column="7" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="5" column="47" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/AdminDataAccess/src/main/java/com/uf/member/dao/mysql/entity/Store.java" timestamp="1557144488217">
         <mark key="'" line="27" column="32" />
@@ -136,10 +136,11 @@
         <mark key="^" line="24" column="56" />
         <mark key="." line="24" column="56" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/resources/web/index.html" timestamp="1557210598127">
+      <file name="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/resources/web/index.html" timestamp="1557211588284">
         <mark key="[" line="112" column="40" />
-        <mark key="]" line="120" column="0" />
-        <mark key="." line="120" column="0" />
+        <mark key="]" line="114" column="10" />
+        <mark key="." line="114" column="10" />
+        <mark key="^" line="114" column="10" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/pom.xml" timestamp="1557112379481">
         <mark key="'" line="0" column="0" />
@@ -280,10 +281,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9Ii4vanMvbG9jYWxlcy9ib290c3RyYXAtZGF0ZXRpbWVwaWNrZXIuemgtQ04uanMiIGNoYXJzZXQ9IlVURi04Ij48L3NjcmlwdD4K</text>
       </register>
       <register name="-" type="4">
-        <text>POST</text>
+        <text>aria-hidden=&quot;true&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdG9yZU1hbmFnZXJQaG9uZVw+</text>
@@ -292,31 +293,31 @@
         <text encoding="base64">ICAgIFN0b3JlQXBwQ29uZmlncmF0aW9uIGZpbmRUb3BCeVN0b3JlQW5kQ29uZmlnS2V5KFN0b3JlIHN0b3JlLCBTdHJpbmcgY29uZmlnS2V5KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9Ii4vanMvbG9jYWxlcy9ib290c3RyYXAtZGF0ZXRpbWVwaWNrZXIuemgtQ04uanMiIGNoYXJzZXQ9IlVURi04Ij48L3NjcmlwdD4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9Ii4vanMvYm9vdHN0cmFwLWRhdGV0aW1lcGlja2VyLm1pbi5qcyIgY2hhcnNldD0iVVRGLTgiPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgdmFyIG9wZXJhdGVQd2Q9d2luZG93LnByb21wdCgi5pON5L2c5a+G56CBIik7CiAgICAgICAgcmV0dXJuOwo=</text>
+        <text encoding="base64">ICAgIDxsaW5rIGhyZWY9Ii4vY3NzL2Jvb3RzdHJhcC1kYXRldGltZXBpY2tlci5taW4uY3NzIiByZWw9InN0eWxlc2hlZXQiIG1lZGlhPSJzY3JlZW4iPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmKCFjb25maXJlUmVzdWx0KXsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhciBjb25maXJlUmVzdWx0PSAgIHdpbmRvdy5jb25maXJtKCLnoa7lrprliKDpmaTvvJ8iKTsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coZnVsbCk7Cg==</text>
+        <text encoding="base64">ICAgdmFyIG9wZXJhdGVQd2Q9d2luZG93LnByb21wdCgi5pON5L2c5a+G56CBIik7CiAgICAgICAgcmV0dXJuOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coZGF0YSk7Cg==</text>
+        <text encoding="base64">ICAgIGlmKCFjb25maXJlUmVzdWx0KXsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJkZWxldGUgaWQ6IitpZCk7Cg==</text>
+        <text encoding="base64">ICAgIHZhciBjb25maXJlUmVzdWx0PSAgIHdpbmRvdy5jb25maXJtKCLnoa7lrprliKDpmaTvvJ8iKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coZnVsbCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>map</text>
