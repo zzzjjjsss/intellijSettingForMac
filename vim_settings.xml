@@ -68,7 +68,7 @@
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/sf-commons/src/main/java/com/moodys/sav/commons/config/SystemProperties.java" timestamp="1554292477368">
         <mark key="[" line="40" column="46" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/restful/controller/AdminController.java" timestamp="1557143579438">
+      <file name="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/restful/controller/AdminController.java" timestamp="1557196963785">
         <mark key="'" line="27" column="35" />
         <mark key="[" line="30" column="56" />
         <mark key="]" line="31" column="34" />
@@ -84,12 +84,12 @@
         <mark key="^" line="190" column="61" />
         <mark key="." line="190" column="61" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" timestamp="1557195211109">
-        <mark key="'" line="404" column="40" />
-        <mark key="[" line="407" column="11" />
-        <mark key="]" line="407" column="41" />
-        <mark key="." line="407" column="41" />
-        <mark key="^" line="407" column="41" />
+      <file name="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" timestamp="1557198718822">
+        <mark key="'" line="416" column="40" />
+        <mark key="[" line="231" column="26" />
+        <mark key="]" line="231" column="29" />
+        <mark key="." line="231" column="29" />
+        <mark key="^" line="231" column="29" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/util/HttpUtil.java" timestamp="1557037553809">
         <mark key="'" line="20" column="0" />
@@ -115,11 +115,12 @@
       <file name="$USER_HOME$/gitBucket/membersystem/Gateway/src/main/resources/application.properties" timestamp="1554900450219">
         <mark key="[" line="15" column="30" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/resources/web/runtimeConfig.html" timestamp="1557195406804">
-        <mark key="'" line="214" column="0" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/resources/web/runtimeConfig.html" timestamp="1557200167715">
+        <mark key="'" line="37" column="28" />
+        <mark key="[" line="145" column="1" />
+        <mark key="]" line="54" column="64" />
+        <mark key="^" line="54" column="64" />
+        <mark key="." line="54" column="64" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/AdminDataAccess/src/main/java/com/uf/member/dao/mysql/entity/Store.java" timestamp="1557144488217">
         <mark key="'" line="27" column="32" />
@@ -128,11 +129,11 @@
         <mark key="^" line="24" column="56" />
         <mark key="." line="24" column="56" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/resources/web/index.html" timestamp="1557143411141">
-        <mark key="[" line="77" column="37" />
-        <mark key="]" line="77" column="37" />
-        <mark key="." line="77" column="37" />
-        <mark key="^" line="117" column="44" />
+      <file name="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/resources/web/index.html" timestamp="1557199873941">
+        <mark key="[" line="120" column="21" />
+        <mark key="]" line="120" column="33" />
+        <mark key="." line="120" column="33" />
+        <mark key="^" line="120" column="33" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/pom.xml" timestamp="1557112379481">
         <mark key="'" line="0" column="0" />
@@ -150,7 +151,7 @@
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/BindPhoneNumberRequest.java" timestamp="1555482221902">
         <mark key="[" line="3" column="31" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/restful/bean/store/StoreRuntimeInfoResponse.java" timestamp="1557196103507">
+      <file name="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/restful/bean/store/StoreRuntimeInfoResponse.java" timestamp="1557197023615">
         <mark key="'" line="9" column="0" />
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -170,9 +171,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="19" filename="$USER_HOME$/gitBucket/membersystem/AdminDataAccess/src/main/java/com/uf/member/dao/mysql/entity/Store.java" />
-      <jump line="50" column="15" filename="$USER_HOME$/gitBucket/membersystem/AdminDataAccess/src/main/java/com/uf/member/dao/mysql/entity/Store.java" />
-      <jump line="53" column="40" filename="$USER_HOME$/gitBucket/membersystem/AdminDataAccess/src/main/java/com/uf/member/dao/mysql/entity/Store.java" />
       <jump line="106" column="15" filename="$USER_HOME$/gitBucket/membersystem/AdminDataAccess/src/main/java/com/uf/member/dao/mysql/entity/Store.java" />
       <jump line="0" column="0" filename="$USER_HOME$/gitBucket/membersystem/AdminDataAccess/src/main/java/com/uf/member/dao/mysql/entity/Store.java" />
       <jump line="28" column="4" filename="$USER_HOME$/gitBucket/membersystem/AdminDataAccess/src/main/java/com/uf/member/dao/mysql/entity/Store.java" />
@@ -270,63 +268,65 @@
       <jump line="13" column="0" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/restful/bean/store/StoreRuntimeInfoResponse.java" />
       <jump line="6" column="0" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/restful/bean/store/StoreRuntimeInfoResponse.java" />
       <jump line="9" column="0" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/restful/bean/store/StoreRuntimeInfoResponse.java" />
+      <jump line="110" column="21" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/resources/web/runtimeConfig.html" />
+      <jump line="35" column="60" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/resources/web/runtimeConfig.html" />
+      <jump line="34" column="28" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/resources/web/runtimeConfig.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGJyPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>totalCustomer</text>
+        <text>ture</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRTdG9yZUluZm9zXD4=</text>
+        <text encoding="base64">XDxzdG9yZU1hbmFnZXJQaG9uZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgbG9uZyB0b3RhbEN1c3RvbWVyOwo=</text>
+        <text encoding="base64">ICAgICAgICB3aW5kb3cub3Blbigic3RvcmVFZGl0Lmh0bWw/aWQ9IitpZCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGJyPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxmb3JtPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGxhYmVsID48L2xhYmVsPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDwvZm9ybT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGJyPgo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxsaW5rIGhyZWY9Ii4vRGF0YVRhYmxlcy9kYXRhdGFibGVzLm1pbi5jc3MiIHJlbD0ic3R5bGVzaGVldCIgbWVkaWE9InNjcmVlbiI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9Ii4vRGF0YVRhYmxlcy9kYXRhdGFibGVzLm1pbi5qcyIgY2hhcnNldD0iVVRGLTgiPjwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygicnVtdGltZSBjb25maWciK2lkKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25maWdJdGVtLnNldFN0b3JlKHN0b3JlKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VsdC5hZGQoc3RvcmVJbmZvKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>map</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRTdG9yZUluZm9zXD4=</last-search>
+      <last-search encoding="base64">XDxzdG9yZU1hbmFnZXJQaG9uZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRTdG9yZUluZm9zXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxzdG9yZU1hbmFnZXJQaG9uZVw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZXNwb25zZVw+</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjZVJhdGluZ1llYXJsaXN0XD4=</entry>
         <entry encoding="base64">XDxjcmVkaXRSYXRlTWFwaW5nVXRpbFw+</entry>
         <entry encoding="base64">XDxwcm9iRGVmYXVsdFw+</entry>
         <entry encoding="base64">XDxsaXN0XD4=</entry>
@@ -346,6 +346,7 @@
         <entry encoding="base64">XDxlbWFpbFBhc3N3b3JkXD4=</entry>
         <entry encoding="base64">XDxzdG9yZVw+</entry>
         <entry encoding="base64">XDxnZXRTdG9yZUluZm9zXD4=</entry>
+        <entry encoding="base64">XDxzdG9yZU1hbmFnZXJQaG9uZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>maps</entry>
