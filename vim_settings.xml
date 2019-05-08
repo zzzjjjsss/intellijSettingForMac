@@ -34,12 +34,12 @@
         <mark key="^" line="24" column="20" />
         <mark key="." line="24" column="20" />
       </file>
-      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/HttpDealSynchronizer.java" timestamp="1557286771341">
-        <mark key="'" line="255" column="33" />
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="67" column="5" />
-        <mark key="^" line="67" column="5" />
-        <mark key="." line="67" column="5" />
+      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/HttpDealSynchronizer.java" timestamp="1557293209658">
+        <mark key="'" line="273" column="33" />
+        <mark key="[" line="262" column="98" />
+        <mark key="]" line="249" column="18" />
+        <mark key="^" line="249" column="18" />
+        <mark key="." line="249" column="18" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/admin/ConfigureResponse.java" timestamp="1557039342326">
         <mark key="[" line="2" column="31" />
@@ -74,8 +74,8 @@
         <mark key="." line="7" column="42" />
         <mark key="^" line="7" column="42" />
       </file>
-      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/UDEV/Enterprise/java/dealdownload/src/main/java/com/wsainc/dealdownload/DealDownloaderFromDL.java" timestamp="1557286758761">
-        <mark key="'" line="936" column="12" />
+      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/UDEV/Enterprise/java/dealdownload/src/main/java/com/wsainc/dealdownload/DealDownloaderFromDL.java" timestamp="1557293250128">
+        <mark key="'" line="1379" column="16" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/storemanager/ListCustomerResponse.java" timestamp="1555656665829">
         <mark key="[" line="7" column="31" />
@@ -531,8 +531,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="12" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" />
-      <jump line="73" column="12" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" />
       <jump line="74" column="12" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" />
       <jump line="75" column="19" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" />
       <jump line="77" column="8" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" />
@@ -631,55 +629,57 @@
       <jump line="936" column="12" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/UDEV/Enterprise/java/dealdownload/src/main/java/com/wsainc/dealdownload/DealDownloaderFromDL.java" />
       <jump line="295" column="26" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/HttpDealSynchronizer.java" />
       <jump line="247" column="33" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/HttpDealSynchronizer.java" />
+      <jump line="78" column="48" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/UDEV/Enterprise/java/dealdownload/src/main/java/com/wsainc/dealdownload/DealDownloaderFromDL.java" />
+      <jump line="1379" column="16" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/UDEV/Enterprise/java/dealdownload/src/main/java/com/wsainc/dealdownload/DealDownloaderFromDL.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQkJZGVhbFVwZGF0ZUVsZW1lbnQuZ2UK</text>
+      <register name="&quot;" type="4">
+        <text>void</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>void</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwYXJzZURlYWxEb2N1bWVudFw+</text>
+        <text encoding="base64">XDxhZGRlZEZpbGVcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAkKCIjZGVsZXRlTW9kYWwiKS5tb2RlbCgic2hvdyIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQkJZGVhbFVwZGF0ZUVsZW1lbnQuZ2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTdG9yZVJ1bnRpbWVJbmZvUmVzcG9uc2UgcmVzcG9uc2U9bmV3IFN0b3JlUnVudGltZUluZm9SZXNwb25zZSgpOwogICAgICAgIHJlc3BvbnNlLnNldFJlbWFpblNtc0NvdW50KDEwMCk7CiAgICAgICAgcmVzcG9uc2Uuc2V0U3RvcmVNYW5hZ2VyUGhvbmUoIjEwMDAwMDg5ODg4Iik7CiAgICAgICAgcmVzcG9uc2Uuc2V0U3RvcmVOYW1lKCJ0ZXN0IHN0b3JlTmFtZSIpOwogICAgICAgIHJlc3BvbnNlLnNldFRvdGFsQ3VzdG9tZXIoMTAwMCk7CiAgICAgICAgTWFwPFN0cmluZyxTdHJpbmc+IGl0ZW1zPW5ldyBIYXNoTWFwPD4oKTsKICAgICAgICBpdGVtcy5wdXQoInRlc3QuY29uZmlnSXRlbTEiLCJjb25maWdpdGVtIDEgdmFsdWUiKTsKICAgICAgICBpdGVtcy5wdXQoInRlc3QuY29uZmlnSXRlbTIiLCJjb25maWdpdGVtIDIgdmFsdWUiKTsKICAgICAgICByZXNwb25zZS5zZXRDb25maWd1cmVJdGVtcyhpdGVtcyk7CiAgICAgICAgcmVzdWx0LnNldFN1Y2Nlc3ModHJ1ZSk7CiAgICAgICAgcmVzdWx0LnNldFJlc3VsdFZhbHVlKHJlc3BvbnNlKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgcHVibGljIE9wZXJhdGlvblJlc3VsdDxNYXA8U3RyaW5nLCBTdHJpbmc+PiBnZXRBcHBSdW50aW1lQ29uZmlncyhMb25nIGlkKSB7Ci8vICAgICAgICBPcGVyYXRpb25SZXN1bHQgcmVzdWx0ID0gbmV3IE9wZXJhdGlvblJlc3VsdCgpOwovLyAgICAgICAgU3RvcmUgc3RvcmUgPSBzdG9yZUluZm9SZXBvLmZpbmRPbmUoaWQpOwovLyAgICAgICAgU3RvcmVBcHBDb25maWdyYXRpb24gY29uZmlncmF0aW9uID0gY29uZmlnUmVwby5maW5kVG9wQnlTdG9yZUFuZENvbmZpZ0tleShzdG9yZSwgQ29uc3RhbnRzLkFQUF9DT05URVhUTkFNRSk7Ci8vICAgICAgICBpZiAoc3RvcmUgPT0gbnVsbCB8fCBjb25maWdyYXRpb24gPT0gbnVsbCB8fCBTdHJpbmdVdGlscy5pc0JsYW5rKHN0b3JlLmdldERlcGxveUlwUG9ydCgpKSB8fCBTdHJpbmdVdGlscy5pc0JsYW5rKGNvbmZpZ3JhdGlvbi5nZXRDb25maWdWYWx1ZSgpKSkgewovLyAgICAgICAgICAgIHJlc3VsdC5zZXRTdWNjZXNzKGZhbHNlKTsKLy8gICAgICAgICAgICByZXN1bHQuc2V0RXJyb3JNZXNzYWdlKCJpcFBvcnQgIG9yICBhcHBDb250ZXh0IGlzICBlbXB0eSIpOwovLyAgICAgICAgICAgIHJldHVybiByZXN1bHQ7Ci8vICAgICAgICB9Ci8vICAgICAgICBTdHJpbmcgYmFzZVVybCA9ICJodHRwOi8vIiArIHN0b3JlLmdldERlcGxveUlwUG9ydCgpICsgIi8iICsgY29uZmlncmF0aW9uLmdldENvbmZpZ1ZhbHVlKCkudHJpbSgpOwovLyAgICAgICAgT3BlcmF0aW9uUmVzdWx0PFN0cmluZz4gbG9naW5SZXN1bHQgPSBsb2dpblN0b3JlKGJhc2VVcmwpOwovLyAgICAgICAgaWYgKCFsb2dpblJlc3VsdC5pc1N1Y2Nlc3MoKSkgewovLyAgICAgICAgICAgIHJlc3VsdC5zZXRTdWNjZXNzKGZhbHNlKTsKLy8gICAgICAgICAgICByZXN1bHQuc2V0RXJyb3JNZXNzYWdlKCJsb2dpbiBmYWlsIik7Ci8vICAgICAgICAgICAgcmV0dXJuIHJlc3VsdDsKLy8gICAgICAgIH0KLy8gICAgICAgIFN0cmluZyBnZXRDb25maWdVcmwgPSBiYXNlVXJsICsgIi9hZG1pbi9nZXRDb25maWd1cmVzIjsKLy8gICAgICAgIE1hcDxTdHJpbmcsIFN0cmluZz4gaGVhZHMgPSBuZXcgSGFzaE1hcDw+KCk7Ci8vICAgICAgICBoZWFkcy5wdXQoIlRva2VuIiwgbG9naW5SZXN1bHQuZ2V0UmVzdWx0VmFsdWUoKSk7Ci8vICAgICAgICBKc29uT2JqZWN0IGdldENvbmZpZ1Jlc3BvbnNlID0gSHR0cFV0aWwuaHR0cEdldF9SZXNwb25zZUpzb24oZ2V0Q29uZmlnVXJsLCBoZWFkcyk7Ci8vICAgICAgICBHc29uIGdzb24gPSBuZXcgR3NvbigpOwovLyAgICAgICAgQ29uZmlndXJlUmVzcG9uc2UgcmVzcG9uc2VPYmogPSBnc29uLmZyb21Kc29uKGdldENvbmZpZ1Jlc3BvbnNlLCBDb25maWd1cmVSZXNwb25zZS5jbGFzcyk7Ci8vICAgICAgICBpZiAocmVzcG9uc2VPYmogPT0gbnVsbCB8fCByZXNwb25zZU9iai5nZXRSZXN1bHRDb2RlKCkuZXF1YWxzKFJlc3RmdWxSZXNwb25zZS5SZXN1bHRDb2RlLkZBSUwpKSB7Ci8vICAgICAgICAgICAgcmVzdWx0LnNldFN1Y2Nlc3MoZmFsc2UpOwovLyAgICAgICAgICAgIHJlc3VsdC5zZXRFcnJvck1lc3NhZ2UocmVzcG9uc2VPYmouZ2V0TWVzKCkpOwovLyAgICAgICAgICAgIHJldHVybiByZXN1bHQ7Ci8vICAgICAgICB9Ci8vICAgICAgICByZXN1bHQuc2V0U3VjY2Vzcyh0cnVlKTsKLy8gICAgICAgIHJlc3VsdC5zZXRSZXN1bHRWYWx1ZShyZXNwb25zZU9iai5nZXRDb25maWd1cmVJdGVtcygpKTsKLy8gICAgICAgIHJldHVybiByZXN1bHQ7Ci8vICAgIH0K</text>
+        <text encoding="base64">CQkJcmV0dXJuIGFkZGVkRmlsZTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXNwb25zZS5zZXRJZCgyMWwpOwo=</text>
+        <text encoding="base64">CQkJCQkJCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXNwb25zZS5zZXRDYXJkTnVtYmVyKCJ0ZXN0Y2FyZG51bWJlcmoiKTsK</text>
+        <text encoding="base64">CQkJCQlsb2dnZXIud2FybiggIkVSUk9SIGNsb3NpbmcgZmlsZSB3cml0ZXIgZm9yIGRlYWwgJyIgKyB1cGRhdGUuc0RlYWxJRCArICInIHdoaWxlIGNyZWF0aW5nIFBheW1lbnRGcmVxdWVuY3kgZmlsZTogIiArIGlvZS5nZXRNZXNzYWdlKCkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXNwb25zZS5zZXRSZXN1bHRDb2RlKFJlc3RmdWxSZXNwb25zZS5SZXN1bHRDb2RlLk9LKTsK</text>
+        <text encoding="base64">CQkJCXRocm93IG5ldyBEb3dubG9hZFRvb2xFeGNlcHRpb24oRXJyb3IuUEZfREFUQSwgIkZhaWxlZCB0byBhZGQgcGF5bWVudCBmcmVxdWVuY3kgZmlsZSB0byBkZWFsICciICsgdXBkYXRlLnNEZWFsSUQgKyAiJzoiICsgaW9lLmdldE1lc3NhZ2UoKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXNwb25zZS5zZXROYW1lKCJ0ZXN0TmFtZSIpOwo=</text>
+        <text encoding="base64">CQkJCVRvb2xzLkNydXNobGliLmFkZEZpbGVzVG9TRlcodXBkYXRlLnNTRldUZW1wRmlsZSwgVG9vbHMuR2V0Q2Fub25pY2FsUGF0aChmUGF5RnJlcUZpbGUpLCAhYlByZXNlcnZlUGF0aCk7Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCWlmKHVwZGF0ZS5zUGF5bWVudEZyZXF1ZW5jeSAhPSBudWxsKSB7CgkJCQkJZlBheUZyZXFGaWxlID0gbmV3IEZpbGUoZGVhbFBhdGgsIHBheUZyZXFNYXBwaW5nLmdldChwYXltZW50RnJlcXVlbmN5KSsgKTsKCQkJCX0gZWxzZSB7CgkJCQkJZlBheUZyZXFGaWxlID0gbmV3IEZpbGUodXBkYXRlLmZUZW1wRGlyLCAiMCIgKyBzUGF5bWVudEZyZXFGaWxlRXh0KTsKCQkJCX0K</text>
       </register>
       <register name=":" type="4">
         <text>map</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwYXJzZURlYWxEb2N1bWVudFw+</last-search>
+      <last-search encoding="base64">XDxhZGRlZEZpbGVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwYXJzZURlYWxEb2N1bWVudFw+</last-pattern>
+      <last-pattern encoding="base64">XDxhZGRlZEZpbGVcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZXNwb25zZVw+</last-substitute>
       <last-dir>1</last-dir>
@@ -687,8 +687,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRTdG9yZUluZm9zXD4=</entry>
-        <entry encoding="base64">XDxidG5TYXZlXD4=</entry>
         <entry encoding="base64">XDxzdG9yZU1hbmFnZXJQaG9uZVw+</entry>
         <entry encoding="base64">XDxjaGFuZ2VTdG9yZU1hbmdlck1vZGFsXD4=</entry>
         <entry encoding="base64">XDxidG5BZGRTbXNcPg==</entry>
@@ -707,6 +705,8 @@
         <entry encoding="base64">XDxzUGF0aEluU0ZXXD4=</entry>
         <entry encoding="base64">XDxjb3VudGVyXD4=</entry>
         <entry encoding="base64">XDxwYXJzZURlYWxEb2N1bWVudFw+</entry>
+        <entry encoding="base64">XDxtUGF5RnJlcU1hcHBpbmdcPg==</entry>
+        <entry encoding="base64">XDxhZGRlZEZpbGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>maps</entry>
