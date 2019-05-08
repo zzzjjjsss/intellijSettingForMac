@@ -30,6 +30,9 @@
         <mark key="^" line="59" column="27" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/UDEV/Enterprise/java/dealdownload/src/main/java/com/wsainc/dealdownload/ProcessManager.java" timestamp="1557283168933">
+        <mark key="'" line="103" column="20" />
+      </file>
       <file name="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/restful/bean/StoreInfo.java" timestamp="1557142379066">
         <mark key="'" line="18" column="19" />
         <mark key="[" line="28" column="0" />
@@ -119,12 +122,6 @@
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/restful/bean/SaveStoreRequest.java" timestamp="1557142236262" />
       <file name="$MAVEN_REPOSITORY$/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.0.Final/hibernate-jpa-2.1-api-1.0.0.Final-sources.jar!/javax/persistence/FetchType.java" timestamp="1557144416935" />
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/admin/AdminController.java" timestamp="1557141662951">
-        <mark key="'" line="33" column="0" />
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="105" column="0" />
-        <mark key="." line="105" column="0" />
-      </file>
       <file name="$USER_HOME$/gitBucket/membersystem/AdminDataAccess/src/main/java/com/uf/member/dao/mysql/entity/StoreAppConfigration.java" timestamp="1557209698959" />
       <file name="$USER_HOME$/gitBucket/membersystem/Gateway/src/main/resources/application.properties" timestamp="1554900450219">
         <mark key="[" line="15" column="30" />
@@ -186,7 +183,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="0" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/util/HttpUtil.java" />
       <jump line="66" column="28" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" />
       <jump line="78" column="15" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" />
       <jump line="46" column="24" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" />
@@ -286,6 +282,7 @@
       <jump line="2520" column="25" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/UDEV/Enterprise/java/dealdownload/src/main/java/com/wsainc/dealdownload/DealDownloaderFromDL.java" />
       <jump line="2534" column="47" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/UDEV/Enterprise/java/dealdownload/src/main/java/com/wsainc/dealdownload/DealDownloaderFromDL.java" />
       <jump line="2544" column="37" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/UDEV/Enterprise/java/dealdownload/src/main/java/com/wsainc/dealdownload/DealDownloaderFromDL.java" />
+      <jump line="103" column="20" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/UDEV/Enterprise/java/dealdownload/src/main/java/com/wsainc/dealdownload/ProcessManager.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -295,7 +292,7 @@
         <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzUGF5bWVudEZyZXF1ZW5jeVw+</text>
+        <text encoding="base64">XDx3YWl0Rm9yXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAkKCIjZGVsZXRlTW9kYWwiKS5tb2RlbCgic2hvdyIpOwo=</text>
@@ -332,9 +329,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzUGF5bWVudEZyZXF1ZW5jeVw+</last-search>
+      <last-search encoding="base64">XDx3YWl0Rm9yXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzUGF5bWVudEZyZXF1ZW5jeVw+</last-pattern>
+      <last-pattern encoding="base64">XDx3YWl0Rm9yXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZXNwb25zZVw+</last-substitute>
       <last-dir>1</last-dir>
@@ -342,7 +339,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRDdXN0b21lckluZm9VcmxcPg==</entry>
         <entry encoding="base64">XDxyZXNwb25zZU9ialw+</entry>
         <entry encoding="base64">XDxhZGRTbXNVcmxcPg==</entry>
         <entry encoding="base64">XDxlbWFpbFBhc3N3b3JkXD4=</entry>
@@ -362,6 +358,7 @@
         <entry encoding="base64">XDxzUGF5bWVudEZyZXFGaWxlRXh0XD4=</entry>
         <entry encoding="base64">XDxzRHVtbXlQYXltZW50RnJlcXVlbmN5XD4=</entry>
         <entry encoding="base64">XDxzUGF5bWVudEZyZXF1ZW5jeVw+</entry>
+        <entry encoding="base64">XDx3YWl0Rm9yXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>maps</entry>
