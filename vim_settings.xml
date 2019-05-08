@@ -73,7 +73,8 @@
         <mark key="^" line="5" column="58" />
         <mark key="." line="5" column="58" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/WechatAppApi/src/main/java/com/uf/wechat/miniapp/WechatApi.java" timestamp="1557309649672">
+      <file name="$USER_HOME$/gitBucket/membersystem/WechatAppApi/src/main/java/com/uf/wechat/miniapp/WechatApi.java" timestamp="1557312238021">
+        <mark key="'" line="70" column="47" />
         <mark key="[" line="47" column="34" />
         <mark key="]" line="48" column="23" />
         <mark key="^" line="48" column="23" />
@@ -146,8 +147,8 @@
       <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/WechatUserRepo.java" timestamp="1555986242005">
         <mark key="[" line="8" column="52" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/CommonController.java" timestamp="1557309117625">
-        <mark key="'" line="106" column="39" />
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/CommonController.java" timestamp="1557312962865">
+        <mark key="'" line="53" column="29" />
         <mark key="[" line="106" column="29" />
         <mark key="]" line="106" column="28" />
         <mark key="^" line="106" column="28" />
@@ -166,12 +167,11 @@
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/storemanager/ConsumeLogController.java" timestamp="1554953185005">
         <mark key="[" line="18" column="17" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AccountService.java" timestamp="1557309686196">
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AccountService.java" timestamp="1557312878553">
         <mark key="'" line="240" column="58" />
-        <mark key="[" line="258" column="57" />
-        <mark key="]" line="259" column="46" />
-        <mark key="^" line="259" column="46" />
-        <mark key="." line="259" column="46" />
+        <mark key="[" line="259" column="0" />
+        <mark key="]" line="259" column="0" />
+        <mark key="." line="259" column="0" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/resources/application-dev.properties" timestamp="1557111552012">
         <mark key="[" line="6" column="38" />
@@ -647,8 +647,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="57" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" />
-      <jump line="85" column="26" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" />
       <jump line="60" column="15" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" />
       <jump line="102" column="86" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" />
       <jump line="118" column="15" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" />
@@ -747,10 +745,12 @@
       <jump line="152" column="60" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AccountService.java" />
       <jump line="193" column="60" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AccountService.java" />
       <jump line="240" column="58" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AccountService.java" />
+      <jump line="53" column="29" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/CommonController.java" />
+      <jump line="70" column="47" filename="$USER_HOME$/gitBucket/membersystem/WechatAppApi/src/main/java/com/uf/wechat/miniapp/WechatApi.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuY2F0YWxpbmEuc2VydmxldDRwcmV2aWV3LlNlcnZsZXRDb250ZXh0Owo=</text>
+        <text encoding="base64">CQkJd2VjaGF0VXNlci5zZXRQaG9uZU51bWJlcigiODg4ODg4ODgiKTsK</text>
       </register>
       <register name="-" type="4">
         <text>\u6CF0\u8FB0\u4E2D\u533B\u8BCA\u6240</text>
@@ -762,10 +762,10 @@
         <text encoding="base64">c3RvcmVOYW1lPVx1NTM2MVx1NTM2MVx1NEYxQVx1NTQ1OFx1NEUyRFx1NUZDMwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuY2F0YWxpbmEuc2VydmxldDRwcmV2aWV3LlNlcnZsZXRDb250ZXh0Owo=</text>
+        <text encoding="base64">CQkJd2VjaGF0VXNlci5zZXRQaG9uZU51bWJlcigiODg4ODg4ODgiKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJPHNjb3BlPnByb3ZpZGVkPC9zY29wZT4K</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuY2F0YWxpbmEuc2VydmxldDRwcmV2aWV3LlNlcnZsZXRDb250ZXh0Owo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">CQkJPHNjb3BlPnByb3ZpZGVkPC9zY29wZT4K</text>
