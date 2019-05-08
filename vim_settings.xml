@@ -73,8 +73,11 @@
         <mark key="^" line="5" column="58" />
         <mark key="." line="5" column="58" />
       </file>
-      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/UDEV/Enterprise/java/dealdownload/src/main/java/com/wsainc/dealdownload/ProcessManager.java" timestamp="1557283168933">
-        <mark key="'" line="103" column="20" />
+      <file name="$USER_HOME$/gitBucket/membersystem/WechatAppApi/src/main/java/com/uf/wechat/miniapp/WechatApi.java" timestamp="1557309649672">
+        <mark key="[" line="47" column="34" />
+        <mark key="]" line="48" column="23" />
+        <mark key="^" line="48" column="23" />
+        <mark key="." line="48" column="23" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/restful/bean/StoreInfo.java" timestamp="1557142379066">
         <mark key="'" line="18" column="19" />
@@ -143,7 +146,7 @@
       <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/WechatUserRepo.java" timestamp="1555986242005">
         <mark key="[" line="8" column="52" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/CommonController.java" timestamp="1557035658237">
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/CommonController.java" timestamp="1557309117625">
         <mark key="'" line="106" column="39" />
         <mark key="[" line="106" column="29" />
         <mark key="]" line="106" column="28" />
@@ -162,6 +165,13 @@
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/storemanager/ConsumeLogController.java" timestamp="1554953185005">
         <mark key="[" line="18" column="17" />
+      </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AccountService.java" timestamp="1557309686196">
+        <mark key="'" line="240" column="58" />
+        <mark key="[" line="258" column="57" />
+        <mark key="]" line="259" column="46" />
+        <mark key="^" line="259" column="46" />
+        <mark key="." line="259" column="46" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/resources/application-dev.properties" timestamp="1557111552012">
         <mark key="[" line="6" column="38" />
@@ -551,7 +561,7 @@
         <mark key="." line="4" column="71" />
         <mark key="^" line="4" column="71" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557220583500">
+      <file name="/Dummy.txt" timestamp="1557309533196">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/customer/CustomerAppointmentController.java" timestamp="1555397422494">
@@ -637,11 +647,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="20" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" />
-      <jump line="58" column="19" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" />
-      <jump line="63" column="12" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" />
-      <jump line="64" column="12" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" />
-      <jump line="67" column="30" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" />
       <jump line="61" column="57" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" />
       <jump line="85" column="26" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" />
       <jump line="60" column="15" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" />
@@ -737,6 +742,11 @@
       <jump line="222" column="20" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/HttpDealSynchronizer.java" />
       <jump line="252" column="17" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/HttpDealSynchronizer.java" />
       <jump line="13" column="37" filename="$USER_HOME$/gitBucket/membersystem/WarDeploy/src/main/resources/application-prod.properties" />
+      <jump line="246" column="33" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AccountService.java" />
+      <jump line="70" column="60" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AccountService.java" />
+      <jump line="152" column="60" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AccountService.java" />
+      <jump line="193" column="60" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AccountService.java" />
+      <jump line="240" column="58" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AccountService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -746,7 +756,7 @@
         <text>\u6CF0\u8FB0\u4E2D\u533B\u8BCA\u6240</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZW5lcmF0ZVBGRmlsZVw+</text>
+        <text encoding="base64">XDx3ZWNoYXRNaW5pQXBwVXNlckxvZ2luXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">c3RvcmVOYW1lPVx1NTM2MVx1NTM2MVx1NEYxQVx1NTQ1OFx1NEUyRFx1NUZDMwo=</text>
@@ -783,9 +793,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZW5lcmF0ZVBGRmlsZVw+</last-search>
+      <last-search encoding="base64">XDx3ZWNoYXRNaW5pQXBwVXNlckxvZ2luXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZW5lcmF0ZVBGRmlsZVw+</last-pattern>
+      <last-pattern encoding="base64">XDx3ZWNoYXRNaW5pQXBwVXNlckxvZ2luXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZXNwb25zZVw+</last-substitute>
       <last-dir>1</last-dir>
@@ -793,7 +803,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxidG5EZWxldGVTdG9yZVw+</entry>
         <entry encoding="base64">XDxzdG9yZUlkXD4=</entry>
         <entry encoding="base64">XDxzdG9yZVw+</entry>
         <entry encoding="base64">XDxtaXNzaW5nUEZGaWxlXD4=</entry>
@@ -813,6 +822,7 @@
         <entry encoding="base64">XDxwZkZpbGVcPg==</entry>
         <entry encoding="base64">XDx1c2VyTmFtZVw+</entry>
         <entry encoding="base64">XDxnZW5lcmF0ZVBGRmlsZVw+</entry>
+        <entry encoding="base64">XDx3ZWNoYXRNaW5pQXBwVXNlckxvZ2luXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>maps</entry>
