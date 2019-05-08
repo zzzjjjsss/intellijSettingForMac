@@ -361,6 +361,12 @@
         <mark key="]" line="87" column="74" />
         <mark key="." line="87" column="74" />
       </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/WarDeploy/src/main/java/com/uf/member/filter/AuthenFilter.java" timestamp="1557308567795">
+        <mark key="[" line="57" column="131" />
+        <mark key="]" line="57" column="134" />
+        <mark key="." line="57" column="134" />
+        <mark key="^" line="57" column="134" />
+      </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/worker/sf-worker-citi/src/main/java/com/moodys/sav/citi/Test.java" timestamp="1554964276006">
         <mark key="[" line="17" column="10" />
         <mark key="]" line="17" column="21" />
@@ -734,7 +740,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJPHNjb3BlPnByb3ZpZGVkPC9zY29wZT4K</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuY2F0YWxpbmEuc2VydmxldDRwcmV2aWV3LlNlcnZsZXRDb250ZXh0Owo=</text>
       </register>
       <register name="-" type="4">
         <text>\u6CF0\u8FB0\u4E2D\u533B\u8BCA\u6240</text>
@@ -746,7 +752,7 @@
         <text encoding="base64">c3RvcmVOYW1lPVx1NTM2MVx1NTM2MVx1NEYxQVx1NTQ1OFx1NEUyRFx1NUZDMwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJPHNjb3BlPnByb3ZpZGVkPC9zY29wZT4K</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuY2F0YWxpbmEuc2VydmxldDRwcmV2aWV3LlNlcnZsZXRDb250ZXh0Owo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">CQkJPHNjb3BlPnByb3ZpZGVkPC9zY29wZT4K</text>
