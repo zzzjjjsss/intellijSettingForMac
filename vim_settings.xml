@@ -53,8 +53,8 @@
         <mark key="^" line="59" column="27" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/HttpDealSynchronizer.java" timestamp="1557302805880">
-        <mark key="'" line="252" column="17" />
+      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/HttpDealSynchronizer.java" timestamp="1557368844460">
+        <mark key="'" line="389" column="15" />
         <mark key="[" line="254" column="13" />
         <mark key="]" line="256" column="37" />
         <mark key="." line="256" column="37" />
@@ -277,7 +277,7 @@
         <mark key="^" line="4" column="3" />
         <mark key="." line="4" column="3" />
       </file>
-      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/SFW_DealSynchronizer.java" timestamp="1557298077801">
+      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/SFW_DealSynchronizer.java" timestamp="1557369181769">
         <mark key="[" line="20" column="80" />
         <mark key="]" line="20" column="83" />
         <mark key="^" line="20" column="83" />
@@ -641,7 +641,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="15" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" />
       <jump line="102" column="86" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" />
       <jump line="118" column="15" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" />
       <jump line="185" column="24" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" />
@@ -741,6 +740,7 @@
       <jump line="240" column="58" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AccountService.java" />
       <jump line="53" column="29" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/CommonController.java" />
       <jump line="70" column="47" filename="$USER_HOME$/gitBucket/membersystem/WechatAppApi/src/main/java/com/uf/wechat/miniapp/WechatApi.java" />
+      <jump line="389" column="15" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/HttpDealSynchronizer.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -750,7 +750,7 @@
         <text>\u6CF0\u8FB0\u4E2D\u533B\u8BCA\u6240</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx3ZWNoYXRNaW5pQXBwVXNlckxvZ2luXD4=</text>
+        <text encoding="base64">XDxkb3dubG9hZERlYWxVcmxcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">c3RvcmVOYW1lPVx1NTM2MVx1NTM2MVx1NEYxQVx1NTQ1OFx1NEUyRFx1NUZDMwo=</text>
@@ -787,9 +787,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx3ZWNoYXRNaW5pQXBwVXNlckxvZ2luXD4=</last-search>
+      <last-search encoding="base64">XDxkb3dubG9hZERlYWxVcmxcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx3ZWNoYXRNaW5pQXBwVXNlckxvZ2luXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxkb3dubG9hZERlYWxVcmxcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZXNwb25zZVw+</last-substitute>
       <last-dir>1</last-dir>
@@ -797,7 +797,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzdG9yZUlkXD4=</entry>
         <entry encoding="base64">XDxzdG9yZVw+</entry>
         <entry encoding="base64">XDxtaXNzaW5nUEZGaWxlXD4=</entry>
         <entry encoding="base64">XDxmb3VuZFBGRmlsZVw+</entry>
@@ -817,6 +816,7 @@
         <entry encoding="base64">XDx1c2VyTmFtZVw+</entry>
         <entry encoding="base64">XDxnZW5lcmF0ZVBGRmlsZVw+</entry>
         <entry encoding="base64">XDx3ZWNoYXRNaW5pQXBwVXNlckxvZ2luXD4=</entry>
+        <entry encoding="base64">XDxkb3dubG9hZERlYWxVcmxcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>maps</entry>
