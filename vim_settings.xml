@@ -98,9 +98,6 @@
         <mark key="." line="7" column="42" />
         <mark key="^" line="7" column="42" />
       </file>
-      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/UDEV/Enterprise/java/dealdownload/src/main/java/com/wsainc/dealdownload/DealDownloaderFromDL.java" timestamp="1557293250128">
-        <mark key="'" line="1379" column="16" />
-      </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/storemanager/ListCustomerResponse.java" timestamp="1555656665829">
         <mark key="[" line="7" column="31" />
         <mark key="]" line="10" column="36" />
@@ -403,6 +400,12 @@
         <mark key="]" line="47" column="57" />
         <mark key="^" line="47" column="57" />
         <mark key="." line="47" column="57" />
+      </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/WarDeploy/src/main/test/java/Test.java" timestamp="1557385384413">
+        <mark key="[" line="0" column="19" />
+        <mark key="]" line="2" column="7" />
+        <mark key="^" line="2" column="7" />
+        <mark key="." line="2" column="7" />
       </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/sf-data-provider/src/main/java/com/moodys/sav/data/dao/impl/postgresql/SystemConfigDaoImpl.java" timestamp="1557301398566">
         <mark key="[" line="16" column="0" />
