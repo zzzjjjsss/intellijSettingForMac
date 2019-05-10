@@ -64,12 +64,12 @@
         <mark key="^" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/service/AppDeployService.java" timestamp="1557455550303">
+      <file name="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/service/AppDeployService.java" timestamp="1557459426458">
         <mark key="'" line="55" column="0" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="^" line="42" column="72" />
-        <mark key="." line="49" column="0" />
+        <mark key="[" line="78" column="35" />
+        <mark key="]" line="78" column="43" />
+        <mark key="^" line="78" column="43" />
+        <mark key="." line="78" column="43" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/util/PropertiesFileUtil.java" timestamp="1557393439907">
         <mark key="[" line="21" column="36" />
@@ -174,10 +174,11 @@
         <mark key="^" line="10" column="32" />
         <mark key="." line="10" column="32" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/restful/controller/DeployAdminController.java" timestamp="1557395319216">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/restful/controller/DeployAdminController.java" timestamp="1557458517344">
+        <mark key="[" line="29" column="9" />
+        <mark key="]" line="31" column="51" />
+        <mark key="." line="31" column="51" />
+        <mark key="^" line="31" column="51" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/restful/bean/DeployNewAppRequest.java" timestamp="1557389512460">
         <mark key="]" line="18" column="35" />
@@ -250,6 +251,12 @@
         <mark key="^" line="20" column="83" />
         <mark key="." line="20" column="83" />
       </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/Test.java" timestamp="1557459398260">
+        <mark key="[" line="40" column="37" />
+        <mark key="]" line="40" column="43" />
+        <mark key="^" line="40" column="43" />
+        <mark key="." line="40" column="43" />
+      </file>
       <file name="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/restful/bean/AppRuntimeConfigResponse.java" timestamp="1557023523951">
         <mark key="[" line="2" column="64" />
         <mark key="]" line="8" column="48" />
@@ -303,11 +310,6 @@
         <mark key="]" line="11" column="41" />
         <mark key="." line="11" column="41" />
         <mark key="^" line="11" column="41" />
-      </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/restful/Application.java" timestamp="1557386956760">
-        <mark key="[" line="0" column="21" />
-        <mark key="]" line="0" column="21" />
-        <mark key="." line="0" column="21" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/AdminDataAccess/src/main/java/com/uf/member/dao/mysql/AdminRepo.java" timestamp="1556605557168">
         <mark key="[" line="6" column="26" />
@@ -509,11 +511,6 @@
         <mark key="." line="4" column="71" />
         <mark key="^" line="4" column="71" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557383360564">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/customer/CustomerAppointmentController.java" timestamp="1555397422494">
         <mark key="[" line="34" column="72" />
         <mark key="]" line="34" column="72" />
@@ -531,10 +528,6 @@
         <mark key="]" line="50" column="92" />
         <mark key="^" line="50" column="92" />
         <mark key="." line="50" column="92" />
-      </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/WarDeploy/src/main/java/com/uf/member/Application.java" timestamp="1557387671533">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="44" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/BindPhoneNumberRequest.java" timestamp="1555482221902">
         <mark key="[" line="3" column="31" />
@@ -689,10 +682,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>&quot;deployTmp&quot;+Thread.currentThread().getId()</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>&quot;deployTmp&quot;+Thread.currentThread().getId()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkb3dubG9hZERlYWxVcmxcPg==</text>
@@ -701,31 +694,31 @@
         <text encoding="base64">ICAgICAgICAgICAgcHJvcHMucHV0KCJ3ZWNoYXQuc2VjcmV0IixyZXF1ZXN0LmdldFdlY2hhdFNlY3JldCgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8cGFja2FnaW5nRXhjbHVkZXM+JXJlZ2V4W1dFQi1JTkYvbGliL1teKChEYXRhQWNjZXNzfFdlY2hhdEFwcEFwaSkuKmphcildXTwvcGFja2FnaW5nRXhjbHVkZXM+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8cGFja2FnaW5nRXhjbHVkZXM+JXJlZ2V4W1dFQi1JTkYvbGliL1teKChEYXRhQWNjZXNzfFdlY2hhdEFwcEFwaSkuKmphcildPC9wYWNrYWdpbmdFeGNsdWRlcz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8cGFja2FnaW5nRXhjbHVkZXM+JXJlZ2V4W1dFQi1JTkYvbGliL1teKChEYXRhQWNjZXNzfFdlY2hhdEFwcEFwaSkuKmphcildXTwvcGFja2FnaW5nRXhjbHVkZXM+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICAgICAgPHBhY2thZ2luZ0V4Y2x1ZGVzPiVyZWdleFtXRUItSU5GL2xpYi9bXihEYXRhQWNjZXNzfFdlY2hhdEFwcEFwaSldLipqYXJdPC9wYWNrYWdpbmdFeGNsdWRlcz4tLT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8cGFja2FnaW5nRXhjbHVkZXM+JXJlZ2V4W1dFQi1JTkYvbGliL1teKChEYXRhQWNjZXNzfFdlY2hhdEFwcEFwaSkuKmphcildPC9wYWNrYWdpbmdFeGNsdWRlcz4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQk8cGFja2FnaW5nSW5jbHVkZXM+V0VCLUlORi9saWIvRGF0YUFjY2VzcyouamFyLFdFQi1JTkYvbGliL01lbWJlclN5c3RlbSouamFyLFdFQi1JTkYvbGliL1dlY2hhdEFwcEFwaSouamFyLFdFQi1JTkYvY2xhc3Nlcy8qLio8L3BhY2thZ2luZ0luY2x1ZGVzPgo=</text>
+        <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICAgICAgPHBhY2thZ2luZ0V4Y2x1ZGVzPiVyZWdleFtXRUItSU5GL2xpYi9bXihEYXRhQWNjZXNzfFdlY2hhdEFwcEFwaSldLipqYXJdPC9wYWNrYWdpbmdFeGNsdWRlcz4tLT4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQk8cGFja2FnaW5nSW5jbHVkZXM+V0VCLUlORi9saWIvRGF0YUFjY2VzcyouamFyLFdFQi1JTkYvbGliL01lbWJlclN5c3RlbSouamFyLFdFQi1JTkYvbGliL1dlY2hhdEFwcEFwaSouamFyLFdFQi1JTkYvY2xhc3Nlcy8qLio8L3BhY2thZ2luZ0luY2x1ZGVzPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QEVuYWJsZUF1dG9Db25maWd1cmF0aW9uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
+        <text encoding="base64">QEVuYWJsZUF1dG9Db25maWd1cmF0aW9uCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgcyA9IDsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgcyA9IDsK</text>
       </register>
       <register name=":" type="4">
         <text>map</text>
