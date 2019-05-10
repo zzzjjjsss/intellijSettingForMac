@@ -53,12 +53,12 @@
         <mark key="^" line="59" column="27" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/HttpDealSynchronizer.java" timestamp="1557470833496">
-        <mark key="'" line="51" column="19" />
-        <mark key="[" line="176" column="0" />
-        <mark key="]" line="421" column="8" />
-        <mark key="." line="421" column="8" />
-        <mark key="^" line="421" column="8" />
+      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/HttpDealSynchronizer.java" timestamp="1557471961879">
+        <mark key="'" line="117" column="33" />
+        <mark key="[" line="197" column="42" />
+        <mark key="]" line="197" column="47" />
+        <mark key="^" line="197" column="47" />
+        <mark key="." line="197" column="47" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/admin/ConfigureResponse.java" timestamp="1557039342326">
         <mark key="[" line="2" column="31" />
@@ -693,10 +693,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="290" column="36" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" />
-      <jump line="352" column="14" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" />
-      <jump line="337" column="27" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" />
-      <jump line="407" column="41" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" />
       <jump line="406" column="70" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" />
       <jump line="404" column="40" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" />
       <jump line="219" column="0" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/resources/web/runtimeConfig.html" />
@@ -755,7 +751,6 @@
       <jump line="78" column="48" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/UDEV/Enterprise/java/dealdownload/src/main/java/com/wsainc/dealdownload/DealDownloaderFromDL.java" />
       <jump line="1379" column="16" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/UDEV/Enterprise/java/dealdownload/src/main/java/com/wsainc/dealdownload/DealDownloaderFromDL.java" />
       <jump line="375" column="20" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/HttpDealSynchronizer.java" />
-      <jump line="117" column="13" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/HttpDealSynchronizer.java" />
       <jump line="120" column="49" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/HttpDealSynchronizer.java" />
       <jump line="121" column="42" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/HttpDealSynchronizer.java" />
       <jump line="123" column="66" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/HttpDealSynchronizer.java" />
@@ -791,57 +786,62 @@
       <jump line="39" column="0" filename="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/service/AppDeployService.java" />
       <jump line="475" column="20" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/HttpDealSynchronizer.java" />
       <jump line="383" column="20" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/HttpDealSynchronizer.java" />
-      <jump line="51" column="19" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/HttpDealSynchronizer.java" />
       <jump line="147" column="79" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/utils/CxconTool.java" />
+      <jump line="180" column="12" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/HttpDealSynchronizer.java" />
+      <jump line="187" column="42" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/HttpDealSynchronizer.java" />
+      <jump line="168" column="29" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/HttpDealSynchronizer.java" />
+      <jump line="171" column="12" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/HttpDealSynchronizer.java" />
+      <jump line="51" column="19" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/HttpDealSynchronizer.java" />
+      <jump line="117" column="33" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/HttpDealSynchronizer.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>String</text>
+        <text>update</text>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text>update</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkZWFsVHlwZVw+</text>
+        <text encoding="base64">XDxkZWFsRG93bmxvYWRQYXRoXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTdHJpbmcgcmVhbFBhdGggPSByZXF1ZXN0LmdldFNlcnZsZXRDb250ZXh0KCkuZ2V0UmVhbFBhdGgoIi8iKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9ZWxzZXsK</text>
+        <text encoding="base64">CQlib29sZWFuIG5lZWRDb21wcmVzcyA9IGZhbHNlOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocmVzdWx0LmlzU3VjY2VzcygpKXsK</text>
+        <text encoding="base64">CQkJCX0gZWxzZSB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQl1bm5lZWREb3dubG9hZC5hZGQoZGVhbFVwZGF0ZSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBPcGVyYXRpb25SZXN1bHQgcmVzdWx0PWRlcGxveVNlcnZpY2UuZGVwbG95TmV3QXBwKGFwcENvbmZpZ0luZm8sIG5ldyBGaWxlKHJlYWxQYXRoKS5nZXRQYXJlbnRGaWxlKCkpOwo=</text>
+        <text encoding="base64">CQlMaXN0PERlYWxVcGRhdGVJbmZvPiB1bm5lZWREb3dubG9hZCA9IG5ldyBBcnJheUxpc3Q8PigpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBPcGVyYXRpb25SZXN1bHQgdW5kZXBsb3lBcHAoU3RyaW5nICkK</text>
+        <text encoding="base64">CQlMaXN0PERlYWxVcGRhdGVJbmZvPiBleGlzdEluZm9zID0gZGVhbFN5bmNTZXJ2aWNlLmdldERlYWxVcGRhdGVJbmZvcyhkZWFsSWQpOwoJCU1hcDxTdHJpbmcsIERlYWxVcGRhdGVJbmZvPiBleGlzdE1hcCA9IG5ldyBIYXNoTWFwPD4oKTsKCQlpZiAoZXhpc3RJbmZvcyAhPSBudWxsKSB7CgkJCWV4aXN0SW5mb3MuZm9yRWFjaChlIC0+IHsKCQkJCWV4aXN0TWFwLnB1dChlLmdldERlYWxVcGRhdGVJZCgpLCBlKTsKCQkJfSk7CgkJfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInJlYWxQYXRoOiIrcmVhbFBhdGgpOwo=</text>
+        <text encoding="base64">CQkJZGVhbFN5bmNTZXJ2aWNlLmQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInJlYWxQYXRoOiIrcmVhbFBhdGgpOwo=</text>
+        <text encoding="base64">ICAgICAgICB9ZWxzZXsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgcmVhbFBhdGggPSByZXF1ZXN0LmdldFNlcnZsZXRDb250ZXh0KCkuZ2V0UmVhbFBhdGgoIi8iKTsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAocmVzdWx0LmlzU3VjY2VzcygpKXsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>map</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkZWFsVHlwZVw+</last-search>
+      <last-search encoding="base64">XDxkZWFsRG93bmxvYWRQYXRoXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkZWFsVHlwZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxkZWFsRG93bmxvYWRQYXRoXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZXNwb25zZVw+</last-substitute>
       <last-dir>1</last-dir>
@@ -849,9 +849,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmb3VuZFBGRmlsZVw+</entry>
-        <entry encoding="base64">XDxzUGF5bWVudEZyZXFGaWxlRXh0XD4=</entry>
-        <entry encoding="base64">XDxzRHVtbXlQYXltZW50RnJlcXVlbmN5XD4=</entry>
         <entry encoding="base64">XDxzUGF5bWVudEZyZXF1ZW5jeVw+</entry>
         <entry encoding="base64">XDx3YWl0Rm9yXD4=</entry>
         <entry encoding="base64">XDxzUGF0aEluU0ZXXD4=</entry>
@@ -867,8 +864,11 @@
         <entry encoding="base64">XDx3ZWNoYXRNaW5pQXBwVXNlckxvZ2luXD4=</entry>
         <entry encoding="base64">XDxkb3dubG9hZERlYWxVcmxcPg==</entry>
         <entry encoding="base64">XDxkb3dubG9hZERlYWxGaWxlVG9EZWFsc0ZvbGRlclw+</entry>
-        <entry encoding="base64">XDxkZWFsRG93bmxvYWRQYXRoXD4=</entry>
         <entry encoding="base64">XDxkZWFsVHlwZVw+</entry>
+        <entry encoding="base64">XDxleGlzdERlYWxVcGRhdGVJZHNcPg==</entry>
+        <entry encoding="base64">XDxkZWFsU3luY1NlcnZpY2VcPg==</entry>
+        <entry encoding="base64">XDxkZWFsVXBkYXRlc1w+</entry>
+        <entry encoding="base64">XDxkZWFsRG93bmxvYWRQYXRoXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>maps</entry>
