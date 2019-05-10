@@ -64,12 +64,11 @@
         <mark key="^" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/service/AppDeployService.java" timestamp="1557459426458">
-        <mark key="'" line="55" column="0" />
-        <mark key="[" line="78" column="35" />
-        <mark key="]" line="78" column="43" />
-        <mark key="^" line="78" column="43" />
-        <mark key="." line="78" column="43" />
+      <file name="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/service/AppDeployService.java" timestamp="1557467799124">
+        <mark key="'" line="56" column="0" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/util/PropertiesFileUtil.java" timestamp="1557393439907">
         <mark key="[" line="21" column="36" />
@@ -174,11 +173,11 @@
         <mark key="^" line="10" column="32" />
         <mark key="." line="10" column="32" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/restful/controller/DeployAdminController.java" timestamp="1557458517344">
-        <mark key="[" line="29" column="9" />
-        <mark key="]" line="31" column="51" />
-        <mark key="." line="31" column="51" />
-        <mark key="^" line="31" column="51" />
+      <file name="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/restful/controller/DeployAdminController.java" timestamp="1557467928779">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="16" />
+        <mark key="." line="42" column="16" />
+        <mark key="^" line="40" column="46" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/restful/bean/DeployNewAppRequest.java" timestamp="1557389512460">
         <mark key="]" line="18" column="35" />
@@ -691,44 +690,44 @@
       <jump line="39" column="0" filename="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/service/AppDeployService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>just  package  necessary   jar</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>just  package  necessary   jar</text>
+        <text>Name</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkb3dubG9hZERlYWxVcmxcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJvcHMucHV0KCJ3ZWNoYXQuc2VjcmV0IixyZXF1ZXN0LmdldFdlY2hhdFNlY3JldCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgcmVhbFBhdGggPSByZXF1ZXN0LmdldFNlcnZsZXRDb250ZXh0KCkuZ2V0UmVhbFBhdGgoIi8iKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8cGFja2FnaW5nRXhjbHVkZXM+JXJlZ2V4W1dFQi1JTkYvbGliL1teKChEYXRhQWNjZXNzfFdlY2hhdEFwcEFwaSkuKmphcildXTwvcGFja2FnaW5nRXhjbHVkZXM+Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8cGFja2FnaW5nRXhjbHVkZXM+JXJlZ2V4W1dFQi1JTkYvbGliL1teKChEYXRhQWNjZXNzfFdlY2hhdEFwcEFwaSkuKmphcildPC9wYWNrYWdpbmdFeGNsdWRlcz4K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICAgICAgPHBhY2thZ2luZ0V4Y2x1ZGVzPiVyZWdleFtXRUItSU5GL2xpYi9bXihEYXRhQWNjZXNzfFdlY2hhdEFwcEFwaSldLipqYXJdPC9wYWNrYWdpbmdFeGNsdWRlcz4tLT4K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkJCQk8cGFja2FnaW5nSW5jbHVkZXM+V0VCLUlORi9saWIvRGF0YUFjY2VzcyouamFyLFdFQi1JTkYvbGliL01lbWJlclN5c3RlbSouamFyLFdFQi1JTkYvbGliL1dlY2hhdEFwcEFwaSouamFyLFdFQi1JTkYvY2xhc3Nlcy8qLio8L3BhY2thZ2luZ0luY2x1ZGVzPgo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBPcGVyYXRpb25SZXN1bHQgcmVzdWx0PWRlcGxveVNlcnZpY2UuZGVwbG95TmV3QXBwKGFwcENvbmZpZ0luZm8sIG5ldyBGaWxlKHJlYWxQYXRoKS5nZXRQYXJlbnRGaWxlKCkpOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBPcGVyYXRpb25SZXN1bHQgdW5kZXBsb3lBcHAoU3RyaW5nICkK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInJlYWxQYXRoOiIrcmVhbFBhdGgpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInJlYWxQYXRoOiIrcmVhbFBhdGgpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgcmVhbFBhdGggPSByZXF1ZXN0LmdldFNlcnZsZXRDb250ZXh0KCkuZ2V0UmVhbFBhdGgoIi8iKTsK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">QEVuYWJsZUF1dG9Db25maWd1cmF0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8cGFja2FnaW5nRXhjbHVkZXM+JXJlZ2V4W1dFQi1JTkYvbGliL1teKChEYXRhQWNjZXNzfFdlY2hhdEFwcEFwaSkuKmphcildXTwvcGFja2FnaW5nRXhjbHVkZXM+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgcyA9IDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8cGFja2FnaW5nRXhjbHVkZXM+JXJlZ2V4W1dFQi1JTkYvbGliL1teKChEYXRhQWNjZXNzfFdlY2hhdEFwcEFwaSkuKmphcildPC9wYWNrYWdpbmdFeGNsdWRlcz4K</text>
       </register>
       <register name=":" type="4">
         <text>map</text>
