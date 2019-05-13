@@ -66,13 +66,6 @@
         <mark key="^" line="5" column="58" />
         <mark key="." line="5" column="58" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/WechatAppApi/src/main/java/com/uf/wechat/miniapp/WechatApi.java" timestamp="1557312238021">
-        <mark key="'" line="70" column="47" />
-        <mark key="[" line="47" column="34" />
-        <mark key="]" line="48" column="23" />
-        <mark key="^" line="48" column="23" />
-        <mark key="." line="48" column="23" />
-      </file>
       <file name="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/restful/bean/StoreInfo.java" timestamp="1557142379066">
         <mark key="'" line="18" column="19" />
         <mark key="[" line="28" column="0" />
@@ -174,11 +167,11 @@
         <mark key="^" line="50" column="45" />
         <mark key="." line="71" column="0" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/customer/CustomerController.java" timestamp="1557718933382">
-        <mark key="[" line="105" column="76" />
-        <mark key="]" line="106" column="64" />
-        <mark key="^" line="106" column="64" />
-        <mark key="." line="106" column="64" />
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/customer/CustomerController.java" timestamp="1557722371460">
+        <mark key="[" line="105" column="19" />
+        <mark key="]" line="105" column="92" />
+        <mark key="^" line="105" column="92" />
+        <mark key="." line="105" column="92" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/resources/application-dev.properties" timestamp="1557111552012">
         <mark key="[" line="6" column="38" />
@@ -590,7 +583,7 @@
         <mark key="." line="4" column="71" />
         <mark key="^" line="4" column="71" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557480501081">
+      <file name="/Dummy.txt" timestamp="1557723021034">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -601,7 +594,8 @@
         <mark key="^" line="39" column="169" />
         <mark key="." line="34" column="72" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/GetInfoService.java" timestamp="1557718997828">
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/GetInfoService.java" timestamp="1557722434145">
+        <mark key="'" line="180" column="23" />
         <mark key="[" line="183" column="0" />
         <mark key="]" line="183" column="0" />
         <mark key="." line="183" column="0" />
@@ -678,7 +672,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="28" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/resources/web/runtimeConfig.html" />
       <jump line="54" column="54" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/resources/web/runtimeConfig.html" />
       <jump line="67" column="4" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/resources/web/runtimeConfig.html" />
       <jump line="100" column="21" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/resources/web/runtimeConfig.html" />
@@ -778,63 +771,63 @@
       <jump line="191" column="8" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/GetInfoService.java" />
       <jump line="186" column="108" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/GetInfoService.java" />
       <jump line="183" column="0" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/GetInfoService.java" />
+      <jump line="180" column="23" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/GetInfoService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJY3VzdG9tZXJSZXBvLnNhdmUoY3VzdG9tZXIpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>add undeploy  api</text>
       </register>
       <register name="-" type="4">
-        <text>setCustomerRealName</text>
+        <text>add undeploy  api</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkZWFsU3luY1NlcnZpY2VcPg==</text>
+        <text encoding="base64">XDx3ZWNoYXRVc2VyXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CUBBdXRvd2lyZWQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJY3VzdG9tZXJSZXBvLnNhdmUoY3VzdG9tZXIpOwo=</text>
+        <text encoding="base64">CQlpbmZvU2VydmljZS5zZXRDdXN0b21lclJlYWxOYW1lKGN1c3RvbWVyLHNldHRpbmcuZ2V0Q3VzdG9tZXJOYW1lKCkpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJY3VzdG9tZXJSZXBvLnNhdmUoY3VzdG9tZXIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXB1YmxpYyB2b2lkIHNldEN1c3RvbWVyUGhvbmUoQ3VzdG9tZXIgY3VzdG9tZXIsIFN0cmluZyBwaG9uZSkgewoJfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJd2UJCg==</text>
+        <text encoding="base64">CXB1YmxpYyB2b2lkIHNldEN1c3RvbWVyUGhvbmUoQ3VzdG9tZXIgY3VzdG9tZXIsIFN0cmluZyBwaG9uZSkgewoJfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlyZXR1cm4gMDsK</text>
+        <text encoding="base64">CQkJd2UJCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+        <text encoding="base64">CQlyZXR1cm4gMDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJaWYgKGFkKQo=</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlkZWFsU3luY1NlcnZpY2UucmVmcmVzc0RlYWxVcGRhdGVJbm9mcyhkZWFsSWQsIGRvd25sb2FkU3VjZXNzKTsK</text>
+        <text encoding="base64">CQkJaWYgKGFkKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlkb3dubG9hZFN1Y2Vzcy5hZGRBbGwodW5uZWVkRG93bmxvYWQpOwo=</text>
+        <text encoding="base64">CQlkZWFsU3luY1NlcnZpY2UucmVmcmVzc0RlYWxVcGRhdGVJbm9mcyhkZWFsSWQsIGRvd25sb2FkU3VjZXNzKTsK</text>
       </register>
       <register name=":" type="4">
         <text>map</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkZWFsU3luY1NlcnZpY2VcPg==</last-search>
+      <last-search encoding="base64">XDx3ZWNoYXRVc2VyXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkZWFsU3luY1NlcnZpY2VcPg==</last-pattern>
+      <last-pattern encoding="base64">XDx3ZWNoYXRVc2VyXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZXNwb25zZVw+</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwYXJzZURlYWxEb2N1bWVudFw+</entry>
         <entry encoding="base64">XDxtUGF5RnJlcU1hcHBpbmdcPg==</entry>
         <entry encoding="base64">XDxhZGRlZEZpbGVcPg==</entry>
         <entry encoding="base64">XDx0bXBGb2xkZXJcPg==</entry>
@@ -854,6 +847,7 @@
         <entry encoding="base64">XDxjaGVja1Nmd0RlYWxGaWxlSXNWYWxpZFw+</entry>
         <entry encoding="base64">XDxzZndDeGNvblNhdmVGb2xkZXJcPg==</entry>
         <entry encoding="base64">XDxkZWFsU3luY1NlcnZpY2VcPg==</entry>
+        <entry encoding="base64">XDx3ZWNoYXRVc2VyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>maps</entry>
