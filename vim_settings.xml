@@ -47,7 +47,7 @@
         <mark key="^" line="59" column="27" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/HttpDealSynchronizer.java" timestamp="1557481211392">
+      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/HttpDealSynchronizer.java" timestamp="1557730708415">
         <mark key="'" line="243" column="16" />
         <mark key="[" line="180" column="58" />
         <mark key="]" line="180" column="64" />
@@ -593,7 +593,7 @@
         <mark key="." line="4" column="71" />
         <mark key="^" line="4" column="71" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557723021034">
+      <file name="/Dummy.txt" timestamp="1557730356301">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -784,11 +784,11 @@
       <jump line="44" column="76" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/storemanager/SettingController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>customer can  modify bind phone if the  bindPhonetype is input</text>
       </register>
       <register name="-" type="4">
-        <text>CommonSettingResponse</text>
+        <text>customer can  modify bind phone if the  bindPhonetype is input</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3ZWNoYXRVc2VyXD4=</text>
