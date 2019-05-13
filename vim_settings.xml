@@ -355,6 +355,7 @@
         <mark key="]" line="0" column="21" />
         <mark key="." line="0" column="21" />
       </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/admin/AdminController.java" timestamp="1557727039536" />
       <file name="$USER_HOME$/gitBucket/membersystem/AdminDataAccess/src/main/java/com/uf/member/dao/mysql/AdminRepo.java" timestamp="1556605557168">
         <mark key="[" line="6" column="26" />
         <mark key="]" line="6" column="43" />
@@ -373,6 +374,14 @@
         <mark key="^" line="26" column="37" />
         <mark key="." line="43" column="0" />
       </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/storemanager/SettingController.java" timestamp="1557727160075">
+        <mark key="'" line="48" column="76" />
+        <mark key="[" line="56" column="11" />
+        <mark key="]" line="56" column="50" />
+        <mark key="." line="56" column="50" />
+        <mark key="^" line="56" column="50" />
+      </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/WarDeploy/src/main/resources/application.properties" timestamp="1557393264381" />
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-client-service/src/main/java/com/moodys/sav/client/controller/JobAdminController.java" timestamp="1554972932958">
         <mark key="[" line="72" column="23" />
         <mark key="]" line="72" column="47" />
@@ -489,6 +498,7 @@
         <mark key="^" line="7" column="50" />
         <mark key="." line="7" column="50" />
       </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/storemanager/AdminService.java" timestamp="1557727079011" />
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/pcstoremanager/AccountController.java" timestamp="1554879090899">
         <mark key="[" line="18" column="17" />
         <mark key="]" line="18" column="17" />
@@ -672,9 +682,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="54" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/resources/web/runtimeConfig.html" />
-      <jump line="67" column="4" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/resources/web/runtimeConfig.html" />
-      <jump line="100" column="21" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/resources/web/runtimeConfig.html" />
       <jump line="116" column="16" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/restful/controller/AdminController.java" />
       <jump line="142" column="0" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/restful/controller/AdminController.java" />
       <jump line="134" column="20" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/resources/web/runtimeConfig.html" />
@@ -772,46 +779,49 @@
       <jump line="186" column="108" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/GetInfoService.java" />
       <jump line="183" column="0" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/GetInfoService.java" />
       <jump line="180" column="23" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/GetInfoService.java" />
+      <jump line="47" column="7" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/storemanager/SettingController.java" />
+      <jump line="45" column="82" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/storemanager/SettingController.java" />
+      <jump line="44" column="76" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/storemanager/SettingController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>add undeploy  api</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>add undeploy  api</text>
+        <text>CommonSettingResponse</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3ZWNoYXRVc2VyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CUBBdXRvd2lyZWQK</text>
+        <text encoding="base64">ICAgIEBSZXF1ZXN0TWFwcGluZyh2YWx1ZSA9ICJnZXRDb21tb25TZXR0aW5nIiwgbWV0aG9kID0gUmVxdWVzdE1ldGhvZC5HRVQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlpbmZvU2VydmljZS5zZXRDdXN0b21lclJlYWxOYW1lKGN1c3RvbWVyLHNldHRpbmcuZ2V0Q3VzdG9tZXJOYW1lKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJY3VzdG9tZXJSZXBvLnNhdmUoY3VzdG9tZXIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAocmVzdWx0LmlzU3VjY2VzcygpKXsKICAgICAgICAgICAgcmVzcG9uc2Uuc2V0UmVzdWx0Q29kZShSZXN0ZnVsUmVzcG9uc2UuUmVzdWx0Q29kZS5PSyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXNwb25zZS5zZXRTdG9yZU5hbWUoc3RvcmUuZ2V0TmFtZSgpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXB1YmxpYyB2b2lkIHNldEN1c3RvbWVyUGhvbmUoQ3VzdG9tZXIgY3VzdG9tZXIsIFN0cmluZyBwaG9uZSkgewoJfQo=</text>
+        <text encoding="base64">ICAgICAgICBTdG9yZSBzdG9yZSA9IHN0b3JlU2VydmljZS5nZXRTdG9yZSgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJd2UJCg==</text>
+        <text encoding="base64">ICAgIEBSZXF1ZXN0TWFwcGluZyh2YWx1ZSA9ICJnZXRDb21tb25TZXR0aW5nIiwgbWV0aG9kID0gUmVxdWVzdE1ldGhvZC5HRVQpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlyZXR1cm4gMDsK</text>
+        <text encoding="base64">CQlpbmZvU2VydmljZS5zZXRDdXN0b21lclJlYWxOYW1lKGN1c3RvbWVyLHNldHRpbmcuZ2V0Q3VzdG9tZXJOYW1lKCkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+        <text encoding="base64">CQkJY3VzdG9tZXJSZXBvLnNhdmUoY3VzdG9tZXIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJaWYgKGFkKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlkZWFsU3luY1NlcnZpY2UucmVmcmVzc0RlYWxVcGRhdGVJbm9mcyhkZWFsSWQsIGRvd25sb2FkU3VjZXNzKTsK</text>
+        <text encoding="base64">CXB1YmxpYyB2b2lkIHNldEN1c3RvbWVyUGhvbmUoQ3VzdG9tZXIgY3VzdG9tZXIsIFN0cmluZyBwaG9uZSkgewoJfQo=</text>
       </register>
       <register name=":" type="4">
         <text>map</text>
