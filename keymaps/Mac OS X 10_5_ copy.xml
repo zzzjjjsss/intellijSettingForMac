@@ -41,6 +41,7 @@
   <action id="DirDiffMenu.SynchronizeDiff.All" />
   <action id="DuplicatesForm.SendToRight" />
   <action id="EditorChooseLookupItemDot" />
+  <action id="EditorCutLineEnd" />
   <action id="EditorDown">
     <keyboard-shortcut first-keystroke="down" />
   </action>
