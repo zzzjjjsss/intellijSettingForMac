@@ -197,11 +197,11 @@
         <mark key="^" line="10" column="32" />
         <mark key="." line="10" column="32" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/restful/controller/DeployAdminController.java" timestamp="1557468612030">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="8" />
-        <mark key="^" line="43" column="32" />
-        <mark key="." line="51" column="8" />
+      <file name="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/restful/controller/DeployAdminController.java" timestamp="1557813840312">
+        <mark key="[" line="50" column="48" />
+        <mark key="]" line="50" column="58" />
+        <mark key="^" line="50" column="58" />
+        <mark key="." line="50" column="58" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/pcstoremanager/AppointmentInfoController.java" timestamp="1555477318484">
         <mark key="[" line="39" column="92" />
@@ -308,11 +308,11 @@
         <mark key="^" line="52" column="38" />
         <mark key="." line="52" column="38" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/filter/AuthenFilter.java" timestamp="1557387854590">
-        <mark key="[" line="18" column="65" />
-        <mark key="]" line="18" column="66" />
-        <mark key="^" line="19" column="12" />
-        <mark key="." line="18" column="66" />
+      <file name="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/filter/AuthenFilter.java" timestamp="1557813882286">
+        <mark key="[" line="8" column="61" />
+        <mark key="]" line="8" column="61" />
+        <mark key="^" line="8" column="59" />
+        <mark key="." line="8" column="61" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/cache/CacheService.java" timestamp="1555988762583">
         <mark key="[" line="9" column="90" />
@@ -785,10 +785,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>customer can  modify bind phone if the  bindPhonetype is input</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>customer can  modify bind phone if the  bindPhonetype is input</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3ZWNoYXRVc2VyXD4=</text>
