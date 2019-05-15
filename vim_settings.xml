@@ -66,7 +66,7 @@
         <mark key="^" line="5" column="58" />
         <mark key="." line="5" column="58" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/WechatAppApi/src/main/java/com/uf/wechat/miniapp/WechatApi.java" timestamp="1557312238021">
+      <file name="$USER_HOME$/gitBucket/membersystem/WechatAppApi/src/main/java/com/uf/wechat/miniapp/WechatApi.java" timestamp="1557909509830">
         <mark key="'" line="75" column="47" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/restful/bean/StoreInfo.java" timestamp="1557142379066">
@@ -413,11 +413,11 @@
         <mark key="^" line="9" column="44" />
         <mark key="." line="3" column="132" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/component/ApplicationInit.java" timestamp="1557904546158">
-        <mark key="[" line="98" column="71" />
-        <mark key="]" line="98" column="71" />
-        <mark key="." line="98" column="71" />
-        <mark key="^" line="98" column="78" />
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/component/ApplicationInit.java" timestamp="1557909540254">
+        <mark key="[" line="70" column="24" />
+        <mark key="]" line="71" column="22" />
+        <mark key="." line="71" column="22" />
+        <mark key="^" line="71" column="22" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/event/bean/SendSmsToAllCustomerEvent.java" timestamp="1555570674338">
         <mark key="[" line="2" column="40" />
@@ -536,11 +536,11 @@
         <mark key="^" line="19" column="83" />
         <mark key="." line="19" column="83" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/Test/src/main/java/com/uf/member/stress/Application.java" timestamp="1557908215380">
-        <mark key="[" line="15" column="27" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="15" column="30" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/gitBucket/membersystem/Test/src/main/java/com/uf/member/stress/Application.java" timestamp="1557909443751">
+        <mark key="[" line="40" column="15" />
+        <mark key="]" line="43" column="19" />
+        <mark key="." line="43" column="19" />
+        <mark key="^" line="43" column="19" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/pom.xml" timestamp="1557112379481">
         <mark key="'" line="0" column="0" />
@@ -701,6 +701,9 @@
         <mark key="^" line="10" column="48" />
         <mark key="." line="10" column="48" />
       </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/pom.xml" timestamp="1557826091761">
+        <mark key="'" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="127" column="12" filename="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/resources/web/index.html" />
@@ -806,10 +809,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Jg==</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb3VudENhcmRJbmZvc1w+</text>
@@ -818,31 +821,31 @@
         <text encoding="base64">ICAgICAgICByZXF1ZXN0LmFkZFByb3BlcnR5KCIiLCIiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICByZXR1cm47IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yKGludCBpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB7InN0b3JlTmFtZSI6Iua1i+ivleWVhuW6l+WQjeensCIsImNvbnRleHRQYXRoIjoidGVzdFBhdGgxIiwiZGF0YXNvdXJjZUFkZHJlc3MiOiIxMjcuMC4wLjE6MzMwNiIsImRhdGFzb3VyY2VVc2VybmFtZSI6InJvb3QiLCIiOiIiLCIiOiIiLCIiOiIifQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGN1cnJlbmN5PQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1ZXN0LmFkZFByb3BlcnR5KCIiLCIiKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1ZXN0LmFkZFByb3BlcnR5KCIiLCIiKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>map</text>
