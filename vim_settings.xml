@@ -17,6 +17,7 @@
         <mark key="." line="248" column="59" />
         <mark key="^" line="248" column="59" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.6.RELEASE/spring-boot-autoconfigure-1.5.6.RELEASE.jar!/META-INF/spring-configuration-metadata.json" timestamp="1557989381932" />
       <file name="$USER_HOME$/gitBucket/membersystem/WechatAppApi/src/main/java/com/uf/wechat/miniapp/WechatApi.java" timestamp="1557909509830">
         <mark key="'" line="75" column="47" />
       </file>
@@ -204,8 +205,8 @@
         <mark key="^" line="5" column="54" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/storemanager/AdminService.java" timestamp="1557727079011" />
-      <file name="$USER_HOME$/gitBucket/membersystem/WarDeploy/src/main/resources/application-dev.properties" timestamp="1557395974023">
-        <mark key="[" line="5" column="37" />
+      <file name="$USER_HOME$/gitBucket/membersystem/WarDeploy/src/main/resources/application-dev.properties" timestamp="1557988700230">
+        <mark key="[" line="7" column="31" />
         <mark key="]" line="5" column="54" />
         <mark key="^" line="5" column="54" />
         <mark key="." line="5" column="54" />
