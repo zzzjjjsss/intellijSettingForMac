@@ -208,19 +208,19 @@
         <mark key="." line="92" column="33" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/storemanager/CardManageService.java" timestamp="1557902591801" />
-      <file name="$USER_HOME$/gitBucket/membersystem/WarDeploy/src/main/resources/application-prod.properties" timestamp="1557994092614">
-        <mark key="'" line="15" column="37" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="37" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/gitBucket/membersystem/WarDeploy/src/main/resources/application-prod.properties" timestamp="1558003852747">
+        <mark key="'" line="16" column="37" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="64" />
+        <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="54" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/storemanager/AdminService.java" timestamp="1557727079011" />
-      <file name="$USER_HOME$/gitBucket/membersystem/WarDeploy/src/main/resources/application-dev.properties" timestamp="1557994088975">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="37" />
-        <mark key="^" line="5" column="54" />
-        <mark key="." line="5" column="54" />
+      <file name="$USER_HOME$/gitBucket/membersystem/WarDeploy/src/main/resources/application-dev.properties" timestamp="1558003849052">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="64" />
+        <mark key="." line="5" column="63" />
+        <mark key="^" line="5" column="63" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/Customer.java" timestamp="1557718879647">
         <mark key="[" line="20" column="34" />
@@ -237,10 +237,10 @@
         <mark key="]" line="27" column="50" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/Test/src/main/java/com/uf/member/stress/Application.java" timestamp="1557913647748">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
+      <file name="$USER_HOME$/gitBucket/membersystem/Test/src/main/java/com/uf/member/stress/Application.java" timestamp="1558004152685">
+        <mark key="[" line="41" column="34" />
+        <mark key="]" line="41" column="34" />
+        <mark key="." line="41" column="34" />
         <mark key="^" line="17" column="18" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/Test/src/main/java/com/uf/member/stress/util/HttpUtil.java" timestamp="1557913564722">
@@ -401,17 +401,17 @@
       <jump line="750" column="15" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-cmm-proxy/src/main/java/com/moodys/sav/sfs/cmm/generator/v4/CmmDataGeneratorTask.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c3ByaW5nLmRhdGFzb3VyY2UudG9tY2F0Lm1heC1hY3RpdmU9NQo=</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>dealSavePathTmp</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZW5lcmF0ZUZpbmFsQ21tRGF0YUJ5U2Z3YXBpXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c3ByaW5nLmRhdGFzb3VyY2UudG9tY2F0Lm1heC1hY3RpdmU9NQo=</text>
+        <text encoding="base64">c3ByaW5nLmpwYS5kYXRhYmFzZS1wbGF0Zm9ybT1vcmcuaGliZXJuYXRlLmRpYWxlY3QuTXlTUUw1RGlhbGVjdAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -423,22 +423,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICB0aGlzLmRlYWxEb3dubG9hZFBhdGg9bmV3IEZpbGUoZGVhbEZvbGRlciwiL3Nmd0RlYWxzLyIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICB0aGlzLmRlYWxEb3dubG9hZFBhdGg9bmV3IEZpbGUoZGVhbEZvbGRlciwiL3Nmd0RlYWxzLyIpOwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUaHJlYWQuc2xlZXAoMTAqMTAwMCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUaHJlYWQuc2xlZXAoMTAqMTAwMCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>map</text>
