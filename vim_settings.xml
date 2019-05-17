@@ -72,12 +72,12 @@
         <mark key="[" line="8" column="52" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/restful/bean/OperationResult.java" timestamp="1557913917746" />
-      <file name="$USER_HOME$/gitBucket/membersystem/Test/src/main/java/com/uf/member/stress/OneStoreSimulation.java" timestamp="1557914318451">
+      <file name="$USER_HOME$/gitBucket/membersystem/Test/src/main/java/com/uf/member/stress/OneStoreSimulation.java" timestamp="1558067652942">
         <mark key="'" line="110" column="47" />
-        <mark key="[" line="109" column="51" />
-        <mark key="]" line="109" column="58" />
-        <mark key="." line="109" column="58" />
-        <mark key="^" line="109" column="58" />
+        <mark key="[" line="30" column="50" />
+        <mark key="]" line="30" column="57" />
+        <mark key="." line="30" column="57" />
+        <mark key="^" line="30" column="57" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/CommonController.java" timestamp="1557828186805">
         <mark key="'" line="53" column="29" />
@@ -290,7 +290,7 @@
         <mark key="[" line="3" column="31" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/member/pom.xml" timestamp="1557906047325" />
-      <file name="/fragment.java" timestamp="1557996360858">
+      <file name="/fragment.java" timestamp="1558067680031">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/pom.xml" timestamp="1557826091761">
@@ -400,11 +400,11 @@
       <jump line="750" column="15" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-cmm-proxy/src/main/java/com/moodys/sav/sfs/cmm/generator/v4/CmmDataGeneratorTask.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgIGNhcmRNYW5hZ2VTZXJ2aWNlLmRlbGV0ZUNvdW50Q2FyZERlZmluaXRpb24oKSAK</text>
+      <register name="&quot;" type="4">
+        <text>root</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>root</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZW5lcmF0ZUZpbmFsQ21tRGF0YUJ5U2Z3YXBpXD4=</text>
