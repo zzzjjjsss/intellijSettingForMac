@@ -195,11 +195,10 @@
         <mark key="." line="27" column="20" />
         <mark key="^" line="27" column="20" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/component/ApplicationInit.java" timestamp="1557909540254">
-        <mark key="[" line="70" column="24" />
-        <mark key="]" line="71" column="22" />
-        <mark key="." line="71" column="22" />
-        <mark key="^" line="71" column="22" />
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/component/ApplicationInit.java" timestamp="1558062658150">
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="0" />
+        <mark key="." line="79" column="0" />
       </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/sf-data-provider/src/main/java/com/moodys/sav/data/bean/DealUpdateInfo.java" timestamp="1557474539283">
         <mark key="[" line="92" column="18" />
@@ -401,8 +400,8 @@
       <jump line="750" column="15" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-cmm-proxy/src/main/java/com/moodys/sav/sfs/cmm/generator/v4/CmmDataGeneratorTask.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgIGNhcmRNYW5hZ2VTZXJ2aWNlLmRlbGV0ZUNvdW50Q2FyZERlZmluaXRpb24oKSAK</text>
       </register>
       <register name="-" type="4">
         <text>0</text>
@@ -414,7 +413,7 @@
         <text encoding="base64">c3ByaW5nLmpwYS5kYXRhYmFzZS1wbGF0Zm9ybT1vcmcuaGliZXJuYXRlLmRpYWxlY3QuTXlTUUw1RGlhbGVjdAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIGNhcmRNYW5hZ2VTZXJ2aWNlLmRlbGV0ZUNvdW50Q2FyZERlZmluaXRpb24oKSAK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -426,19 +425,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICB0aGlzLmRlYWxEb3dubG9hZFBhdGg9bmV3IEZpbGUoZGVhbEZvbGRlciwiL3Nmd0RlYWxzLyIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICB0aGlzLmRlYWxEb3dubG9hZFBhdGg9bmV3IEZpbGUoZGVhbEZvbGRlciwiL3Nmd0RlYWxzLyIpOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUaHJlYWQuc2xlZXAoMTAqMTAwMCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUaHJlYWQuc2xlZXAoMTAqMTAwMCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>map</text>
