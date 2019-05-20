@@ -287,6 +287,7 @@
         <mark key="." line="1" column="60" />
         <mark key="^" line="1" column="60" />
       </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/bean/OneAppointment.java" timestamp="1558344525082" />
       <file name="$USER_HOME$/gitBucket/membersystem/SpringBootDeploy/src/main/java/com/uf/member/filter/AuthenFilter.java" timestamp="1557036809544">
         <mark key="[" line="29" column="96" />
         <mark key="]" line="29" column="105" />
