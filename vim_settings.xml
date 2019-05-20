@@ -287,7 +287,7 @@
         <mark key="." line="1" column="60" />
         <mark key="^" line="1" column="60" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/bean/OneAppointment.java" timestamp="1558344525082" />
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/bean/OneAppointment.java" timestamp="1558346049972" />
       <file name="$USER_HOME$/gitBucket/membersystem/SpringBootDeploy/src/main/java/com/uf/member/filter/AuthenFilter.java" timestamp="1557036809544">
         <mark key="[" line="29" column="96" />
         <mark key="]" line="29" column="105" />
@@ -306,7 +306,7 @@
         <mark key="^" line="4" column="3" />
         <mark key="." line="4" column="3" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/storemanager/SaveAppointmentRequest.java" timestamp="1558340445822">
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/storemanager/SaveAppointmentRequest.java" timestamp="1558347030692">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="8" column="50" />
         <mark key="^" line="8" column="50" />
@@ -675,10 +675,10 @@
         <mark key="^" line="4" column="7" />
         <mark key="." line="4" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558086387964">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1558347502832">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="5" />
+        <mark key="." line="0" column="5" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/customer/CustomerAppointmentController.java" timestamp="1557904651775">
         <mark key="[" line="34" column="72" />
@@ -735,12 +735,12 @@
         <mark key="." line="6" column="37" />
         <mark key="^" line="6" column="37" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/storemanager/ResourceScheduleController.java" timestamp="1558342390505">
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/storemanager/ResourceScheduleController.java" timestamp="1558347027013">
         <mark key="'" line="80" column="4" />
-        <mark key="[" line="144" column="67" />
-        <mark key="]" line="144" column="77" />
-        <mark key="^" line="144" column="77" />
-        <mark key="." line="144" column="77" />
+        <mark key="[" line="141" column="84" />
+        <mark key="]" line="141" column="87" />
+        <mark key="^" line="141" column="87" />
+        <mark key="." line="141" column="87" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/AdminDataAccess/src/main/java/com/uf/member/dao/mysql/entity/Admin.java" timestamp="1556604767127">
         <mark key="[" line="7" column="0" />
@@ -872,10 +872,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>tress test project</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>tress test project</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXREYXlPZldlZWtcPg==</text>
