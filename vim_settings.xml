@@ -128,7 +128,7 @@
         <mark key="^" line="50" column="58" />
         <mark key="." line="50" column="58" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/ResourceAppointmentRepo.java" timestamp="1558429207146">
+      <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/ResourceAppointmentRepo.java" timestamp="1558432507726">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
@@ -155,7 +155,12 @@
         <mark key="^" line="49" column="41" />
         <mark key="." line="49" column="41" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/bean/OneAppointment.java" timestamp="1558407475816" />
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/bean/OneAppointment.java" timestamp="1558431744874">
+        <mark key="[" line="6" column="27" />
+        <mark key="]" line="6" column="41" />
+        <mark key="^" line="6" column="41" />
+        <mark key="." line="6" column="41" />
+      </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/CustomerSetting.java" timestamp="1557718336765">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="4" column="23" />
@@ -180,12 +185,12 @@
         <mark key="^" line="40" column="43" />
         <mark key="." line="40" column="43" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AppointmentService.java" timestamp="1558429646837">
-        <mark key="'" line="345" column="29" />
-        <mark key="[" line="408" column="102" />
-        <mark key="]" line="408" column="109" />
-        <mark key="." line="408" column="109" />
-        <mark key="^" line="408" column="109" />
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AppointmentService.java" timestamp="1558432556958">
+        <mark key="'" line="269" column="41" />
+        <mark key="[" line="395" column="0" />
+        <mark key="]" line="395" column="0" />
+        <mark key="." line="395" column="0" />
+        <mark key="^" line="365" column="76" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/filter/AuthenFilter.java" timestamp="1557827347909">
         <mark key="[" line="32" column="23" />
@@ -342,12 +347,17 @@
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/BindPhoneNumberRequest.java" timestamp="1555482221902">
         <mark key="[" line="3" column="31" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/storemanager/ResourceScheduleController.java" timestamp="1558347027013">
+      <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/ScheduleResource.java" timestamp="1558432455033">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/storemanager/ResourceScheduleController.java" timestamp="1558431924804">
         <mark key="'" line="80" column="4" />
-        <mark key="[" line="141" column="84" />
-        <mark key="]" line="141" column="87" />
-        <mark key="^" line="141" column="87" />
-        <mark key="." line="141" column="87" />
+        <mark key="[" line="118" column="85" />
+        <mark key="]" line="118" column="118" />
+        <mark key="^" line="118" column="118" />
+        <mark key="." line="118" column="118" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/member/pom.xml" timestamp="1557906047325" />
       <file name="/fragment.java" timestamp="1558086658150">
@@ -358,8 +368,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="60" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AccountService.java" />
-      <jump line="152" column="60" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AccountService.java" />
       <jump line="193" column="60" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AccountService.java" />
       <jump line="240" column="58" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AccountService.java" />
       <jump line="53" column="29" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/CommonController.java" />
@@ -458,10 +466,12 @@
       <jump line="378" column="65" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AppointmentService.java" />
       <jump line="346" column="28" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AppointmentService.java" />
       <jump line="345" column="29" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AppointmentService.java" />
+      <jump line="268" column="8" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AppointmentService.java" />
+      <jump line="269" column="41" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AppointmentService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>resource.getLatestGeneratedAppointDate()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICByZXNvdXJjZS5zZXRMYXRlc3RHZW5lcmF0ZWRBcHBvaW50RGF0ZShuZXcgVGltZXN0YW1wKGxhdGVzdEdlbmVyYXRlLnRvRGF0ZSgpLmdldFRpbWUoKSkpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>resource.getLatestGeneratedAppointDate()</text>
@@ -473,31 +483,33 @@
         <text encoding="base64">CXB1YmxpYyBSZXNvdXJjZUFwcG9pbnRtZW50IGZpbmRUb3BCeVJlc291cmNlQW5kQXBwb2ludERhdGVHcmVhdGVyVGhhbk9yZGVyQnlBcHBvaW50RGF0ZURlc2MoU2NoZWR1bGVSZXNvdXJjZSByZXNvdXJjZSxUaW1lc3RhbXAgYXBwb2ludERhdGUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGluaXRUZXN0RGF0YSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXNvdXJjZS5zZXRMYXRlc3RHZW5lcmF0ZWRBcHBvaW50RGF0ZShuZXcgVGltZXN0YW1wKGxhdGVzdEdlbmVyYXRlLnRvRGF0ZSgpLmdldFRpbWUoKSkpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXByaXZhdGUgVGltZXN0YW1wIGxhdGVzdEdlbmVyYXRlZEFwcG9pbnREYXRlOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhcHBvaW50bWVudFJlcG8uc2F2ZShhcHBvaW50bWVudCk7Cg==</text>
+        <text encoding="base64">CXB1YmxpYyBUaW1lc3RhbXAgZ2V0TGF0ZXN0R2VuZXJhdGVkQXBwb2ludERhdGUoKSB7CgkJcmV0dXJuIGxhdGVzdEdlbmVyYXRlZEFwcG9pbnREYXRlOwoJfQoJcHVibGljIHZvaWQgc2V0TGF0ZXN0R2VuZXJhdGVkQXBwb2ludERhdGUoVGltZXN0YW1wIGxhdGVzdEdlbmVyYXRlZEFwcG9pbnREYXRlKSB7CgkJdGhpcy5sYXRlc3RHZW5lcmF0ZWRBcHBvaW50RGF0ZSA9IGxhdGVzdEdlbmVyYXRlZEFwcG9pbnREYXRlOwoJfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRGF0ZVRpbWVGb3JtYXQgZm9ybWF0PURhdGVUaW1lRm9ybWF0LmZvclBhdHRlcm4oInl5eXktTU0tZGQiKTsK</text>
+      <register name="5" type="4">
+        <text>private OneAppointment  generateOneAppointment(LocalDate date,int timePoint,ScheduleResource resource){
+        
+    }</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExvY2FsRGF0ZSBkYXRlPW5ldyBMb2NhbERhdGUoKTsK</text>
+        <text encoding="base64">Ly8gICAgICAgIGluaXRUZXN0RGF0YSgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBMaXN0PFJlc291cmNlQXBwb2ludG1lbnQ+IGdldEFwcG9pbnRtZW50cygpIHsKICAgICAgICByZXR1cm4gYXBwb2ludG1lbnRzOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldEFwcG9pbnRtZW50cyhMaXN0PFJlc291cmNlQXBwb2ludG1lbnQ+IGFwcG9pbnRtZW50cykgewogICAgICAgIHRoaXMuYXBwb2ludG1lbnRzID0gYXBwb2ludG1lbnRzOwo=</text>
+        <text encoding="base64">ICAgICAgICBhcHBvaW50bWVudFJlcG8uc2F2ZShhcHBvaW50bWVudCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>map</text>
