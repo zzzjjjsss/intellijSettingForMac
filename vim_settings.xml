@@ -173,12 +173,12 @@
         <mark key="^" line="40" column="43" />
         <mark key="." line="40" column="43" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AppointmentService.java" timestamp="1558408000822">
-        <mark key="'" line="314" column="43" />
-        <mark key="[" line="253" column="67" />
-        <mark key="]" line="252" column="37" />
-        <mark key="." line="252" column="37" />
-        <mark key="^" line="252" column="37" />
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AppointmentService.java" timestamp="1558417392391">
+        <mark key="'" line="321" column="43" />
+        <mark key="[" line="134" column="9" />
+        <mark key="]" line="132" column="40" />
+        <mark key="." line="132" column="40" />
+        <mark key="^" line="132" column="40" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/filter/AuthenFilter.java" timestamp="1557827347909">
         <mark key="[" line="32" column="23" />
@@ -456,11 +456,11 @@
       <jump line="30" column="15" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/bean/ResourceOneDayAppointInfo.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGluaXRUZXN0RGF0YSgpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>败</text>
       </register>
       <register name="-" type="4">
-        <text>tress test project</text>
+        <text>败</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkYXRlXD4=</text>
