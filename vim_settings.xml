@@ -128,7 +128,7 @@
         <mark key="^" line="50" column="58" />
         <mark key="." line="50" column="58" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/ResourceAppointmentRepo.java" timestamp="1558340502517">
+      <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/ResourceAppointmentRepo.java" timestamp="1558429207146">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
@@ -180,12 +180,12 @@
         <mark key="^" line="40" column="43" />
         <mark key="." line="40" column="43" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AppointmentService.java" timestamp="1558428332206">
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AppointmentService.java" timestamp="1558429646837">
         <mark key="'" line="345" column="29" />
-        <mark key="[" line="407" column="41" />
-        <mark key="]" line="407" column="41" />
-        <mark key="." line="407" column="41" />
-        <mark key="^" line="407" column="22" />
+        <mark key="[" line="408" column="102" />
+        <mark key="]" line="408" column="109" />
+        <mark key="." line="408" column="109" />
+        <mark key="^" line="408" column="109" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/filter/AuthenFilter.java" timestamp="1557827347909">
         <mark key="[" line="32" column="23" />
@@ -461,10 +461,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>u</text>
+        <text>resource.getLatestGeneratedAppointDate()</text>
       </register>
       <register name="-" type="4">
-        <text>u</text>
+        <text>resource.getLatestGeneratedAppointDate()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsYXRlc3RHZW5lcmF0ZVw+</text>
