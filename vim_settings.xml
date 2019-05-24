@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/HttpDealSynchronizer.java" timestamp="1558669980138">
+      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/HttpDealSynchronizer.java" timestamp="1558670812225">
         <mark key="'" line="199" column="13" />
-        <mark key="[" line="244" column="0" />
-        <mark key="]" line="244" column="20" />
-        <mark key="." line="244" column="20" />
-        <mark key="^" line="245" column="27" />
+        <mark key="[" line="248" column="83" />
+        <mark key="]" line="250" column="44" />
+        <mark key="." line="250" column="44" />
+        <mark key="^" line="250" column="44" />
       </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-data-access/src/main/java/com/moodys/sav/sfs/data/bean/SimulationDeal.java" timestamp="1558606013876" />
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-storm/src/main/java/com/moodys/sav/sfs/storm/input/StaticScenarioInputGenerator.java" timestamp="1558603936264" />
@@ -202,7 +202,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>&quot;&quot;);</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjeGNvbkV4ZVw+</text>
@@ -214,28 +214,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCSAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAJCWlmICgpCQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkJfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAJCWxvZ2dlci5pbmZvKCJyZW5hbWUgZmFpbCAiKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkJfWVsc2V7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBsb2dnZXIuaW5mbyhsaW5lKyItLS0+IitsaW5lLmVuZHNXaXRoKCIuUEYiKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBsb2dnZXIuaW5mbyhsaW5lKyItLS0+IitsaW5lLmVuZHNXaXRoKCIuUEYiKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAJaWYgKHJlbmFtZVJlc3VsdCl7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAJCQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJbG9nZ2VyLmluZm8oInZpZXcgc2Z3IGNtZDoiICsgdml3Q21kKTsK</text>
+        <text encoding="base64">CQkJCQkK</text>
       </register>
       <register name=":" type="4">
         <text>map</text>
