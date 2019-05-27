@@ -4,10 +4,14 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/sf-data-provider/src/main/java/com/moodys/sav/data/bean/SystemConfig.java" timestamp="1558926125151" />
-      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/HttpDealSynchronizer.java" timestamp="1558931858607">
-        <mark key="'" line="441" column="108" />
+      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/HttpDealSynchronizer.java" timestamp="1558936676752">
+        <mark key="'" line="170" column="12" />
+        <mark key="[" line="357" column="0" />
+        <mark key="]" line="357" column="0" />
+        <mark key="." line="357" column="0" />
       </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-data-access/src/main/java/com/moodys/sav/sfs/data/bean/SimulationDeal.java" timestamp="1558606013876" />
+      <file name="/HttpDealSynchronizer.java" timestamp="1558936304562" />
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/sf-data-provider/src/main/java/com/moodys/sav/data/dao/impl/postgresql/DealInfoDaoImpl.java" timestamp="1558931294243">
         <mark key="[" line="36" column="38" />
         <mark key="]" line="36" column="57" />
@@ -58,17 +62,11 @@
         <mark key="." line="191" column="60" />
         <mark key="^" line="191" column="60" />
       </file>
-      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-storm/src/main/java/com/moodys/sav/sfs/storm/LaunchExeSpout.java" timestamp="1558605947790">
-        <mark key="'" line="747" column="15" />
-      </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-data-access/src/main/resources/com/moodys/sav/sfs/data/bean/SimGeneralInfo.hbm.xml" timestamp="1558605183938" />
       <file name="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/restful/Application.java" timestamp="1557386956760">
         <mark key="[" line="0" column="21" />
         <mark key="]" line="0" column="21" />
         <mark key="." line="0" column="21" />
-      </file>
-      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-supervisory/src/main/java/com/moodys/sav/sfs/supervisory/utils/RunTaskUtils.java" timestamp="1558606011139">
-        <mark key="'" line="79" column="15" />
       </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/schedule/DealDependFilesSyncTask.java" timestamp="1558927256262">
         <mark key="'" line="1" column="0" />
@@ -87,6 +85,13 @@
         <mark key="[" line="71" column="0" />
         <mark key="]" line="71" column="0" />
         <mark key="." line="71" column="0" />
+      </file>
+      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/sf-data-provider/src/main/java/com/moodys/sav/data/bean/DealUpdateInfo.java" timestamp="1558936423491">
+        <mark key="'" line="13" column="19" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="4" column="14" />
+        <mark key="." line="4" column="14" />
+        <mark key="^" line="4" column="14" />
       </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-web/src/main/java/com/moodys/sav/sfs/web/utils/RunTaskUtils.java" timestamp="1558605341831" />
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/sf-data-provider/src/main/java/com/moodys/sav/data/dao/DealInfoDao.java" timestamp="1558927909293">
@@ -120,21 +125,18 @@
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-data-access/src/main/java/com/moodys/sav/sfs/data/bean/SimGeneralInfo.java" timestamp="1558605202067">
         <mark key="'" line="17" column="19" />
       </file>
-      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-storm/src/main/java/com/moodys/sav/sfs/storm/input/SimulateInputGenerator.java" timestamp="1558603992189">
-        <mark key="'" line="79" column="12" />
-      </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/sf-data-provider/src/main/java/com/moodys/sav/data/bean/DealInfo.java" timestamp="1558927998920" />
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/schedule/DealSyncTask.java" timestamp="1558931344895">
         <mark key="[" line="70" column="0" />
         <mark key="]" line="70" column="12" />
         <mark key="." line="70" column="12" />
       </file>
-      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/utils/CxconTool.java" timestamp="1558669283172">
-        <mark key="'" line="175" column="25" />
-        <mark key="[" line="110" column="27" />
-        <mark key="]" line="124" column="21" />
-        <mark key="." line="124" column="21" />
-        <mark key="^" line="124" column="21" />
+      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/utils/CxconTool.java" timestamp="1558936721541">
+        <mark key="'" line="176" column="25" />
+        <mark key="[" line="199" column="52" />
+        <mark key="]" line="199" column="56" />
+        <mark key="." line="199" column="56" />
+        <mark key="^" line="199" column="56" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/lang/ProcessImpl.java" timestamp="1558666989943">
         <mark key="'" line="134" column="17" />
@@ -164,11 +166,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="187" column="4" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/GetInfoService.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/GetInfoService.java" />
-      <jump line="56" column="45" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/GetInfoService.java" />
-      <jump line="191" column="8" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/GetInfoService.java" />
-      <jump line="186" column="108" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/GetInfoService.java" />
       <jump line="183" column="0" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/GetInfoService.java" />
       <jump line="180" column="23" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/GetInfoService.java" />
       <jump line="47" column="7" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/storemanager/SettingController.java" />
@@ -264,55 +261,60 @@
       <jump line="432" column="49" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/HttpDealSynchronizer.java" />
       <jump line="438" column="55" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/HttpDealSynchronizer.java" />
       <jump line="441" column="108" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/HttpDealSynchronizer.java" />
+      <jump line="167" column="29" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/HttpDealSynchronizer.java" />
+      <jump line="170" column="12" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/HttpDealSynchronizer.java" />
+      <jump line="10" column="19" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/sf-data-provider/src/main/java/com/moodys/sav/data/bean/DealUpdateInfo.java" />
+      <jump line="16" column="15" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/sf-data-provider/src/main/java/com/moodys/sav/data/bean/DealUpdateInfo.java" />
+      <jump line="13" column="19" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/sf-data-provider/src/main/java/com/moodys/sav/data/bean/DealUpdateInfo.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkZWFsVXBkYXRlXD4=</text>
+        <text encoding="base64">XDxwYXRoSW5TYXZlRm9sZGVyXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTdHJpbmcgaHFsID0gImRlbGV0ZSBmcm9tIERlYWxJbmZvIGRpIHdoZXJlIGRpLmRlYWxJZCBub3QgaW4gKD8wKSBhbmQgZGkuY29sbGF0ZXJhbFR5cGU9PzEiOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkJZGVhbFVwZGF0ZS5zZXRBcHByb3ZlZCgieWVzIik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJZGVhbEluZm8uc2V0Q29sbGF0ZXJhbFR5cGUoRGVhbEluZm8uREVBTF9UWVBFX0NIUyk7Cg==</text>
+        <text encoding="base64">CQkJCQkJZGVhbFVwZGF0ZS5zZXRZZWFyTW9udGgoSW50ZWdlci5wYXJzZUludChyZWxlYXNlWWVhcityZWxlYXNlTW9udGgpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJZGVhbEluZm8uc2V0Q29sbGF0ZXJhbFR5cGUoRGVhbEluZm8uREVBTF9UWVBFX1NGVyk7Cg==</text>
+        <text encoding="base64">CQkJCQkJZGVhbFVwZGF0ZS5zZXRZZWFyTW9udGgoSW50ZWdlci5wYXJzZUludChyZWxlYXNlWWVhcityZWxlYXNlTW9udGgpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJZGVhbEluZm8uc2V0Q29sbGF0ZXJhbFR5cGUoRGVhbEluZm8uREVBTF9UWVBFX1NGVyk7Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQkJCQkJZGVhbFVwZGF0ZS5zZXRQYXRoSW5TYXZlRm9sZGVyKHJlbGVhc2VZZWFyICsgIi8iICsgcmVsZWFzZU1vbnRoICsgIi8iICsgZGVhbFVwZGF0ZUlkKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJZGVhbEluZm8uc2V0Q29sbGF0ZXJhbFR5cGUoRGVhbEluZm8uREVBTF9UWVBFX0NETyk7Cg==</text>
+        <text encoding="base64">CQkJCQkJZGVhbFVwZGF0ZS5zZXRBcHByb3ZlZCgieWVzIik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQkJCQkJZGVhbFVwZGF0ZS5zZXRZZWFyTW9udGgoSW50ZWdlci5wYXJzZUludChyZWxlYXNlWWVhcityZWxlYXNlTW9udGgpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQkJCQo=</text>
+        <text encoding="base64">CXB1YmxpYyBTdHJpbmcgdG9TdHJpbmcoKSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CSAgIAkK</text>
+        <text encoding="base64">CUBPdmVycmlkZQo=</text>
       </register>
       <register name=":" type="4">
         <text>map</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkZWFsVXBkYXRlXD4=</last-search>
+      <last-search encoding="base64">XDxwYXRoSW5TYXZlRm9sZGVyXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkZWFsVXBkYXRlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxwYXRoSW5TYXZlRm9sZGVyXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZXNwb25zZVw+</last-substitute>
       <last-dir>1</last-dir>
@@ -320,10 +322,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkZWFsRm9sZGVyXD4=</entry>
-        <entry encoding="base64">XDxkb3dubG9hZERlYWxGaWxlVG9Gb2xkZXJcPg==</entry>
-        <entry encoding="base64">XDxkZWFsU2F2ZVBhdGhUbXBcPg==</entry>
-        <entry encoding="base64">XDxnZXRUeXBlXD4=</entry>
         <entry encoding="base64">XDxnZW5lcmF0ZUZpbmFsQ21tRGF0YUJ5U2Z3YXBpXD4=</entry>
         <entry encoding="base64">XDxiYXNlVXJsXD4=</entry>
         <entry encoding="base64">XDxnZXREYXlPZldlZWtcPg==</entry>
@@ -340,6 +338,10 @@
         <entry encoding="base64">XDxnZXRTeXN0ZW1Db25maWdCeUtleVw+</entry>
         <entry encoding="base64">XDxkb3dubG9hZFN1Y2Vzc1w+</entry>
         <entry encoding="base64">XDxkZWFsVXBkYXRlXD4=</entry>
+        <entry encoding="base64">XDxkZWFsVXBkYXRlc1w+</entry>
+        <entry encoding="base64">XDx5ZWFyTW9udGhcPg==</entry>
+        <entry encoding="base64">XDxhcHByb3ZlZFw+</entry>
+        <entry encoding="base64">XDxwYXRoSW5TYXZlRm9sZGVyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>maps</entry>
