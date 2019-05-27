@@ -185,6 +185,9 @@
   <action id="Table-selectNextRow">
     <keyboard-shortcut first-keystroke="down" />
   </action>
+  <action id="Terminal.OpenInTerminal">
+    <keyboard-shortcut first-keystroke="shift meta o" />
+  </action>
   <action id="Tree-selectNext">
     <keyboard-shortcut first-keystroke="down" />
   </action>
