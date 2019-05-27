@@ -13,10 +13,11 @@
       </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-data-access/src/main/java/com/moodys/sav/sfs/data/bean/SimulationDeal.java" timestamp="1558606013876" />
       <file name="/HttpDealSynchronizer.java" timestamp="1558936304562" />
-      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/sf-data-provider/src/main/java/com/moodys/sav/data/dao/impl/postgresql/DealInfoDaoImpl.java" timestamp="1558942190638">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/sf-data-provider/src/main/java/com/moodys/sav/data/dao/impl/postgresql/DealInfoDaoImpl.java" timestamp="1558948261808">
+        <mark key="[" line="27" column="15" />
+        <mark key="]" line="27" column="15" />
+        <mark key="^" line="28" column="67" />
+        <mark key="." line="27" column="15" />
       </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-storm/src/main/java/com/moodys/sav/sfs/storm/input/StaticScenarioInputGenerator.java" timestamp="1558603936264" />
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/CommonController.java" timestamp="1558597059035">
@@ -33,11 +34,11 @@
         <mark key="." line="265" column="0" />
       </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-storm/src/main/java/com/moodys/sav/sfs/storm/input/CMBSSimulationInputGenerator.java" timestamp="1558605925919" />
-      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/service/DealSyncService.java" timestamp="1558942988603">
-        <mark key="[" line="23" column="66" />
-        <mark key="]" line="24" column="88" />
-        <mark key="." line="24" column="88" />
-        <mark key="^" line="24" column="88" />
+      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/service/DealSyncService.java" timestamp="1558948070797">
+        <mark key="[" line="15" column="15" />
+        <mark key="]" line="15" column="15" />
+        <mark key="." line="15" column="15" />
+        <mark key="^" line="15" column="64" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/ResourceAppointmentRepo.java" timestamp="1558432507726">
         <mark key="[" line="30" column="0" />
@@ -94,10 +95,11 @@
         <mark key="^" line="4" column="14" />
       </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-web/src/main/java/com/moodys/sav/sfs/web/utils/RunTaskUtils.java" timestamp="1558605341831" />
-      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/sf-data-provider/src/main/java/com/moodys/sav/data/dao/DealInfoDao.java" timestamp="1558942218627">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/sf-data-provider/src/main/java/com/moodys/sav/data/dao/DealInfoDao.java" timestamp="1558948099769">
+        <mark key="[" line="10" column="15" />
+        <mark key="]" line="10" column="15" />
+        <mark key="." line="10" column="15" />
+        <mark key="^" line="10" column="89" />
       </file>
       <file name="$MAVEN_REPOSITORY$/joda-time/joda-time/2.10/joda-time-2.10-sources.jar!/org/joda/time/LocalDate.java" timestamp="1558338829338">
         <mark key="'" line="282" column="0" />
@@ -123,12 +125,12 @@
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-data-access/src/main/java/com/moodys/sav/sfs/data/bean/SimGeneralInfo.java" timestamp="1558605202067">
         <mark key="'" line="17" column="19" />
       </file>
-      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/sf-data-provider/src/main/java/com/moodys/sav/data/bean/DealInfo.java" timestamp="1558927998920" />
-      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/schedule/DealSyncTask.java" timestamp="1558947162327">
-        <mark key="[" line="46" column="62" />
-        <mark key="]" line="47" column="54" />
-        <mark key="." line="47" column="54" />
-        <mark key="^" line="47" column="54" />
+      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/sf-data-provider/src/main/java/com/moodys/sav/data/bean/DealInfo.java" timestamp="1558947863928" />
+      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/schedule/DealSyncTask.java" timestamp="1558948224430">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="24" />
+        <mark key="." line="64" column="24" />
+        <mark key="^" line="64" column="20" />
       </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/utils/CxconTool.java" timestamp="1558941860895">
         <mark key="'" line="226" column="23" />
@@ -159,11 +161,11 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/service/impl/DealSyncServiceImpl.java" timestamp="1558943115495">
-        <mark key="[" line="120" column="8" />
-        <mark key="]" line="120" column="14" />
-        <mark key="." line="120" column="14" />
-        <mark key="^" line="120" column="14" />
+      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/service/impl/DealSyncServiceImpl.java" timestamp="1558948092740">
+        <mark key="[" line="55" column="28" />
+        <mark key="]" line="55" column="28" />
+        <mark key="^" line="55" column="84" />
+        <mark key="." line="55" column="28" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/pom.xml" timestamp="1557826091761">
         <mark key="'" line="0" column="0" />
@@ -272,11 +274,11 @@
       <jump line="168" column="29" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/HttpDealSynchronizer.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQk8cHJvcGVydHkgbmFtZT0iYXBwcm92ZWQiIHR5cGU9InN0cmluZyI+CgkJCTxjb2x1bW4gbGVuZ3RoPSIxMCIgbmFtZT0iYXBwcm92ZWQiIC8+CgkJPC9wcm9wZXJ0eT4K</text>
+      <register name="&quot;" type="4">
+        <text>deleteDealInfoBySyncTimeAndType</text>
       </register>
       <register name="-" type="4">
-        <text>existDealUpdateInfos</text>
+        <text>deleteDealInfoBySyncTimeAndType</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGlzdERlYWxVcGRhdGVJbmZvc1w+</text>
@@ -285,35 +287,31 @@
         <text encoding="base64">CQlTZXQ8RGVhbFVwZGF0ZUluZm8+IGV4aXN0RGVhbFVwZGF0ZUluZm9zID0gbmV3IEhhc2hTZXQ8PigpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQk8cHJvcGVydHkgbmFtZT0iYXBwcm92ZWQiIHR5cGU9InN0cmluZyI+CgkJCTxjb2x1bW4gbGVuZ3RoPSIxMCIgbmFtZT0iYXBwcm92ZWQiIC8+CgkJPC9wcm9wZXJ0eT4K</text>
+        <text encoding="base64">CQkJCQl9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQk8cHJvcGVydHkgbmFtZT0ieWVhck1vbnRoIiB0eXBlPSJpbnQiPgoJCQk8Y29sdW1uICBuYW1lPSJ5ZWFyX21vbnRoIiAvPgoJCTwvcHJvcGVydHk+Cg==</text>
+        <text encoding="base64">CQkJCQkJCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCWZvciAoRGVhbFVwZGF0ZUluZm8gc3VjIDogZG93bmxvYWRTdWNlc3MpIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGlkcyA9IEpvaW5lci5vbigiLCIpLmpvaW4oZGVhbElkcyk7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>{
-					dealSyncService.saveOrUpdateDealUpdateInfo(suc);
-				}</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXB1YmxpYyBpbnQgZGVsZXRlRGVhbEluZm9Ob3RJblNldChTZXQ8U3RyaW5nPiBhbGxEZWFsSWQsU3RyaW5nIGNvbGxhdGVyYWxUeXBlKTsK</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBpbnQgIGRlbGV0ZURlYWxJbmZvTm90SW5TZXQoU2V0PFN0cmluZz4gZGVhbElkcyxTdHJpbmcgY29sbGF0ZXJhbFR5cGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRoaXMuZXhlY3V0ZVVwZGF0ZShocWwsIGNvbGxhdGVyYWxUeXBlKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXB1YmxpYyBpbnQgZGVsZXRlRGVhbEluZm9Ob3RJblNldChTZXQ8U3RyaW5nPiBhbGxEZWFsSWQsIFN0cmluZyBjb2xsYXRlcmFsVHlwZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGhxbCA9ICJkZWxldGUgZnJvbSBEZWFsSW5mbyBkaSB3aGVyZSBkaS5jb2xsYXRlcmFsVHlwZT0/MSI7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>{
-		return  dealInfoDao.deleteDealInfoNotInSet(allDealId,collateralType);
-	}</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoZGVhbElkcyAhPSBudWxsICYmIGRlYWxJZHMuc2l6ZSgpID4gMCkgewo=</text>
       </register>
       <register name=":" type="4">
         <text>map</text>
