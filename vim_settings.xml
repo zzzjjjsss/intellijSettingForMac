@@ -52,10 +52,11 @@
         <mark key="." line="7" column="48" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/client/CloseableHttpClient.java" timestamp="1558661628081" />
-      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/schedule/DealDataFileSyncTask.java" timestamp="1559023904155">
-        <mark key="[" line="56" column="69" />
-        <mark key="]" line="56" column="69" />
-        <mark key="." line="56" column="69" />
+      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/schedule/DealDataFileSyncTask.java" timestamp="1559036365248">
+        <mark key="[" line="43" column="49" />
+        <mark key="]" line="43" column="57" />
+        <mark key="." line="43" column="57" />
+        <mark key="^" line="43" column="57" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AppointmentService.java" timestamp="1558599040184">
         <mark key="'" line="391" column="31" />
@@ -265,17 +266,17 @@
       <jump line="182" column="68" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/HttpDealSynchronizer.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8JCQkJYm9vbGVhbiByZW5hbWVSZXN1bHQ9ZmFsc2U7Ci8vCQkJCXdoaWxlICghcmVuYW1lUmVzdWx0KSB7Ci8vCQkJCQlyZW5hbWVSZXN1bHQgPSB0bXBTZndGaWxlLnJlbmFtZVRvKHNmd0ZpbGUpOwovLyAgICAgICAgICAgICAgICAgICAgbG9nZ2VyLmluZm8oc2Z3RmlsZS5nZXRBYnNvbHV0ZVBhdGgoKSsiIC0tLT5yZW5hbWUgIHJlc3VsdDoiK3JlbmFtZVJlc3VsdCk7Ci8vCQkJCX0K</text>
+      <register name="&quot;" type="4">
+        <text>th</text>
       </register>
       <register name="-" type="4">
-        <text>sfwFile</text>
+        <text>th</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZndDeGNvblNhdmVGb2xkZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlTZXQ8RGVhbFVwZGF0ZUluZm8+IGV4aXN0RGVhbFVwZGF0ZUluZm9zID0gbmV3IEhhc2hTZXQ8PigpOwo=</text>
+        <text encoding="base64">Ly8JCQkJaW50IHRocmVhZE51bSA9IChpbnQpIChwcm9jZXNzb3IgLyAwLjRmKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Ly8JCQkJYm9vbGVhbiByZW5hbWVSZXN1bHQ9ZmFsc2U7Ci8vCQkJCXdoaWxlICghcmVuYW1lUmVzdWx0KSB7Ci8vCQkJCQlyZW5hbWVSZXN1bHQgPSB0bXBTZndGaWxlLnJlbmFtZVRvKHNmd0ZpbGUpOwovLyAgICAgICAgICAgICAgICAgICAgbG9nZ2VyLmluZm8oc2Z3RmlsZS5nZXRBYnNvbHV0ZVBhdGgoKSsiIC0tLT5yZW5hbWUgIHJlc3VsdDoiK3JlbmFtZVJlc3VsdCk7Ci8vCQkJCX0K</text>
