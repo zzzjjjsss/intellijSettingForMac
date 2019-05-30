@@ -35,6 +35,7 @@
         <mark key="." line="27" column="20" />
         <mark key="^" line="27" column="20" />
       </file>
+      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/schedule/DealCusipsSyncTask.java" timestamp="1559185553599" />
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/sf-data-provider/src/main/java/com/moodys/sav/data/bean/DealUpdateInfo.java" timestamp="1558936423491">
         <mark key="'" line="13" column="19" />
         <mark key="[" line="14" column="0" />
@@ -179,7 +180,7 @@
         <mark key="." line="22" column="104" />
         <mark key="^" line="22" column="104" />
       </file>
-      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/schedule/DealSyncTask.java" timestamp="1558948224430">
+      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/schedule/DealSyncTask.java" timestamp="1559185592057">
         <mark key="[" line="64" column="0" />
         <mark key="]" line="64" column="24" />
         <mark key="." line="64" column="24" />
@@ -228,12 +229,13 @@
         <mark key="^" line="15" column="166" />
         <mark key="." line="15" column="38" />
       </file>
-      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/schedule/DealDataFileSyncTask.java" timestamp="1559036365248">
+      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/schedule/DealDataFileSyncTask.java" timestamp="1559185514789">
         <mark key="[" line="43" column="49" />
         <mark key="]" line="43" column="57" />
         <mark key="." line="43" column="57" />
         <mark key="^" line="43" column="57" />
       </file>
+      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/schedule/MedcRateSyncTask.java" timestamp="1559185618036" />
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AppointmentService.java" timestamp="1559114824378">
         <mark key="'" line="496" column="17" />
         <mark key="[" line="446" column="0" />
@@ -251,6 +253,7 @@
         <mark key="^" line="39" column="169" />
         <mark key="." line="34" column="72" />
       </file>
+      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/schedule/StandardRateSyncTask.java" timestamp="1559185707477" />
       <file name="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/filter/AuthenFilter.java" timestamp="1557827347909">
         <mark key="[" line="32" column="23" />
         <mark key="]" line="32" column="33" />
@@ -263,6 +266,7 @@
         <mark key="." line="126" column="0" />
         <mark key="^" line="131" column="67" />
       </file>
+      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/schedule/RateDbFileSyncTask.java" timestamp="1559185647253" />
     </filemarks>
     <jumps>
       <jump line="30" column="15" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/bean/ResourceOneDayAppointInfo.java" />
