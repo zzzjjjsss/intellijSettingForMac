@@ -10,11 +10,6 @@
         <mark key="^" line="15" column="30" />
         <mark key="." line="15" column="30" />
       </file>
-      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/DealSynchronizer.java" timestamp="1559023844261">
-        <mark key="[" line="7" column="48" />
-        <mark key="]" line="7" column="48" />
-        <mark key="." line="7" column="48" />
-      </file>
       <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/ResourceAppointment.java" timestamp="1558420743465">
         <mark key="'" line="61" column="15" />
       </file>
@@ -69,11 +64,6 @@
         <mark key="." line="46" column="32" />
         <mark key="^" line="46" column="32" />
       </file>
-      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/sf-commons/src/main/java/com/moodys/sav/commons/http/HttpClientUtils.java" timestamp="1559210443996">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-      </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/schedule/DealDataFileSyncTask.java" timestamp="1559529625430" />
       <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/ConfigKey.java" timestamp="1559539375735">
         <mark key="[" line="11" column="65" />
@@ -84,7 +74,7 @@
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/UDEV/Enterprise/java/dealdownload/src/main/java/com/wsainc/dealdownload/DealDownloaderFromDL.java" timestamp="1559296545441">
         <mark key="'" line="1453" column="45" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559547118975">
+      <file name="/Dummy.txt" timestamp="1559551627310">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -125,11 +115,6 @@
         <mark key="]" line="35" column="18" />
         <mark key="." line="33" column="68" />
         <mark key="^" line="35" column="18" />
-      </file>
-      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/sf-data-provider/src/main/resources/com/moodys/sav/data/bean/DealUpdateInfo.hbm.xml" timestamp="1558945074395">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/ConfigValue.java" timestamp="1559546608483">
         <mark key="[" line="3" column="93" />
