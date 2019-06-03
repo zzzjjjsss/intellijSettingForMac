@@ -125,7 +125,7 @@
       <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/auth/UsernamePasswordCredentials.java" timestamp="1559199092091">
         <mark key="'" line="78" column="11" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/CommonController.java" timestamp="1559541075051">
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/CommonController.java" timestamp="1559544864035">
         <mark key="[" line="68" column="13" />
         <mark key="]" line="69" column="79" />
         <mark key="^" line="69" column="79" />
@@ -137,14 +137,14 @@
         <mark key="^" line="35" column="23" />
         <mark key="." line="35" column="23" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AccountService.java" timestamp="1558924699371">
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AccountService.java" timestamp="1559545410417">
         <mark key="'" line="240" column="58" />
-        <mark key="[" line="265" column="0" />
-        <mark key="]" line="265" column="0" />
-        <mark key="^" line="261" column="48" />
-        <mark key="." line="265" column="0" />
+        <mark key="[" line="231" column="0" />
+        <mark key="]" line="231" column="51" />
+        <mark key="^" line="231" column="51" />
+        <mark key="." line="231" column="51" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/WechatLoginResponse.java" timestamp="1559541044191">
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/WechatLoginResponse.java" timestamp="1559544509125">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="29" column="42" />
         <mark key="." line="29" column="42" />
