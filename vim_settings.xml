@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/start_script.py" timestamp="1559555458134">
+      <file name="/start_script.py" timestamp="1559557045318">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/schedule/DealDependFilesSyncTask.java" timestamp="1558927256262">
@@ -12,6 +12,9 @@
         <mark key="]" line="15" column="30" />
         <mark key="^" line="15" column="30" />
         <mark key="." line="15" column="30" />
+      </file>
+      <file name="$USER_HOME$/pythonProject/test.py" timestamp="1559557431543">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/ResourceAppointment.java" timestamp="1558420743465">
         <mark key="'" line="61" column="15" />
@@ -155,8 +158,10 @@
         <mark key="." line="29" column="42" />
         <mark key="^" line="29" column="42" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/Test/src/main/java/com/uf/member/stress/test.py" timestamp="1559555567095">
+      <file name="$USER_HOME$/gitBucket/membersystem/Test/src/main/java/com/uf/member/stress/test.py" timestamp="1559556956296">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/pom.xml" timestamp="1557826091761">
         <mark key="'" line="0" column="0" />
@@ -271,8 +276,8 @@
       <jump line="67" column="8" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/component/ApplicationInit.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>BIND_PHONE_TYPE_NONE</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cmUK</text>
       </register>
       <register name="-" type="4">
         <text>BIND_PHONE_TYPE_NONE</text>
@@ -284,31 +289,31 @@
         <text encoding="base64">CXByaXZhdGUgU3RyaW5nIGJpbmRQaG9uZVR5cGU7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cmUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByb2R1Y3RDYWNoZS5yZW1vdmUoa2V5KTsK</text>
+        <text encoding="base64">aW1wb3J0ICByZXF1ZXN0czsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FzZSBQUk9EVUNUOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBwcm9kdWN0Q2FjaGUuZ2V0QWxsKGtleXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByb2R1Y3RDYWNoZS5yZW1vdmUoa2V5KTsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY2FzZSBQUk9EVUNUOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBwcm9kdWN0Q2FjaGUuZ2V0QWxsKGtleXMpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByb2R1Y3RDYWNoZS5wdXQoa2V5LCB2YWx1ZSk7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY2FzZSBQUk9EVUNUOgo=</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBwcm9kdWN0Q2FjaGUuZ2V0KGtleSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByb2R1Y3RDYWNoZS5wdXQoa2V5LCB2YWx1ZSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>map</text>
