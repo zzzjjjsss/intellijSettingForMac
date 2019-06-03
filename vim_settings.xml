@@ -62,6 +62,12 @@
         <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/schedule/DealDataFileSyncTask.java" timestamp="1559529625430" />
+      <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/ConfigKey.java" timestamp="1559539375735">
+        <mark key="[" line="11" column="65" />
+        <mark key="]" line="11" column="65" />
+        <mark key="." line="11" column="65" />
+        <mark key="^" line="11" column="65" />
+      </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/UDEV/Enterprise/java/dealdownload/src/main/java/com/wsainc/dealdownload/DealDownloaderFromDL.java" timestamp="1559296545441">
         <mark key="'" line="1453" column="45" />
       </file>
@@ -232,17 +238,17 @@
       <jump line="441" column="20" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/HttpDealSynchronizer.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJc2Z3RmlsZS5kZWxldGUoKTsK</text>
+      <register name="&quot;" type="4">
+        <text>aliyun_sms_templateCode_notify</text>
       </register>
       <register name="-" type="4">
-        <text>PD</text>
+        <text>aliyun_sms_templateCode_notify</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzU2V0dGxlbWVudERhdGVGaWxlRXh0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJRmlsZSBwZEZpbGU9bmV3IEZpbGUoZGVhbEZpbGVGb2xkZXIsZGVhbFVwZGF0ZS5nZXROZXh0UGF5bWVudERhdGUoKSsiLlBEIik7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIEFMSVlVTl9TTVNfVEVNUExBVEVDT0RFX05PVElGWSA9ICJhbGl5dW5fc21zX3RlbXBsYXRlQ29kZV9ub3RpZnkiOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQkJc2Z3RmlsZS5kZWxldGUoKTsK</text>
