@@ -24,6 +24,12 @@
         <mark key="^" line="133" column="89" />
         <mark key="." line="136" column="0" />
       </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/WechatAppApi/src/main/java/com/uf/wechat/miniapp/WechatApi.java" timestamp="1559639290236">
+        <mark key="[" line="174" column="8" />
+        <mark key="]" line="174" column="60" />
+        <mark key="^" line="174" column="60" />
+        <mark key="." line="174" column="60" />
+      </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/SystemConfigService.java" timestamp="1559627222877">
         <mark key="[" line="32" column="48" />
         <mark key="]" line="32" column="48" />
@@ -100,6 +106,12 @@
         <mark key="]" line="7" column="61" />
         <mark key="." line="7" column="61" />
       </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/WechatAppApi/src/main/java/com/uf/wechat/miniapp/util/HttpsUtil.java" timestamp="1559639266753">
+        <mark key="[" line="163" column="0" />
+        <mark key="]" line="163" column="0" />
+        <mark key="^" line="162" column="22" />
+        <mark key="." line="163" column="0" />
+      </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/utils/s3Tool/src/main/java/com/moodys/dynamodb/Main.java" timestamp="1559635626366">
         <mark key="'" line="22" column="8" />
         <mark key="[" line="13" column="0" />
@@ -125,6 +137,7 @@
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="32" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.3.1/gson-2.3.1-sources.jar!/com/google/gson/JsonPrimitive.java" timestamp="1559638957825" />
     </filemarks>
     <jumps>
       <jump line="423" column="60" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/HttpDealSynchronizer.java" />
@@ -229,44 +242,44 @@
       <jump line="23" column="8" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/utils/s3Tool/src/main/java/com/moodys/dynamodb/Main.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>s3</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbml0Q29uZmlnSXRlbXNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CXByaXZhdGUgQVdTQ29uZmlnIGF3c0NvbmZpZzsK</text>
+        <text encoding="base64">CQlqc29uT2JqZWN0LmFkZCgicGFnZSIsbmV3IEpzb25QcmltaXRpdmUocGFnZSkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCXJldHVybiBlbGUuZ2V0QXNKc29uT2JqZWN0KCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCUpzb25FbGVtZW50IGVsZSA9IHBhcnNlci5wYXJzZShjb250ZW50KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgcmVnaW9uID0gYXdzQ29uZmlnLmdldEF3c1JlZ2lvbigpID09IG51bGwgPyBSZWdpb25zLkRFRkFVTFRfUkVHSU9OLmdldE5hbWUoKSA6IGF3c0NvbmZpZy5nZXRBd3NSZWdpb24oKTsK</text>
+        <text encoding="base64">CQkJCVN0cmluZyBjb250ZW50PUVudGl0eVV0aWxzLnRvU3RyaW5nKHJlc3BvbnNlLmdldEVudGl0eSgpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBDbGllbnRDb25maWd1cmF0aW9uIGNsaWVudENmZyA9IG5ldyBDbGllbnRDb25maWd1cmF0aW9uKCk7Cg==</text>
+        <text encoding="base64">CQkJCUpzb25QYXJzZXIgcGFyc2VyID0gbmV3IEpzb25QYXJzZXIoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGF3c0NyZWRlbnRpYWxzUHJvdmlkZXIgPSBuZXcgQVdTU3RhdGljQ3JlZGVudGlhbHNQcm92aWRlcihjcmVkZW50aWFscyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgcmVnaW9uID0gYXdzQ29uZmlnLmdldEF3c1JlZ2lvbigpID09IG51bGwgPyBSZWdpb25zLkRFRkFVTFRfUkVHSU9OLmdldE5hbWUoKSA6IGF3c0NvbmZpZy5nZXRBd3NSZWdpb24oKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEFXU0NyZWRlbnRpYWxzIGNyZWRlbnRpYWxzID0gbmV3IEJhc2ljQVdTQ3JlZGVudGlhbHMoYXdzQ29uZmlnLmdldElkZW50aXR5KCksIGF3c0NvbmZpZy5nZXRDcmVkZW50aWFsKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBDbGllbnRDb25maWd1cmF0aW9uIGNsaWVudENmZyA9IG5ldyBDbGllbnRDb25maWd1cmF0aW9uKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FzZSBCQVNJQzoK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>map</text>
