@@ -7,12 +7,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/admin/SaveConfigureRequest.java" timestamp="1559560487173" />
-      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/schedule/DealDependFilesSyncTask.java" timestamp="1558927256262">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="15" column="16" />
-        <mark key="]" line="15" column="30" />
-        <mark key="^" line="15" column="30" />
-        <mark key="." line="15" column="30" />
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/storemanager/SettingController.java" timestamp="1559627439038">
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="81" column="0" />
+        <mark key="^" line="81" column="121" />
+        <mark key="." line="81" column="0" />
       </file>
       <file name="$USER_HOME$/pythonProject/test.py" timestamp="1559562510261">
         <mark key="[" line="10" column="0" />
@@ -20,33 +19,19 @@
         <mark key="^" line="11" column="19" />
         <mark key="." line="11" column="19" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/component/ApplicationInit.java" timestamp="1559546751622">
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/component/ApplicationInit.java" timestamp="1559627562729">
         <mark key="'" line="67" column="8" />
-        <mark key="[" line="123" column="46" />
-        <mark key="]" line="123" column="67" />
-        <mark key="." line="123" column="67" />
-        <mark key="^" line="123" column="67" />
+        <mark key="[" line="136" column="0" />
+        <mark key="]" line="136" column="0" />
+        <mark key="^" line="133" column="89" />
+        <mark key="." line="136" column="0" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" timestamp="1559561744466" />
-      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/sf-data-provider/src/main/java/com/moodys/sav/data/bean/DealUpdateInfo.java" timestamp="1559295070149">
-        <mark key="'" line="7" column="19" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="17" column="39" />
-        <mark key="." line="17" column="39" />
-        <mark key="^" line="17" column="39" />
-      </file>
-      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/utils/CxconTool.java" timestamp="1559095166625">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="323" column="70" />
-        <mark key="]" line="324" column="64" />
-        <mark key="^" line="324" column="64" />
-        <mark key="." line="324" column="64" />
-      </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/SystemConfigService.java" timestamp="1559546634068">
-        <mark key="[" line="97" column="26" />
-        <mark key="]" line="97" column="49" />
-        <mark key="^" line="97" column="49" />
-        <mark key="." line="97" column="49" />
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/SystemConfigService.java" timestamp="1559627222877">
+        <mark key="[" line="32" column="48" />
+        <mark key="]" line="32" column="48" />
+        <mark key="." line="32" column="48" />
+        <mark key="^" line="30" column="34" />
       </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/UnderlyingDealSynchronizer.java" timestamp="1559614915056">
         <mark key="[" line="10" column="0" />
@@ -108,10 +93,16 @@
         <mark key="." line="33" column="68" />
         <mark key="^" line="35" column="18" />
       </file>
-      <file name="$USER_HOME$/pythonProject/modifySetting.py" timestamp="1559613817871">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/pythonProject/modifySetting.py" timestamp="1559627641960">
+        <mark key="[" line="7" column="60" />
+        <mark key="]" line="7" column="61" />
+        <mark key="." line="7" column="61" />
+      </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/storemanager/AdminService.java" timestamp="1559627285195">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="^" line="68" column="49" />
+        <mark key="." line="68" column="0" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/ConfigValue.java" timestamp="1559546608483">
         <mark key="[" line="3" column="93" />
@@ -134,13 +125,6 @@
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/admin/AdminController.java" timestamp="1559561423246">
         <mark key="'" line="107" column="74" />
-      </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AccountService.java" timestamp="1559545410417">
-        <mark key="'" line="240" column="58" />
-        <mark key="[" line="231" column="0" />
-        <mark key="]" line="231" column="51" />
-        <mark key="^" line="231" column="51" />
-        <mark key="." line="231" column="51" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/WechatLoginResponse.java" timestamp="1559546301393">
         <mark key="[" line="28" column="0" />
@@ -270,10 +254,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>config</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbml0Q29uZmlnSXRlbXNcPg==</text>
@@ -282,31 +266,31 @@
         <text encoding="base64">CXByaXZhdGUgU3RyaW5nIGJpbmRQaG9uZVR5cGU7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGlyID0geyJrZXkiOiB7IksxIjogInYxIiwgImsyIjogInYyIn19Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHJpbnQgZGlyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtQ29uZmlnIGNvbmZpZyA9IG5ldyBTeXN0ZW1Db25maWcoKTsKICAgICAgICAgICAgY29uZmlnLnNldENvbmZpZ0tleSgpOwogICAgICAgICAgICBjb25maWcuc2V0Q29uZmlnVmFsdWUoIiIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHJpbnQoanNvbi5kdW1wcyhjb25maWdJdGVtcykpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uZmlnLnNldENvbmZpZ1ZhbHVlKCIiKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uZmlnLnNldENvbmZpZ0tleSgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGpzb24K</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtQ29uZmlnIGNvbmZpZyA9IG5ldyBTeXN0ZW1Db25maWcoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtQ29uZmlnIGNvbmZpZyA9IG5ldyBTeXN0ZW1Db25maWcoKTsKICAgICAgICAgICAgY29uZmlnLnNldENvbmZpZ0tleSgpOwogICAgICAgICAgICBjb25maWcuc2V0Q29uZmlnVmFsdWUoImZhbHNlIik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtQ29uZmlnIGNvbmZpZyA9IG5ldyBTeXN0ZW1Db25maWcoKTsKICAgICAgICAgICAgY29uZmlnLnNldENvbmZpZ0tleSgpOwogICAgICAgICAgICBjb25maWcuc2V0Q29uZmlnVmFsdWUoImZhbHNlIik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHJpbnQodHlwZShsb2dpblJlc3VsdCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uZmlnLnNldENvbmZpZ1ZhbHVlKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>map</text>
