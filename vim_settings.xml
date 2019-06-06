@@ -18,13 +18,6 @@
         <mark key="." line="35" column="51" />
         <mark key="^" line="35" column="51" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/component/ApplicationInit.java" timestamp="1559627562729">
-        <mark key="'" line="67" column="8" />
-        <mark key="[" line="136" column="0" />
-        <mark key="]" line="136" column="0" />
-        <mark key="^" line="133" column="89" />
-        <mark key="." line="136" column="0" />
-      </file>
       <file name="$USER_HOME$/gitBucket/membersystem/WechatAppApi/src/main/java/com/uf/wechat/miniapp/WechatApi.java" timestamp="1559641626836">
         <mark key="[" line="193" column="0" />
         <mark key="]" line="193" column="0" />
@@ -226,12 +219,12 @@
         <mark key="." line="3" column="93" />
         <mark key="^" line="3" column="93" />
       </file>
-      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/utils/s3Tool/src/main/java/com/moodys/dynamodb/Main.java" timestamp="1559719603320">
+      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/utils/s3Tool/src/main/java/com/moodys/dynamodb/Main.java" timestamp="1559786729569">
         <mark key="'" line="23" column="8" />
-        <mark key="[" line="18" column="39" />
-        <mark key="]" line="19" column="41" />
-        <mark key="^" line="19" column="41" />
-        <mark key="." line="19" column="41" />
+        <mark key="[" line="18" column="31" />
+        <mark key="]" line="18" column="45" />
+        <mark key="^" line="18" column="45" />
+        <mark key="." line="18" column="45" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/admin/AdminController.java" timestamp="1559561423246">
         <mark key="'" line="107" column="74" />
@@ -368,10 +361,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>add get QR code image  interface</text>
+        <text>value</text>
       </register>
       <register name="-" type="4">
-        <text>add get QR code image  interface</text>
+        <text>value</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleHBvcnRMb2FuRGV0YWlsVGFza1w+</text>
