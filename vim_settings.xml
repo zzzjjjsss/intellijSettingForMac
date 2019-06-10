@@ -87,11 +87,12 @@
         <mark key="." line="11" column="22" />
         <mark key="^" line="11" column="107" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/storemanager/AdminService.java" timestamp="1560132452499">
-        <mark key="[" line="52" column="31" />
-        <mark key="]" line="52" column="31" />
-        <mark key="." line="52" column="31" />
-        <mark key="^" line="52" column="17" />
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/storemanager/AdminService.java" timestamp="1560132889192">
+        <mark key="'" line="53" column="74" />
+        <mark key="[" line="56" column="76" />
+        <mark key="]" line="57" column="70" />
+        <mark key="^" line="57" column="70" />
+        <mark key="." line="57" column="70" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/WechatAppApi/src/main/java/com/uf/wechat/miniapp/bean/WechatMiniAppUserLoginResponse.java" timestamp="1559639964961" />
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-supervisory/src/main/java/com/moodys/sav/sfs/supervisory/task/ExportLoanLevelDetailTask.java" timestamp="1559719811072">
@@ -283,9 +284,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="442" column="49" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/HttpDealSynchronizer.java" />
-      <jump line="448" column="55" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/HttpDealSynchronizer.java" />
-      <jump line="451" column="108" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/HttpDealSynchronizer.java" />
       <jump line="502" column="50" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/HttpDealSynchronizer.java" />
       <jump line="493" column="57" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/HttpDealSynchronizer.java" />
       <jump line="477" column="12" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/HttpDealSynchronizer.java" />
@@ -383,55 +381,58 @@
       <jump line="42" column="11" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/sf-cloud-provider/src/main/java/com/moodys/sav/cloud/impl/aws/DynamoDbHandlerImpl.java" />
       <jump line="38" column="0" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/sf-cloud-provider/src/main/java/com/moodys/sav/cloud/impl/aws/DynamoDbHandlerImpl.java" />
       <jump line="49" column="4" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/sf-cloud-provider/src/main/java/com/moodys/sav/cloud/CloudApiFactory.java" />
+      <jump line="54" column="12" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/storemanager/AdminService.java" />
+      <jump line="52" column="15" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/storemanager/AdminService.java" />
+      <jump line="53" column="74" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/storemanager/AdminService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>temp</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjYWNoZVNlcnZpY2UucHV0T2JqZWN0KENhY2hlT2JqZWN0VHlwZS5TRVNTSU9OLCBpZCwgdG9rZW4pOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>temp</text>
+        <text>token</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhd3NDcmVkZW50aWFsc1Byb3ZpZGVyXD4=</text>
+        <text encoding="base64">XDxrZXlcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCWlkPSJjdXN0b21lci0iK3RlbXAuZ2V0SWQoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcga2V5PSJjdXN0b21lci0iCg==</text>
+        <text encoding="base64">ICAgICAgICBjYWNoZVNlcnZpY2UucHV0T2JqZWN0KENhY2hlT2JqZWN0VHlwZS5TRVNTSU9OLCBpZCwgdG9rZW4pOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBjYWNoZVNlcnZpY2UucHV0T2JqZWN0KENhY2hlT2JqZWN0VHlwZS5TRVNTSU9OLCB0b2tlbiwgY2FjaGVPYmopOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGFibGUuZGVsZXRlSXRlbShkZWxldGVJdGVtU3BlYyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcga2V5PSJjdXN0b21lci0iCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRGVsZXRlSXRlbVNwZWMgZGVsZXRlSXRlbVNwZWMgPSBuZXcgRGVsZXRlSXRlbVNwZWMoKS53aXRoUHJpbWFyeUtleShuZXcgUHJpbWFyeUtleShwcmltYXJ5S2V5LCBwcmltYXJ5S2V5VmFsdWUpKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRydWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGFibGUuZGVsZXRlSXRlbShkZWxldGVJdGVtU3BlYyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgRGVsZXRlSXRlbVNwZWMgZGVsZXRlSXRlbVNwZWMgPSBuZXcgRGVsZXRlSXRlbVNwZWMoKS53aXRoUHJpbWFyeUtleShuZXcgUHJpbWFyeUtleShwcmltYXJ5S2V5LCBwcmltYXJ5S2V5VmFsdWUpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRydWU7Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>map</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhd3NDcmVkZW50aWFsc1Byb3ZpZGVyXD4=</last-search>
+      <last-search encoding="base64">XDxrZXlcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhd3NDcmVkZW50aWFsc1Byb3ZpZGVyXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxrZXlcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZXNwb25zZVw+</last-substitute>
       <last-dir>1</last-dir>
@@ -439,8 +440,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwcm94eVw+</entry>
-        <entry encoding="base64">XDxwYXJzZUxpc3RGcm9tU0ZXXD4=</entry>
         <entry encoding="base64">XDxhZGRQRkZpbGVcPg==</entry>
         <entry encoding="base64">XDxtRGVhbEluZm9cPg==</entry>
         <entry encoding="base64">XDxtUGFyYW1zRm9yRGVhbERhdGFcPg==</entry>
@@ -459,6 +458,8 @@
         <entry encoding="base64">XDxleHBvcnRMb2FuRGV0YWlsVGFza1w+</entry>
         <entry encoding="base64">XDxXZWNoYXRVc2VyXD4=</entry>
         <entry encoding="base64">XDxhd3NDcmVkZW50aWFsc1Byb3ZpZGVyXD4=</entry>
+        <entry encoding="base64">XDx2YWx1ZVw+</entry>
+        <entry encoding="base64">XDxrZXlcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>maps</entry>
