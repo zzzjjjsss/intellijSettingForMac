@@ -14,6 +14,11 @@
         <mark key="^" line="35" column="51" />
       </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/sf-data-provider/src/main/java/com/moodys/sav/data/bean/SystemConfig.java" timestamp="1560155453050" />
+      <file name="$USER_HOME$/gitBucket/membersystem/Gateway/src/main/resources/application.properties" timestamp="1560157029581">
+        <mark key="[" line="10" column="43" />
+        <mark key="]" line="10" column="44" />
+        <mark key="." line="10" column="44" />
+      </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-client-service/src/main/java/com/moodys/sav/client/controller/JobSubmitController.java" timestamp="1560155360548">
         <mark key="'" line="327" column="43" />
       </file>
@@ -146,6 +151,7 @@
         <mark key="." line="29" column="42" />
         <mark key="^" line="29" column="42" />
       </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/restful/controller/DeployAdminController.java" timestamp="1560156498528" />
       <file name="$USER_HOME$/pythonProject/test.py" timestamp="1559562510261">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="11" column="19" />
