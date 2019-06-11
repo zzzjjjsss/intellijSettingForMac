@@ -19,6 +19,12 @@
         <mark key="]" line="10" column="44" />
         <mark key="." line="10" column="44" />
       </file>
+      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/HttpDealSynchronizer.java" timestamp="1559297478827">
+        <mark key="'" line="441" column="20" />
+        <mark key="[" line="140" column="0" />
+        <mark key="]" line="140" column="0" />
+        <mark key="." line="140" column="0" />
+      </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-client-service/src/main/java/com/moodys/sav/client/controller/JobSubmitController.java" timestamp="1560155360548">
         <mark key="'" line="327" column="43" />
       </file>
@@ -31,6 +37,12 @@
       </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/sf-commons/src/main/java/com/moodys/sav/commons/http/HttpUtil.java" timestamp="1559209913373">
         <mark key="'" line="141" column="0" />
+      </file>
+      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/swagger/swagger-ui-master/swagger/swagger.yaml" timestamp="1560218358132">
+        <mark key="'" line="9" column="4" />
+        <mark key="[" line="18" column="234" />
+        <mark key="]" line="18" column="234" />
+        <mark key="." line="18" column="234" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/SystemConfigService.java" timestamp="1559627222877">
         <mark key="[" line="32" column="48" />
@@ -295,9 +307,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="250" column="33" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/utils/CxconTool.java" />
-      <jump line="51" column="19" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/HttpDealSynchronizer.java" />
-      <jump line="187" column="16" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/HttpDealSynchronizer.java" />
       <jump line="274" column="16" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/HttpDealSynchronizer.java" />
       <jump line="45" column="31" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/HttpDealSynchronizer.java" />
       <jump line="211" column="29" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/HttpDealSynchronizer.java" />
@@ -395,16 +404,19 @@
       <jump line="135" column="12" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-client-service/src/main/java/com/moodys/sav/client/controller/JobSubmitController.java" />
       <jump line="126" column="80" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-client-service/src/main/java/com/moodys/sav/client/controller/JobSubmitController.java" />
       <jump line="327" column="43" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-client-service/src/main/java/com/moodys/sav/client/controller/JobSubmitController.java" />
+      <jump line="18" column="6" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/swagger/swagger-ui-master/swagger/swagger.yaml" />
+      <jump line="11" column="4" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/swagger/swagger-ui-master/swagger/swagger.yaml" />
+      <jump line="9" column="4" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/swagger/swagger-ui-master/swagger/swagger.yaml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>public</text>
+        <text>we limited the task number to 500.</text>
       </register>
       <register name="-" type="4">
-        <text>public</text>
+        <text>we limited the task number to 500.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZW5lcmFsQmF0Y2hKb2JTdWJtaXRcPg==</text>
+        <text encoding="base64">XDxkZXNjcmlwdGlvblw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCWlkPSJjdXN0b21lci0iK3RlbXAuZ2V0SWQoKTsK</text>
@@ -441,17 +453,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZW5lcmFsQmF0Y2hKb2JTdWJtaXRcPg==</last-search>
+      <last-search encoding="base64">XDxkZXNjcmlwdGlvblw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZW5lcmFsQmF0Y2hKb2JTdWJtaXRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxkZXNjcmlwdGlvblw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZXNwb25zZVw+</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtUGFyYW1zRm9yRGVhbERhdGFcPg==</entry>
         <entry encoding="base64">XDxzUGF0aEluU0ZXXD4=</entry>
         <entry encoding="base64">XDxhZGRTZXR0bGVtZW50RGF0ZUZpbGVcPg==</entry>
         <entry encoding="base64">XDxzRHVtbXlOZXh0UGF5bWVudERhdGVcPg==</entry>
@@ -471,6 +482,7 @@
         <entry encoding="base64">XDxrZXlcPg==</entry>
         <entry encoding="base64">XDxnZXRBY2Nlc3NUb2tlblw+</entry>
         <entry encoding="base64">XDxnZW5lcmFsQmF0Y2hKb2JTdWJtaXRcPg==</entry>
+        <entry encoding="base64">XDxkZXNjcmlwdGlvblw+</entry>
       </history-search>
       <history-cmd>
         <entry>maps</entry>
