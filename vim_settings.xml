@@ -166,6 +166,7 @@
         <mark key="^" line="171" column="39" />
         <mark key="." line="267" column="0" />
       </file>
+      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/service/DealSyncService.java" timestamp="1560324747041" />
       <file name="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/restful/controller/DeployAdminController.java" timestamp="1560161228931" />
       <file name="$USER_HOME$/pythonProject/test.py" timestamp="1559562510261">
         <mark key="[" line="10" column="0" />
@@ -176,6 +177,12 @@
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/CHS_DealSynchronizer.java" timestamp="1560321822906">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="87" />
+      </file>
+      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/schedule/UndelyingDealSyncTask.java" timestamp="1560324749077">
+        <mark key="[" line="35" column="12" />
+        <mark key="]" line="35" column="41" />
+        <mark key="." line="35" column="41" />
+        <mark key="^" line="35" column="41" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/ResourceAppointment.java" timestamp="1558420743465">
         <mark key="'" line="61" column="15" />
@@ -217,20 +224,15 @@
         <mark key="^" line="63" column="45" />
         <mark key="." line="63" column="45" />
       </file>
-      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/UnderlyingDealSynchronizer.java" timestamp="1560323278461">
+      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/UnderlyingDealSynchronizer.java" timestamp="1560324661188">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="91" column="9" />
-        <mark key="]" line="94" column="21" />
+        <mark key="[" line="18" column="76" />
+        <mark key="]" line="18" column="77" />
         <mark key="^" line="94" column="21" />
-        <mark key="." line="94" column="21" />
+        <mark key="." line="18" column="77" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/org/w3c/dom/Document.java" timestamp="1560322393799" />
-      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/sf-commons/src/main/java/com/moodys/sav/commons/http/HttpClientUtils.java" timestamp="1560323097160">
-        <mark key="[" line="14" column="43" />
-        <mark key="]" line="14" column="43" />
-        <mark key="^" line="14" column="43" />
-        <mark key="." line="14" column="43" />
-      </file>
+      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/sf-commons/src/main/java/com/moodys/sav/commons/http/HttpClientUtils.java" timestamp="1560323097160" />
       <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/ConfigKey.java" timestamp="1559560548637">
         <mark key="[" line="11" column="65" />
         <mark key="]" line="11" column="65" />
@@ -257,6 +259,10 @@
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/sf-cloud-provider/src/main/java/com/moodys/sav/cloud/impl/aws/ActiveMqHandlerImpl.java" timestamp="1559805925370">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="79" />
+      </file>
+      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/schedule/StandardRateSyncTask.java" timestamp="1560324469416">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="10" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/WechatUser.java" timestamp="1559788312293">
         <mark key="[" line="11" column="20" />
@@ -402,43 +408,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>parseUnderlyingDeals</text>
+        <text>rateService</text>
       </register>
       <register name="-" type="4">
-        <text>parseUnderlyingDeals</text>
+        <text>rateService</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXJzZURlYWxEb2N1bWVudFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJRG9jdW1lbnRCdWlsZGVyIGRvY0J1aWxkZXIgPSBEb2N1bWVudEJ1aWxkZXJGYWN0b3J5Lm5ld0luc3RhbmNlKCkubmV3RG9jdW1lbnRCdWlsZGVyKCk7Cg==</text>
+        <text encoding="base64">QENvbXBvbmVudAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHJhdGVJZHMgIT0gbnVsbCkgCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ewogICAgICAgICAgICAgICAgaW50IHByb2Nlc3NvciA9IFJ1bnRpbWUuZ2V0UnVudGltZSgpLmF2YWlsYWJsZVByb2Nlc3NvcnMoKTsKICAgICAgICAgICAgICAgIGludCB0aHJlYWROdW0gPSAoaW50KSAocHJvY2Vzc29yIC8gMC4yZik7CiAgICAgICAgICAgICAgICBpZiAodGhyZWFkTnVtID09IDApIHsKICAgICAgICAgICAgICAgICAgICB0aHJlYWROdW0gPSAyOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgRXhlY3V0b3JTZXJ2aWNlIHBvb2wgPSBFeGVjdXRvcnMubmV3Rml4ZWRUaHJlYWRQb29sKHRocmVhZE51bSk7CgogICAgICAgICAgICAgICAgcmF0ZUlkcy5mb3JFYWNoKGlkIC0+IHsKICAgICAgICAgICAgICAgICAgICBwb29sLnN1Ym1pdCgoKSAtPiB7CiAgICAgICAgICAgICAgICAgICAgICAgIFN0cmluZyByYXRlRGV0YWlsID0gcmF0ZVN5bmNocm9uaXplci5nZXRSYXRlc1htbChpZCk7CiAgICAgICAgICAgICAgICAgICAgICAgIHJhdGVTZXJ2aWNlLnB1dFJhdGVEZXRhaWxUb0NhY2hlKGlkLCByYXRlRGV0YWlsKTsKICAgICAgICAgICAgICAgICAgICB9KTsKICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgICAgICBwb29sLnNodXRkb3duKCk7CiAgICAgICAgICAgICAgICAgICAgd2hpbGUgKCFwb29sLmF3YWl0VGVybWluYXRpb24oMTAsIFRpbWVVbml0Lk1JTlVURVMpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKCJzeW5jaW5nICB0aGUgIHJhdGUgZGV0YWlsIC4uLi4uLi4uLi4uIik7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfSBjYXRjaCAoSW50ZXJydXB0ZWRFeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgICAgIGxvZ2dlci5lcnJvcigiIiwgZSk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxTdHJpbmc+IHJhdGVJZHMgPSByYXRlU3luY2hyb25pemVyLnBhcnNlUmF0ZUlkRnJvbVJhdGVMaXN0KHJhdGVMaXN0KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3luY2hyb25pemVyLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnRpbnVlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmF0ZVNlcnZpY2UucHV0UmF0ZUxpc3RUb0NhY2hlKHJhdGVMaXN0KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGxldmVsPT0wKXsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHJhdGVMaXN0ID0gcmF0ZVN5bmNocm9uaXplci5nZXRSYXRlTGlzdCgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZGVhbEVsZS5nZXRQYXJlbnROb2RlKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgUmF0ZVN5bmNocm9uaXplciByYXRlU3luY2hyb25pemVyID0gbmV3IFJhdGVTeW5jaHJvbml6ZXIoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYWxOb2RlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>map</text>
