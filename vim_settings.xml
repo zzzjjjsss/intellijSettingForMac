@@ -213,10 +213,11 @@
         <mark key="^" line="63" column="45" />
         <mark key="." line="63" column="45" />
       </file>
-      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/UnderlyingDealSynchronizer.java" timestamp="1560316752485">
-        <mark key="[" line="9" column="5" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/UnderlyingDealSynchronizer.java" timestamp="1560318786903">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="6" column="30" />
+        <mark key="." line="6" column="30" />
+        <mark key="^" line="6" column="30" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/ConfigKey.java" timestamp="1559560548637">
         <mark key="[" line="11" column="65" />
@@ -265,11 +266,6 @@
         <mark key="]" line="17" column="46" />
         <mark key="." line="17" column="46" />
         <mark key="^" line="17" column="46" />
-      </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/Test/src/main/java/com/uf/member/stress/test.py" timestamp="1559556956296">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/restful/controller/Test.java" timestamp="1559613379544">
         <mark key="[" line="12" column="31" />
@@ -385,11 +381,11 @@
       <jump line="42" column="15" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/sf-data-provider/src/main/java/com/moodys/sav/data/bean/DealUpdateInfo.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>we limited the task number to 500.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLmhvc3RBZGRyZXNzID0gaG9zdEFkZHJlc3M7CiAgICAgICAgdGhpcy51c2VyTmFtZSA9IHVzZXJOYW1lOwogICAgICAgIHRoaXMucGFzc3dvcmQgPSBwYXNzd29yZDsK</text>
       </register>
       <register name="-" type="4">
-        <text>we limited the task number to 500.</text>
+        <text>String hostAddress, String userName, String password</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXltZW50RnJlcXVlbmN5XD4=</text>
@@ -398,31 +394,31 @@
         <text encoding="base64">CQkJCWlkPSJjdXN0b21lci0iK3RlbXAuZ2V0SWQoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjYWNoZVNlcnZpY2UucHV0T2JqZWN0KENhY2hlT2JqZWN0VHlwZS5TRVNTSU9OLCBpZCwgdG9rZW4pOwo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmhvc3RBZGRyZXNzID0gaG9zdEFkZHJlc3M7CiAgICAgICAgdGhpcy51c2VyTmFtZSA9IHVzZXJOYW1lOwogICAgICAgIHRoaXMucGFzc3dvcmQgPSBwYXNzd29yZDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjYWNoZVNlcnZpY2UucHV0T2JqZWN0KENhY2hlT2JqZWN0VHlwZS5TRVNTSU9OLCB0b2tlbiwgY2FjaGVPYmopOwo=</text>
+        <text encoding="base64">ICAgICAgICBjYWNoZVNlcnZpY2UucHV0T2JqZWN0KENhY2hlT2JqZWN0VHlwZS5TRVNTSU9OLCBpZCwgdG9rZW4pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcga2V5PSJjdXN0b21lci0iCg==</text>
+        <text encoding="base64">ICAgICAgICBjYWNoZVNlcnZpY2UucHV0T2JqZWN0KENhY2hlT2JqZWN0VHlwZS5TRVNTSU9OLCB0b2tlbiwgY2FjaGVPYmopOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcga2V5PSJjdXN0b21lci0iCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGFibGUuZGVsZXRlSXRlbShkZWxldGVJdGVtU3BlYyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRGVsZXRlSXRlbVNwZWMgZGVsZXRlSXRlbVNwZWMgPSBuZXcgRGVsZXRlSXRlbVNwZWMoKS53aXRoUHJpbWFyeUtleShuZXcgUHJpbWFyeUtleShwcmltYXJ5S2V5LCBwcmltYXJ5S2V5VmFsdWUpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGFibGUuZGVsZXRlSXRlbShkZWxldGVJdGVtU3BlYyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRydWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgRGVsZXRlSXRlbVNwZWMgZGVsZXRlSXRlbVNwZWMgPSBuZXcgRGVsZXRlSXRlbVNwZWMoKS53aXRoUHJpbWFyeUtleShuZXcgUHJpbWFyeUtleShwcmltYXJ5S2V5LCBwcmltYXJ5S2V5VmFsdWUpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRydWU7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>map</text>
