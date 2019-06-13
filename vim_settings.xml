@@ -220,7 +220,7 @@
         <mark key="." line="11" column="65" />
         <mark key="^" line="11" column="65" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560308632768">
+      <file name="/Dummy.txt" timestamp="1560392622356">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -395,10 +395,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>76f58211e80aae103f363c74bf2d5fc7</text>
+        <text>fix bug</text>
       </register>
       <register name="-" type="4">
-        <text>76f58211e80aae103f363c74bf2d5fc7</text>
+        <text>fix bug</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXJzZURlYWxEb2N1bWVudFw+</text>
