@@ -3,10 +3,16 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/start_script.py" timestamp="1559558884871">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/sf-data-provider/src/main/java/com/moodys/sav/data/dao/impl/postgresql/UserDaoImpl.java" timestamp="1560404822805" />
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/admin/SaveConfigureRequest.java" timestamp="1559560487173" />
       <file name="$MAVEN_REPOSITORY$/com/moodys/sav/sfs-output-interpreter/1.2/sfs-output-interpreter-1.2.jar!/com/moodys/sav/sfs/output/bean/LoanLevelDetailExport.class" timestamp="1559719754908" />
       <file name="/StoreManager.java" timestamp="1559789051383" />
+      <file name="/a.dummy" timestamp="1559633654917">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/sf-data-provider/src/main/java/com/moodys/sav/data/bean/SystemConfig.java" timestamp="1560155453050" />
       <file name="$USER_HOME$/gitBucket/membersystem/WechatAppApi/src/main/java/com/uf/wechat/miniapp/WechatApi.java" timestamp="1560153908494">
         <mark key="'" line="72" column="22" />
@@ -247,6 +253,9 @@
         <mark key="^" line="35" column="23" />
         <mark key="." line="35" column="23" />
       </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/util/ApiGatewayUtil.java" timestamp="1560414957947">
+        <mark key="[" line="2" column="29" />
+      </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/WechatLoginResponse.java" timestamp="1559546301393">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="29" column="42" />
@@ -327,6 +336,9 @@
         <mark key="^" line="46" column="20" />
         <mark key="." line="46" column="20" />
       </file>
+      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/sf-cloud-provider/src/main/java/com/moodys/sav/cloud/impl/aws/DynamoDbImpl.java" timestamp="1559633644419">
+        <mark key="[" line="2" column="27" />
+      </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/cache/CacheObjectType.java" timestamp="1559540876899">
         <mark key="[" line="3" column="11" />
         <mark key="]" line="3" column="11" />
@@ -357,6 +369,9 @@
         <mark key="]" line="13" column="34" />
         <mark key="." line="13" column="34" />
         <mark key="^" line="13" column="34" />
+      </file>
+      <file name="/fragment.java" timestamp="1559720440632">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/pom.xml" timestamp="1560412020590">
         <mark key="'" line="0" column="0" />
