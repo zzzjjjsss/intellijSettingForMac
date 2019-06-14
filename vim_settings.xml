@@ -224,11 +224,11 @@
         <mark key="^" line="35" column="23" />
         <mark key="." line="35" column="23" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/util/ApiGatewayUtil.java" timestamp="1560474421251">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="7" />
-        <mark key="." line="15" column="7" />
-        <mark key="^" line="15" column="7" />
+      <file name="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/util/ApiGatewayUtil.java" timestamp="1560475570449">
+        <mark key="[" line="31" column="70" />
+        <mark key="]" line="15" column="18" />
+        <mark key="." line="15" column="18" />
+        <mark key="^" line="15" column="18" />
       </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/schedule/UndelyingDealSyncTask.java" timestamp="1560405591462">
         <mark key="[" line="21" column="16" />
