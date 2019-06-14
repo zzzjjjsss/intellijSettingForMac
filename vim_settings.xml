@@ -248,13 +248,14 @@
         <mark key="^" line="35" column="23" />
         <mark key="." line="35" column="23" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/util/ApiGatewayUtil.java" timestamp="1560503506003">
-        <mark key="[" line="48" column="53" />
-        <mark key="]" line="49" column="0" />
-        <mark key="^" line="48" column="38" />
-        <mark key="." line="49" column="0" />
+      <file name="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/util/ApiGatewayUtil.java" timestamp="1560506803126">
+        <mark key="'" line="90" column="15" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/schedule/UndelyingDealSyncTask.java" timestamp="1560405591462">
+      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/schedule/UndelyingDealSyncTask.java" timestamp="1560507030234">
         <mark key="[" line="21" column="16" />
         <mark key="]" line="21" column="34" />
         <mark key="." line="21" column="34" />
@@ -303,10 +304,10 @@
         <mark key="." line="11" column="65" />
         <mark key="^" line="11" column="65" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560403037266">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1560506821284">
+        <mark key="[" line="0" column="3" />
+        <mark key="]" line="0" column="3" />
+        <mark key="." line="0" column="3" />
       </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/DealCusipsSynchronizer.java" timestamp="1559614485443">
         <mark key="'" line="42" column="43" />
@@ -371,7 +372,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3005" column="80" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/UDEV/Enterprise/java/dealdownload/src/main/java/com/wsainc/dealdownload/DealDownloaderFromDL.java" />
       <jump line="126" column="39" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/UDEV/Enterprise/java/dealdownload/src/main/java/com/wsainc/dealdownload/DealDownloaderFromDL.java" />
       <jump line="228" column="8" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/UDEV/Enterprise/java/dealdownload/src/main/java/com/wsainc/dealdownload/DealDownloaderFromDL.java" />
       <jump line="229" column="8" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/UDEV/Enterprise/java/dealdownload/src/main/java/com/wsainc/dealdownload/DealDownloaderFromDL.java" />
@@ -471,46 +471,47 @@
       <jump line="177" column="0" filename="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/util/HttpUtil.java" />
       <jump line="329" column="0" filename="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/util/HttpUtil.java" />
       <jump line="232" column="19" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/HttpDealSynchronizer.java" />
+      <jump line="79" column="15" filename="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/util/ApiGatewayUtil.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZXJ2aWNlQ29uZmlnLmFkZFByb3BlcnR5KCJTZXJ2aWNlQWRkcmVzcyIsIiIpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>st user as store manager</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>st user as store manager</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRVcmxTdHJpbmdGcm9tUGFyYW1zTWFwXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZXJ2aWNlQ29uZmlnLmFkZFByb3BlcnR5KCIiLCIiKTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgU3RyaW5nIGFwcG9pbnQ9Imh0dHA6Ly9hcGlnYXRld2F5LmNuLXNoZW56aGVuLmFsaXl1bmNzLmNvbSI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZXJ2aWNlQ29uZmlnLmFkZFByb3BlcnR5KCJTZXJ2aWNlQWRkcmVzcyIsIiIpOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgYm9vbGVhbiBkZWxldGVTdG9yZUFwaShTdHJpbmcpIHsKCiAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJhbWV0ZXJzLnB1dCgiRGVzY3JpcHRpb24iLCAiIik7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYT09Yik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZXJ2aWNlQ29uZmlnLmFkZFByb3BlcnR5KCJTZXJ2aWNlSHR0cE1ldGhvZCIsIkFOWSIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgYj1uZXcgU3RyaW5nKCJhIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZXJ2aWNlQ29uZmlnLmFkZFByb3BlcnR5KCIiLCIiKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgYT1uZXcgU3RyaW5nKCJhIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZXJ2aWNlQ29uZmlnLmFkZFByb3BlcnR5KCIiLCIiKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjcmVhdGVBcGkoKTsK</text>
+        <text encoding="base64">ICAgICAgICBzZXJ2aWNlQ29uZmlnLmFkZFByb3BlcnR5KCJTZXJ2aWNlQWRkcmVzcyIsIiIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJhbWV0ZXJzLnB1dCgiIiwgIiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBwYXJhbWV0ZXJzLnB1dCgiRGVzY3JpcHRpb24iLCAiIik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJhbWV0ZXJzLnB1dCgiIiwgIiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYT09Yik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJhbWV0ZXJzLnB1dCgiR3JvdXBOYW1lIiwgInRlc3RHcm91cCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgYj1uZXcgU3RyaW5nKCJhIik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>map</text>
