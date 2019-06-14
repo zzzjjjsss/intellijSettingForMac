@@ -248,11 +248,11 @@
         <mark key="^" line="35" column="23" />
         <mark key="." line="35" column="23" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/util/ApiGatewayUtil.java" timestamp="1560479883028">
-        <mark key="[" line="38" column="42" />
-        <mark key="]" line="33" column="0" />
-        <mark key="^" line="32" column="45" />
-        <mark key="." line="33" column="0" />
+      <file name="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/util/ApiGatewayUtil.java" timestamp="1560487441400">
+        <mark key="[" line="79" column="56" />
+        <mark key="]" line="79" column="84" />
+        <mark key="^" line="79" column="84" />
+        <mark key="." line="79" column="84" />
       </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/schedule/UndelyingDealSyncTask.java" timestamp="1560405591462">
         <mark key="[" line="21" column="16" />
@@ -473,11 +473,11 @@
       <jump line="329" column="0" filename="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/util/HttpUtil.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJhbWV0ZXJzLnB1dCgiR3JvdXBOYW1lIiwgInRlc3RHcm91cCIpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>querys</text>
       </register>
       <register name="-" type="4">
-        <text>JSON</text>
+        <text>querys</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxKc29uUGFyc2VyXD4=</text>
