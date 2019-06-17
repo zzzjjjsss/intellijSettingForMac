@@ -103,11 +103,11 @@
       <file name="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" timestamp="1559561744466" />
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/sf-data-provider/src/main/java/com/moodys/sav/data/dao/PortfoliosDao.java" timestamp="1560403546486" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/org/w3c/dom/Document.java" timestamp="1560322393799" />
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AppointmentService.java" timestamp="1560757813555">
-        <mark key="'" line="747" column="44" />
-        <mark key="[" line="771" column="0" />
-        <mark key="]" line="771" column="0" />
-        <mark key="." line="771" column="0" />
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AppointmentService.java" timestamp="1560763494695">
+        <mark key="'" line="753" column="45" />
+        <mark key="[" line="751" column="0" />
+        <mark key="]" line="751" column="0" />
+        <mark key="." line="751" column="0" />
         <mark key="^" line="770" column="43" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/WechatAppApi/src/test/java/Test.java" timestamp="1560390346437">
@@ -379,7 +379,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2962" column="48" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/UDEV/Enterprise/java/dealdownload/src/main/java/com/wsainc/dealdownload/DealDownloaderFromDL.java" />
       <jump line="2523" column="25" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/UDEV/Enterprise/java/dealdownload/src/main/java/com/wsainc/dealdownload/DealDownloaderFromDL.java" />
       <jump line="2679" column="13" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/UDEV/Enterprise/java/dealdownload/src/main/java/com/wsainc/dealdownload/DealDownloaderFromDL.java" />
       <jump line="2519" column="43" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/UDEV/Enterprise/java/dealdownload/src/main/java/com/wsainc/dealdownload/DealDownloaderFromDL.java" />
@@ -479,6 +478,7 @@
       <jump line="436" column="38" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AppointmentService.java" />
       <jump line="438" column="40" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AppointmentService.java" />
       <jump line="747" column="44" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AppointmentService.java" />
+      <jump line="753" column="45" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AppointmentService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -488,7 +488,7 @@
         <text>st user as store manager</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtaW5BcG9pbnRUaW1lXD4=</text>
+        <text encoding="base64">XDxvbmVEYXlcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgU3RyaW5nIGFwcG9pbnQ9Imh0dHA6Ly9hcGlnYXRld2F5LmNuLXNoZW56aGVuLmFsaXl1bmNzLmNvbSI7Cg==</text>
@@ -497,37 +497,37 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBpZiAoYXBzLnNpemUoKSA+IDApIHsKLy8gICAgICAgICAgICAgICAgaW50IHN0YXJ0UG9pbnQgPSBhcHMuZ2V0Rmlyc3QoKS5nZXRUaW1lUG9pbnQoKTsKLy8gICAgICAgICAgICAgICAgaW50IGVuZFBvaW50ID0gYXBzLmdldExhc3QoKS5nZXRUaW1lUG9pbnQoKTsKLy8gICAgICAgICAgICAgICAgLy/ooaXpvZDkuK3pl7QKLy8gICAgICAgICAgICAgICAgaW50IHRpbWVQb2ludCA9IHN0YXJ0UG9pbnQ7Ci8vICAgICAgICAgICAgICAgIGludCBpbmRleCA9IDA7Ci8vICAgICAgICAgICAgICAgIGZvciAoaW50IGogPSAwOyBqIDwgYXBzLnNpemUoKTsgaisrKSB7Ci8vICAgICAgICAgICAgICAgICAgICBPbmVBcHBvaW50bWVudCBhcHBvaW50bWVudCA9IGFwcy5nZXQoaik7Ci8vICAgICAgICAgICAgICAgICAgICBmb3IgKGludCBpID0gdGltZVBvaW50OyBpIDwgYXBwb2ludG1lbnQuZ2V0VGltZVBvaW50KCk7IGkrKykgewovLyAgICAgICAgICAgICAgICAgICAgICAgIE9uZUFwcG9pbnRtZW50IG1pc3NlZCA9IG5ldyBPbmVBcHBvaW50bWVudCgpOwovLyAgICAgICAgICAgICAgICAgICAgICAgIG1pc3NlZC5zZXRBcHBvaW50U3RhdHVzKE9uZUFwcG9pbnRtZW50Lk5PX1NDSEVEVUxFX1NUQVRVUyk7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgbWlzc2VkLnNldFRpbWVQb2ludChpKTsKLy8gICAgICAgICAgICAgICAgICAgICAgICBhcHMuYWRkKGluZGV4LCBtaXNzZWQpOwovLyAgICAgICAgICAgICAgICAgICAgICAgIHRpbWVQb2ludCsrOwovLyAgICAgICAgICAgICAgICAgICAgICAgIGluZGV4Kys7Ci8vICAgICAgICAgICAgICAgICAgICB9Ci8vICAgICAgICAgICAgICAgICAgICB0aW1lUG9pbnQrKzsKLy8gICAgICAgICAgICAgICAgICAgIGluZGV4Kys7Ci8vICAgICAgICAgICAgICAgIH0KLy8gICAgICAgICAgICAgICAgLy/ooaXpvZDlpLTpg6gKLy8gICAgICAgICAgICAgICAgZm9yIChpbnQgaSA9IHN0YXJ0UG9pbnQgLSAxOyBpID49IG1pbkFwb2ludFRpbWU7IGktLSkgewovLyAgICAgICAgICAgICAgICAgICAgT25lQXBwb2ludG1lbnQgbWlzc2VkID0gbmV3IE9uZUFwcG9pbnRtZW50KCk7Ci8vICAgICAgICAgICAgICAgICAgICBtaXNzZWQuc2V0QXBwb2ludFN0YXR1cyhPbmVBcHBvaW50bWVudC5OT19TQ0hFRFVMRV9TVEFUVVMpOwovLyAgICAgICAgICAgICAgICAgICAgbWlzc2VkLnNldFRpbWVQb2ludChpKTsKLy8gICAgICAgICAgICAgICAgICAgIGFwcy5hZGRGaXJzdChtaXNzZWQpOwovLyAgICAgICAgICAgICAgICB9Ci8vICAgICAgICAgICAgICAgIC8v6KGl6b2Q5bC+6YOoCi8vICAgICAgICAgICAgICAgIGZvciAoaW50IGkgPSBlbmRQb2ludCArIDE7IGkgPD0gbWF4QXBwb2ludFRpbWU7IGkrKykgewovLyAgICAgICAgICAgICAgICAgICAgT25lQXBwb2ludG1lbnQgbWlzc2VkID0gbmV3IE9uZUFwcG9pbnRtZW50KCk7Ci8vICAgICAgICAgICAgICAgICAgICBtaXNzZWQuc2V0QXBwb2ludFN0YXR1cyhPbmVBcHBvaW50bWVudC5OT19TQ0hFRFVMRV9TVEFUVVMpOwovLyAgICAgICAgICAgICAgICAgICAgbWlzc2VkLnNldFRpbWVQb2ludChpKTsKLy8gICAgICAgICAgICAgICAgICAgIGFwcy5hZGRMYXN0KG1pc3NlZCk7Ci8vICAgICAgICAgICAgICAgIH0KLy8KLy8KLy8gICAgICAgICAgICB9IGVsc2UgewovLyAgICAgICAgICAgICAgICBmb3IgKGludCBpID0gbWluQXBvaW50VGltZTsgaSA8PSBtYXhBcHBvaW50VGltZTsgaSsrKSB7Ci8vICAgICAgICAgICAgICAgICAgICBPbmVBcHBvaW50bWVudCBtaXNzZWQgPSBuZXcgT25lQXBwb2ludG1lbnQoKTsKLy8gICAgICAgICAgICAgICAgICAgIGlmICghU3RyaW5nVXRpbHMuaXNCbGFuayhvbmVEYXkuZ2V0RGF0ZSgpKSkgewovLyAgICAgICAgICAgICAgICAgICAgICAgIG1pc3NlZC5zZXRBcHBvaW50U3RhdHVzKE9uZUFwcG9pbnRtZW50Lk5PX1NDSEVEVUxFX1NUQVRVUyk7Ci8vICAgICAgICAgICAgICAgICAgICB9Ci8vICAgICAgICAgICAgICAgICAgICBtaXNzZWQuc2V0VGltZVBvaW50KGkpOwovLyAgICAgICAgICAgICAgICAgICAgYXBzLmFkZExhc3QobWlzc2VkKTsKLy8gICAgICAgICAgICAgICAgfQovLyAgICAgICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXBzLnN0cmVhbSgpLm1hcChhLT4pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgYm9vbGVhbiBkZWxldGVTdG9yZUFwaShTdHJpbmcpIHsKCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXBzLnN0cmVhbSgpLm1hcChhLT4pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZXJ2aWNlQ29uZmlnLmFkZFByb3BlcnR5KCJTZXJ2aWNlSHR0cE1ldGhvZCIsIkFOWSIpOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgYm9vbGVhbiBkZWxldGVTdG9yZUFwaShTdHJpbmcpIHsKCiAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZXJ2aWNlQ29uZmlnLmFkZFByb3BlcnR5KCIiLCIiKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZXJ2aWNlQ29uZmlnLmFkZFByb3BlcnR5KCIiLCIiKTsK</text>
+        <text encoding="base64">ICAgICAgICBzZXJ2aWNlQ29uZmlnLmFkZFByb3BlcnR5KCJTZXJ2aWNlSHR0cE1ldGhvZCIsIkFOWSIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>map</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtaW5BcG9pbnRUaW1lXD4=</last-search>
+      <last-search encoding="base64">XDxvbmVEYXlcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtaW5BcG9pbnRUaW1lXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxvbmVEYXlcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZXNwb25zZVw+</last-substitute>
       <last-dir>1</last-dir>
@@ -535,7 +535,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxleHBvcnRMb2FuRGV0YWlsVGFza1w+</entry>
         <entry encoding="base64">XDxXZWNoYXRVc2VyXD4=</entry>
         <entry encoding="base64">XDxhd3NDcmVkZW50aWFsc1Byb3ZpZGVyXD4=</entry>
         <entry encoding="base64">XDx2YWx1ZVw+</entry>
@@ -555,6 +554,7 @@
         <entry encoding="base64">XDxzdGF0dXNcPg==</entry>
         <entry encoding="base64">XDxhcHBvaW50bWVudHNcPg==</entry>
         <entry encoding="base64">XDxtaW5BcG9pbnRUaW1lXD4=</entry>
+        <entry encoding="base64">XDxvbmVEYXlcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>maps</entry>
