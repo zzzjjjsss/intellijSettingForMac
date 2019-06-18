@@ -118,9 +118,6 @@
     <keyboard-shortcut first-keystroke="shift ctrl back_space" />
   </action>
   <action id="KotlinShellExecute" />
-  <action id="List-selectNextRow">
-    <keyboard-shortcut first-keystroke="down" />
-  </action>
   <action id="MethodDown">
     <keyboard-shortcut first-keystroke="ctrl period" />
   </action>
@@ -141,9 +138,6 @@
     <keyboard-shortcut first-keystroke="shift ctrl o" />
   </action>
   <action id="OverrideMethods" />
-  <action id="PopupMenu-selectNext">
-    <keyboard-shortcut first-keystroke="down" />
-  </action>
   <action id="QuickImplementations">
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
@@ -177,14 +171,8 @@
   <action id="SmartTypeCompletion">
     <keyboard-shortcut first-keystroke="ctrl meta slash" />
   </action>
-  <action id="Table-selectNextRow">
-    <keyboard-shortcut first-keystroke="down" />
-  </action>
   <action id="Terminal.OpenInTerminal">
     <keyboard-shortcut first-keystroke="shift meta o" />
-  </action>
-  <action id="Tree-selectNext">
-    <keyboard-shortcut first-keystroke="down" />
   </action>
   <action id="UnselectPreviousOccurrence" />
   <action id="Vcs.Push" />
