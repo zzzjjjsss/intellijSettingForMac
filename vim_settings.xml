@@ -314,10 +314,10 @@
         <mark key="." line="11" column="65" />
         <mark key="^" line="11" column="65" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560844054312">
+      <file name="/Dummy.txt" timestamp="1560845411356">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="3" />
-        <mark key="." line="0" column="3" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/DealCusipsSynchronizer.java" timestamp="1560833205489">
         <mark key="'" line="52" column="23" />
@@ -467,11 +467,11 @@
       <jump line="186" column="94" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/HttpDealSynchronizer.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
+      <register name="&quot;" type="4">
+        <text>fix bug</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>fix bug</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0bXBTZndGaWxlXD4=</text>
