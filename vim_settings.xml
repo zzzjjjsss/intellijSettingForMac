@@ -8,12 +8,6 @@
       <file name="$MAVEN_REPOSITORY$/com/moodys/sav/sfs-output-interpreter/1.2/sfs-output-interpreter-1.2.jar!/com/moodys/sav/sfs/output/bean/LoanLevelDetailExport.class" timestamp="1559719754908" />
       <file name="/StoreManager.java" timestamp="1559789051383" />
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/sf-data-provider/src/main/java/com/moodys/sav/data/bean/SystemConfig.java" timestamp="1560155453050" />
-      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/HttpDealSynchronizer.java" timestamp="1560842886432">
-        <mark key="'" line="186" column="94" />
-        <mark key="[" line="236" column="0" />
-        <mark key="]" line="236" column="72" />
-        <mark key="." line="140" column="0" />
-      </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-client-service/src/main/java/com/moodys/sav/client/controller/JobSubmitController.java" timestamp="1560155360548">
         <mark key="'" line="327" column="43" />
       </file>
@@ -41,12 +35,6 @@
         <mark key="]" line="110" column="28" />
         <mark key="^" line="110" column="28" />
         <mark key="." line="110" column="28" />
-      </file>
-      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/sf-data-provider/src/main/java/com/moodys/sav/data/dao/ReremicsDao.java" timestamp="1560404916418">
-        <mark key="[" line="5" column="68" />
-        <mark key="]" line="5" column="81" />
-        <mark key="." line="5" column="81" />
-        <mark key="^" line="5" column="81" />
       </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/sf-data-provider/src/main/resources/com/moodys/sav/data/bean/Reremics.hbm.xml" timestamp="1560404297303">
         <mark key="'" line="1" column="5" />
@@ -81,26 +69,8 @@
         <mark key="." line="264" column="0" />
         <mark key="^" line="271" column="34" />
       </file>
-      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/service/DealSyncService.java" timestamp="1560405278044">
-        <mark key="[" line="29" column="38" />
-        <mark key="]" line="29" column="104" />
-        <mark key="^" line="29" column="104" />
-        <mark key="." line="29" column="104" />
-      </file>
       <file name="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/restful/controller/DeployAdminController.java" timestamp="1560161228931" />
-      <file name="$USER_HOME$/pythonProject/test.py" timestamp="1559562510261">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="11" column="19" />
-        <mark key="^" line="11" column="19" />
-        <mark key="." line="11" column="19" />
-      </file>
       <file name="$USER_HOME$/gitBucket/membersystem/SpringBootDeploy/src/main/resources/application-dev.properties" timestamp="1560768955704" />
-      <file name="$USER_HOME$/gitBucket/membersystem/WechatAppApi/src/main/java/com/uf/wechat/miniapp/bean/QRCodeResponse.java" timestamp="1559641131840">
-        <mark key="[" line="24" column="3" />
-        <mark key="]" line="24" column="31" />
-        <mark key="^" line="24" column="31" />
-        <mark key="." line="24" column="31" />
-      </file>
       <file name="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" timestamp="1559561744466" />
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/sf-data-provider/src/main/java/com/moodys/sav/data/dao/PortfoliosDao.java" timestamp="1560403546486" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/org/w3c/dom/Document.java" timestamp="1560322393799" />
@@ -112,33 +82,9 @@
         <mark key="." line="75" column="28" />
         <mark key="^" line="770" column="43" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/WechatAppApi/src/test/java/Test.java" timestamp="1560390346437">
-        <mark key="[" line="14" column="59" />
-        <mark key="]" line="14" column="59" />
-        <mark key="." line="14" column="59" />
-        <mark key="^" line="17" column="72" />
-      </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/WechatUser.java" timestamp="1559788312293">
-        <mark key="[" line="11" column="20" />
-        <mark key="]" line="12" column="24" />
-        <mark key="^" line="12" column="24" />
-        <mark key="." line="12" column="24" />
-      </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/cache/CacheService.java" timestamp="1559705517531">
-        <mark key="[" line="6" column="19" />
-        <mark key="]" line="6" column="28" />
-        <mark key="." line="6" column="28" />
-        <mark key="^" line="6" column="28" />
-      </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-supervisory/src/main/java/com/moodys/sav/sfs/supervisory/task/ExportProfileTask.java" timestamp="1559715933041" />
       <file name="$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.3.1/gson-2.3.1-sources.jar!/com/google/gson/JsonPrimitive.java" timestamp="1559638957825" />
       <file name="$MAVEN_REPOSITORY$/com/amazonaws/aws-java-sdk-dynamodb/1.11.354/aws-java-sdk-dynamodb-1.11.354-sources.jar!/com/amazonaws/services/dynamodbv2/document/DynamoDB.java" timestamp="1559635483383" />
-      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/utils/s3Tool/src/main/java/test/OOMTest.java" timestamp="1559721631448">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="35" column="51" />
-        <mark key="." line="35" column="51" />
-        <mark key="^" line="35" column="51" />
-      </file>
       <file name="$USER_HOME$/gitBucket/membersystem/Gateway/src/main/resources/application.properties" timestamp="1560157029581">
         <mark key="[" line="10" column="43" />
         <mark key="]" line="10" column="44" />
@@ -166,55 +112,7 @@
       <file name="$MAVEN_REPOSITORY$/joda-time/joda-time/2.10/joda-time-2.10-sources.jar!/org/joda/time/LocalDate.java" timestamp="1558338829338">
         <mark key="'" line="282" column="0" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/StoreManagerRepo.java" timestamp="1559724636618">
-        <mark key="[" line="6" column="46" />
-        <mark key="]" line="6" column="64" />
-        <mark key="." line="6" column="64" />
-        <mark key="^" line="6" column="64" />
-      </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/StoreManager.java" timestamp="1559724620068">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="32" column="36" />
-        <mark key="." line="32" column="36" />
-        <mark key="^" line="32" column="36" />
-      </file>
-      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/controller/ScheduleController.java" timestamp="1560406233716">
-        <mark key="[" line="51" column="37" />
-        <mark key="]" line="51" column="59" />
-        <mark key="^" line="51" column="59" />
-        <mark key="." line="51" column="59" />
-      </file>
-      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/ratesync/RateDbFileSynchronizer.java" timestamp="1560245093867">
-        <mark key="[" line="28" column="46" />
-        <mark key="]" line="28" column="66" />
-        <mark key="^" line="28" column="66" />
-        <mark key="." line="28" column="66" />
-      </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/cache/EhcacheService.java" timestamp="1559705552820">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
-        <mark key="^" line="45" column="27" />
-      </file>
-      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/utils/s3Tool/pom.xml" timestamp="1559635595522">
-        <mark key="[" line="26" column="50" />
-        <mark key="]" line="26" column="57" />
-        <mark key="^" line="26" column="57" />
-        <mark key="." line="26" column="57" />
-      </file>
       <file name="$USER_HOME$/gitBucket/membersystem/WarDeploy/src/main/resources/application-prod.properties" timestamp="1560767800077" />
-      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/ratesync/HttpUtilForRateDbFile.java" timestamp="1560246827641">
-        <mark key="[" line="35" column="8" />
-        <mark key="]" line="35" column="18" />
-        <mark key="." line="33" column="68" />
-        <mark key="^" line="35" column="18" />
-      </file>
-      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/sf-cloud-provider/src/main/java/com/moodys/sav/cloud/DocumentDbHandler.java" timestamp="1559814982457">
-        <mark key="[" line="11" column="22" />
-        <mark key="]" line="11" column="22" />
-        <mark key="." line="11" column="22" />
-        <mark key="^" line="11" column="107" />
-      </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/sf-data-provider/src/main/resources/applicationContext-data.xml" timestamp="1560404466669">
         <mark key="'" line="47" column="59" />
         <mark key="[" line="188" column="57" />
@@ -231,23 +129,11 @@
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/WechatAppApi/src/main/java/com/uf/wechat/miniapp/bean/WechatMiniAppUserLoginResponse.java" timestamp="1559639964961" />
       <file name="$USER_HOME$/gitBucket/membersystem/WarDeploy/src/main/resources/application-dev.properties" timestamp="1560422812008" />
-      <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/Customer.java" timestamp="1559788442288">
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="87" column="36" />
-        <mark key="." line="87" column="36" />
-        <mark key="^" line="87" column="36" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.6.RELEASE/spring-boot-autoconfigure-1.5.6.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/jdbc/DataSourceBuilder.java" timestamp="1557993848535">
         <mark key="'" line="132" column="40" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/auth/UsernamePasswordCredentials.java" timestamp="1559199092091">
         <mark key="'" line="78" column="11" />
-      </file>
-      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/CDO_DealSynchronizer.java" timestamp="1560248035099">
-        <mark key="[" line="9" column="1" />
-        <mark key="]" line="35" column="23" />
-        <mark key="^" line="35" column="23" />
-        <mark key="." line="35" column="23" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/util/ApiGatewayUtil.java" timestamp="1560506803126">
         <mark key="'" line="90" column="15" />
@@ -255,12 +141,6 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
         <mark key="^" line="23" column="0" />
-      </file>
-      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/schedule/UndelyingDealSyncTask.java" timestamp="1560756471935">
-        <mark key="[" line="21" column="16" />
-        <mark key="]" line="21" column="34" />
-        <mark key="." line="21" column="34" />
-        <mark key="^" line="21" column="34" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/ResourceAppointment.java" timestamp="1558420743465">
         <mark key="'" line="61" column="15" />
@@ -278,18 +158,12 @@
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/jre/lib/jce.jar!/javax/crypto/spec/SecretKeySpec.class" timestamp="1560421942272" />
       <file name="$MAVEN_REPOSITORY$/com/amazonaws/aws-java-sdk-dynamodb/1.11.354/aws-java-sdk-dynamodb-1.11.354-sources.jar!/com/amazonaws/services/dynamodbv2/document/Table.java" timestamp="1559803429208" />
-      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/sf-data-provider/src/main/java/com/moodys/sav/data/dao/impl/postgresql/ReremicsDaoImpl.java" timestamp="1560404927368">
-        <mark key="[" line="9" column="43" />
-        <mark key="]" line="9" column="56" />
-        <mark key="^" line="9" column="56" />
-        <mark key="." line="9" column="56" />
-      </file>
-      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/utils/CxconTool.java" timestamp="1560843104209">
+      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/utils/CxconTool.java" timestamp="1560846604865">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="323" column="70" />
-        <mark key="]" line="324" column="64" />
-        <mark key="^" line="324" column="64" />
-        <mark key="." line="324" column="64" />
+        <mark key="[" line="359" column="70" />
+        <mark key="]" line="360" column="64" />
+        <mark key="^" line="360" column="64" />
+        <mark key="." line="360" column="64" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/lang/ProcessImpl.java" timestamp="1558666989943">
         <mark key="'" line="134" column="17" />
@@ -308,12 +182,6 @@
         <mark key="." line="38" column="40" />
         <mark key="^" line="38" column="40" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/ConfigKey.java" timestamp="1559560548637">
-        <mark key="[" line="11" column="65" />
-        <mark key="]" line="11" column="65" />
-        <mark key="." line="11" column="65" />
-        <mark key="^" line="11" column="65" />
-      </file>
       <file name="/Dummy.txt" timestamp="1560845411356">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -325,18 +193,6 @@
         <mark key="]" line="49" column="18" />
         <mark key="^" line="53" column="37" />
         <mark key="." line="49" column="18" />
-      </file>
-      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/sf-cloud-provider/pom.xml" timestamp="1559635284237">
-        <mark key="[" line="45" column="21" />
-        <mark key="]" line="46" column="20" />
-        <mark key="^" line="46" column="20" />
-        <mark key="." line="46" column="20" />
-      </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/util/HttpUtil.java" timestamp="1560479036277">
-        <mark key="'" line="329" column="0" />
-        <mark key="[" line="177" column="0" />
-        <mark key="]" line="177" column="0" />
-        <mark key="." line="177" column="0" />
       </file>
       <file name="$USER_HOME$/pythonProject/modifySetting.py" timestamp="1559627641960">
         <mark key="[" line="7" column="60" />
@@ -356,12 +212,6 @@
         <mark key="]" line="17" column="46" />
         <mark key="." line="17" column="46" />
         <mark key="^" line="17" column="46" />
-      </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/restful/controller/Test.java" timestamp="1559613379544">
-        <mark key="[" line="12" column="31" />
-        <mark key="]" line="13" column="34" />
-        <mark key="." line="13" column="34" />
-        <mark key="^" line="13" column="34" />
       </file>
     </filemarks>
     <jumps>
