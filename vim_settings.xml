@@ -300,12 +300,12 @@
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/DealCusipsSynchronizer.java" timestamp="1560828382119">
+      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/DealCusipsSynchronizer.java" timestamp="1560833205489">
         <mark key="'" line="52" column="23" />
-        <mark key="[" line="53" column="30" />
-        <mark key="]" line="53" column="37" />
+        <mark key="[" line="49" column="18" />
+        <mark key="]" line="49" column="18" />
         <mark key="^" line="53" column="37" />
-        <mark key="." line="53" column="37" />
+        <mark key="." line="49" column="18" />
       </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/sf-cloud-provider/pom.xml" timestamp="1559635284237">
         <mark key="[" line="45" column="21" />
@@ -449,10 +449,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.com</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>.com</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxob3N0XD4=</text>
