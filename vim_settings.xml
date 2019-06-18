@@ -60,6 +60,9 @@
         <mark key="]" line="8" column="50" />
         <mark key="." line="8" column="50" />
       </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem_WechatApp/app.js" timestamp="1560839224328">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/sf-data-provider/src/main/resources/com/moodys/sav/data/bean/Role.hbm.xml" timestamp="1560406354258" />
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/CommonController.java" timestamp="1559559667867">
         <mark key="'" line="111" column="38" />
@@ -346,7 +349,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2519" column="43" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/UDEV/Enterprise/java/dealdownload/src/main/java/com/wsainc/dealdownload/DealDownloaderFromDL.java" />
       <jump line="2533" column="23" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/UDEV/Enterprise/java/dealdownload/src/main/java/com/wsainc/dealdownload/DealDownloaderFromDL.java" />
       <jump line="56" column="32" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/UDEV/Enterprise/java/dealdownload/src/main/java/com/wsainc/dealdownload/DealDownloaderFromDL.java" />
       <jump line="7" column="19" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/sf-data-provider/src/main/java/com/moodys/sav/data/bean/DealUpdateInfo.java" />
@@ -446,6 +448,7 @@
       <jump line="753" column="45" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AppointmentService.java" />
       <jump line="65" column="17" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/schedule/DealCusipsSyncTask.java" />
       <jump line="52" column="23" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/DealCusipsSynchronizer.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem_WechatApp/app.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
