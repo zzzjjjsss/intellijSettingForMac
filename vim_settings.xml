@@ -108,10 +108,10 @@
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/sf-data-provider/src/main/java/com/moodys/sav/data/dao/PortfoliosDao.java" timestamp="1560403546486" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/org/w3c/dom/Document.java" timestamp="1560322393799" />
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/SFW_DealSynchronizer.java" timestamp="1560827015125" />
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AppointmentService.java" timestamp="1560914388552">
-        <mark key="[" line="480" column="0" />
-        <mark key="]" line="480" column="0" />
-        <mark key="." line="480" column="0" />
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AppointmentService.java" timestamp="1560915245668">
+        <mark key="[" line="537" column="47" />
+        <mark key="]" line="537" column="47" />
+        <mark key="." line="537" column="47" />
         <mark key="^" line="471" column="87" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/WechatAppApi/src/test/java/Test.java" timestamp="1560390346437">
@@ -489,11 +489,11 @@
       <jump line="434" column="20" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AppointmentService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmVnaW4gPSBiZWdpbi5wbHVzRGF5cygxKTsK</text>
+      <register name="&quot;" type="4">
+        <text>OneAppointment.APPOINTE_FULL_STATUS</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>OneAppointment.APPOINTE_FULL_STATUS</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiZWdpblw+</text>
