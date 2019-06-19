@@ -256,8 +256,8 @@
         <mark key="." line="11" column="14" />
         <mark key="^" line="10" column="31" />
       </file>
-      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-supervisory/src/main/java/com/moodys/sav/sfs/supervisory/task/ExportLoanLevelDetailTask.java" timestamp="1560908057279">
-        <mark key="'" line="410" column="24" />
+      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-supervisory/src/main/java/com/moodys/sav/sfs/supervisory/task/ExportLoanLevelDetailTask.java" timestamp="1560909482305">
+        <mark key="'" line="82" column="36" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/Customer.java" timestamp="1559788442288">
         <mark key="[" line="86" column="0" />
@@ -387,8 +387,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="8" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/component/ApplicationInit.java" />
-      <jump line="111" column="38" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/CommonController.java" />
       <jump line="107" column="74" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/admin/AdminController.java" />
       <jump line="23" column="8" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/utils/s3Tool/src/main/java/com/moodys/dynamodb/Main.java" />
       <jump line="179" column="29" filename="$USER_HOME$/gitBucket/membersystem/WechatAppApi/src/main/java/com/uf/wechat/miniapp/util/HttpsUtil.java" />
@@ -485,8 +483,10 @@
       <jump line="150" column="89" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/HttpDealSynchronizer.java" />
       <jump line="152" column="51" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/HttpDealSynchronizer.java" />
       <jump line="186" column="94" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/HttpDealSynchronizer.java" />
-      <jump line="415" column="15" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-supervisory/src/main/java/com/moodys/sav/sfs/supervisory/task/ExportLoanLevelDetailTask.java" />
       <jump line="410" column="24" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-supervisory/src/main/java/com/moodys/sav/sfs/supervisory/task/ExportLoanLevelDetailTask.java" />
+      <jump line="415" column="15" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-supervisory/src/main/java/com/moodys/sav/sfs/supervisory/task/ExportLoanLevelDetailTask.java" />
+      <jump line="81" column="68" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-supervisory/src/main/java/com/moodys/sav/sfs/supervisory/task/ExportLoanLevelDetailTask.java" />
+      <jump line="82" column="36" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-supervisory/src/main/java/com/moodys/sav/sfs/supervisory/task/ExportLoanLevelDetailTask.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -538,7 +538,7 @@
       <last-pattern encoding="base64">XDxMb2FuRGV0YWlsc0RhdGFcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZXNwb25zZVw+</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
