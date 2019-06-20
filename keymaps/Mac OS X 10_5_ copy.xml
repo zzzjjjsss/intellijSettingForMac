@@ -52,20 +52,20 @@
   <action id="EditorDeleteToLineStart">
     <keyboard-shortcut first-keystroke="ctrl u" />
   </action>
-  <action id="EditorDeleteToWordEnd">
-    <keyboard-shortcut first-keystroke="alt delete" />
-    <keyboard-shortcut first-keystroke="alt d" />
+  <action id="EditorDeleteToWordStart">
+    <keyboard-shortcut first-keystroke="alt back_space" />
+    <keyboard-shortcut first-keystroke="ctrl back_space" />
   </action>
   <action id="EditorDuplicate" />
-  <action id="EditorLineEnd">
-    <keyboard-shortcut first-keystroke="end" />
-    <keyboard-shortcut first-keystroke="meta right" />
-  </action>
-  <action id="EditorLineStart">
-    <keyboard-shortcut first-keystroke="home" />
-    <keyboard-shortcut first-keystroke="meta left" />
-  </action>
   <action id="EditorMatchBrace" />
+  <action id="EditorNextWord">
+    <keyboard-shortcut first-keystroke="alt right" />
+    <keyboard-shortcut first-keystroke="shift ctrl f" />
+  </action>
+  <action id="EditorPreviousWord">
+    <keyboard-shortcut first-keystroke="alt left" />
+    <keyboard-shortcut first-keystroke="shift ctrl b" />
+  </action>
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="alt up" />
     <keyboard-shortcut first-keystroke="ctrl semicolon" />
@@ -131,6 +131,7 @@
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
   <action id="JumpToLastChange">
+    <keyboard-shortcut first-keystroke="shift meta back_space" />
     <keyboard-shortcut first-keystroke="shift ctrl back_space" />
   </action>
   <action id="KotlinShellExecute" />
@@ -154,13 +155,11 @@
     <keyboard-shortcut first-keystroke="shift ctrl o" />
   </action>
   <action id="OverrideMethods" />
-  <action id="QuickImplementations">
-    <keyboard-shortcut first-keystroke="meta d" />
-  </action>
+  <action id="QuickImplementations" />
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="f1" />
     <mouse-shortcut keystroke="control button2" />
-    <keyboard-shortcut first-keystroke="ctrl v" />
+    <keyboard-shortcut first-keystroke="meta d" />
   </action>
   <action id="Refactorings.QuickListPopupAction" />
   <action id="ReformatCode">
