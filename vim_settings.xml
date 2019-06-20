@@ -73,12 +73,12 @@
       </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/sf-data-provider/src/main/resources/com/moodys/sav/data/bean/Role.hbm.xml" timestamp="1560406354258" />
       <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/AppointmentToCustomer.java" timestamp="1560919944565" />
-      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-web/src/main/java/com/moodys/sav/sfs/web/controller/ClusterAdminController.java" timestamp="1561011384824">
-        <mark key="'" line="101" column="13" />
-        <mark key="[" line="83" column="27" />
-        <mark key="]" line="83" column="27" />
-        <mark key="^" line="83" column="27" />
-        <mark key="." line="83" column="27" />
+      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-web/src/main/java/com/moodys/sav/sfs/web/controller/ClusterAdminController.java" timestamp="1561012428249">
+        <mark key="'" line="102" column="13" />
+        <mark key="[" line="83" column="50" />
+        <mark key="]" line="84" column="27" />
+        <mark key="^" line="84" column="27" />
+        <mark key="." line="84" column="27" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/CommonController.java" timestamp="1559559667867">
         <mark key="'" line="111" column="38" />
@@ -572,10 +572,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQlyZXR1cm4gIAo=</text>
+        <text encoding="base64">CQlyZXR1cm4gIjxtZXM+Y2FuJ3QgZmluZCBpbnN0YW5jZTwvbWVzPiI7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;admin/clusterAdminContent.html&quot;;</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsYXVuY2hRdWV1ZU5hbWVcPg==</text>
@@ -584,31 +584,31 @@
         <text encoding="base64">ICAgIHByaXZhdGUgU2RrSW50ZXJuYWxMaXN0PFRhZz4gdGFnczsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlyZXR1cm4gIAo=</text>
+        <text encoding="base64">CQlyZXR1cm4gIjxtZXM+Y2FuJ3QgZmluZCBpbnN0YW5jZTwvbWVzPiI7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQltb2RlbC5hZGRBdHRyaWJ1dGUoImNsdXN0ZXJzIiwgY2x1c3RlcnMpOwo=</text>
+        <text encoding="base64">CQkJU3RyaW5nIGpzb25TdHI9Z3Nvbi50b0pzb24oaW5zdGFuY2VzKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlMaXN0PENsdXN0ZXJJbmZvPiBjbHVzdGVycyA9IGNsdXN0ZXJJbmZvRGFvLmZpbmRBbGxDbHVzdGVySW5mb3MoKTsK</text>
+        <text encoding="base64">CQkJR3NvbiBnc29uPW5ldyBHc29uKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">ICAgIEBSZXNwb25zZUJvZHkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJcmV0dXJuICJsb2dpbi5odG1sIjsK</text>
+        <text encoding="base64">CQlyZXR1cm4gIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlpZiAodXNlciA9PSBudWxsKSB7Cg==</text>
+        <text encoding="base64">CQltb2RlbC5hZGRBdHRyaWJ1dGUoImNsdXN0ZXJzIiwgY2x1c3RlcnMpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlVc2VyIHVzZXIgPSAoVXNlcikgcmVxdWVzdC5nZXRTZXNzaW9uKCkuZ2V0QXR0cmlidXRlKCJ1c2VyIik7Cg==</text>
+        <text encoding="base64">CQlMaXN0PENsdXN0ZXJJbmZvPiBjbHVzdGVycyA9IGNsdXN0ZXJJbmZvRGFvLmZpbmRBbGxDbHVzdGVySW5mb3MoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">CQkJcmV0dXJuICJsb2dpbi5odG1sIjsK</text>
       </register>
       <register name=":" type="4">
         <text>map</text>
