@@ -42,6 +42,20 @@
   <action id="DuplicatesForm.SendToRight" />
   <action id="EditorChooseLookupItemDot" />
   <action id="EditorCutLineEnd" />
+  <action id="EditorDelete">
+    <keyboard-shortcut first-keystroke="delete" />
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="EditorDeleteToLineEnd">
+    <keyboard-shortcut first-keystroke="ctrl k" />
+  </action>
+  <action id="EditorDeleteToLineStart">
+    <keyboard-shortcut first-keystroke="ctrl u" />
+  </action>
+  <action id="EditorDeleteToWordEnd">
+    <keyboard-shortcut first-keystroke="alt delete" />
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
   <action id="EditorDuplicate" />
   <action id="EditorLineEnd">
     <keyboard-shortcut first-keystroke="end" />
@@ -97,9 +111,7 @@
   <action id="GotoPreviousError">
     <keyboard-shortcut first-keystroke="shift ctrl open_bracket" />
   </action>
-  <action id="GotoSuperMethod">
-    <keyboard-shortcut first-keystroke="ctrl u" />
-  </action>
+  <action id="GotoSuperMethod" />
   <action id="GotoTypeDeclaration">
     <mouse-shortcut keystroke="shift meta button1" />
     <keyboard-shortcut first-keystroke="shift ctrl g" />
@@ -107,6 +119,10 @@
   <action id="Groovy.Shell.Execute" />
   <action id="GuiDesigner.CreateListener" />
   <action id="GuiDesigner.Duplicate" />
+  <action id="GuiDesigner.QuickJavadoc">
+    <keyboard-shortcut first-keystroke="f1" />
+    <mouse-shortcut keystroke="control button2" />
+  </action>
   <action id="Images.Editor.ActualSize">
     <keyboard-shortcut first-keystroke="meta divide" />
   </action>
@@ -144,7 +160,7 @@
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="f1" />
     <mouse-shortcut keystroke="control button2" />
-    <keyboard-shortcut first-keystroke="ctrl d" />
+    <keyboard-shortcut first-keystroke="ctrl v" />
   </action>
   <action id="Refactorings.QuickListPopupAction" />
   <action id="ReformatCode">
@@ -176,6 +192,7 @@
   </action>
   <action id="UnselectPreviousOccurrence" />
   <action id="Vcs.Push" />
+  <action id="Vcs.QuickListPopupAction" />
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="meta e" />
   </action>
