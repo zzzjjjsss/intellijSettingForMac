@@ -66,6 +66,7 @@
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-supervisory/src/main/java/com/moodys/sav/sfs/supervisory/task/FetchFromS3AndParserJsonTask.java" timestamp="1559718679652">
         <mark key="'" line="161" column="28" />
       </file>
+      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-supervisory/src/main/java/com/moodys/sav/sfs/supervisory/monitor/CpuRateMonitor.java" timestamp="1561020490732" />
       <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/WechatUserRepo.java" timestamp="1559714527679">
         <mark key="[" line="8" column="50" />
         <mark key="]" line="8" column="50" />
