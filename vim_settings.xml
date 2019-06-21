@@ -149,11 +149,11 @@
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/sf-data-provider/src/main/java/com/moodys/sav/data/dao/PortfoliosDao.java" timestamp="1560403546486" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/org/w3c/dom/Document.java" timestamp="1560322393799" />
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/SFW_DealSynchronizer.java" timestamp="1560827015125" />
-      <file name="$USER_HOME$/gitBucket/membersystem/WechatAppApi/src/test/java/Test.java" timestamp="1560390346437">
-        <mark key="[" line="14" column="59" />
-        <mark key="]" line="14" column="59" />
-        <mark key="." line="14" column="59" />
-        <mark key="^" line="17" column="72" />
+      <file name="$USER_HOME$/gitBucket/membersystem/WechatAppApi/src/test/java/Test.java" timestamp="1561112184179">
+        <mark key="[" line="25" column="69" />
+        <mark key="]" line="25" column="69" />
+        <mark key="." line="25" column="69" />
+        <mark key="^" line="25" column="69" />
       </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-cluster-manager/src/main/java/com/moodys/sav/sfs/cluster/StormClusterManager.java" timestamp="1561020230630">
         <mark key="'" line="41" column="8" />
@@ -174,7 +174,7 @@
         <mark key="^" line="12" column="24" />
         <mark key="." line="12" column="24" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/WechatAppApi/src/main/java/com/uf/wechat/miniapp/util/HttpsUtil.java" timestamp="1560478986843">
+      <file name="$USER_HOME$/gitBucket/membersystem/WechatAppApi/src/main/java/com/uf/wechat/miniapp/util/HttpsUtil.java" timestamp="1561111967895">
         <mark key="'" line="100" column="16" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/cache/CacheService.java" timestamp="1559705517531">
@@ -419,7 +419,7 @@
         <mark key="." line="11" column="65" />
         <mark key="^" line="11" column="65" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561083070829">
+      <file name="/Dummy.txt" timestamp="1561111678710">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -578,11 +578,11 @@
       <jump line="294" column="8" filename="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/util/ApiGatewayUtil.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>j</text>
       </register>
       <register name="-" type="4">
-        <text>requestId</text>
+        <text>j</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkZXBsb3lBcGlcPg==</text>
@@ -591,16 +591,16 @@
         <text encoding="base64">ICAgICAgICBwYXJhbWV0ZXJzLnB1dCgiVmlzaWJpbGl0eSIsICJQUklWQVRFIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -612,10 +612,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGFwcG9pbnRtZW50LCBhY2Vzc0tleUlkLCBhY2Nlc3NrZXlTZWNyZXQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICB0cnkgewogICAgU3RyaW5nIHM9ICAgICAgICBobWFjU0hBMVNpZ25hdHVyZSgidGVzdHNlY3JldCIsIkdFVCYlMkYmQWNjZXNzS2V5SWQlM0R0ZXN0aWQmQWN0aW9uJTNERGVzY3JpYmVSZWdpb25zJkZvcm1hdCUzRGpzb24mU2lnbmF0dXJlTWV0aG9kJTNESG1hYy1TSEExJlNpZ25hdHVyZU5vbmNlJTNEZDQ4ZTkzMWItOTBjOS00OWM3LWFjODYtYTcwZGQzNjA3Yzg4JlNpZ25hdHVyZVZlcnNpb24lM0QxLjAmVGltZXN0YW1wJTNEMjAxNi0wOS0yN1QwOSUyNTNBMDglMjUzQTMwWiZWZXJzaW9uJTNEMjAxNi0wNy0xNCIpOwogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocyk7CiAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICB9CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKEhleFV0aWxzLnRvSGV4U3RyaW5nKEJhc2U2NC5kZWNvZGVCYXNlNjQoImxHOFllU0tvaGF3NTY4VGFOZGdSUUgzeVBDbz0iKSkpOw==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGFwcG9pbnRtZW50LCBhY2Vzc0tleUlkLCBhY2Nlc3NrZXlTZWNyZXQ7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>map</text>
