@@ -68,12 +68,12 @@
         <mark key="]" line="8" column="50" />
         <mark key="." line="8" column="50" />
       </file>
-      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-supervisory/src/main/java/com/moodys/sav/sfs/supervisory/monitor/Ec2InstanceMonitor.java" timestamp="1561026991701">
-        <mark key="'" line="72" column="0" />
-        <mark key="[" line="61" column="28" />
-        <mark key="]" line="61" column="27" />
-        <mark key="." line="61" column="27" />
-        <mark key="^" line="61" column="27" />
+      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-supervisory/src/main/java/com/moodys/sav/sfs/supervisory/monitor/Ec2InstanceMonitor.java" timestamp="1561092939123">
+        <mark key="'" line="31" column="15" />
+        <mark key="[" line="32" column="125" />
+        <mark key="]" line="33" column="25" />
+        <mark key="." line="33" column="25" />
+        <mark key="^" line="33" column="25" />
       </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/sf-data-provider/src/main/resources/com/moodys/sav/data/bean/Role.hbm.xml" timestamp="1560406354258" />
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-supervisory/src/main/java/com/moodys/sav/sfs/supervisory/monitor/Monitor.java" timestamp="1561022604620">
@@ -368,12 +368,12 @@
         <mark key="^" line="35" column="23" />
         <mark key="." line="35" column="23" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/util/ApiGatewayUtil.java" timestamp="1561087830200">
-        <mark key="'" line="134" column="15" />
-        <mark key="[" line="126" column="11" />
-        <mark key="]" line="126" column="11" />
-        <mark key="." line="126" column="11" />
-        <mark key="^" line="126" column="11" />
+      <file name="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/util/ApiGatewayUtil.java" timestamp="1561092432599">
+        <mark key="'" line="174" column="15" />
+        <mark key="[" line="33" column="62" />
+        <mark key="]" line="73" column="25" />
+        <mark key="." line="73" column="25" />
+        <mark key="^" line="73" column="25" />
       </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/schedule/UndelyingDealSyncTask.java" timestamp="1560756471935" />
       <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/ResourceAppointment.java" timestamp="1560919315645">
@@ -485,7 +485,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="149" column="89" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/service/impl/DealSyncServiceImpl.java" />
       <jump line="166" column="0" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/service/impl/DealSyncServiceImpl.java" />
       <jump line="18" column="58" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/service/impl/DealSyncServiceImpl.java" />
       <jump line="304" column="40" filename="$USER_HOME$/gitBucket/membersystem/WechatAppApi/src/main/java/com/uf/wechat/miniapp/util/HttpsUtil.java" />
@@ -585,6 +584,7 @@
       <jump line="19" column="0" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-supervisory/src/main/java/com/moodys/sav/sfs/supervisory/monitor/Ec2InstanceMonitor.java" />
       <jump line="26" column="0" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-supervisory/src/main/java/com/moodys/sav/sfs/supervisory/monitor/Ec2InstanceMonitor.java" />
       <jump line="72" column="0" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-supervisory/src/main/java/com/moodys/sav/sfs/supervisory/monitor/Ec2InstanceMonitor.java" />
+      <jump line="30" column="15" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-supervisory/src/main/java/com/moodys/sav/sfs/supervisory/monitor/Ec2InstanceMonitor.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -594,7 +594,7 @@
         <text>appIdObj</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzdG9ybUNsdXN0ZXJJbmZvRGFvXD4=</text>
+        <text encoding="base64">XDxjbHVzdGVySW5zdGFuY2VUYWdOYW1lXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTE9HR0VSLmluZm8oImZpbmQgIGluc3RhbmNlIHRoYXQgbmVlZCAgdG8gZGVsZXRlIDppbnN0YW5jZSBpbmZvOiIraW5zdGFuY2UudG9TdHJpbmcoKSk7Cg==</text>
@@ -634,9 +634,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzdG9ybUNsdXN0ZXJJbmZvRGFvXD4=</last-search>
+      <last-search encoding="base64">XDxjbHVzdGVySW5zdGFuY2VUYWdOYW1lXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzdG9ybUNsdXN0ZXJJbmZvRGFvXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxjbHVzdGVySW5zdGFuY2VUYWdOYW1lXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZXNwb25zZVw+</last-substitute>
       <last-dir>1</last-dir>
@@ -644,7 +644,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzdWJtaXRUYXNrVG9Qb29sXD4=</entry>
         <entry encoding="base64">XDxob3N0XD4=</entry>
         <entry encoding="base64">XDxleGlzdERlYWxVcGRhdGVJZFw+</entry>
         <entry encoding="base64">XDxleGlzdERlYWxVcGRhdGVJbmZvc1w+</entry>
@@ -664,6 +663,7 @@
         <entry encoding="base64">XDxTdG9ybUNsdXN0ZXJJbmZvXD4=</entry>
         <entry encoding="base64">XDxzbGVlcFRpbWVcPg==</entry>
         <entry encoding="base64">XDxzdG9ybUNsdXN0ZXJJbmZvRGFvXD4=</entry>
+        <entry encoding="base64">XDxjbHVzdGVySW5zdGFuY2VUYWdOYW1lXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>maps</entry>
