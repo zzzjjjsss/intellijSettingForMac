@@ -14,10 +14,6 @@
       <file name="$MAVEN_REPOSITORY$/com/moodys/sav/sfs-output-interpreter/1.2/sfs-output-interpreter-1.2.jar!/com/moodys/sav/sfs/output/bean/LoanLevelDetailExport.class" timestamp="1559719754908" />
       <file name="/StoreManager.java" timestamp="1559789051383" />
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/sf-data-provider/src/main/java/com/moodys/sav/data/bean/SystemConfig.java" timestamp="1560155453050" />
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/jre/lib/rt.jar!/sun/security/x509/CertificateAlgorithmId.class" timestamp="1560421872690">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="55" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/com/moodys/sav/sfs-cluster-manager/1.2/sfs-cluster-manager-1.2.jar!/com/moodys/sav/sfs/cluster/ClusterManager.class" timestamp="1561010268115" />
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-client-service/src/main/java/com/moodys/sav/client/controller/JobSubmitController.java" timestamp="1560155360548">
         <mark key="'" line="327" column="43" />
@@ -118,20 +114,12 @@
         <mark key="^" line="22" column="110" />
         <mark key="." line="21" column="122" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/amazonaws/aws-java-sdk-ec2/1.11.166/aws-java-sdk-ec2-1.11.166.jar!/com/amazonaws/services/ec2/model/Instance.class" timestamp="1561001379026">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="38" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/com/amazonaws/aws-java-sdk-ec2/1.11.166/aws-java-sdk-ec2-1.11.166.jar!/com/amazonaws/services/ec2/model/DescribeInstancesRequest.class" timestamp="1561001670433" />
       <file name="$USER_HOME$/pythonProject/test.py" timestamp="1559562510261">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="11" column="19" />
         <mark key="^" line="11" column="19" />
         <mark key="." line="11" column="19" />
-      </file>
-      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/CHS_DealSynchronizer.java" timestamp="1560321822906">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="87" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/SpringBootDeploy/src/main/resources/application-dev.properties" timestamp="1560912995591">
         <mark key="[" line="9" column="14" />
@@ -228,6 +216,7 @@
         <mark key="^" line="15" column="30" />
         <mark key="." line="15" column="30" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.8.1/gson-2.8.1-sources.jar!/com/google/gson/JsonObject.java" timestamp="1561086919722" />
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-data-access/src/main/java/com/moodys/sav/sfs/data/bean/SystemConfig.java" timestamp="1561026203779">
         <mark key="[" line="45" column="59" />
         <mark key="]" line="45" column="84" />
@@ -379,12 +368,12 @@
         <mark key="^" line="35" column="23" />
         <mark key="." line="35" column="23" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/util/ApiGatewayUtil.java" timestamp="1560506803126">
-        <mark key="'" line="90" column="15" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-        <mark key="^" line="23" column="0" />
+      <file name="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/util/ApiGatewayUtil.java" timestamp="1561087830200">
+        <mark key="'" line="134" column="15" />
+        <mark key="[" line="126" column="11" />
+        <mark key="]" line="126" column="11" />
+        <mark key="." line="126" column="11" />
+        <mark key="^" line="126" column="11" />
       </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/schedule/UndelyingDealSyncTask.java" timestamp="1560756471935" />
       <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/ResourceAppointment.java" timestamp="1560919315645">
@@ -462,10 +451,6 @@
         <mark key="^" line="46" column="20" />
         <mark key="." line="46" column="20" />
       </file>
-      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/sf-cloud-provider/src/main/java/com/moodys/sav/cloud/impl/aws/ActiveMqHandlerImpl.java" timestamp="1559805925370">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="79" />
-      </file>
       <file name="$USER_HOME$/pythonProject/modifySetting.py" timestamp="1559627641960">
         <mark key="[" line="7" column="60" />
         <mark key="]" line="7" column="61" />
@@ -490,10 +475,6 @@
         <mark key="]" line="13" column="34" />
         <mark key="." line="13" column="34" />
         <mark key="^" line="13" column="34" />
-      </file>
-      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/sf-cloud-provider/src/main/java/com/moodys/sav/cloud/impl/aws/NotificationHandlerImpl.java" timestamp="1559633741612">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="32" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/pom.xml" timestamp="1560412020590">
         <mark key="'" line="0" column="0" />
@@ -607,10 +588,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>find  instance that need  to delete :instance info:</text>
+        <text>appIdObj</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdG9ybUNsdXN0ZXJJbmZvRGFvXD4=</text>
@@ -619,31 +600,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTE9HR0VSLmluZm8oImZpbmQgIGluc3RhbmNlIHRoYXQgbmVlZCAgdG8gZGVsZXRlIDppbnN0YW5jZSBpbmZvOiIraW5zdGFuY2UudG9TdHJpbmcoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGFwcElkT2JqIT1udWxsKQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="3" type="4">
+        <text>{
+                String appId=appIdObj.getAsString();
+                deployApi()
+            }</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoYXUpCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">CiAgICAgICAgcGFyYW1ldGVycy5wdXQoIlJlcXVlc3RDb25maWciLCByZXF1ZXN0Q29uZmlnLnRvU3RyaW5nKCkpOwogICAgICAgIHBhcmFtZXRlcnMucHV0KCJTZXJ2aWNlQ29uZmlnIiwgc2VydmljZUNvbmZpZy50b1N0cmluZygpKTsKICAgICAgICBwYXJhbWV0ZXJzLnB1dCgiUmVxdWVzdFBhcmFtZXRlcnMiLCAiW10iKTsKICAgICAgICBwYXJhbWV0ZXJzLnB1dCgiU2VydmljZVBhcmFtZXRlcnMiLCAiW10iKTsKICAgICAgICBwYXJhbWV0ZXJzLnB1dCgiU2VydmljZVBhcmFtZXRlcnNNYXAiLCAiW10iKTsK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHN1cGVydmlzb3JzSXAK</text>
+        <text encoding="base64">ICAgICAgICBKc29uT2JqZWN0IHJlcXVlc3RDb25maWcgPSBuZXcgSnNvbk9iamVjdCgpOwogICAgICAgIHJlcXVlc3RDb25maWcuYWRkUHJvcGVydHkoIlJlcXVlc3RQcm90b2NvbCIsICJIVFRQUyIpOwogICAgICAgIHJlcXVlc3RDb25maWcuYWRkUHJvcGVydHkoIlJlcXVlc3RIdHRwTWV0aG9kIiwgIkFOWSIpOwogICAgICAgIHJlcXVlc3RDb25maWcuYWRkUHJvcGVydHkoIlJlcXVlc3RQYXRoIiwgIi8iICsgc3RvcmVDb250ZXh0LnRyaW0oKSArICIvYXBpLyoiKTsKICAgICAgICByZXF1ZXN0Q29uZmlnLmFkZFByb3BlcnR5KCJSZXF1ZXN0TW9kZSIsICJQQVNTVEhST1VHSCIpOwoKICAgICAgICBKc29uT2JqZWN0IHZwY0NvbmZpZyA9IG5ldyBKc29uT2JqZWN0KCk7CiAgICAgICAgdnBjQ29uZmlnLmFkZFByb3BlcnR5KCJWcGNJZCIsICJ2cGMtd3o5Y3Bjdm5zb2M0MGl4Y281MXhuIik7CiAgICAgICAgdnBjQ29uZmlnLmFkZFByb3BlcnR5KCJJbnN0YW5jZUlkIiwgImktd3o5YWNjd3hxamJxa2owYmRwbDAiKTsKICAgICAgICB2cGNDb25maWcuYWRkUHJvcGVydHkoIlBvcnQiLCAiODA4MCIpOwoKICAgICAgICBKc29uT2JqZWN0IHNlcnZpY2VDb25maWcgPSBuZXcgSnNvbk9iamVjdCgpOwogICAgICAgIHNlcnZpY2VDb25maWcuYWRkUHJvcGVydHkoIlNlcnZpY2VQcm90b2NvbCIsICJIVFRQIik7CiAgICAgICAgc2VydmljZUNvbmZpZy5hZGRQcm9wZXJ0eSgiU2VydmljZVBhdGgiLCAiLyIgKyBzdG9yZUNvbnRleHQudHJpbSgpICsgIi9hcGkvKiIpOwogICAgICAgIHNlcnZpY2VDb25maWcuYWRkUHJvcGVydHkoIlNlcnZpY2VIdHRwTWV0aG9kIiwgIkFOWSIpOwogICAgICAgIHNlcnZpY2VDb25maWcuYWRkUHJvcGVydHkoIkNvbnRlbnRUeXBlQ2F0YWdvcnkiLCAiQ0xJRU5UIik7CiAgICAgICAgc2VydmljZUNvbmZpZy5hZGRQcm9wZXJ0eSgiTW9jayIsICJGQUxTRSIpOwogICAgICAgIHNlcnZpY2VDb25maWcuYWRkUHJvcGVydHkoIlNlcnZpY2VWcGNFbmFibGUiLCAiVFJVRSIpOwogICAgICAgIHNlcnZpY2VDb25maWcuYWRkKCJWcGNDb25maWciLCB2cGNDb25maWcpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBKc29uT2JqZWN0IGpzb25PYmplY3Q9bmV3IEpzb25PYmplY3QoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>map</text>

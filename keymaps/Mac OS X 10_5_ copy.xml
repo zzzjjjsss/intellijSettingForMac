@@ -42,15 +42,15 @@
   <action id="DuplicatesForm.SendToRight" />
   <action id="EditorChooseLookupItemDot" />
   <action id="EditorCutLineEnd" />
-  <action id="EditorDelete">
-    <keyboard-shortcut first-keystroke="delete" />
-    <keyboard-shortcut first-keystroke="ctrl d" />
-  </action>
   <action id="EditorDeleteToLineEnd">
     <keyboard-shortcut first-keystroke="ctrl k" />
   </action>
   <action id="EditorDeleteToLineStart">
     <keyboard-shortcut first-keystroke="ctrl u" />
+  </action>
+  <action id="EditorDeleteToWordEnd">
+    <keyboard-shortcut first-keystroke="alt delete" />
+    <keyboard-shortcut first-keystroke="ctrl delete" />
   </action>
   <action id="EditorDeleteToWordStart">
     <keyboard-shortcut first-keystroke="alt back_space" />
@@ -155,11 +155,13 @@
     <keyboard-shortcut first-keystroke="shift ctrl o" />
   </action>
   <action id="OverrideMethods" />
-  <action id="QuickImplementations" />
+  <action id="QuickImplementations">
+    <keyboard-shortcut first-keystroke="meta d" />
+  </action>
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="f1" />
     <mouse-shortcut keystroke="control button2" />
-    <keyboard-shortcut first-keystroke="meta d" />
+    <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
   <action id="Refactorings.QuickListPopupAction" />
   <action id="ReformatCode">
