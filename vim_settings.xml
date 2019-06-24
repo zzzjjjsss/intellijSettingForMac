@@ -13,6 +13,13 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/com/moodys/sav/sfs-output-interpreter/1.2/sfs-output-interpreter-1.2.jar!/com/moodys/sav/sfs/output/bean/LoanLevelDetailExport.class" timestamp="1559719754908" />
       <file name="/StoreManager.java" timestamp="1559789051383" />
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/storemanager/StoreService.java" timestamp="1561368053921">
+        <mark key="'" line="31" column="74" />
+        <mark key="[" line="46" column="5" />
+        <mark key="]" line="45" column="20" />
+        <mark key="." line="45" column="20" />
+        <mark key="^" line="45" column="20" />
+      </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/sf-data-provider/src/main/java/com/moodys/sav/data/bean/SystemConfig.java" timestamp="1560155453050" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/jre/lib/rt.jar!/sun/security/x509/CertificateAlgorithmId.class" timestamp="1560421872690">
         <mark key="[" line="19" column="0" />
@@ -245,12 +252,12 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/WarDeploy/src/main/java/com/uf/member/filter/AuthenFilter.java" timestamp="1561365142028">
-        <mark key="'" line="32" column="22" />
-        <mark key="[" line="32" column="12" />
-        <mark key="]" line="32" column="12" />
-        <mark key="^" line="43" column="17" />
-        <mark key="." line="32" column="12" />
+      <file name="$USER_HOME$/gitBucket/membersystem/WarDeploy/src/main/java/com/uf/member/filter/AuthenFilter.java" timestamp="1561367939164">
+        <mark key="'" line="32" column="25" />
+        <mark key="[" line="135" column="40" />
+        <mark key="]" line="135" column="40" />
+        <mark key="^" line="136" column="68" />
+        <mark key="." line="135" column="40" />
       </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/sf-data-provider/src/main/java/com/moodys/sav/data/bean/Reremics.java" timestamp="1560404866286" />
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/SystemConfigService.java" timestamp="1560308533996">
@@ -370,6 +377,12 @@
         <mark key="^" line="64" column="22" />
         <mark key="." line="64" column="25" />
       </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/storemanager/StoreInfo.java" timestamp="1561368025573">
+        <mark key="[" line="44" column="5" />
+        <mark key="]" line="46" column="35" />
+        <mark key="^" line="46" column="35" />
+        <mark key="." line="46" column="35" />
+      </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/WechatLoginResponse.java" timestamp="1559546301393">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="29" column="42" />
@@ -398,11 +411,11 @@
         <mark key="^" line="9" column="56" />
         <mark key="." line="9" column="56" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/storemanager/RestfulResponse.java" timestamp="1561364571093">
-        <mark key="[" line="23" column="41" />
-        <mark key="]" line="23" column="51" />
-        <mark key="^" line="23" column="51" />
-        <mark key="." line="23" column="51" />
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/storemanager/RestfulResponse.java" timestamp="1561367935956">
+        <mark key="[" line="23" column="50" />
+        <mark key="]" line="23" column="55" />
+        <mark key="^" line="23" column="55" />
+        <mark key="." line="23" column="55" />
       </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/utils/CxconTool.java" timestamp="1560846604865">
         <mark key="'" line="0" column="0" />
@@ -470,6 +483,7 @@
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="79" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.10.RELEASE/spring-web-4.3.10.RELEASE-sources.jar!/org/springframework/http/HttpStatus.java" timestamp="1561367849948" />
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/cache/CacheObjectType.java" timestamp="1559540876899">
         <mark key="[" line="3" column="11" />
         <mark key="]" line="3" column="11" />
@@ -519,12 +533,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="753" column="45" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AppointmentService.java" />
-      <jump line="65" column="17" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/schedule/DealCusipsSyncTask.java" />
-      <jump line="52" column="23" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/DealCusipsSynchronizer.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem_WechatApp/app.js" />
-      <jump line="122" column="20" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/HttpDealSynchronizer.java" />
-      <jump line="155" column="52" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/HttpDealSynchronizer.java" />
       <jump line="167" column="24" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/HttpDealSynchronizer.java" />
       <jump line="172" column="108" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/HttpDealSynchronizer.java" />
       <jump line="139" column="17" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/HttpDealSynchronizer.java" />
@@ -619,55 +627,61 @@
       <jump line="324" column="0" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AccountService.java" />
       <jump line="270" column="16" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AccountService.java" />
       <jump line="31" column="22" filename="$USER_HOME$/gitBucket/membersystem/WarDeploy/src/main/java/com/uf/member/filter/AuthenFilter.java" />
+      <jump line="32" column="25" filename="$USER_HOME$/gitBucket/membersystem/WarDeploy/src/main/java/com/uf/member/filter/AuthenFilter.java" />
+      <jump line="14" column="18" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/storemanager/StoreService.java" />
+      <jump line="17" column="12" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/storemanager/StoreService.java" />
+      <jump line="18" column="12" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/storemanager/StoreService.java" />
+      <jump line="29" column="14" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/storemanager/StoreService.java" />
+      <jump line="30" column="74" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/storemanager/StoreService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>StoreRepo</text>
+        <text>LICENSE_END</text>
       </register>
       <register name="-" type="4">
-        <text>StoreRepo</text>
+        <text>LICENSE_END</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzdG9yZVJlcG9cPg==</text>
+        <text encoding="base64">XDxzdG9yZVw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQlTdHJpbmcgYWI9bmV3IFN0cmluZygiYWEiKTsK</text>
+      <register name="0" type="4">
+        <text>cachedStore</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+        <text encoding="base64">CQkJcmVzcG9uc2Uuc2V0U3RhdHVzKEh0dHBTdGF0dXMuRk9SQklEREVOLnZhbHVlKCkpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudGltZS5Mb2NhbERhdGU7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBUaW1lc3RhbXAgZ2V0TGFjZW5zZUVuZERhdGUoKSB7CiAgICAgICAgcmV0dXJuIGxhY2Vuc2VFbmREYXRlOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldExhY2Vuc2VFbmREYXRlKFRpbWVzdGFtcCBsYWNlbnNlRW5kRGF0ZSkgewogICAgICAgIHRoaXMubGFjZW5zZUVuZERhdGUgPSBsYWNlbnNlRW5kRGF0ZTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdG9yZSBzdG9yZSA9IHN0b3JlUmVwby5maW5kVG9wKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHN0b3JlUmVwby5maW5kVG9wKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name=":" type="4">
         <text>map</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzdG9yZVJlcG9cPg==</last-search>
+      <last-search encoding="base64">XDxzdG9yZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzdG9yZVJlcG9cPg==</last-pattern>
+      <last-pattern encoding="base64">XDxzdG9yZVw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZXNwb25zZVw+</last-substitute>
       <last-dir>1</last-dir>
@@ -675,8 +689,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0bXBTZndGaWxlXD4=</entry>
-        <entry encoding="base64">XDxMb2FuRGV0YWlsc0RhdGFcPg==</entry>
         <entry encoding="base64">XDxiZWdpblw+</entry>
         <entry encoding="base64">XDxjdXJyZW50SG91clw+</entry>
         <entry encoding="base64">XDx0b2RheUFwcG9pbnRlZFw+</entry>
@@ -695,6 +707,8 @@
         <entry encoding="base64">XDxkZXBsb3lBcGlcPg==</entry>
         <entry encoding="base64">XDxMb2NhbERhdGVcPg==</entry>
         <entry encoding="base64">XDxzdG9yZVJlcG9cPg==</entry>
+        <entry encoding="base64">XDxzdG9yZVNlcnZpY2VcPg==</entry>
+        <entry encoding="base64">XDxzdG9yZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>maps</entry>
