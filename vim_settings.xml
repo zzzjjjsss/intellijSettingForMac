@@ -169,12 +169,12 @@
       </file>
       <file name="/index.js" timestamp="1560852005788" />
       <file name="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" timestamp="1559561744466" />
-      <file name="$USER_HOME$/gitBucket/membersystem/SpringBootDeploy/src/main/java/com/uf/member/filter/AuthenFilter.java" timestamp="1561454157273">
+      <file name="$USER_HOME$/gitBucket/membersystem/SpringBootDeploy/src/main/java/com/uf/member/filter/AuthenFilter.java" timestamp="1561456431053">
         <mark key="'" line="37" column="25" />
-        <mark key="[" line="35" column="31" />
-        <mark key="]" line="37" column="37" />
-        <mark key="." line="37" column="37" />
-        <mark key="^" line="37" column="37" />
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="0" />
+        <mark key="." line="75" column="0" />
+        <mark key="^" line="87" column="26" />
       </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/sf-data-provider/src/main/java/com/moodys/sav/data/dao/PortfoliosDao.java" timestamp="1560403546486" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/org/w3c/dom/Document.java" timestamp="1560322393799" />
@@ -234,7 +234,7 @@
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/nio/charset/Charset.java" timestamp="1561109186921" />
       <file name="$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.3.1/gson-2.3.1-sources.jar!/com/google/gson/JsonPrimitive.java" timestamp="1559638957825" />
-      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-output-interpreter/src/main/java/com/moodys/sav/sfs/output/bean/Average.java" timestamp="1561451702989">
+      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-output-interpreter/src/main/java/com/moodys/sav/sfs/output/bean/Average.java" timestamp="1561455688529">
         <mark key="'" line="133" column="34" />
         <mark key="[" line="133" column="37" />
         <mark key="]" line="133" column="44" />
@@ -640,8 +640,8 @@
       <jump line="37" column="25" filename="$USER_HOME$/gitBucket/membersystem/SpringBootDeploy/src/main/java/com/uf/member/filter/AuthenFilter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Path</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>Path</text>
@@ -656,19 +656,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlpZih1cmkuc3RhcnRzV2l0aChjb250ZXh0UGF0aCsiL2FwaS9zdG9yZW1hbmFnZXIiKSYmdG9rZW5Sb2xlPT1Sb2xlLlNUT1JFX01BTkFHRVIpewoJCQlib29sZWFuIGlzTGljZW5zZUV4cGlyZWQ9c3RvcmVTZXJ2aWNlLmlzTGljZW5zZUV4cGlyZWQoKTsKCQkJaWYgKGlzTGljZW5zZUV4cGlyZWQpewoJCQkJcHJpbnRMaWNlbnNlRXhwaXJlZChyZXNwb25zZSk7CgkJCQlyZXR1cm47CgkJCX0KCQkJZmlsdGVyQ2hhaW4uZG9GaWx0ZXIocmVxdWVzdCwgcmVzcG9uc2UpOwoJCQlyZXR1cm47CgkJfQo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS51Zi5tZW1iZXIuZGVwbG95LnV0aWwuQXBpR2F0ZXdheVV0aWw7Cg==</text>
+        <text encoding="base64">CQlpZih1cmkuc3RhcnRzV2l0aChjb250ZXh0UGF0aCsiL2FwaS9zdG9yZW1hbmFnZXIiKSYmdG9rZW5Sb2xlPT1Sb2xlLlNUT1JFX01BTkFHRVIpewoJCQlib29sZWFuIGlzTGljZW5zZUV4cGlyZWQ9c3RvcmVTZXJ2aWNlLmlzTGljZW5zZUV4cGlyZWQoKTsKCQkJaWYgKGlzTGljZW5zZUV4cGlyZWQpewoJCQkJcHJpbnRMaWNlbnNlRXhwaXJlZChyZXNwb25zZSk7CgkJCQlyZXR1cm47CgkJCX0KCQkJZmlsdGVyQ2hhaW4uZG9GaWx0ZXIocmVxdWVzdCwgcmVzcG9uc2UpOwoJCQlyZXR1cm47CgkJfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20udWYubWVtYmVyLmRlcGxveS51dGlsLkFwaUdhdGV3YXlVdGlsLkFDQ0VTU0tFWUlEOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS51Zi5tZW1iZXIuZGVwbG95LnV0aWwuQXBpR2F0ZXdheVV0aWw7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20udWYubWVtYmVyLmRlcGxveS51dGlsLkFwaUdhdGV3YXlVdGlsLkFDQ0VTU0tFWUlEOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
