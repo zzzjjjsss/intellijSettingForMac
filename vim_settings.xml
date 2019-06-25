@@ -479,7 +479,7 @@
         <mark key="." line="11" column="65" />
         <mark key="^" line="11" column="65" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561371677373">
+      <file name="/Dummy.txt" timestamp="1561457824970">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -640,11 +640,11 @@
       <jump line="37" column="25" filename="$USER_HOME$/gitBucket/membersystem/SpringBootDeploy/src/main/java/com/uf/member/filter/AuthenFilter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>add license  control</text>
       </register>
       <register name="-" type="4">
-        <text>Path</text>
+        <text>add license  control</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdG9yZVNlcnZpY2VcPg==</text>
