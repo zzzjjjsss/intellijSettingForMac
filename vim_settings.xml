@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/start_script.py" timestamp="1559558884871">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/sf-data-provider/src/main/java/com/moodys/sav/data/dao/impl/postgresql/UserDaoImpl.java" timestamp="1560404822805" />
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/admin/SaveConfigureRequest.java" timestamp="1559560487173" />
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/storemanager/ResourceScheduleService.java" timestamp="1560920571372">
@@ -13,6 +16,9 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/com/moodys/sav/sfs-output-interpreter/1.2/sfs-output-interpreter-1.2.jar!/com/moodys/sav/sfs/output/bean/LoanLevelDetailExport.class" timestamp="1559719754908" />
       <file name="/StoreManager.java" timestamp="1559789051383" />
+      <file name="/a.dummy" timestamp="1560478835170">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/storemanager/StoreService.java" timestamp="1561452015379">
         <mark key="'" line="32" column="74" />
         <mark key="[" line="53" column="63" />
@@ -123,11 +129,12 @@
         <mark key="^" line="9" column="104" />
         <mark key="." line="9" column="104" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CardShareService.java" timestamp="1561540974903">
-        <mark key="[" line="35" column="18" />
-        <mark key="]" line="34" column="35" />
-        <mark key="^" line="34" column="35" />
-        <mark key="." line="34" column="35" />
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CardShareService.java" timestamp="1561545563174">
+        <mark key="'" line="101" column="0" />
+        <mark key="[" line="94" column="65" />
+        <mark key="]" line="94" column="73" />
+        <mark key="^" line="94" column="73" />
+        <mark key="." line="94" column="73" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/restful/controller/DeployAdminController.java" timestamp="1561445594782">
         <mark key="[" line="7" column="0" />
@@ -463,6 +470,9 @@
         <mark key="." line="11" column="65" />
         <mark key="^" line="11" column="65" />
       </file>
+      <file name="/Dummy.txt" timestamp="1561545584918">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/GetInfoService.java" timestamp="1561533266300">
         <mark key="[" line="179" column="0" />
         <mark key="]" line="179" column="0" />
@@ -481,6 +491,9 @@
         <mark key="]" line="46" column="20" />
         <mark key="^" line="46" column="20" />
         <mark key="." line="46" column="20" />
+      </file>
+      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/sf-cloud-provider/src/main/java/com/moodys/sav/cloud/impl/aws/DynamoDbImpl.java" timestamp="1559633644419">
+        <mark key="[" line="2" column="27" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.10.RELEASE/spring-web-4.3.10.RELEASE-sources.jar!/org/springframework/http/HttpStatus.java" timestamp="1561367849948" />
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/cache/CacheObjectType.java" timestamp="1561537913809">
@@ -523,10 +536,11 @@
         <mark key="." line="13" column="34" />
         <mark key="^" line="13" column="34" />
       </file>
+      <file name="/fragment.java" timestamp="1560478829924">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="86" column="0" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-cloud-access/src/main/java/com/moodys/sav/sfs/cloud/bean/vm/Instance.java" />
-      <jump line="79" column="0" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-cloud-access/src/main/java/com/moodys/sav/sfs/cloud/bean/vm/Instance.java" />
       <jump line="73" column="0" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-cloud-access/src/main/java/com/moodys/sav/sfs/cloud/bean/vm/Instance.java" />
       <jump line="68" column="0" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-cloud-access/src/main/java/com/moodys/sav/sfs/cloud/bean/vm/Instance.java" />
       <jump line="63" column="0" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-cloud-access/src/main/java/com/moodys/sav/sfs/cloud/bean/vm/Instance.java" />
@@ -625,46 +639,48 @@
       <jump line="139" column="124" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/customer/CustomerController.java" />
       <jump line="146" column="128" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/customer/CustomerController.java" />
       <jump line="152" column="106" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/customer/CustomerController.java" />
+      <jump line="63" column="30" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CardShareService.java" />
+      <jump line="97" column="0" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CardShareService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>customer</text>
+        <text>rechargeCard</text>
       </register>
       <register name="-" type="4">
-        <text>customer</text>
+        <text>rechargeCard</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhY2NlcHRDb2RlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjYWNoZVNlcnZpY2UucHV0T2JqZWN0KENhY2hlT2JqZWN0VHlwZS5TSEFSRV9DQVJELHV1aWQscmVjaGFyZ2VDYXJkKTsK</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVjaGFyZ2VDYXJkID0gY3VzdG9tZXJSZWNoYXJnZUNhcmRSZXBvLmZpbmRUb3BCeUN1c3RvbWVyKGN1c3RvbWVyKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZXNzaW9uQ2FjaGUgPSBjYWNoZU1hbmFnZXIuZ2V0Q2FjaGUoInNlc3Npb24iLCBTdHJpbmcuY2xhc3MsIE9iamVjdC5jbGFzcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBDYWNoZU1hbmFnZXIgY2FjaGVNYW5hZ2VyID0gQ2FjaGVNYW5hZ2VyQnVpbGRlci5uZXdDYWNoZU1hbmFnZXJCdWlsZGVyKCkud2l0aENhY2hlKCJzaGFyZUNhcmQiLCBzaGFyZUNhcmRDYWNoZUNvbmZpZykuYnVpbGQodHJ1ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBSZXN0ZnVsUmVzcG9uc2UgZ2V0QWNjZXB0Q2FyZEluZm8oQFJlcXVlc3RIZWFkZXIodmFsdWUgPSAiVG9rZW4iKSBTdHJpbmcgdG9rZW4sIEBSZXF1ZXN0UGFyYW0oInNoYXJlQ29kZSIpIFN0cmluZyBzaGFyZUNvZGUpIHRocm93cyBFeGNlcHRpb24gewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBMb25nIGdldFJlY2hhcmdlQ2FyZElkKCkgewogICAgICAgIHJldHVybiByZWNoYXJnZUNhcmRJZDsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRSZWNoYXJnZUNhcmRJZChMb25nIHJlY2hhcmdlQ2FyZElkKSB7CiAgICAgICAgdGhpcy5yZWNoYXJnZUNhcmRJZCA9IHJlY2hhcmdlQ2FyZElkOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBzZXNzaW9uQ2FjaGUgPSBjYWNoZU1hbmFnZXIuZ2V0Q2FjaGUoInNlc3Npb24iLCBTdHJpbmcuY2xhc3MsIE9iamVjdC5jbGFzcyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHt9Cg==</text>
+        <text encoding="base64">ICAgICAgICBDYWNoZU1hbmFnZXIgY2FjaGVNYW5hZ2VyID0gQ2FjaGVNYW5hZ2VyQnVpbGRlci5uZXdDYWNoZU1hbmFnZXJCdWlsZGVyKCkud2l0aENhY2hlKCJzaGFyZUNhcmQiLCBzaGFyZUNhcmRDYWNoZUNvbmZpZykuYnVpbGQodHJ1ZSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>map</text>
