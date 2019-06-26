@@ -123,11 +123,11 @@
         <mark key="^" line="9" column="104" />
         <mark key="." line="9" column="104" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CardShareService.java" timestamp="1561533460226">
-        <mark key="[" line="12" column="38" />
-        <mark key="]" line="14" column="3" />
-        <mark key="." line="14" column="3" />
-        <mark key="^" line="14" column="3" />
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CardShareService.java" timestamp="1561537384694">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="15" column="7" />
+        <mark key="." line="15" column="7" />
+        <mark key="^" line="15" column="7" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/restful/controller/DeployAdminController.java" timestamp="1561445594782">
         <mark key="[" line="7" column="0" />
@@ -321,11 +321,11 @@
         <mark key="^" line="28" column="66" />
         <mark key="." line="28" column="66" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/cache/EhcacheService.java" timestamp="1559705552820">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
-        <mark key="^" line="45" column="27" />
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/cache/EhcacheService.java" timestamp="1561538205443">
+        <mark key="[" line="111" column="16" />
+        <mark key="]" line="117" column="21" />
+        <mark key="." line="117" column="21" />
+        <mark key="^" line="117" column="21" />
       </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/utils/s3Tool/pom.xml" timestamp="1559635595522">
         <mark key="[" line="26" column="50" />
@@ -512,11 +512,11 @@
         <mark key="." line="46" column="20" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.10.RELEASE/spring-web-4.3.10.RELEASE-sources.jar!/org/springframework/http/HttpStatus.java" timestamp="1561367849948" />
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/cache/CacheObjectType.java" timestamp="1561533469757">
-        <mark key="[" line="3" column="11" />
-        <mark key="]" line="3" column="9" />
-        <mark key="." line="3" column="9" />
-        <mark key="^" line="3" column="9" />
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/cache/CacheObjectType.java" timestamp="1561537913809">
+        <mark key="[" line="3" column="18" />
+        <mark key="]" line="3" column="21" />
+        <mark key="." line="3" column="21" />
+        <mark key="^" line="3" column="21" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/util/HttpUtil.java" timestamp="1561110574871">
         <mark key="'" line="334" column="0" />
@@ -656,44 +656,44 @@
       <jump line="152" column="106" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/customer/CustomerController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>RestfulResponse</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDsK</text>
       </register>
       <register name="-" type="4">
-        <text>RestfulResponse</text>
+        <text>SESSION</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhY2NlcHRDb2RlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QEVudGl0eQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSBTSEFSRV9DQVJEOgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBSZXN0ZnVsUmVzcG9uc2UgZ2V0QWNjZXB0Q2FyZEluZm8oQFJlcXVlc3RIZWFkZXIodmFsdWUgPSAiVG9rZW4iKSBTdHJpbmcgdG9rZW4sIEBSZXF1ZXN0UGFyYW0oInNoYXJlQ29kZSIpIFN0cmluZyBzaGFyZUNvZGUpIHRocm93cyBFeGNlcHRpb24gewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBMb25nIGdldFJlY2hhcmdlQ2FyZElkKCkgewogICAgICAgIHJldHVybiByZWNoYXJnZUNhcmRJZDsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRSZWNoYXJnZUNhcmRJZChMb25nIHJlY2hhcmdlQ2FyZElkKSB7CiAgICAgICAgdGhpcy5yZWNoYXJnZUNhcmRJZCA9IHJlY2hhcmdlQ2FyZElkOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHt9Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZXNzaW9uQ2FjaGUgPSBjYWNoZU1hbmFnZXIuZ2V0Q2FjaGUoInNlc3Npb24iLCBTdHJpbmcuY2xhc3MsIE9iamVjdC5jbGFzcyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBDYWNoZU1hbmFnZXIgY2FjaGVNYW5hZ2VyID0gQ2FjaGVNYW5hZ2VyQnVpbGRlci5uZXdDYWNoZU1hbmFnZXJCdWlsZGVyKCkud2l0aENhY2hlKCJzaGFyZUNhcmQiLCBzaGFyZUNhcmRDYWNoZUNvbmZpZykuYnVpbGQodHJ1ZSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBSZXN0ZnVsUmVzcG9uc2UgZ2V0QWNjZXB0Q2FyZEluZm8oQFJlcXVlc3RIZWFkZXIodmFsdWUgPSAiVG9rZW4iKSBTdHJpbmcgdG9rZW4sIEBSZXF1ZXN0UGFyYW0oInNoYXJlQ29kZSIpIFN0cmluZyBzaGFyZUNvZGUpIHRocm93cyBFeGNlcHRpb24gewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBMb25nIGdldFJlY2hhcmdlQ2FyZElkKCkgewogICAgICAgIHJldHVybiByZWNoYXJnZUNhcmRJZDsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRSZWNoYXJnZUNhcmRJZChMb25nIHJlY2hhcmdlQ2FyZElkKSB7CiAgICAgICAgdGhpcy5yZWNoYXJnZUNhcmRJZCA9IHJlY2hhcmdlQ2FyZElkOwogICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlpZih1cmkuc3RhcnRzV2l0aChjb250ZXh0UGF0aCsiL2FwaS9zdG9yZW1hbmFnZXIiKSYmdG9rZW5Sb2xlPT1Sb2xlLlNUT1JFX01BTkFHRVIpewoJCQlib29sZWFuIGlzTGljZW5zZUV4cGlyZWQ9c3RvcmVTZXJ2aWNlLmlzTGljZW5zZUV4cGlyZWQoKTsKCQkJaWYgKGlzTGljZW5zZUV4cGlyZWQpewoJCQkJcHJpbnRMaWNlbnNlRXhwaXJlZChyZXNwb25zZSk7CgkJCQlyZXR1cm47CgkJCX0KCQkJZmlsdGVyQ2hhaW4uZG9GaWx0ZXIocmVxdWVzdCwgcmVzcG9uc2UpOwoJCQlyZXR1cm47CgkJfQo=</text>
+        <text encoding="base64">ICAgIHt9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS51Zi5tZW1iZXIuZGVwbG95LnV0aWwuQXBpR2F0ZXdheVV0aWw7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20udWYubWVtYmVyLmRlcGxveS51dGlsLkFwaUdhdGV3YXlVdGlsLkFDQ0VTU0tFWUlEOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>map</text>
