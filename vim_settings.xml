@@ -108,7 +108,7 @@
         <mark key="^" line="69" column="79" />
         <mark key="." line="69" column="79" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/customer/CustomerController.java" timestamp="1561535311411">
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/customer/CustomerController.java" timestamp="1561601416347">
         <mark key="'" line="152" column="106" />
         <mark key="j" line="106" column="54" />
         <mark key="[" line="154" column="46" />
@@ -129,12 +129,12 @@
         <mark key="^" line="9" column="104" />
         <mark key="." line="9" column="104" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CardShareService.java" timestamp="1561545563174">
-        <mark key="'" line="101" column="0" />
-        <mark key="[" line="94" column="65" />
-        <mark key="]" line="94" column="73" />
-        <mark key="^" line="94" column="73" />
-        <mark key="." line="94" column="73" />
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CardShareService.java" timestamp="1561601575074">
+        <mark key="'" line="136" column="0" />
+        <mark key="[" line="116" column="73" />
+        <mark key="]" line="116" column="73" />
+        <mark key="^" line="111" column="79" />
+        <mark key="." line="116" column="73" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/restful/controller/DeployAdminController.java" timestamp="1561445594782">
         <mark key="[" line="7" column="0" />
@@ -644,10 +644,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>rechargeCard</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>rechargeCard</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhY2NlcHRDb2RlXD4=</text>
