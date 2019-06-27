@@ -129,12 +129,12 @@
         <mark key="^" line="9" column="104" />
         <mark key="." line="9" column="104" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CardShareService.java" timestamp="1561601575074">
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CardShareService.java" timestamp="1561602204371">
         <mark key="'" line="136" column="0" />
-        <mark key="[" line="116" column="73" />
-        <mark key="]" line="116" column="73" />
-        <mark key="^" line="111" column="79" />
-        <mark key="." line="116" column="73" />
+        <mark key="[" line="130" column="47" />
+        <mark key="]" line="130" column="47" />
+        <mark key="^" line="129" column="55" />
+        <mark key="." line="130" column="47" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/restful/controller/DeployAdminController.java" timestamp="1561445594782">
         <mark key="[" line="7" column="0" />
@@ -644,10 +644,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>SHARE_CARD</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>SHARE_CARD</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhY2NlcHRDb2RlXD4=</text>
