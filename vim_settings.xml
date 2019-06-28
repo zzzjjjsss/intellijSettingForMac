@@ -67,7 +67,7 @@
         <mark key="." line="35" column="46" />
         <mark key="^" line="35" column="46" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/PlatformService/src/main/java/com/uf/member/platform/dao/mysql/entity/StoreInfo.java" timestamp="1561688298274">
+      <file name="$USER_HOME$/gitBucket/membersystem/PlatformService/src/main/java/com/uf/member/platform/dao/mysql/entity/StoreInfo.java" timestamp="1561688488158">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="9" column="24" />
         <mark key="^" line="9" column="24" />
@@ -346,11 +346,6 @@
         <mark key="." line="17" column="46" />
         <mark key="^" line="17" column="46" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/Test/src/main/java/com/uf/member/stress/test.py" timestamp="1559556956296">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="/fragment.java" timestamp="1560478829924">
         <mark key="[" line="0" column="0" />
       </file>
@@ -416,14 +411,6 @@
         <mark key="]" line="69" column="79" />
         <mark key="^" line="69" column="79" />
         <mark key="." line="69" column="79" />
-      </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/customer/CustomerController.java" timestamp="1561604838885">
-        <mark key="'" line="152" column="106" />
-        <mark key="j" line="106" column="54" />
-        <mark key="[" line="154" column="46" />
-        <mark key="]" line="154" column="46" />
-        <mark key="." line="154" column="46" />
-        <mark key="^" line="152" column="32" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CardShareService.java" timestamp="1561606718828">
         <mark key="'" line="249" column="0" />
@@ -602,11 +589,6 @@
       </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-storm/src/main/java/com/moodys/sav/sfs/storm/input/ABSStaticScenarioInputGenerator.java" timestamp="1561443094030">
         <mark key="'" line="58" column="172" />
-      </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/SharedCardInfo.java" timestamp="1561606368593">
-        <mark key="[" line="5" column="31" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-data-access/src/main/java/com/moodys/sav/sfs/data/bean/SimGeneralInfo.java" timestamp="1558605202067">
         <mark key="'" line="17" column="19" />
