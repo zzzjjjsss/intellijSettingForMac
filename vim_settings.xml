@@ -6,12 +6,13 @@
       <file name="/start_script.py" timestamp="1559558884871">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/admin/SaveConfigureRequest.java" timestamp="1559560487173" />
+      <file name="$MAVEN_REPOSITORY$/com/moodys/sav/sfs-output-interpreter/1.2/sfs-output-interpreter-1.2.jar!/com/moodys/sav/sfs/output/bean/LoanLevelDetailExport.class" timestamp="1559719754908" />
+      <file name="/StoreManager.java" timestamp="1559789051383" />
       <file name="/a.dummy" timestamp="1561629730599">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-client-service/src/main/java/com/moodys/sav/client/controller/JobSubmitController.java" timestamp="1560155360548">
-        <mark key="'" line="327" column="43" />
-      </file>
+      <file name="$MAVEN_REPOSITORY$/com/moodys/sav/sfs-cluster-manager/1.2/sfs-cluster-manager-1.2.jar!/com/moodys/sav/sfs/cluster/ClusterManager.class" timestamp="1561010268115" />
       <file name="$USER_HOME$/gitBucket/membersystem/PlatformService/src/main/java/com/uf/member/dao/mysql/entity/WechatUserToStoreRepo.java" timestamp="1561629753151">
         <mark key="[" line="0" column="31" />
         <mark key="]" line="0" column="31" />
@@ -31,9 +32,7 @@
         <mark key="^" line="34" column="49" />
         <mark key="." line="34" column="49" />
       </file>
-      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/UDEV/Enterprise/java/dealdownload/src/main/java/com/wsainc/dealdownload/DealDownloaderFromDL.java" timestamp="1559296545441">
-        <mark key="'" line="1453" column="45" />
-      </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/ResourceAppointmentInfoResponse.java" timestamp="1561530644326" />
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/sf-cloud-provider/src/main/java/com/moodys/sav/cloud/impl/aws/DynamoDbHandlerImpl.java" timestamp="1559814976013">
         <mark key="'" line="44" column="0" />
         <mark key="[" line="110" column="23" />
@@ -67,21 +66,22 @@
         <mark key="." line="35" column="46" />
         <mark key="^" line="35" column="46" />
       </file>
+      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/sf-data-provider/src/main/resources/com/moodys/sav/data/bean/Role.hbm.xml" timestamp="1560406354258" />
       <file name="$USER_HOME$/gitBucket/membersystem/PlatformService/src/main/java/com/uf/member/platform/dao/mysql/entity/StoreInfo.java" timestamp="1561688488158">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="9" column="24" />
         <mark key="^" line="9" column="24" />
         <mark key="." line="9" column="24" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/PlatformService/pom.xml" timestamp="1561627928479">
-        <mark key="'" line="91" column="0" />
-        <mark key="[" line="13" column="30" />
-        <mark key="]" line="14" column="3" />
-        <mark key="." line="14" column="3" />
-        <mark key="^" line="14" column="3" />
+      <file name="$USER_HOME$/gitBucket/membersystem/PlatformService/pom.xml" timestamp="1561701176292">
+        <mark key="'" line="69" column="6" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="68" column="20" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AccountService.java" timestamp="1561360406764">
-        <mark key="'" line="271" column="16" />
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AccountService.java" timestamp="1561701337860">
+        <mark key="'" line="40" column="22" />
         <mark key="[" line="275" column="0" />
         <mark key="]" line="275" column="0" />
         <mark key="^" line="274" column="37" />
@@ -111,6 +111,9 @@
         <mark key="^" line="11" column="19" />
         <mark key="." line="11" column="19" />
       </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/restful/controller/CommonController.java" timestamp="1561700341781" />
+      <file name="/index.js" timestamp="1560852005788" />
+      <file name="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" timestamp="1559561744466" />
       <file name="$USER_HOME$/gitBucket/membersystem/SpringBootDeploy/src/main/java/com/uf/member/filter/AuthenFilter.java" timestamp="1561456431053">
         <mark key="'" line="37" column="25" />
         <mark key="[" line="75" column="0" />
@@ -118,6 +121,8 @@
         <mark key="." line="75" column="0" />
         <mark key="^" line="87" column="26" />
       </file>
+      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/sf-data-provider/src/main/java/com/moodys/sav/data/dao/PortfoliosDao.java" timestamp="1560403546486" />
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/org/w3c/dom/Document.java" timestamp="1560322393799" />
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/schedule/DealDataFileSyncTask.java" timestamp="1561692854937">
         <mark key="[" line="27" column="25" />
         <mark key="]" line="27" column="25" />
@@ -136,14 +141,21 @@
         <mark key="." line="29" column="50" />
         <mark key="^" line="29" column="50" />
       </file>
-      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-cluster-manager/src/main/java/com/moodys/sav/sfs/cluster/StormClusterManager.java" timestamp="1561020230630">
-        <mark key="'" line="41" column="8" />
+      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/schedule/StandardRateSyncTask.java" timestamp="1560324469416">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="10" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/cache/CacheService.java" timestamp="1559705517531">
         <mark key="[" line="6" column="19" />
         <mark key="]" line="6" column="28" />
         <mark key="." line="6" column="28" />
         <mark key="^" line="6" column="28" />
+      </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/PlatformService/src/main/java/com/uf/member/platform/restful/controller/IndexController.java" timestamp="1561701013050">
+        <mark key="[" line="13" column="48" />
+        <mark key="]" line="13" column="48" />
+        <mark key="^" line="11" column="34" />
+        <mark key="." line="13" column="48" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/ConfigValue.java" timestamp="1559546608483">
         <mark key="[" line="3" column="93" />
@@ -158,6 +170,17 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="9" column="31" />
       </file>
+      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-supervisory/src/main/java/com/moodys/sav/sfs/supervisory/monitor/ClusterMonitor.java" timestamp="1561025759740">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="87" />
+      </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/nio/MappedByteBuffer.java" timestamp="1561543778461" />
+      <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/CustomerRechargeCard.java" timestamp="1561528322211">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="7" />
+      </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/nio/charset/Charset.java" timestamp="1561109186921" />
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/lang/String.java" timestamp="1561361546597" />
       <file name="$USER_HOME$/gitBucket/membersystem/Gateway/src/main/resources/application.properties" timestamp="1560157029581">
         <mark key="[" line="10" column="43" />
         <mark key="]" line="10" column="44" />
@@ -168,6 +191,7 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
+      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/sf-data-provider/src/main/java/com/moodys/sav/data/bean/Reremics.java" timestamp="1560404866286" />
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/SystemConfigService.java" timestamp="1560308533996">
         <mark key="'" line="33" column="19" />
         <mark key="[" line="29" column="9" />
@@ -230,12 +254,13 @@
         <mark key="^" line="57" column="70" />
         <mark key="." line="57" column="70" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.6.RELEASE/spring-boot-autoconfigure-1.5.6.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/jdbc/DataSourceBuilder.java" timestamp="1557993848535">
-        <mark key="'" line="132" column="40" />
+      <file name="$USER_HOME$/gitBucket/membersystem/PlatformService/src/main/java/com/uf/member/platform/service/AccountService.java" timestamp="1561701282038">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="24" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/auth/UsernamePasswordCredentials.java" timestamp="1559199092091">
-        <mark key="'" line="78" column="11" />
-      </file>
+      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-cloud-access/src/main/java/com/moodys/sav/sfs/cloud/CloudApiFactory.java" timestamp="1561010286471" />
       <file name="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/util/ApiGatewayUtil.java" timestamp="1561445122894">
         <mark key="'" line="294" column="8" />
         <mark key="[" line="64" column="24" />
@@ -243,8 +268,12 @@
         <mark key="^" line="64" column="22" />
         <mark key="." line="64" column="25" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/pom.xml" timestamp="1561619940562">
-        <mark key="'" line="48" column="0" />
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/net/URI.java" timestamp="1561103209158" />
+      <file name="$USER_HOME$/gitBucket/membersystem/PlatformService/src/main/java/com/uf/member/platform/component/SpringBeans.java" timestamp="1561701473129">
+        <mark key="[" line="8" column="26" />
+        <mark key="]" line="13" column="3" />
+        <mark key="^" line="13" column="3" />
+        <mark key="." line="13" column="3" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/CustomerRepo.java" timestamp="1559788510222">
         <mark key="'" line="15" column="40" />
@@ -253,6 +282,7 @@
         <mark key="." line="15" column="60" />
         <mark key="^" line="15" column="60" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/jre/lib/jce.jar!/javax/crypto/spec/SecretKeySpec.class" timestamp="1560421942272" />
       <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/RechargeCardShareItem.java" timestamp="1561528331467">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="7" />
@@ -265,6 +295,7 @@
         <mark key="^" line="16" column="25" />
         <mark key="." line="16" column="25" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/amazonaws/aws-java-sdk-dynamodb/1.11.354/aws-java-sdk-dynamodb-1.11.354-sources.jar!/com/amazonaws/services/dynamodbv2/document/Table.java" timestamp="1559803429208" />
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/sf-data-provider/src/main/java/com/moodys/sav/data/dao/impl/postgresql/ReremicsDaoImpl.java" timestamp="1560404927368">
         <mark key="[" line="9" column="43" />
         <mark key="]" line="9" column="56" />
@@ -292,12 +323,17 @@
         <mark key="^" line="63" column="45" />
         <mark key="." line="63" column="45" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/joda-time/joda-time/2.10/joda-time-2.10-sources.jar!/org/joda/time/LocalTime.java" timestamp="1560910867562" />
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/UnderlyingDealSynchronizer.java" timestamp="1560494564735">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="38" column="26" />
         <mark key="]" line="38" column="40" />
         <mark key="." line="38" column="40" />
         <mark key="^" line="38" column="40" />
+      </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/component/SpringBeans.java" timestamp="1561701462750">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="35" />
       </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/Test.java" timestamp="1559286053957">
         <mark key="[" line="45" column="13" />
@@ -352,9 +388,17 @@
         <mark key="." line="17" column="46" />
         <mark key="^" line="17" column="46" />
       </file>
-      <file name="/fragment.java" timestamp="1560478829924">
+      <file name="/fragment.java" timestamp="1561701044742">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/pom.xml" timestamp="1561701104966">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="34" column="21" />
+        <mark key="]" line="34" column="20" />
+        <mark key="^" line="34" column="20" />
+        <mark key="." line="34" column="20" />
+      </file>
+      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/sf-data-provider/src/main/java/com/moodys/sav/data/dao/impl/postgresql/UserDaoImpl.java" timestamp="1560404822805" />
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/storemanager/ResourceScheduleService.java" timestamp="1560920571372">
         <mark key="[" line="308" column="48" />
         <mark key="]" line="309" column="54" />
@@ -368,9 +412,7 @@
         <mark key="." line="53" column="69" />
         <mark key="^" line="53" column="69" />
       </file>
-      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-storm/src/main/java/com/moodys/sav/sfs/storm/input/AbstractInputGenerator.java" timestamp="1561443106594">
-        <mark key="'" line="86" column="130" />
-      </file>
+      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/sf-data-provider/src/main/java/com/moodys/sav/data/bean/SystemConfig.java" timestamp="1560155453050" />
       <file name="$USER_HOME$/gitBucket/membersystem/WechatAppApi/src/main/java/com/uf/wechat/miniapp/WechatApi.java" timestamp="1560153908494">
         <mark key="'" line="72" column="22" />
         <mark key="[" line="68" column="4" />
@@ -385,29 +427,25 @@
         <mark key="." line="30" column="35" />
         <mark key="^" line="30" column="35" />
       </file>
-      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/sf-commons/src/main/java/com/moodys/sav/commons/http/HttpUtil.java" timestamp="1559209913373">
-        <mark key="'" line="141" column="0" />
-      </file>
       <file name="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/resources/application.properties" timestamp="1561445142859">
         <mark key="[" line="5" column="25" />
         <mark key="]" line="5" column="46" />
         <mark key="." line="5" column="46" />
         <mark key="^" line="5" column="46" />
       </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/PlatformService/src/main/java/com/uf/member/platform/restful/bean/WechatUserStoresResponse.java" timestamp="1561700988600">
+        <mark key="[" line="2" column="37" />
+      </file>
+      <file name="$USER_HOME$/Library/Python/3.7/lib/python/site-packages/requests/models.py" timestamp="1559560003381" />
+      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/sf-data-provider/src/main/java/com/moodys/sav/data/dao/impl/postgresql/RoleDaoImpl.java" timestamp="1560404510786" />
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/sf-data-provider/src/main/java/com/moodys/sav/data/dao/ReremicsDao.java" timestamp="1560404916418">
         <mark key="[" line="5" column="68" />
         <mark key="]" line="5" column="81" />
         <mark key="." line="5" column="81" />
         <mark key="^" line="5" column="81" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/WarDeploy/pom.xml" timestamp="1561627973165">
-        <mark key="'" line="95" column="2" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="30" />
-      </file>
-      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-web/src/main/webapp/WEB-INF/views/admin/clusterAdminContent.html.twig" timestamp="1561009701650">
-        <mark key="'" line="36" column="16" />
-      </file>
+      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-supervisory/src/main/java/com/moodys/sav/sfs/supervisory/monitor/CpuRateMonitor.java" timestamp="1561020490732" />
+      <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/AppointmentToCustomer.java" timestamp="1560919944565" />
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-web/src/main/java/com/moodys/sav/sfs/web/controller/ClusterAdminController.java" timestamp="1561014750336">
         <mark key="'" line="341" column="0" />
         <mark key="[" line="80" column="0" />
@@ -429,6 +467,7 @@
         <mark key="." line="214" column="53" />
         <mark key="^" line="214" column="53" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/amazonaws/aws-java-sdk-ec2/1.11.166/aws-java-sdk-ec2-1.11.166.jar!/com/amazonaws/services/ec2/model/DescribeInstancesRequest.class" timestamp="1561001670433" />
       <file name="$USER_HOME$/gitBucket/membersystem/PlatformService/src/main/resources/application-prod.properties" timestamp="1561628450598">
         <mark key="[" line="0" column="19" />
         <mark key="]" line="6" column="36" />
@@ -447,6 +486,7 @@
         <mark key="^" line="24" column="31" />
         <mark key="." line="24" column="31" />
       </file>
+      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/SFW_DealSynchronizer.java" timestamp="1560827015125" />
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-cloud-access/src/main/java/com/moodys/sav/sfs/cloud/VmInstanceHandler.java" timestamp="1561011016985">
         <mark key="[" line="10" column="36" />
         <mark key="]" line="11" column="66" />
@@ -459,12 +499,18 @@
         <mark key="^" line="12" column="24" />
         <mark key="." line="12" column="24" />
       </file>
+      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-supervisory/src/main/java/com/moodys/sav/sfs/supervisory/task/ExportProfileTask.java" timestamp="1559715933041" />
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/utils/s3Tool/src/main/java/test/LoanLevelDetailExport.java" timestamp="1559719770462">
         <mark key="[" line="2" column="36" />
         <mark key="]" line="1419" column="0" />
         <mark key="^" line="1419" column="0" />
         <mark key="." line="1419" column="0" />
       </file>
+      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-data-access/src/main/java/com/moodys/sav/sfs/data/dao/StormClusterInfoDao.java" timestamp="1561021930705">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="65" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.3.1/gson-2.3.1-sources.jar!/com/google/gson/JsonPrimitive.java" timestamp="1559638957825" />
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-output-interpreter/src/main/java/com/moodys/sav/sfs/output/bean/Average.java" timestamp="1561455688529">
         <mark key="'" line="133" column="34" />
         <mark key="[" line="133" column="37" />
@@ -472,17 +518,15 @@
         <mark key="^" line="133" column="44" />
         <mark key="." line="133" column="44" />
       </file>
-      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-supervisory/src/main/java/com/moodys/sav/sfs/supervisory/monitor/JobOutputZipMonitor.java" timestamp="1561447208610">
-        <mark key="'" line="270" column="47" />
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="92" />
-      </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/webapp/WEB-INF/web.xml" timestamp="1559211144116">
         <mark key="[" line="24" column="85" />
         <mark key="]" line="24" column="89" />
         <mark key="^" line="24" column="89" />
         <mark key="." line="24" column="89" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/amazonaws/aws-java-sdk-dynamodb/1.11.354/aws-java-sdk-dynamodb-1.11.354-sources.jar!/com/amazonaws/services/dynamodbv2/document/DynamoDB.java" timestamp="1559635483383" />
+      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-output-interpreter/src/main/java/com/moodys/sav/sfs/output/util/BasedRateMappingUtil.java" timestamp="1561519101921" />
+      <file name="$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.8.1/gson-2.8.1-sources.jar!/com/google/gson/JsonObject.java" timestamp="1561086919722" />
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-data-access/src/main/java/com/moodys/sav/sfs/data/bean/SystemConfig.java" timestamp="1561096779940">
         <mark key="[" line="45" column="59" />
         <mark key="]" line="45" column="84" />
@@ -515,9 +559,6 @@
         <mark key="^" line="457" column="79" />
         <mark key="." line="457" column="79" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/joda-time/joda-time/2.10/joda-time-2.10-sources.jar!/org/joda/time/LocalDate.java" timestamp="1558338829338">
-        <mark key="'" line="282" column="0" />
-      </file>
       <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/StoreManagerRepo.java" timestamp="1559724636618">
         <mark key="[" line="6" column="46" />
         <mark key="]" line="6" column="64" />
@@ -548,7 +589,8 @@
         <mark key="^" line="188" column="71" />
         <mark key="." line="188" column="71" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/WarDeploy/src/main/resources/application-dev.properties" timestamp="1561443942200">
+      <file name="$USER_HOME$/gitBucket/membersystem/WechatAppApi/src/main/java/com/uf/wechat/miniapp/bean/WechatMiniAppUserLoginResponse.java" timestamp="1559639964961" />
+      <file name="$USER_HOME$/gitBucket/membersystem/WarDeploy/src/main/resources/application-dev.properties" timestamp="1561700312983">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="23" />
         <mark key="." line="2" column="22" />
@@ -591,30 +633,26 @@
         <mark key="." line="29" column="42" />
         <mark key="^" line="29" column="42" />
       </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/RechargeCardDiscountPackageRepo.java" timestamp="1561528429555" />
       <file name="$USER_HOME$/gitBucket/membersystem/PlatformService/src/main/java/com/uf/member/dao/mysql/entity/PlatformWechatUser.java" timestamp="1561628838603">
         <mark key="[" line="12" column="3" />
         <mark key="]" line="12" column="3" />
         <mark key="." line="12" column="3" />
         <mark key="^" line="12" column="3" />
       </file>
-      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-storm/src/main/java/com/moodys/sav/sfs/storm/input/ABSStaticScenarioInputGenerator.java" timestamp="1561443094030">
-        <mark key="'" line="58" column="172" />
-      </file>
-      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-data-access/src/main/java/com/moodys/sav/sfs/data/bean/SimGeneralInfo.java" timestamp="1558605202067">
-        <mark key="'" line="17" column="19" />
-      </file>
-      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-web/src/main/java/com/moodys/sav/sfs/web/service/ClusterManagementService.java" timestamp="1561010147575">
-        <mark key="'" line="35" column="12" />
-      </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/lang/ProcessImpl.java" timestamp="1558666989943">
-        <mark key="'" line="134" column="17" />
-      </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/CountCardInfo.java" timestamp="1561534632205" />
+      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/schedule/UndelyingDealSyncTask.java" timestamp="1560756471935" />
+      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/sf-cloud-provider/src/main/java/com/moodys/sav/cloud/impl/aws/SimpleStoreHandlerImpl.java" timestamp="1559633713249" />
+      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/schedule/DealSyncTask.java" timestamp="1560924336154" />
+      <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/CustomerCountCard.java" timestamp="1561517222476" />
       <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/ConfigKey.java" timestamp="1559560548637">
         <mark key="[" line="11" column="65" />
         <mark key="]" line="11" column="65" />
         <mark key="." line="11" column="65" />
         <mark key="^" line="11" column="65" />
       </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/CustomerCountCardRepo.java" timestamp="1561603667286" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.10.RELEASE/spring-web-4.3.10.RELEASE-sources.jar!/org/springframework/http/HttpStatus.java" timestamp="1561367849948" />
       <file name="$USER_HOME$/pythonProject/modifySetting.py" timestamp="1559627641960">
         <mark key="[" line="7" column="60" />
         <mark key="]" line="7" column="61" />
@@ -627,6 +665,7 @@
         <mark key="." line="158" column="32" />
         <mark key="^" line="158" column="32" />
       </file>
+      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-data-access/src/main/java/com/moodys/sav/sfs/data/bean/JobOutputErrorMenu.java" timestamp="1561446996575" />
       <file name="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/restful/controller/Test.java" timestamp="1559613379544">
         <mark key="[" line="12" column="31" />
         <mark key="]" line="13" column="34" />
@@ -640,8 +679,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="0" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-cloud-access/src/main/java/com/moodys/sav/sfs/cloud/bean/vm/Instance.java" />
-      <jump line="11" column="0" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-cloud-access/src/main/java/com/moodys/sav/sfs/cloud/bean/vm/Instance.java" />
       <jump line="457" column="64" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-cloud-access/src/main/java/com/moodys/sav/sfs/cloud/impl/aws/VmInstanceHandlerImpl.java" />
       <jump line="456" column="0" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-cloud-access/src/main/java/com/moodys/sav/sfs/cloud/impl/aws/VmInstanceHandlerImpl.java" />
       <jump line="36" column="16" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-web/src/main/webapp/WEB-INF/views/admin/clusterAdminContent.html.twig" />
@@ -740,58 +777,72 @@
       <jump line="95" column="2" filename="$USER_HOME$/gitBucket/membersystem/WarDeploy/pom.xml" />
       <jump line="48" column="34" filename="$USER_HOME$/gitBucket/membersystem/PlatformService/pom.xml" />
       <jump line="86" column="0" filename="$USER_HOME$/gitBucket/membersystem/PlatformService/pom.xml" />
+      <jump line="69" column="6" filename="$USER_HOME$/gitBucket/membersystem/PlatformService/pom.xml" />
+      <jump line="40" column="22" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AccountService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>3</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>WechatLoginResponse</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwcm9qZWN0XD4=</text>
+        <text encoding="base64">XDxkZXBlbmRlbmNpZXNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CXByaXZhdGUgU3RyaW5nIHBob25lTnVtYmVyOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBFbnRpdHkK</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">c3RvcmVOYW1lPVx1NTM2MVx1NTM2MVx1NEYxQVx1NTQ1OFx1NEUyRFx1NUZDMwphcHAuY29udGV4dE5hbWU9eHhsZmQKYXBwLmZyZWVMaWNlbnNlLmRheXM9MzgKZGF0YXNvdXJjZS5hZGRyZXNzPXJtLWJwMTc1NGIxeXJzMmI5OWJvLm15c3FsLnJkcy5hbGl5dW5jcy5jb206MzMwNgpzZXJ2ZXIuY29udGV4dC1wYXRoPS8ke2FwcC5jb250ZXh0TmFtZX0Kc3ByaW5nLmpwYS5oaWJlcm5hdGUuZGRsLWF1dG89dXBkYXRlCnNwcmluZy5qcGEuZGF0YWJhc2UtcGxhdGZvcm09b3JnLmhpYmVybmF0ZS5kaWFsZWN0Lk15U1FMNURpYWxlY3QKc3ByaW5nLmRhdGFzb3VyY2UudXJsPWpkYmM6bXlzcWw6Ly8ke2RhdGFzb3VyY2UuYWRkcmVzc30vJHthcHAuY29udGV4dE5hbWV9P3VzZVVuaWNvZGU9dHJ1ZSZjaGFyYWN0ZXJFbmNvZGluZz11dGYtOCZjcmVhdGVEYXRhYmFzZUlmTm90RXhpc3Q9dHJ1ZQpzcHJpbmcuZGF0YXNvdXJjZS51c2VybmFtZT1yb290CnNwcmluZy5kYXRhc291cmNlLnBhc3N3b3JkPW1rbzAoSUpOCnNwcmluZy5kYXRhc291cmNlLnRvbWNhdC5tYXgtYWN0aXZlPTUKd2VjaGF0LmFwcF9pZD13eDg3MDFlZjcxZWE0MGQ4NmYKd2VjaGF0LnNlY3JldD1hZjA0MTQ2YzE3ZGVmNGY4Yzc1ZjY3ODgzZWJkOGQ4Nwpsb2dnaW5nLmZpbGU9bWVtZWJlclN5c3RlbV8ke2FwcC5jb250ZXh0TmFtZX0ubG9nCmxvZ2dpbmcubGV2ZWwucm9vdD1JTkZPCmFsaXl1bi5hY2Nlc3NLZXlJZD1MVEFJbzNXZXZodzhPVUNpCmFsaXl1bi5hY2Nlc3NLZXlTZWNyZXQ9VnRLSHlWa2l3MHl3SG9lWTJZSWh1dmRqMUxnSHAzCnNwcmluZy5yZXNvdXJjZXMuc3RhdGljLWxvY2F0aW9ucz1jbGFzc3BhdGg6L3dlYgpzcHJpbmcubXZjLnN0YXRpYy1wYXRoLXBhdHRlcm49L3dlYi8qKgo=</text>
+      <register name="2" type="2">
+        <text encoding="base64">CXByaXZhdGUgU3RyaW5nIGdlbmVyYXRlTWVtYmVyTnVtYmVyKExvbmcgaWQpIAo=</text>
+      </register>
+      <register name="3" type="4">
+        <text>{
+		DecimalFormat format = new DecimalFormat(&quot;000&quot;);
+		return &quot;8&quot; + format.format(id);
+	}</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c3ByaW5nLm12Yy5zdGF0aWMtcGF0aC1wYXR0ZXJuPS93ZWIvKioK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c3ByaW5nLnJlc291cmNlcy5zdGF0aWMtbG9jYXRpb25zPWNsYXNzcGF0aDovd2ViCg==</text>
+        <text encoding="base64">CQlXZWNoYXRVc2VyIHdlY2hhdFVzZXIgPSB3ZWNoYXRVc2VyUmVwby5maW5kVG9wQnlPcGVuaWQocmVzcG9uc2UuZ2V0T3BlbmlkKCkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YWxpeXVuLmFjY2Vzc0tleVNlY3JldD1WdEtIeVZraXcweXdIb2VZMllJaHV2ZGoxTGdIcDMK</text>
+        <text encoding="base64">CQlXZWNoYXRMb2dpblJlc3VsdCByZXN1bHQgPSBuZXcgV2VjaGF0TG9naW5SZXN1bHQoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YWxpeXVuLmFjY2Vzc0tleUlkPUxUQUlvM1dldmh3OE9VQ2kK</text>
+        <text encoding="base64">CQlPYmplY3QgY2FjaGVPYmogPSBudWxsOwoJCQljYWNoZU9iaiA9IHN0b3JlTWFuYWdlclJlcG8uZmluZFRvcEJ5V2VjaGF0VXNlcih3ZWNoYXRVc2VyKTsKCQkJaWYgKGNhY2hlT2JqID09IG51bGwpIHsKCQkJCVN0b3JlTWFuYWdlciBtYW5hZ2VyID0gbmV3IFN0b3JlTWFuYWdlcigpOwoJCQkJbWFuYWdlci5zZXRXZWNoYXRVc2VyKHdlY2hhdFVzZXIpOwoJCQkJc3RvcmVNYW5hZ2VyUmVwby5zYXZlKG1hbmFnZXIpOwoJCQkJY2FjaGVPYmogPSBtYW5hZ2VyOwoJCQl9CgkJfQoJCWlmIChjYWNoZU9iaiE9bnVsbCkgewoJCQlTdHJpbmcgdG9rZW49Z2VuZXJhdGVUb2tlbigpOwoJCQlTdHJpbmcgaWQ9bnVsbDsKCQkJaWYgKGNhY2hlT2JqIGluc3RhbmNlb2YgU3RvcmVNYW5hZ2VyKXsKCQkJCVN0b3JlTWFuYWdlciB0ZW1wPShTdG9yZU1hbmFnZXIpY2FjaGVPYmo7CgkJCQlpZD0ic3RvcmVNYW5hZ2VyLSIrdGVtcC5nZXRJZCgpOwoJCQl9ZWxzZSBpZihjYWNoZU9iaiBpbnN0YW5jZW9mICBDdXN0b21lcil7CgkJCQlDdXN0b21lciB0ZW1wPShDdXN0b21lciljYWNoZU9iajsKCQkJCWlkPSJjdXN0b21lci0iK3RlbXAuZ2V0SWQoKTsKCQkJfQoJCQlPYmplY3QgcHJlQ2FjaGVkVG9rZW49Y2FjaGVTZXJ2aWNlLmdldENhY2hlZE9iamVjdChDYWNoZU9iamVjdFR5cGUuU0VTU0lPTixpZCk7CgkJCWlmIChwcmVDYWNoZWRUb2tlbiE9bnVsbCYmcHJlQ2FjaGVkVG9rZW4gaW5zdGFuY2VvZiAgU3RyaW5nKXsKCQkJCWNhY2hlU2VydmljZS5yZW1vdmVDYWNoZWRPYmplY3QoQ2FjaGVPYmplY3RUeXBlLlNFU1NJT04sKFN0cmluZylwcmVDYWNoZWRUb2tlbik7CgkJCX0KCQkJY2FjaGVTZXJ2aWNlLnB1dE9iamVjdChDYWNoZU9iamVjdFR5cGUuU0VTU0lPTiwgdG9rZW4sIGNhY2hlT2JqKTsKCQkJY2FjaGVTZXJ2aWNlLnB1dE9iamVjdChDYWNoZU9iamVjdFR5cGUuU0VTU0lPTiwgaWQsIHRva2VuKTsKCgkJCXJlc3VsdC5zZXRUb2tlbih0b2tlbik7CgkJCXJlc3VsdC5zZXRMb2dpblVzZXIoY2FjaGVPYmopOwoJCX0KCQlyZXN1bHQuc2V0Tmlja05hbWUod2VjaGF0VXNlci5nZXROYW1lKCkpOwoJCXJlc3VsdC5zZXRIZWFkSW1nVXJsKHdlY2hhdFVzZXIuZ2V0SGVhZGltZ3VybCgpKTsKCQlyZXR1cm4gcmVzdWx0Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c2VydmVyLmNvbnRleHQtcGF0aD0vJHthcHAuY29udGV4dE5hbWV9Cg==</text>
+        <text encoding="base64">CQlpZiAoV2VjaGF0VXNlci5ST0xFX0NVU1RPTUVSLmVxdWFscyh3ZWNoYXRVc2VyLmdldFJvbGUoKSkpICBlbHNlIGlmIChXZWNoYXRVc2VyLlJPTEVfU1RPUkVNQU5BR0VSLmVxdWFscyh3ZWNoYXRVc2VyLmdldFJvbGUoKSkpIHsK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">YXBwLmZyZWVMaWNlbnNlLmRheXM9MzgK</text>
+      <register name="9" type="4">
+        <text>{
+			Customer customer = customerRepo.findTopByWechatUser(wechatUser);
+			if(customer==null||StringUtils.isBlank(customer.getPhoneNumber())){
+				result.setHasBindPhoneNumber(false);
+			}else{
+				result.setHasBindPhoneNumber(true);
+				cacheObj=customer;
+                result.setRealName(customer.getRealName());
+			}
+		}</text>
       </register>
       <register name=":" type="4">
         <text>map</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwcm9qZWN0XD4=</last-search>
+      <last-search encoding="base64">XDxkZXBlbmRlbmNpZXNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwcm9qZWN0XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxkZXBlbmRlbmNpZXNcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZXNwb25zZVw+</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -814,8 +865,8 @@
         <entry encoding="base64">XDxjb250ZXh0UGF0aFw+</entry>
         <entry encoding="base64">XDxzdG9yZVNlcnZpY2VcPg==</entry>
         <entry encoding="base64">XDxhY2NlcHRDb2RlXD4=</entry>
-        <entry encoding="base64">XDxkZXBlbmRlbmNpZXNcPg==</entry>
         <entry encoding="base64">XDxwcm9qZWN0XD4=</entry>
+        <entry encoding="base64">XDxkZXBlbmRlbmNpZXNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>maps</entry>
