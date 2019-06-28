@@ -118,6 +118,12 @@
         <mark key="." line="75" column="0" />
         <mark key="^" line="87" column="26" />
       </file>
+      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/schedule/DealDataFileSyncTask.java" timestamp="1561692854937">
+        <mark key="[" line="27" column="25" />
+        <mark key="]" line="27" column="25" />
+        <mark key="." line="27" column="25" />
+        <mark key="^" line="27" column="36" />
+      </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/storemanager/StoreController.java" timestamp="1561453114912">
         <mark key="[" line="60" column="21" />
         <mark key="]" line="60" column="35" />
@@ -372,8 +378,12 @@
         <mark key="^" line="68" column="9" />
         <mark key="." line="68" column="4" />
       </file>
-      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/schedule/DealCusipsSyncTask.java" timestamp="1560828002347">
+      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/schedule/DealCusipsSyncTask.java" timestamp="1561691985129">
         <mark key="'" line="65" column="17" />
+        <mark key="[" line="30" column="33" />
+        <mark key="]" line="30" column="35" />
+        <mark key="." line="30" column="35" />
+        <mark key="^" line="30" column="35" />
       </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/sf-commons/src/main/java/com/moodys/sav/commons/http/HttpUtil.java" timestamp="1559209913373">
         <mark key="'" line="141" column="0" />
@@ -617,11 +627,6 @@
         <mark key="." line="158" column="32" />
         <mark key="^" line="158" column="32" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/AcceptCardInfoResponse.java" timestamp="1561606375011">
-        <mark key="]" line="7" column="40" />
-        <mark key="^" line="7" column="40" />
-        <mark key="." line="7" column="40" />
-      </file>
       <file name="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/restful/controller/Test.java" timestamp="1559613379544">
         <mark key="[" line="12" column="31" />
         <mark key="]" line="13" column="34" />
@@ -738,10 +743,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>add function for share and give card</text>
+        <text>3</text>
       </register>
       <register name="-" type="4">
-        <text>add function for share and give card</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcm9qZWN0XD4=</text>
