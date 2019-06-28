@@ -398,7 +398,7 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561630513288">
+      <file name="/Dummy.txt" timestamp="1561717900877">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -736,10 +736,11 @@
         <mark key="^" line="12" column="3" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/CountCardInfo.java" timestamp="1561534632205" />
-      <file name="$USER_HOME$/gitBucket/membersystem/PlatformService/src/main/java/com/uf/member/platform/component/ScheduleBean.java" timestamp="1561714981340">
-        <mark key="[" line="57" column="68" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
+      <file name="$USER_HOME$/gitBucket/membersystem/PlatformService/src/main/java/com/uf/member/platform/component/ScheduleBean.java" timestamp="1561717448287">
+        <mark key="[" line="33" column="87" />
+        <mark key="]" line="33" column="94" />
+        <mark key="^" line="33" column="94" />
+        <mark key="." line="33" column="94" />
       </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/schedule/UndelyingDealSyncTask.java" timestamp="1560756471935" />
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/sf-cloud-provider/src/main/java/com/moodys/sav/cloud/impl/aws/SimpleStoreHandlerImpl.java" timestamp="1559633713249" />
@@ -882,11 +883,11 @@
       <jump line="243" column="11" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-storm/src/main/java/com/moodys/sav/sfs/storm/LaunchExeSpout.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>url</text>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text>url</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGVTM1BhdGhcPg==</text>
@@ -895,32 +896,31 @@
         <text encoding="base64">CXByaXZhdGUgQXRvbWljQm9vbGVhbiBoYXNTdGFydGVkID0gbmV3IEF0b21pY0Jvb2xlYW4oZmFsc2UpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>new Header() {
-					}</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdoaWxlICgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmICh1c2Vyc0FycmF5LnNpemUoKTwxMDApewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8JCUh0dHBIb3N0IHByb3h5SG9zdD1uZXcgSHR0cEhvc3QoInByb3h5LXNmbyIsIDgwKTsKLy8JCUNyZWRlbnRpYWxzUHJvdmlkZXIgY3JlZGVudGlhbHNQcm92aWRlcj1uZXcgQmFzaWNDcmVkZW50aWFsc1Byb3ZpZGVyKCk7Ci8vCQljcmVkZW50aWFsc1Byb3ZpZGVyLnNldENyZWRlbnRpYWxzKG5ldyBBdXRoU2NvcGUocHJveHlIb3N0KSwgbmV3IE5UQ3JlZGVudGlhbHMoInpoYW5namEiLCAiYiIsInpoYW5namEtN3ciLCJhbmFseXRpY3MiKSk7Ci8vCQljbGllbnRCdWlsZGVyLnNldFByb3h5KHByb3h5SG9zdCk7Ci8vCQljbGllbnRCdWlsZGVyLnNldERlZmF1bHRDcmVkZW50aWFsc1Byb3ZpZGVyKGNyZWRlbnRpYWxzUHJvdmlkZXIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdoaWxlKHVzZXJTaXplPDEwMCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgQXRvbWljQm9vbGVhbiBoYXNTdGFydGVkID0gbmV3IEF0b21pY0Jvb2xlYW4oZmFsc2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QFNlcnZsZXRDb21wb25lbnRTY2FuKGJhc2VQYWNrYWdlcyA9IHsgImNvbS51Zi5tZW1iZXIucGxhdGZvcm0uZmlsdGVyIiB9KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdG9TCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>map</text>
