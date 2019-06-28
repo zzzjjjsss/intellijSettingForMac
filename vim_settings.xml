@@ -120,7 +120,7 @@
       <file name="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/restful/controller/CommonController.java" timestamp="1561700341781" />
       <file name="/index.js" timestamp="1560852005788" />
       <file name="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" timestamp="1559561744466" />
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/admin/WechatUsersResponse.java" timestamp="1561708186213">
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/admin/WechatUsersResponse.java" timestamp="1561714387295">
         <mark key="[" line="9" column="4" />
         <mark key="]" line="9" column="11" />
         <mark key="^" line="9" column="11" />
@@ -300,11 +300,11 @@
         <mark key="." line="64" column="25" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/net/URI.java" timestamp="1561103209158" />
-      <file name="$USER_HOME$/gitBucket/membersystem/PlatformService/src/main/java/com/uf/member/platform/dao/mysql/WechatUserToStoreRepo.java" timestamp="1561703005431">
-        <mark key="[" line="8" column="41" />
-        <mark key="]" line="8" column="40" />
-        <mark key="^" line="8" column="40" />
-        <mark key="." line="8" column="40" />
+      <file name="$USER_HOME$/gitBucket/membersystem/PlatformService/src/main/java/com/uf/member/platform/dao/mysql/WechatUserToStoreRepo.java" timestamp="1561714905837">
+        <mark key="[" line="9" column="73" />
+        <mark key="]" line="9" column="76" />
+        <mark key="^" line="9" column="76" />
+        <mark key="." line="9" column="76" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/PlatformService/src/main/java/com/uf/member/platform/component/SpringBeans.java" timestamp="1561701473129">
         <mark key="[" line="8" column="26" />
@@ -430,7 +430,7 @@
         <mark key="." line="17" column="46" />
         <mark key="^" line="17" column="46" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/PlatformService/src/main/java/com/uf/member/platform/dao/mysql/entity/WechatUserToStore.java" timestamp="1561702993166">
+      <file name="$USER_HOME$/gitBucket/membersystem/PlatformService/src/main/java/com/uf/member/platform/dao/mysql/entity/WechatUserToStore.java" timestamp="1561714883904">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="32" column="33" />
         <mark key="^" line="32" column="33" />
@@ -712,11 +712,10 @@
         <mark key="^" line="12" column="3" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/CountCardInfo.java" timestamp="1561534632205" />
-      <file name="$USER_HOME$/gitBucket/membersystem/PlatformService/src/main/java/com/uf/member/platform/component/ScheduleBean.java" timestamp="1561713920951">
-        <mark key="[" line="39" column="20" />
-        <mark key="]" line="39" column="73" />
-        <mark key="." line="39" column="73" />
-        <mark key="^" line="39" column="73" />
+      <file name="$USER_HOME$/gitBucket/membersystem/PlatformService/src/main/java/com/uf/member/platform/component/ScheduleBean.java" timestamp="1561714981340">
+        <mark key="[" line="57" column="68" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
       </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/schedule/UndelyingDealSyncTask.java" timestamp="1560756471935" />
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/sf-cloud-provider/src/main/java/com/moodys/sav/cloud/impl/aws/SimpleStoreHandlerImpl.java" timestamp="1559633713249" />
@@ -859,11 +858,11 @@
       <jump line="48" column="56" filename="$USER_HOME$/gitBucket/membersystem/PlatformService/src/main/java/com/uf/member/platform/util/HttpUtil.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>String</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkZXBlbmRlbmNpZXNcPg==</text>
@@ -871,33 +870,33 @@
       <register name="0" type="2">
         <text encoding="base64">CXByaXZhdGUgQXRvbWljQm9vbGVhbiBoYXNTdGFydGVkID0gbmV3IEF0b21pY0Jvb2xlYW4oZmFsc2UpOwo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="3" type="4">
         <text>new Header() {
 					}</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">CQkJCQkK</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Ly8JCUh0dHBIb3N0IHByb3h5SG9zdD1uZXcgSHR0cEhvc3QoInByb3h5LXNmbyIsIDgwKTsKLy8JCUNyZWRlbnRpYWxzUHJvdmlkZXIgY3JlZGVudGlhbHNQcm92aWRlcj1uZXcgQmFzaWNDcmVkZW50aWFsc1Byb3ZpZGVyKCk7Ci8vCQljcmVkZW50aWFsc1Byb3ZpZGVyLnNldENyZWRlbnRpYWxzKG5ldyBBdXRoU2NvcGUocHJveHlIb3N0KSwgbmV3IE5UQ3JlZGVudGlhbHMoInpoYW5namEiLCAiYiIsInpoYW5namEtN3ciLCJhbmFseXRpY3MiKSk7Ci8vCQljbGllbnRCdWlsZGVyLnNldFByb3h5KHByb3h5SG9zdCk7Ci8vCQljbGllbnRCdWlsZGVyLnNldERlZmF1bHRDcmVkZW50aWFsc1Byb3ZpZGVyKGNyZWRlbnRpYWxzUHJvdmlkZXIpOwo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgQXRvbWljQm9vbGVhbiBoYXNTdGFydGVkID0gbmV3IEF0b21pY0Jvb2xlYW4oZmFsc2UpOwo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">QFNlcnZsZXRDb21wb25lbnRTY2FuKGJhc2VQYWNrYWdlcyA9IHsgImNvbS51Zi5tZW1iZXIucGxhdGZvcm0uZmlsdGVyIiB9KQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQlMaXN0PFdlY2hhdFVzZXI+Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoInVzZXIgbG9naW4gIHJlc3VsdDoiK3Jlc3BvbnNlLnRvU3RyaW5nKCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>map</text>
