@@ -67,11 +67,11 @@
         <mark key="." line="35" column="46" />
         <mark key="^" line="35" column="46" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/PlatformService/src/main/java/com/uf/member/platform/dao/mysql/entity/StoreInfo.java" timestamp="1561687619229">
-        <mark key="[" line="5" column="31" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/gitBucket/membersystem/PlatformService/src/main/java/com/uf/member/platform/dao/mysql/entity/StoreInfo.java" timestamp="1561688298274">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="9" column="24" />
+        <mark key="^" line="9" column="24" />
+        <mark key="." line="9" column="24" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/PlatformService/pom.xml" timestamp="1561627928479">
         <mark key="'" line="91" column="0" />
