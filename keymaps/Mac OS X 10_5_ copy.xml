@@ -56,6 +56,10 @@
     <keyboard-shortcut first-keystroke="alt back_space" />
     <keyboard-shortcut first-keystroke="ctrl back_space" />
   </action>
+  <action id="EditorDownWithSelection">
+    <keyboard-shortcut first-keystroke="shift down" />
+    <keyboard-shortcut first-keystroke="ctrl l" />
+  </action>
   <action id="EditorDuplicate" />
   <action id="EditorIndentLineOrSelection">
     <keyboard-shortcut first-keystroke="shift ctrl i" />
@@ -81,7 +85,12 @@
     <keyboard-shortcut first-keystroke="alt down" />
     <keyboard-shortcut first-keystroke="shift ctrl semicolon" />
   </action>
+  <action id="EditorUpWithSelection">
+    <keyboard-shortcut first-keystroke="shift up" />
+    <keyboard-shortcut first-keystroke="shift ctrl p" />
+  </action>
   <action id="ExportToTextFile" />
+  <action id="ExpressionTypeInfo" />
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.GotoModule" />
   <action id="FileChooser.GotoProject" />
