@@ -554,11 +554,11 @@
         <mark key="^" line="24" column="31" />
         <mark key="." line="24" column="31" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/PlatformService/src/main/java/com/uf/member/platform/util/HttpUtil.java" timestamp="1561713579677">
+      <file name="$USER_HOME$/gitBucket/membersystem/PlatformService/src/main/java/com/uf/member/platform/util/HttpUtil.java" timestamp="1561956295542">
         <mark key="'" line="48" column="56" />
-        <mark key="[" line="48" column="38" />
-        <mark key="]" line="48" column="56" />
-        <mark key="." line="48" column="56" />
+        <mark key="[" line="45" column="42" />
+        <mark key="]" line="45" column="42" />
+        <mark key="." line="45" column="42" />
         <mark key="^" line="48" column="56" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AppointmentService.java" timestamp="1561944647337">
@@ -739,7 +739,7 @@
         <mark key="." line="12" column="3" />
         <mark key="^" line="12" column="3" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/PlatformService/src/main/java/com/uf/member/platform/component/ScheduleBean.java" timestamp="1561717448287">
+      <file name="$USER_HOME$/gitBucket/membersystem/PlatformService/src/main/java/com/uf/member/platform/component/ScheduleBean.java" timestamp="1561956152106">
         <mark key="[" line="33" column="87" />
         <mark key="]" line="33" column="94" />
         <mark key="^" line="33" column="94" />
@@ -878,11 +878,11 @@
       <jump line="23" column="19" filename="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/service/ApiGatewayUtil.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">QENvbmZpZ3VyYXRpb24K</text>
+      <register name="&quot;" type="4">
+        <text>uri</text>
       </register>
       <register name="-" type="4">
-        <text>url</text>
+        <text>uri</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbGl5dW5BcHBvaW50XD4=</text>
