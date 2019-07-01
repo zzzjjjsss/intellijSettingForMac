@@ -113,7 +113,10 @@
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/restful/controller/CommonController.java" timestamp="1561700341781" />
       <file name="/index.js" timestamp="1560852005788" />
-      <file name="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" timestamp="1559561744466" />
+      <file name="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" timestamp="1561966087318">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="68" />
+      </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/admin/WechatUsersResponse.java" timestamp="1561714387295">
         <mark key="[" line="9" column="4" />
         <mark key="]" line="9" column="11" />
@@ -746,11 +749,12 @@
         <mark key="^" line="12" column="3" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/CountCardInfo.java" timestamp="1561534632205" />
-      <file name="$USER_HOME$/gitBucket/membersystem/PlatformService/src/main/java/com/uf/member/platform/component/ScheduleBean.java" timestamp="1561963861045">
-        <mark key="[" line="55" column="69" />
-        <mark key="]" line="55" column="70" />
-        <mark key="^" line="33" column="94" />
-        <mark key="." line="55" column="70" />
+      <file name="$USER_HOME$/gitBucket/membersystem/PlatformService/src/main/java/com/uf/member/platform/component/ScheduleBean.java" timestamp="1561966662631">
+        <mark key="'" line="83" column="0" />
+        <mark key="[" line="65" column="62" />
+        <mark key="]" line="66" column="71" />
+        <mark key="^" line="66" column="71" />
+        <mark key="." line="66" column="71" />
       </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/schedule/UndelyingDealSyncTask.java" timestamp="1560756471935" />
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/sf-cloud-provider/src/main/java/com/moodys/sav/cloud/impl/aws/SimpleStoreHandlerImpl.java" timestamp="1559633713249" />
@@ -791,8 +795,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="39" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-cluster-manager/src/main/java/com/moodys/sav/sfs/cluster/StormClusterManager.java" />
-      <jump line="41" column="8" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-cluster-manager/src/main/java/com/moodys/sav/sfs/cluster/StormClusterManager.java" />
       <jump line="43" column="16" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-supervisory/src/main/java/com/moodys/sav/sfs/supervisory/monitor/Monitor.java" />
       <jump line="119" column="37" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-supervisory/src/main/java/com/moodys/sav/sfs/supervisory/monitor/Monitor.java" />
       <jump line="135" column="33" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-supervisory/src/main/java/com/moodys/sav/sfs/supervisory/monitor/Monitor.java" />
@@ -891,46 +893,48 @@
       <jump line="23" column="19" filename="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/service/ApiGatewayUtil.java" />
       <jump line="69" column="45" filename="$USER_HOME$/gitBucket/membersystem/WarDeploy/src/main/java/com/uf/member/filter/AuthenFilter.java" />
       <jump line="155" column="0" filename="$USER_HOME$/gitBucket/membersystem/WarDeploy/src/main/java/com/uf/member/filter/AuthenFilter.java" />
+      <jump line="57" column="0" filename="$USER_HOME$/gitBucket/membersystem/PlatformService/src/main/java/com/uf/member/platform/component/ScheduleBean.java" />
+      <jump line="83" column="0" filename="$USER_HOME$/gitBucket/membersystem/PlatformService/src/main/java/com/uf/member/platform/component/ScheduleBean.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Long</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Long</text>
+        <text>StoreAdminService</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbGl5dW5BcHBvaW50XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QENvbmZpZ3VyYXRpb24K</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTG9nIGxvZ2dlciA9IExvZ0ZhY3RvcnkuZ2V0TG9nKFN0b3JlQWRtaW5TZXJ2aWNlLmNsYXNzKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QENvbXBvbmVudAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS51Zi53ZWNoYXQubWluaWFwcC5XZWNoYXRBcGk7Cg==</text>
+        <text encoding="base64">QENvbXBvbmVudAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Pj4+Pj4+PiAubWVyZ2VfZmlsZV9uMXRRQUMK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS51Zi53ZWNoYXQubWluaWFwcC5XZWNoYXRBcGk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb25lUGFnZS5zZXRUaW1lUG9pbnRzKGdlbmVyYXRlVGltZVBvaW50U3RyaW5ncyhtaW5UaW1lUG9pbnQsIG1heFRpbWVQb2ludCkpOwo=</text>
+        <text encoding="base64">Pj4+Pj4+PiAubWVyZ2VfZmlsZV9uMXRRQUMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgb25lUGFnZS5zZXRUaW1lUG9pbnRzKGdlbmVyYXRlVGltZVBvaW50U3RyaW5ncyhtaW5UaW1lUG9pbnQsIG1heFRpbWVQb2ludCkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PDw8PDw8PCAubWVyZ2VfZmlsZV9ZdnI0V0MK</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">PDw8PDw8PCAubWVyZ2VfZmlsZV9ZdnI0V0MK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">PDw8PDw8PCAubWVyZ2VfZmlsZV9ZdnI0V0MK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>map</text>
