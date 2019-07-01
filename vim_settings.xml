@@ -52,10 +52,10 @@
         <mark key="." line="30" column="38" />
         <mark key="^" line="30" column="38" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/WechatUserRepo.java" timestamp="1561962385465">
-        <mark key="[" line="12" column="137" />
-        <mark key="]" line="12" column="137" />
-        <mark key="." line="12" column="137" />
+      <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/WechatUserRepo.java" timestamp="1561978184352">
+        <mark key="[" line="12" column="66" />
+        <mark key="]" line="12" column="66" />
+        <mark key="." line="12" column="66" />
         <mark key="^" line="12" column="48" />
       </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-supervisory/src/main/java/com/moodys/sav/sfs/supervisory/monitor/Ec2InstanceMonitor.java" timestamp="1561095434562">
@@ -130,7 +130,7 @@
         <mark key="." line="85" column="8" />
         <mark key="^" line="85" column="8" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/storemanager/StatisticsService.java" timestamp="1561963136323">
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/storemanager/StatisticsService.java" timestamp="1561978175526">
         <mark key="'" line="173" column="0" />
         <mark key="[" line="62" column="35" />
         <mark key="]" line="62" column="46" />
@@ -875,11 +875,11 @@
       <jump line="43" column="22" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AccountService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJvcHMuY2xlYXIoKTsK</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>-prod</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdG9yZVJlcG9cPg==</text>
