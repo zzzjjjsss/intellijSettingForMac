@@ -27,10 +27,6 @@
         <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/ResourceAppointmentInfoResponse.java" timestamp="1561530644326" />
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/schedule/GenerateAppointmentScheduler.java" timestamp="1561712329484">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="64" />
-      </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/sf-cloud-provider/src/main/java/com/moodys/sav/cloud/impl/aws/DynamoDbHandlerImpl.java" timestamp="1559814976013">
         <mark key="'" line="44" column="0" />
         <mark key="[" line="110" column="23" />
@@ -111,12 +107,9 @@
         <mark key="^" line="11" column="19" />
         <mark key="." line="11" column="19" />
       </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/PlatformService/src/main/resources/application.properties" timestamp="1561981456045" />
       <file name="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/restful/controller/CommonController.java" timestamp="1561700341781" />
       <file name="/index.js" timestamp="1560852005788" />
-      <file name="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/service/StoreAdminService.java" timestamp="1561966087318">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="68" />
-      </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/admin/WechatUsersResponse.java" timestamp="1561714387295">
         <mark key="[" line="9" column="4" />
         <mark key="]" line="9" column="11" />
@@ -130,12 +123,11 @@
         <mark key="." line="85" column="8" />
         <mark key="^" line="85" column="8" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/storemanager/StatisticsService.java" timestamp="1561978175526">
-        <mark key="'" line="173" column="0" />
-        <mark key="[" line="62" column="35" />
-        <mark key="]" line="62" column="46" />
-        <mark key="." line="62" column="46" />
-        <mark key="^" line="62" column="46" />
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/storemanager/StatisticsService.java" timestamp="1561980105365">
+        <mark key="'" line="172" column="0" />
+        <mark key="]" line="173" column="1" />
+        <mark key="^" line="173" column="1" />
+        <mark key="." line="173" column="1" />
       </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/sf-data-provider/src/main/java/com/moodys/sav/data/dao/PortfoliosDao.java" timestamp="1560403546486" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/org/w3c/dom/Document.java" timestamp="1560322393799" />
@@ -164,9 +156,9 @@
         <mark key="^" line="1328" column="47" />
         <mark key="." line="1328" column="47" />
       </file>
-      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/schedule/StandardRateSyncTask.java" timestamp="1560324469416">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="10" />
+      <file name="$USER_HOME$/gitBucket/membersystem/WechatAppApi/src/main/java/com/uf/wechat/miniapp/util/HttpsUtil.java" timestamp="1561979962696">
+        <mark key="'" line="100" column="16" />
+        <mark key="[" line="55" column="0" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/cache/CacheService.java" timestamp="1559705517531">
         <mark key="[" line="6" column="19" />
@@ -193,20 +185,12 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="9" column="31" />
       </file>
-      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-supervisory/src/main/java/com/moodys/sav/sfs/supervisory/monitor/ClusterMonitor.java" timestamp="1561025759740">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="87" />
-      </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/nio/MappedByteBuffer.java" timestamp="1561543778461" />
       <file name="$USER_HOME$/gitBucket/membersystem/PlatformService/src/main/java/com/uf/member/platform/restful/bean/WechatUserStoreInfo.java" timestamp="1561968987602">
         <mark key="[" line="5" column="31" />
         <mark key="]" line="2" column="12" />
         <mark key="." line="2" column="12" />
         <mark key="^" line="2" column="12" />
-      </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/CustomerRechargeCard.java" timestamp="1561528322211">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="7" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/nio/charset/Charset.java" timestamp="1561109186921" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/lang/String.java" timestamp="1561361546597" />
@@ -229,7 +213,7 @@
         <mark key="." line="30" column="36" />
         <mark key="^" line="30" column="36" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/PlatformService/src/main/resources/application-dev.properties" timestamp="1561970890052">
+      <file name="$USER_HOME$/gitBucket/membersystem/PlatformService/src/main/resources/application-dev.properties" timestamp="1561981433545">
         <mark key="[" line="3" column="72" />
         <mark key="]" line="3" column="72" />
         <mark key="^" line="3" column="73" />
@@ -306,11 +290,11 @@
         <mark key="." line="64" column="25" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/net/URI.java" timestamp="1561959288833" />
-      <file name="$USER_HOME$/gitBucket/membersystem/PlatformService/src/main/java/com/uf/member/platform/dao/mysql/WechatUserToStoreRepo.java" timestamp="1561714905837">
-        <mark key="[" line="9" column="73" />
-        <mark key="]" line="9" column="76" />
-        <mark key="^" line="9" column="76" />
-        <mark key="." line="9" column="76" />
+      <file name="$USER_HOME$/gitBucket/membersystem/PlatformService/src/main/java/com/uf/member/platform/dao/mysql/WechatUserToStoreRepo.java" timestamp="1561980405813">
+        <mark key="[" line="13" column="73" />
+        <mark key="]" line="13" column="76" />
+        <mark key="^" line="13" column="76" />
+        <mark key="." line="13" column="76" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/PlatformService/src/main/java/com/uf/member/platform/component/SpringBeans.java" timestamp="1561948643453">
         <mark key="[" line="10" column="0" />
@@ -374,10 +358,6 @@
         <mark key="." line="38" column="40" />
         <mark key="^" line="38" column="40" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/component/SpringBeans.java" timestamp="1561952150778">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="14" />
-      </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/Test.java" timestamp="1559286053957">
         <mark key="[" line="45" column="13" />
         <mark key="]" line="46" column="32" />
@@ -389,10 +369,10 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561978799373">
+      <file name="/Dummy.txt" timestamp="1561982117393">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/GetInfoService.java" timestamp="1561533266300">
         <mark key="[" line="179" column="0" />
@@ -438,7 +418,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/PlatformService/src/main/java/com/uf/member/platform/dao/mysql/entity/WechatUserToStore.java" timestamp="1561948255190">
+      <file name="$USER_HOME$/gitBucket/membersystem/PlatformService/src/main/java/com/uf/member/platform/dao/mysql/entity/WechatUserToStore.java" timestamp="1561980359744">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="7" />
         <mark key="^" line="32" column="33" />
@@ -452,11 +432,11 @@
         <mark key="." line="34" column="20" />
       </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/sf-data-provider/src/main/java/com/moodys/sav/data/dao/impl/postgresql/UserDaoImpl.java" timestamp="1560404822805" />
-      <file name="$USER_HOME$/gitBucket/membersystem/PlatformService/src/main/java/com/uf/member/platform/dao/mysql/StoreInfoRepo.java" timestamp="1561702445701">
-        <mark key="[" line="5" column="7" />
-        <mark key="]" line="5" column="38" />
-        <mark key="^" line="5" column="38" />
-        <mark key="." line="5" column="38" />
+      <file name="$USER_HOME$/gitBucket/membersystem/PlatformService/src/main/java/com/uf/member/platform/dao/mysql/StoreInfoRepo.java" timestamp="1561980319948">
+        <mark key="[" line="5" column="53" />
+        <mark key="]" line="5" column="61" />
+        <mark key="^" line="5" column="61" />
+        <mark key="." line="5" column="61" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/storemanager/ResourceScheduleService.java" timestamp="1560920571372">
         <mark key="[" line="308" column="48" />
@@ -581,10 +561,6 @@
         <mark key="]" line="1419" column="0" />
         <mark key="^" line="1419" column="0" />
         <mark key="." line="1419" column="0" />
-      </file>
-      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-data-access/src/main/java/com/moodys/sav/sfs/data/dao/StormClusterInfoDao.java" timestamp="1561021930705">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="65" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.3.1/gson-2.3.1-sources.jar!/com/google/gson/JsonPrimitive.java" timestamp="1559638957825" />
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-output-interpreter/src/main/java/com/moodys/sav/sfs/output/bean/Average.java" timestamp="1561455688529">
@@ -716,7 +692,7 @@
         <mark key="^" line="12" column="3" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/CountCardInfo.java" timestamp="1561534632205" />
-      <file name="$USER_HOME$/gitBucket/membersystem/PlatformService/src/main/java/com/uf/member/platform/component/ScheduleBean.java" timestamp="1561976131858">
+      <file name="$USER_HOME$/gitBucket/membersystem/PlatformService/src/main/java/com/uf/member/platform/component/ScheduleBean.java" timestamp="1561980420776">
         <mark key="'" line="83" column="0" />
         <mark key="[" line="65" column="62" />
         <mark key="]" line="66" column="71" />
@@ -754,6 +730,7 @@
         <mark key="^" line="158" column="32" />
       </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-data-access/src/main/java/com/moodys/sav/sfs/data/bean/JobOutputErrorMenu.java" timestamp="1561446996575" />
+      <file name="/pom.xml" timestamp="1561980195930" />
       <file name="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/restful/controller/Test.java" timestamp="1559613379544">
         <mark key="[" line="12" column="31" />
         <mark key="]" line="13" column="34" />
@@ -870,13 +847,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Merge branches 'cardShare', 'master' and 'memberPlatform' of https://bitbucket.org/zzzjjss/membersystem into memberPlatform
-
-# Conflicts:
-#	MemberSystem/src/main/java/com/uf/member/service/AppointmentService.java</text>
+        <text encoding="base64">ClRoaXMgcmV2ZXJ0cyBjb21taXQgNDE2YTIzMWI=</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>WechatUserToStore</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdG9yZVJlcG9cPg==</text>
@@ -885,34 +859,34 @@
         <text encoding="base64">CUBBdXRvd2lyZWQK</text>
       </register>
       <register name="1" type="4">
+        <text encoding="base64">ClRoaXMgcmV2ZXJ0cyBjb21taXQgNDE2YTIzMWI=</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">PT09PT09PQpwYWNrYWdlIGNvbS51Zi5tZW1iZXIuc2VydmljZS5zdG9yZW1hbmFnZXI7CgppbXBvcnQgamF2YS5tYXRoLkJpZ0ludGVnZXI7CmltcG9ydCBqYXZhLnRleHQuRGVjaW1hbEZvcm1hdDsKaW1wb3J0IGphdmEudGV4dC5QYXJzZUV4Y2VwdGlvbjsKaW1wb3J0IGphdmEudGV4dC5TaW1wbGVEYXRlRm9ybWF0OwppbXBvcnQgamF2YS51dGlsLkFycmF5TGlzdDsKaW1wb3J0IGphdmEudXRpbC5EYXRlOwppbXBvcnQgamF2YS51dGlsLkxpc3Q7CgppbXBvcnQgamF2YXgudHJhbnNhY3Rpb24uVHJhbnNhY3Rpb25hbDsKCmltcG9ydCBvcmcuYXBhY2hlLmNvbW1vbnMubG9nZ2luZy5Mb2c7CmltcG9ydCBvcmcuYXBhY2hlLmNvbW1vbnMubG9nZ2luZy5Mb2dGYWN0b3J5OwppbXBvcnQgb3JnLnNwcmluZ2ZyYW1ld29yay5iZWFucy5mYWN0b3J5LmFubm90YXRpb24uQXV0b3dpcmVkOwppbXBvcnQgb3JnLnNwcmluZ2ZyYW1ld29yay5zdGVyZW90eXBlLlNlcnZpY2U7CgppbXBvcnQgY29tLnVmLm1lbWJlci5kYW8ubXlzcWwuQ3VzdG9tZXJDb3VudENhcmRSZXBvOwppbXBvcnQgY29tLnVmLm1lbWJlci5kYW8ubXlzcWwuQ3VzdG9tZXJSZWNoYXJnZUNhcmRSZXBvOwppbXBvcnQgY29tLnVmLm1lbWJlci5kYW8ubXlzcWwuQ3VzdG9tZXJSZXBvOwppbXBvcnQgY29tLnVmLm1lbWJlci5kYW8ubXlzcWwuT3BlbkNvdW50Q2FyZFJlY29yZFJlcG87CmltcG9ydCBjb20udWYubWVtYmVyLmRhby5teXNxbC5SZWNoYXJnZVJlY29yZFJlcG87CmltcG9ydCBjb20udWYubWVtYmVyLmRhby5teXNxbC5lbnRpdHkuT3BlbkNvdW50Q2FyZFJlY29yZDsKaW1wb3J0IGNvbS51Zi5tZW1iZXIuZGFvLm15c3FsLmVudGl0eS5SZWNoYXJnZVJlY29yZDsKaW1wb3J0IGNvbS51Zi5tZW1iZXIucmVzdGZ1bC5iZWFuLnN0b3JlbWFuYWdlci5DdXN0b21lclN0YXRpc3RpY0luZm87CmltcG9ydCBjb20udWYubWVtYmVyLnNlcnZpY2Uuc3RvcmVtYW5hZ2VyLmJlYW4uQ291bnRDYXJkU3RhdGlzdGljczsKaW1wb3J0IGNvbS51Zi5tZW1iZXIuc2VydmljZS5zdG9yZW1hbmFnZXIuYmVhbi5EYWlseUJpbGw7CgpAU2VydmljZQpAVHJhbnNhY3Rpb25hbApwdWJsaWMgY2xhc3MgU3RhdGlzdGljc1NlcnZpY2UgewoJcHJpdmF0ZSBMb2cgbG9nZ2VyID0gTG9nRmFjdG9yeS5nZXRMb2coU3RhdGlzdGljc1NlcnZpY2UuY2xhc3MpOwoJcHJpdmF0ZSBTaW1wbGVEYXRlRm9ybWF0IGZvcm1hdCA9IG5ldyBTaW1wbGVEYXRlRm9ybWF0KCJ5eXl5LU1NLWRkIEhIOm1tOnNzIik7Cglwcml2YXRlIFNpbXBsZURhdGVGb3JtYXQgY2hpbmVzZURhdGVGb3JtYXQgPSBuZXcgU2ltcGxlRGF0ZUZvcm1hdCgieXl5eeW5tE1N5pyIZGTml6UgSEg6bW0iKTsKCUBBdXRvd2lyZWQKCXByaXZhdGUgQ3VzdG9tZXJSZWNoYXJnZUNhcmRSZXBvIGN1c3RvbWVyUmVjaGFyZ2VDYXJkUmVwbzsKCUBBdXRvd2lyZWQKCXByaXZhdGUgQ3VzdG9tZXJDb3VudENhcmRSZXBvIGN1c3RvbWVyQ291bnRDYXJkUmVwbzsKCUBBdXRvd2lyZWQKCXByaXZhdGUgUmVjaGFyZ2VSZWNvcmRSZXBvIHJlY2hhcmdlUmVjb3JkUmVwOwoJQEF1dG93aXJlZAoJcHJpdmF0ZSBPcGVuQ291bnRDYXJkUmVjb3JkUmVwbyBvcGVuQ291bnRDYXJkUmVjb3JkUmVwbzsKCUBBdXRvd2lyZWQKCXByaXZhdGUgQ3VzdG9tZXJSZXBvIGN1c3RvbWVyUmVwbzsKCXByaXZhdGUgRGVjaW1hbEZvcm1hdCBkZWNpbWFsRm9ybWF0ID0gbmV3IERlY2ltYWxGb3JtYXQoIiMsIyMjLCMjMC4wMCIpOwoKCXB1YmxpYyBEb3VibGUgc3VtUmVjaGFyZ2VDYXJkQmFsYW5jZSgpIHsKCQlyZXR1cm4gY3VzdG9tZXJSZWNoYXJnZUNhcmRSZXBvLnN1bUJhbGFuY2UoKTsKCX0KCXB1YmxpYyBsb25nIGNvdW50Q3VzdG9tZXIoKSB7CgkJcmV0dXJuIGN1c3RvbWVyUmVwby5jb3VudCgpOwoJfQoKCXB1YmxpYyBMaXN0PEN1c3RvbWVyU3RhdGlzdGljSW5mbz4gc2VhcmNoQ3VzdG9tZXJTdGF0aXN0aWNJbmZvKFN0cmluZyBjYXJkTnVtYmVyKSB7CgkJTGlzdDxDdXN0b21lclN0YXRpc3RpY0luZm8+IHJlc3VsdCA9IG5ldyBBcnJheUxpc3Q8PigpOwoJCUxpc3Q8T2JqZWN0W10+IHN0YXRpc3RpY3MgPSBjdXN0b21lclJlcG8uc2VhcmNoQ3VzdG9tZXJTdGF0aXN0aWMoIiUiK2NhcmROdW1iZXIrIiUiKTsKCQlpZiAoc3RhdGlzdGljcyAhPSBudWxsKSB7CgkJCXN0YXRpc3RpY3MuZm9yRWFjaChzIC0+IHsKCQkJCUN1c3RvbWVyU3RhdGlzdGljSW5mbyBpbmZvID0gbmV3IEN1c3RvbWVyU3RhdGlzdGljSW5mbygpOwoJCQkJaW5mby5zZXROYW1lKHNbMF09PW51bGw/IiI6KFN0cmluZykgc1swXSk7CgkJCQlpbmZvLnNldENhcmROdW1iZXIoc1sxXT09bnVsbD8iIjooU3RyaW5nKSBzWzFdKTsKCQkJCWluZm8uc2V0QmFsYW5jZShzWzJdPT1udWxsPyIwLjAwIjpkZWNpbWFsRm9ybWF0LmZvcm1hdCgoRmxvYXQpIHNbMl0pKTsKCQkJCWludCB2YWxpZENhcmRDb3VudD0wOwoJCQkJaWYgKHNbNF0hPW51bGwpIHsKCQkJCQl2YWxpZENhcmRDb3VudD1zWzNdPT1udWxsPzA6KChCaWdJbnRlZ2VyKSBzWzNdKS5pbnRWYWx1ZSgpOwkKCQkJCX0KCQkJCWluZm8uc2V0VmFsaWRDYXJkQ291bnQoU3RyaW5nLnZhbHVlT2YodmFsaWRDYXJkQ291bnQpKTsKCQkJCWluZm8uc2V0VG90YWxQYXlNb25leShkZWNpbWFsRm9ybWF0LmZvcm1hdChzWzVdPT1udWxsPzAuMGY6KEZsb2F0KXNbNV0pKTsKCQkJCWluZm8uc2V0UGhvbmVOdW1iZXIoc1s2XT09bnVsbD8iIjooU3RyaW5nKXNbNl0pOwoJCQkJcmVzdWx0LmFkZChpbmZvKTsKCQkJfSk7CgkJfQoJCXJldHVybiByZXN1bHQ7Cgl9CglwdWJsaWMgTGlzdDxDdXN0b21lclN0YXRpc3RpY0luZm8+IGdldFBhZ2VkQ3VzdG9tZXJTdGF0aXN0aWNJbmZvKGludCBwYWdlSW5kZXgsIGludCBwYWdlU2l6ZSkgewoJCUxpc3Q8Q3VzdG9tZXJTdGF0aXN0aWNJbmZvPiByZXN1bHQgPSBuZXcgQXJyYXlMaXN0PD4oKTsKCQlpbnQgc3RhcnRJbmRleCA9IHBhZ2VJbmRleCAqIHBhZ2VTaXplOwoJCUxpc3Q8T2JqZWN0W10+IHN0YXRpc3RpY3MgPSBjdXN0b21lclJlcG8uY3VzdG9tZXJTdGF0aXN0aWMoc3RhcnRJbmRleCwgcGFnZVNpemUpOwoJCWlmIChzdGF0aXN0aWNzICE9IG51bGwpIHsKCQkJc3RhdGlzdGljcy5mb3JFYWNoKHMgLT4gewoJCQkJQ3VzdG9tZXJTdGF0aXN0aWNJbmZvIGluZm8gPSBuZXcgQ3VzdG9tZXJTdGF0aXN0aWNJbmZvKCk7CgkJCQlpbmZvLnNldE5hbWUoc1swXT09bnVsbD8iIjooU3RyaW5nKSBzWzBdKTsKCQkJCWluZm8uc2V0Q2FyZE51bWJlcihzWzFdPT1udWxsPyIiOihTdHJpbmcpIHNbMV0pOwoJCQkJaW5mby5zZXRCYWxhbmNlKHNbMl09PW51bGw/IjAuMDAiOmRlY2ltYWxGb3JtYXQuZm9ybWF0KChGbG9hdCkgc1syXSkpOwoJCQkJaW50IHZhbGlkQ2FyZENvdW50PTA7CgkJCQlpZiAoc1s0XSE9bnVsbCkgewoJCQkJCXZhbGlkQ2FyZENvdW50PXNbM109PW51bGw/MDooKEJpZ0ludGVnZXIpIHNbM10pLmludFZhbHVlKCk7CQoJCQkJfQoJCQkJaW5mby5zZXRWYWxpZENhcmRDb3VudChTdHJpbmcudmFsdWVPZih2YWxpZENhcmRDb3VudCkpOwoJCQkJaW5mby5zZXRUb3RhbFBheU1vbmV5KGRlY2ltYWxGb3JtYXQuZm9ybWF0KHNbNV09PW51bGw/MC4wZjooRmxvYXQpc1s1XSkpOwoJCQkJaW5mby5zZXRQaG9uZU51bWJlcihzWzZdPT1udWxsPyIiOihTdHJpbmcpc1s2XSk7CgkJCQlyZXN1bHQuYWRkKGluZm8pOwoJCQl9KTsKCQl9CgkJcmV0dXJuIHJlc3VsdDsKCX0KCglwdWJsaWMgQ291bnRDYXJkU3RhdGlzdGljcyBnZXRDb3VudENhcmRTdGF0aXN0aWNzKGxvbmcgY291bnRDYXJkRGVmaW5pdGlvbklkKSB7CgkJQ291bnRDYXJkU3RhdGlzdGljcyBzdGF0aXN0aWNzID0gbmV3IENvdW50Q2FyZFN0YXRpc3RpY3MoKTsKCQlzdGF0aXN0aWNzLnNldE5vQ29uc3VtZUZpbmlzaGVkQ2FyZHMoY3VzdG9tZXJDb3VudENhcmRSZXBvLmNvdW50VW5jb25zdW1lRmluaXNoZWRDdXN0b21lckNvdW50Q2FyZChjb3VudENhcmREZWZpbml0aW9uSWQpKTsKCQlMb25nIHRvdGFsTm9Db25zdW1lQ291bnQgPSBjdXN0b21lckNvdW50Q2FyZFJlcG8uc3VtQ291bnRDYXJkVW51c2VkQ291bnQoY291bnRDYXJkRGVmaW5pdGlvbklkKTsKCQlzdGF0aXN0aWNzLnNldFRvdGFsTm9Db25zdW1lQ291bnQodG90YWxOb0NvbnN1bWVDb3VudCA9PSBudWxsID8gMEwgOiB0b3RhbE5vQ29uc3VtZUNvdW50KTsKCQlzdGF0aXN0aWNzLnNldFRvdGFsU2VsbGVkKGN1c3RvbWVyQ291bnRDYXJkUmVwby5jb3VudEN1c3RvbWVyQ291bnRDYXJkKGNvdW50Q2FyZERlZmluaXRpb25JZCkpOwoJCXJldHVybiBzdGF0aXN0aWNzOwoJfQoKCXB1YmxpYyBEYWlseUJpbGwgZ2V0RGFpbHlCaWxsKFN0cmluZyBkYXRlKSB7CgkJRGFpbHlCaWxsIGJpbGwgPSBuZXcgRGFpbHlCaWxsKCk7CgkJdHJ5IHsKCQkJRGF0ZSBmcm9tID0gZm9ybWF0LnBhcnNlKGRhdGUgKyAiIDAwOjAwOjAwIik7CgkJCURhdGUgZW5kID0gZm9ybWF0LnBhcnNlKGRhdGUgKyAiIDIzOjU5OjU5Iik7CgkJCWJpbGwuc2V0QmlsbERhdGUoZGF0ZSk7CgkJCUxpc3Q8T3BlbkNvdW50Q2FyZFJlY29yZD4gb3BlbkNvdW50Q2FyZFJlY29yZHMgPSBvcGVuQ291bnRDYXJkUmVjb3JkUmVwby5maW5kUmVjb3Jkcyhmcm9tLCBlbmQpOwoJCQliaWxsLnNldEJ1eUNvdW50Q2FyZFJlY29yZHMob3BlbkNvdW50Q2FyZFJlY29yZHNUb1N0cmluZ3Mob3BlbkNvdW50Q2FyZFJlY29yZHMpKTsKCQkJTGlzdDxSZWNoYXJnZVJlY29yZD4gcmVjaGFyZ2VzID0gcmVjaGFyZ2VSZWNvcmRSZXAuZmluZFJlY29yZHMoZnJvbSwgZW5kKTsKCQkJYmlsbC5zZXRSZWNoYXJnZVJlY29yZHMocmVjaGFyZ2VSZWNvcmRzVG9TdHJpbmdzKHJlY2hhcmdlcykpOwoJCQlmbG9hdCBjb3VudENhcmRJbmNvbWUgPSBnZXRWYWx1ZShvcGVuQ291bnRDYXJkUmVjb3JkUmVwby5zdW1SZWFsbHlQYXlNb25leShmcm9tLCBlbmQpKTsKCQkJYmlsbC5zZXRUb3RhbENvdW50Q2FyZE1vbmV5SW5jb21lKGNvdW50Q2FyZEluY29tZSk7CgkJCWZsb2F0IHN1bVJlY2hhcmdlID0gZ2V0VmFsdWUocmVjaGFyZ2VSZWNvcmRSZXAuc3VtUmVjaGFyZ2UoZnJvbSwgZW5kKSk7CgkJCWJpbGwuc2V0VG90YWxSZWNoYXJnZShzdW1SZWNoYXJnZSk7CgkJCWZsb2F0IHJlY2hhcmdlQ2FyZEluY29tZSA9IGdldFZhbHVlKHJlY2hhcmdlUmVjb3JkUmVwLnN1bVJlYWxseVBheU1vbmV5KGZyb20sIGVuZCkpOwoJCQliaWxsLnNldFRvdGFsUmVjaGFyZ2VDYXJkTW9uZXlJbmNvbWUocmVjaGFyZ2VDYXJkSW5jb21lKTsKCQkJYmlsbC5zZXRUb3RhbE1vbmV5SW5jb21lKHJlY2hhcmdlQ2FyZEluY29tZSArIGNvdW50Q2FyZEluY29tZSk7CgkJfSBjYXRjaCAoUGFyc2VFeGNlcHRpb24gZSkgewoJCQlsb2dnZXIuZXJyb3IoIiIsIGUpOwoJCX0KCQlyZXR1cm4gYmlsbDsKCX0KCglwcml2YXRlIExpc3Q8U3RyaW5nPiByZWNoYXJnZVJlY29yZHNUb1N0cmluZ3MoTGlzdDxSZWNoYXJnZVJlY29yZD4gcmVjb3JkcykgewoJCUxpc3Q8U3RyaW5nPiByZXN1bHQgPSBuZXcgQXJyYXlMaXN0PD4oKTsKCQlpZiAocmVjb3JkcyAhPSBudWxsKSB7CgkJCXJlY29yZHMuZm9yRWFjaChyIC0+IHsKCQkJCXJlc3VsdC5hZGQoIuS8muWRmCjnvJblj7fvvJoiICsgci5nZXRNZW1iZXJOdW1iZXIoKSArICIp5LqOIiArIGNoaW5lc2VEYXRlRm9ybWF0LmZvcm1hdChyLmdldFJlY2hhcmdlVGltZSgpKSArICLlhYXlgLwiCgkJCQkJCSsgci5nZXRSZWNoYXJnZU1vbmV5KCkgKyAi77yM5a6e5LuY6YeR6aKd77yaIiArIHIuZ2V0UmVhbGx5UGF5TW9uZXkoKSArICLlhYMiKTsKCQkJfSk7CgkJfQoJCXJldHVybiByZXN1bHQ7Cgl9CgoJcHJpdmF0ZSBMaXN0PFN0cmluZz4gb3BlbkNvdW50Q2FyZFJlY29yZHNUb1N0cmluZ3MoTGlzdDxPcGVuQ291bnRDYXJkUmVjb3JkPiByZWNvcmRzKSB7CgkJTGlzdDxTdHJpbmc+IHJlc3VsdCA9IG5ldyBBcnJheUxpc3Q8PigpOwoJCWlmIChyZWNvcmRzICE9IG51bGwpIHsKCQkJcmVjb3Jkcy5mb3JFYWNoKHIgLT4gewoJCQkJcmVzdWx0LmFkZCgi5Lya5ZGY5Y+3KOe8luWPt++8miIgKyByLmdldE1lbWJlck51bWJlcigpICsgIinkuo4iICsgY2hpbmVzZURhdGVGb3JtYXQuZm9ybWF0KHIuZ2V0QnV5VGltZSgpKQoJCQkJCQkrICLlvIDljaHkuIDlvKDvvIjljaHlkI3vvJoiICsgci5nZXRDb3VudENhcmROYW1lKCkgKyAi77yJ77yM5a6e5LuY6YeR6aKd77yaIiArIHIuZ2V0UmVhbGx5UGF5TW9uZXkoKSArICLlhYMiKTsKCQkJfSk7CgkJfQoJCXJldHVybiByZXN1bHQ7Cgl9CgoJcHJpdmF0ZSBmbG9hdCBnZXRWYWx1ZShGbG9hdCB2YWx1ZSkgewoJCWlmICh2YWx1ZSA9PSBudWxsKSB7CgkJCXJldHVybiAwZjsKCQl9IGVsc2UgewoJCQlyZXR1cm4gdmFsdWU7CgkJfQoJfQp9Cj4+Pj4+Pj4gcGFyZW50IG9mIDQxNmEyMzEuLi4gZ2V0IHdlY2hhdHVzZXIgZnJvbSBzdG9yZSBzZXJ2aWNl</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+      </register>
+      <register name="4" type="4">
         <text>Merge branches 'cardShare', 'master' and 'memberPlatform' of https://bitbucket.org/zzzjjss/membersystem into memberPlatform
 
 # Conflicts:
 #	MemberSystem/src/main/java/com/uf/member/service/AppointmentService.java</text>
       </register>
-      <register name="2" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcHJvcHMuY2xlYXIoKTsK</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">c3ByaW5nLnByb2ZpbGVzLmFjdGl2ZT1kZXYK</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Iy1Ec3ByaW5nLnByb2ZpbGVzLmFjdGl2ZT1wcm9kCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQkJCXN0b3JlUmVwby5zYXZlKHN0b3JlKTsK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CUBBdXRvd2lyZWQK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">QENvbXBvbmVudAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS51Zi53ZWNoYXQubWluaWFwcC5XZWNoYXRBcGk7Cg==</text>
+        <text encoding="base64">CUBBdXRvd2lyZWQK</text>
       </register>
       <register name=":" type="4">
         <text>map</text>
