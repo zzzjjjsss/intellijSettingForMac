@@ -389,7 +389,7 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561967344566">
+      <file name="/Dummy.txt" timestamp="1561978799373">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -646,12 +646,6 @@
         <mark key="." line="6" column="64" />
         <mark key="^" line="6" column="64" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/cache/EhcacheService.java" timestamp="1561538205443">
-        <mark key="[" line="111" column="16" />
-        <mark key="]" line="117" column="21" />
-        <mark key="." line="117" column="21" />
-        <mark key="^" line="117" column="21" />
-      </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/utils/s3Tool/pom.xml" timestamp="1559635595522">
         <mark key="[" line="26" column="50" />
         <mark key="]" line="26" column="57" />
@@ -876,7 +870,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>Merge branches 'cardShare', 'master' and 'memberPlatform' of https://bitbucket.org/zzzjjss/membersystem into memberPlatform
+
+# Conflicts:
+#	MemberSystem/src/main/java/com/uf/member/service/AppointmentService.java</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -887,32 +884,35 @@
       <register name="0" type="2">
         <text encoding="base64">CUBBdXRvd2lyZWQK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJvcHMuY2xlYXIoKTsK</text>
+      <register name="1" type="4">
+        <text>Merge branches 'cardShare', 'master' and 'memberPlatform' of https://bitbucket.org/zzzjjss/membersystem into memberPlatform
+
+# Conflicts:
+#	MemberSystem/src/main/java/com/uf/member/service/AppointmentService.java</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c3ByaW5nLnByb2ZpbGVzLmFjdGl2ZT1kZXYK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJvcHMuY2xlYXIoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Iy1Ec3ByaW5nLnByb2ZpbGVzLmFjdGl2ZT1wcm9kCg==</text>
+        <text encoding="base64">c3ByaW5nLnByb2ZpbGVzLmFjdGl2ZT1kZXYK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCXN0b3JlUmVwby5zYXZlKHN0b3JlKTsK</text>
+        <text encoding="base64">Iy1Ec3ByaW5nLnByb2ZpbGVzLmFjdGl2ZT1wcm9kCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CUBBdXRvd2lyZWQK</text>
+        <text encoding="base64">CQkJCXN0b3JlUmVwby5zYXZlKHN0b3JlKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CUBBdXRvd2lyZWQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QENvbXBvbmVudAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS51Zi53ZWNoYXQubWluaWFwcC5XZWNoYXRBcGk7Cg==</text>
+        <text encoding="base64">QENvbXBvbmVudAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Pj4+Pj4+PiAubWVyZ2VfZmlsZV9uMXRRQUMK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS51Zi53ZWNoYXQubWluaWFwcC5XZWNoYXRBcGk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>map</text>
