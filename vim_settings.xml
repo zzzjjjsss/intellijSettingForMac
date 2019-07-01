@@ -52,10 +52,10 @@
         <mark key="." line="30" column="38" />
         <mark key="^" line="30" column="38" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/WechatUserRepo.java" timestamp="1561959743453">
-        <mark key="[" line="12" column="103" />
-        <mark key="]" line="12" column="48" />
-        <mark key="." line="12" column="48" />
+      <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/WechatUserRepo.java" timestamp="1561962385465">
+        <mark key="[" line="12" column="137" />
+        <mark key="]" line="12" column="137" />
+        <mark key="." line="12" column="137" />
         <mark key="^" line="12" column="48" />
       </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-supervisory/src/main/java/com/moodys/sav/sfs/supervisory/monitor/Ec2InstanceMonitor.java" timestamp="1561095434562">
@@ -894,10 +894,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>uri</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>uri</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbGl5dW5BcHBvaW50XD4=</text>
