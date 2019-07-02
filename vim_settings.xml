@@ -346,12 +346,12 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/WarDeploy/src/main/java/com/uf/member/filter/AuthenFilter.java" timestamp="1561964106866">
+      <file name="$USER_HOME$/gitBucket/membersystem/WarDeploy/src/main/java/com/uf/member/filter/AuthenFilter.java" timestamp="1562049803785">
         <mark key="'" line="155" column="0" />
-        <mark key="[" line="30" column="96" />
-        <mark key="]" line="82" column="8" />
-        <mark key="^" line="82" column="8" />
-        <mark key="." line="82" column="8" />
+        <mark key="[" line="26" column="97" />
+        <mark key="]" line="26" column="106" />
+        <mark key="^" line="26" column="106" />
+        <mark key="." line="26" column="106" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/RechargeCardShareItemRepo.java" timestamp="1561528479148">
         <mark key="[" line="4" column="72" />
@@ -615,7 +615,7 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562045141053">
+      <file name="/Dummy.txt" timestamp="1562050082127">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
@@ -805,10 +805,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJldHVybmQgCg==</text>
+        <text encoding="base64">Ly8JCWlmKCh1cmkuc3RhcnRzV2l0aCgiLyIrY29udGV4dFBhdGgrIi9hcGkvc3RvcmVtYW5hZ2VyIikmJnRva2VuUm9sZSE9Um9sZS5TVE9SRV9NQU5BR0VSKXx8KHVyaS5zdGFydHNXaXRoKCIvIitjb250ZXh0UGF0aCsiL2FwaS9jdXN0b21lciIpJiZ0b2tlblJvbGUhPVJvbGUuQ1VTVE9NRVIpCi8vCQkJCXx8KHVyaS5zdGFydHNXaXRoKCIvIitjb250ZXh0UGF0aCsiL2FkbWluIikmJnRva2VuUm9sZSE9Um9sZS5BRE1JTikpIHsKLy8JCQlwcmludEZvcmJpZGRlbihyZXNwb25zZSk7Ci8vCQl9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>document</text>
+        <text>u</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsaWNlbnNlRW5kRGF0ZVw+</text>
@@ -817,31 +817,31 @@
         <text>getStore()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybmQgCg==</text>
+        <text encoding="base64">Ly8JCWlmKCh1cmkuc3RhcnRzV2l0aCgiLyIrY29udGV4dFBhdGgrIi9hcGkvc3RvcmVtYW5hZ2VyIikmJnRva2VuUm9sZSE9Um9sZS5TVE9SRV9NQU5BR0VSKXx8KHVyaS5zdGFydHNXaXRoKCIvIitjb250ZXh0UGF0aCsiL2FwaS9jdXN0b21lciIpJiZ0b2tlblJvbGUhPVJvbGUuQ1VTVE9NRVIpCi8vCQkJCXx8KHVyaS5zdGFydHNXaXRoKCIvIitjb250ZXh0UGF0aCsiL2FkbWluIikmJnRva2VuUm9sZSE9Um9sZS5BRE1JTikpIHsKLy8JCQlwcmludEZvcmJpZGRlbihyZXNwb25zZSk7Ci8vCQl9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHJldHVybmQgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>map</text>
