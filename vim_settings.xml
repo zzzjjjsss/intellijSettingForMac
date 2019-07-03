@@ -175,6 +175,11 @@
         <mark key="^" line="11" column="19" />
         <mark key="." line="11" column="19" />
       </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/PlatformService/src/main/resources/application.properties" timestamp="1562121442929">
+        <mark key="[" line="5" column="27" />
+        <mark key="]" line="5" column="27" />
+        <mark key="." line="5" column="27" />
+      </file>
       <file name="$USER_HOME$/gitBucket/membersystem/PlatformService/src/main/resources/application-prod.properties" timestamp="1561628450598">
         <mark key="[" line="0" column="19" />
         <mark key="]" line="6" column="36" />
@@ -800,44 +805,44 @@
       <jump line="12" column="54" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/sf-cloud-provider/src/main/java/com/moodys/sav/cloud/CloudApiFactory.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8JCWlmKCh1cmkuc3RhcnRzV2l0aCgiLyIrY29udGV4dFBhdGgrIi9hcGkvc3RvcmVtYW5hZ2VyIikmJnRva2VuUm9sZSE9Um9sZS5TVE9SRV9NQU5BR0VSKXx8KHVyaS5zdGFydHNXaXRoKCIvIitjb250ZXh0UGF0aCsiL2FwaS9jdXN0b21lciIpJiZ0b2tlblJvbGUhPVJvbGUuQ1VTVE9NRVIpCi8vCQkJCXx8KHVyaS5zdGFydHNXaXRoKCIvIitjb250ZXh0UGF0aCsiL2FkbWluIikmJnRva2VuUm9sZSE9Um9sZS5BRE1JTikpIHsKLy8JCQlwcmludEZvcmJpZGRlbihyZXNwb25zZSk7Ci8vCQl9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>root</text>
       </register>
       <register name="-" type="4">
-        <text>u</text>
+        <text>root</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsaWNlbnNlRW5kRGF0ZVw+</text>
       </register>
-      <register name="0" type="4">
-        <text>getStore()</text>
+      <register name="0" type="2">
+        <text encoding="base64">ZGF0YXNvdXJjZS5hZGRyZXNzPWxvY2FsaG9zdDozMzA2Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8JCWlmKCh1cmkuc3RhcnRzV2l0aCgiLyIrY29udGV4dFBhdGgrIi9hcGkvc3RvcmVtYW5hZ2VyIikmJnRva2VuUm9sZSE9Um9sZS5TVE9SRV9NQU5BR0VSKXx8KHVyaS5zdGFydHNXaXRoKCIvIitjb250ZXh0UGF0aCsiL2FwaS9jdXN0b21lciIpJiZ0b2tlblJvbGUhPVJvbGUuQ1VTVE9NRVIpCi8vCQkJCXx8KHVyaS5zdGFydHNXaXRoKCIvIitjb250ZXh0UGF0aCsiL2FkbWluIikmJnRva2VuUm9sZSE9Um9sZS5BRE1JTikpIHsKLy8JCQlwcmludEZvcmJpZGRlbihyZXNwb25zZSk7Ci8vCQl9Cg==</text>
+        <text encoding="base64">ZGF0YXNvdXJjZS5hZGRyZXNzPWxvY2FsaG9zdDozMzA2Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybmQgCg==</text>
+        <text encoding="base64">Ly8JCWlmKCh1cmkuc3RhcnRzV2l0aCgiLyIrY29udGV4dFBhdGgrIi9hcGkvc3RvcmVtYW5hZ2VyIikmJnRva2VuUm9sZSE9Um9sZS5TVE9SRV9NQU5BR0VSKXx8KHVyaS5zdGFydHNXaXRoKCIvIitjb250ZXh0UGF0aCsiL2FwaS9jdXN0b21lciIpJiZ0b2tlblJvbGUhPVJvbGUuQ1VTVE9NRVIpCi8vCQkJCXx8KHVyaS5zdGFydHNXaXRoKCIvIitjb250ZXh0UGF0aCsiL2FkbWluIikmJnRva2VuUm9sZSE9Um9sZS5BRE1JTikpIHsKLy8JCQlwcmludEZvcmJpZGRlbihyZXNwb25zZSk7Ci8vCQl9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHJldHVybmQgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>map</text>
