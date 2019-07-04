@@ -374,6 +374,7 @@
         <mark key="." line="30" column="36" />
         <mark key="^" line="30" column="36" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.2/httpclient-4.5.2-sources.jar!/org/apache/http/client/protocol/HttpClientContext.java" timestamp="1562234637261" />
       <file name="$USER_HOME$/gitBucket/membersystem/PlatformService/src/main/resources/application-dev.properties" timestamp="1561981433545">
         <mark key="[" line="3" column="72" />
         <mark key="]" line="3" column="72" />
@@ -522,6 +523,9 @@
         <mark key="]" line="29" column="42" />
         <mark key="." line="29" column="42" />
         <mark key="^" line="29" column="42" />
+      </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/net/URI.java" timestamp="1562234963404">
+        <mark key="'" line="463" column="19" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/PlatformService/src/main/java/com/uf/member/dao/mysql/entity/PlatformWechatUser.java" timestamp="1561628838603">
         <mark key="[" line="12" column="3" />
@@ -713,7 +717,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="330" column="0" filename="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/util/HttpUtil.java" />
       <jump line="206" column="42" filename="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/util/ApiGatewayUtil.java" />
       <jump line="119" column="26" filename="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/util/ApiGatewayUtil.java" />
       <jump line="81" column="8" filename="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/util/ApiGatewayUtil.java" />
@@ -813,6 +816,7 @@
       <jump line="302" column="19" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/HttpDealSynchronizer.java" />
       <jump line="418" column="57" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/HttpDealSynchronizer.java" />
       <jump line="346" column="33" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/HttpDealSynchronizer.java" />
+      <jump line="463" column="19" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/net/URI.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
