@@ -263,7 +263,6 @@
         <mark key="^" line="12" column="24" />
         <mark key="." line="12" column="24" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/Store.java" timestamp="1562037953384" />
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/cache/CacheService.java" timestamp="1559705517531">
         <mark key="[" line="6" column="19" />
         <mark key="]" line="6" column="28" />
@@ -400,7 +399,6 @@
         <mark key="." line="6" column="64" />
         <mark key="^" line="6" column="64" />
       </file>
-      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/controller/DealSyncController.java" timestamp="1562148274056" />
       <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/StoreManager.java" timestamp="1559724620068">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="32" column="36" />
@@ -613,6 +611,9 @@
         <mark key="]" line="46" column="32" />
         <mark key="." line="46" column="32" />
         <mark key="^" line="46" column="32" />
+      </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/Gateway/src/main/java/test.sh" timestamp="1562234486062">
+        <mark key="[" line="0" column="19" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/ConfigKey.java" timestamp="1559560548637">
         <mark key="[" line="11" column="65" />
