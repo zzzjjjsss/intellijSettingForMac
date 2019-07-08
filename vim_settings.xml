@@ -61,11 +61,11 @@
         <mark key="^" line="34" column="49" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/resources/application.properties" timestamp="1562122108983">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="4" column="46" />
+      <file name="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/resources/application.properties" timestamp="1562554503494">
+        <mark key="[" line="5" column="20" />
+        <mark key="]" line="5" column="44" />
+        <mark key="." line="5" column="44" />
+        <mark key="^" line="5" column="44" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/PlatformService/src/main/java/com/uf/member/platform/restful/bean/WechatUserStoresResponse.java" timestamp="1561968121798">
         <mark key="[" line="6" column="67" />
@@ -87,12 +87,12 @@
         <mark key="." line="13" column="25" />
         <mark key="^" line="13" column="25" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/service/ApiGatewayUtil.java" timestamp="1561952212624">
-        <mark key="'" line="23" column="19" />
-        <mark key="[" line="24" column="12" />
-        <mark key="]" line="30" column="38" />
-        <mark key="." line="30" column="38" />
-        <mark key="^" line="30" column="38" />
+      <file name="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/service/ApiGatewayUtil.java" timestamp="1562555203597">
+        <mark key="'" line="329" column="0" />
+        <mark key="[" line="221" column="43" />
+        <mark key="]" line="233" column="51" />
+        <mark key="^" line="233" column="51" />
+        <mark key="." line="233" column="51" />
       </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/sf-data-provider/src/main/java/com/moodys/sav/data/dao/ReremicsDao.java" timestamp="1560404916418">
         <mark key="[" line="5" column="68" />
@@ -219,6 +219,7 @@
         <mark key="." line="44" column="78" />
         <mark key="^" line="44" column="78" />
       </file>
+      <file name="/ApiGatewayUtil.java" timestamp="1562555147678" />
       <file name="$USER_HOME$/gitBucket/membersystem/SpringBootDeploy/src/main/java/com/uf/member/filter/AuthenFilter.java" timestamp="1561964085055">
         <mark key="'" line="37" column="25" />
         <mark key="[" line="76" column="26" />
@@ -717,20 +718,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="206" column="42" filename="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/util/ApiGatewayUtil.java" />
-      <jump line="119" column="26" filename="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/util/ApiGatewayUtil.java" />
-      <jump line="81" column="8" filename="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/util/ApiGatewayUtil.java" />
-      <jump line="283" column="0" filename="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/util/ApiGatewayUtil.java" />
-      <jump line="43" column="38" filename="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/util/ApiGatewayUtil.java" />
-      <jump line="294" column="8" filename="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/util/ApiGatewayUtil.java" />
-      <jump line="269" column="12" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AccountService.java" />
-      <jump line="11" column="46" filename="$USER_HOME$/gitBucket/membersystem/WarDeploy/src/main/resources/application-prod.properties" />
-      <jump line="17" column="0" filename="$USER_HOME$/gitBucket/membersystem/WarDeploy/src/main/resources/application-prod.properties" />
-      <jump line="9" column="45" filename="$USER_HOME$/gitBucket/membersystem/SpringBootDeploy/src/main/resources/application-prod.properties" />
-      <jump line="15" column="0" filename="$USER_HOME$/gitBucket/membersystem/SpringBootDeploy/src/main/resources/application-prod.properties" />
-      <jump line="266" column="12" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AccountService.java" />
-      <jump line="324" column="0" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AccountService.java" />
-      <jump line="270" column="16" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AccountService.java" />
       <jump line="31" column="22" filename="$USER_HOME$/gitBucket/membersystem/WarDeploy/src/main/java/com/uf/member/filter/AuthenFilter.java" />
       <jump line="32" column="25" filename="$USER_HOME$/gitBucket/membersystem/WarDeploy/src/main/java/com/uf/member/filter/AuthenFilter.java" />
       <jump line="14" column="18" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/storemanager/StoreService.java" />
@@ -757,7 +744,6 @@
       <jump line="2" column="0" filename="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/service/ApiGatewayUtil.java" />
       <jump line="12" column="0" filename="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/service/ApiGatewayUtil.java" />
       <jump line="228" column="13" filename="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/service/ApiGatewayUtil.java" />
-      <jump line="326" column="0" filename="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/service/ApiGatewayUtil.java" />
       <jump line="247" column="70" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-supervisory/src/main/java/com/moodys/sav/sfs/supervisory/monitor/JobOutputZipMonitor.java" />
       <jump line="284" column="40" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-supervisory/src/main/java/com/moodys/sav/sfs/supervisory/monitor/JobOutputZipMonitor.java" />
       <jump line="264" column="39" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-supervisory/src/main/java/com/moodys/sav/sfs/supervisory/monitor/JobOutputZipMonitor.java" />
@@ -817,43 +803,58 @@
       <jump line="418" column="57" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/HttpDealSynchronizer.java" />
       <jump line="346" column="33" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/HttpDealSynchronizer.java" />
       <jump line="463" column="19" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/net/URI.java" />
+      <jump line="39" column="12" filename="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/service/ApiGatewayUtil.java" />
+      <jump line="40" column="8" filename="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/service/ApiGatewayUtil.java" />
+      <jump line="41" column="8" filename="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/service/ApiGatewayUtil.java" />
+      <jump line="42" column="8" filename="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/service/ApiGatewayUtil.java" />
+      <jump line="43" column="8" filename="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/service/ApiGatewayUtil.java" />
+      <jump line="44" column="8" filename="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/service/ApiGatewayUtil.java" />
+      <jump line="45" column="8" filename="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/service/ApiGatewayUtil.java" />
+      <jump line="46" column="8" filename="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/service/ApiGatewayUtil.java" />
+      <jump line="48" column="8" filename="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/service/ApiGatewayUtil.java" />
+      <jump line="49" column="8" filename="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/service/ApiGatewayUtil.java" />
+      <jump line="120" column="19" filename="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/service/ApiGatewayUtil.java" />
+      <jump line="198" column="0" filename="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/service/ApiGatewayUtil.java" />
+      <jump line="326" column="0" filename="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/service/ApiGatewayUtil.java" />
+      <jump line="219" column="50" filename="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/service/ApiGatewayUtil.java" />
+      <jump line="328" column="0" filename="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/service/ApiGatewayUtil.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>dealID</text>
+        <text>ANONYMOUS</text>
       </register>
       <register name="-" type="4">
-        <text>dealID</text>
+        <text>ANONYMOUS</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwYXJzZURlYWxEb2N1bWVudFw+</text>
+        <text encoding="base64">XDxkZXBsb3lBcGlcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGF0YXNvdXJjZS5hZGRyZXNzPXJtLXd6OXA2MzM4NWdnd2ZkNWg4Lm15c3FsLnJkcy5hbGl5dW5jcy5jb206MzMwNgo=</text>
+        <text encoding="base64">ICAgICAgICBwYXJhbWV0ZXJzLnB1dCgiQXV0aFR5cGUiLCAiQU5PTllNT1VTIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5lcnJvcigiIiwgZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJzaWduU3RyaW5nLS0tLT4iICsgc2lnblN0cmluZyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c3ByaW5nLnByb2ZpbGVzLmFjdGl2ZT1kZXYK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5lcnJvcigiIiwgZSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGF0YXNvdXJjZS5hZGRyZXNzPWxvY2FsaG9zdDozMzA2Cg==</text>
+        <text encoding="base64">c3ByaW5nLnByb2ZpbGVzLmFjdGl2ZT1kZXYK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8JCWlmKCh1cmkuc3RhcnRzV2l0aCgiLyIrY29udGV4dFBhdGgrIi9hcGkvc3RvcmVtYW5hZ2VyIikmJnRva2VuUm9sZSE9Um9sZS5TVE9SRV9NQU5BR0VSKXx8KHVyaS5zdGFydHNXaXRoKCIvIitjb250ZXh0UGF0aCsiL2FwaS9jdXN0b21lciIpJiZ0b2tlblJvbGUhPVJvbGUuQ1VTVE9NRVIpCi8vCQkJCXx8KHVyaS5zdGFydHNXaXRoKCIvIitjb250ZXh0UGF0aCsiL2FkbWluIikmJnRva2VuUm9sZSE9Um9sZS5BRE1JTikpIHsKLy8JCQlwcmludEZvcmJpZGRlbihyZXNwb25zZSk7Ci8vCQl9Cg==</text>
+        <text encoding="base64">ZGF0YXNvdXJjZS5hZGRyZXNzPWxvY2FsaG9zdDozMzA2Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybmQgCg==</text>
+        <text encoding="base64">Ly8JCWlmKCh1cmkuc3RhcnRzV2l0aCgiLyIrY29udGV4dFBhdGgrIi9hcGkvc3RvcmVtYW5hZ2VyIikmJnRva2VuUm9sZSE9Um9sZS5TVE9SRV9NQU5BR0VSKXx8KHVyaS5zdGFydHNXaXRoKCIvIitjb250ZXh0UGF0aCsiL2FwaS9jdXN0b21lciIpJiZ0b2tlblJvbGUhPVJvbGUuQ1VTVE9NRVIpCi8vCQkJCXx8KHVyaS5zdGFydHNXaXRoKCIvIitjb250ZXh0UGF0aCsiL2FkbWluIikmJnRva2VuUm9sZSE9Um9sZS5BRE1JTikpIHsKLy8JCQlwcmludEZvcmJpZGRlbihyZXNwb25zZSk7Ci8vCQl9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHJldHVybmQgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
@@ -863,18 +864,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwYXJzZURlYWxEb2N1bWVudFw+</last-search>
+      <last-search encoding="base64">XDxkZXBsb3lBcGlcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwYXJzZURlYWxEb2N1bWVudFw+</last-pattern>
+      <last-pattern encoding="base64">XDxkZXBsb3lBcGlcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZXNwb25zZVw+</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxMb2NhbERhdGVcPg==</entry>
-        <entry encoding="base64">XDxzdG9yZVw+</entry>
         <entry encoding="base64">XDxyZWxhdGVkVHJhbmNoZXNcPg==</entry>
         <entry encoding="base64">XDxFUlJPUl9EWU5BTUlDX1JBVElOR19DQVBcPg==</entry>
         <entry encoding="base64">XDxlcnJNc2dcPg==</entry>
@@ -893,6 +892,8 @@
         <entry encoding="base64">XDxsaWNlbnNlRW5kRGF0ZVw+</entry>
         <entry encoding="base64">XDxnZXRVcmxTdHJpbmdGcm9tUGFyYW1zTWFwXD4=</entry>
         <entry encoding="base64">XDxwYXJzZURlYWxEb2N1bWVudFw+</entry>
+        <entry encoding="base64">XDxwYXJhbWV0ZXJzXD4=</entry>
+        <entry encoding="base64">XDxkZXBsb3lBcGlcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>maps</entry>
