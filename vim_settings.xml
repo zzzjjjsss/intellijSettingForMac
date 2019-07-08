@@ -320,7 +320,14 @@
         <mark key="^" line="24" column="89" />
         <mark key="." line="24" column="89" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/WarDeploy/src/main/resources/application.properties" timestamp="1561976768710">
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/storemanager/SettingController.java" timestamp="1562568480762">
+        <mark key="'" line="24" column="18" />
+        <mark key="[" line="49" column="12" />
+        <mark key="]" line="49" column="50" />
+        <mark key="." line="49" column="50" />
+        <mark key="^" line="49" column="50" />
+      </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/WarDeploy/src/main/resources/application.properties" timestamp="1562568301030">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -610,6 +617,13 @@
         <mark key="." line="38" column="40" />
         <mark key="^" line="38" column="40" />
       </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/component/SpringBeans.java" timestamp="1562568265548" />
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/storemanager/CommonSettingResponse.java" timestamp="1562568492287">
+        <mark key="[" line="12" column="5" />
+        <mark key="]" line="14" column="36" />
+        <mark key="." line="14" column="36" />
+        <mark key="^" line="14" column="36" />
+      </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/Test.java" timestamp="1559286053957">
         <mark key="[" line="45" column="13" />
         <mark key="]" line="46" column="32" />
@@ -630,7 +644,7 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562566861520">
+      <file name="/Dummy.txt" timestamp="1562569034818">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
@@ -717,7 +731,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="12" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/storemanager/StoreService.java" />
       <jump line="18" column="12" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/storemanager/StoreService.java" />
       <jump line="29" column="14" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/storemanager/StoreService.java" />
       <jump line="30" column="74" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/storemanager/StoreService.java" />
@@ -817,55 +830,56 @@
       <jump line="231" column="17" filename="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/service/ApiGatewayUtil.java" />
       <jump line="329" column="0" filename="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/service/ApiGatewayUtil.java" />
       <jump line="35" column="19" filename="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/service/ApiGatewayUtil.java" />
+      <jump line="24" column="18" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/storemanager/SettingController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>.accessKeyId</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhcHBQb3J0XD4=</text>
+        <text encoding="base64">XDxjb250ZXh0TmFtZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBWYWx1ZSgiJHthbGl5dW4uZGVwbG95LnZwY0lkfSIpCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHN0b3JlTmFtZTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGFwcENvbnRleHROYW1lLnN0YXJ0c1dpdGgoInN0b3JlIikpewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3BvbnNlLnNldFN0b3JlQ29udGV4dCgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlsb2dnZXIuaW5mbygid2VjaGF0IHVzZXIgbG9naW4gc3VjISAiK3dlY2hhdFVzZXIudG9TdHJpbmcoKSk7Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlsb2dnZXIuaW5mbygidXNlciBsb2dpbiAgcmVzdWx0OiIrcmVzcG9uc2UudG9TdHJpbmcoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJzaWduU3RyaW5nLS0tLT4iICsgc2lnblN0cmluZyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5lcnJvcigiIiwgZSk7Cg==</text>
+        <text encoding="base64">CQlsb2dnZXIuaW5mbygid2VjaGF0IHVzZXIgbG9naW4gc3VjISAiK3dlY2hhdFVzZXIudG9TdHJpbmcoKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c3ByaW5nLnByb2ZpbGVzLmFjdGl2ZT1kZXYK</text>
+        <text encoding="base64">CQlsb2dnZXIuaW5mbygidXNlciBsb2dpbiAgcmVzdWx0OiIrcmVzcG9uc2UudG9TdHJpbmcoKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGF0YXNvdXJjZS5hZGRyZXNzPWxvY2FsaG9zdDozMzA2Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJzaWduU3RyaW5nLS0tLT4iICsgc2lnblN0cmluZyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>map</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhcHBQb3J0XD4=</last-search>
+      <last-search encoding="base64">XDxjb250ZXh0TmFtZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhcHBQb3J0XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxjb250ZXh0TmFtZVw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZXNwb25zZVw+</last-substitute>
       <last-dir>1</last-dir>
@@ -873,7 +887,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxFUlJPUl9EWU5BTUlDX1JBVElOR19DQVBcPg==</entry>
         <entry encoding="base64">XDxlcnJNc2dcPg==</entry>
         <entry encoding="base64">XDxzZW1pY29sb25cPg==</entry>
         <entry encoding="base64">XDxnZXRCYWxhbmNlXD4=</entry>
@@ -893,6 +906,7 @@
         <entry encoding="base64">XDxwYXJhbWV0ZXJzXD4=</entry>
         <entry encoding="base64">XDxkZXBsb3lBcGlcPg==</entry>
         <entry encoding="base64">XDxhcHBQb3J0XD4=</entry>
+        <entry encoding="base64">XDxjb250ZXh0TmFtZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>maps</entry>
