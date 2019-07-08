@@ -61,11 +61,11 @@
         <mark key="^" line="34" column="49" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/resources/application.properties" timestamp="1562554503494">
-        <mark key="[" line="5" column="20" />
-        <mark key="]" line="5" column="44" />
-        <mark key="." line="5" column="44" />
-        <mark key="^" line="5" column="44" />
+      <file name="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/resources/application.properties" timestamp="1562556169445">
+        <mark key="[" line="4" column="25" />
+        <mark key="]" line="4" column="46" />
+        <mark key="." line="4" column="46" />
+        <mark key="^" line="4" column="46" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/PlatformService/src/main/java/com/uf/member/platform/restful/bean/WechatUserStoresResponse.java" timestamp="1561968121798">
         <mark key="[" line="6" column="67" />
@@ -87,12 +87,12 @@
         <mark key="." line="13" column="25" />
         <mark key="^" line="13" column="25" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/service/ApiGatewayUtil.java" timestamp="1562555203597">
-        <mark key="'" line="329" column="0" />
-        <mark key="[" line="221" column="43" />
-        <mark key="]" line="233" column="51" />
-        <mark key="^" line="233" column="51" />
-        <mark key="." line="233" column="51" />
+      <file name="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/service/ApiGatewayUtil.java" timestamp="1562556208058">
+        <mark key="'" line="35" column="19" />
+        <mark key="[" line="233" column="38" />
+        <mark key="]" line="233" column="44" />
+        <mark key="^" line="233" column="44" />
+        <mark key="." line="233" column="44" />
       </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/sf-data-provider/src/main/java/com/moodys/sav/data/dao/ReremicsDao.java" timestamp="1560404916418">
         <mark key="[" line="5" column="68" />
@@ -631,7 +631,7 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562136255007">
+      <file name="/Dummy.txt" timestamp="1562556291691">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
@@ -718,9 +718,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="22" filename="$USER_HOME$/gitBucket/membersystem/WarDeploy/src/main/java/com/uf/member/filter/AuthenFilter.java" />
-      <jump line="32" column="25" filename="$USER_HOME$/gitBucket/membersystem/WarDeploy/src/main/java/com/uf/member/filter/AuthenFilter.java" />
-      <jump line="14" column="18" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/storemanager/StoreService.java" />
       <jump line="17" column="12" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/storemanager/StoreService.java" />
       <jump line="18" column="12" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/storemanager/StoreService.java" />
       <jump line="29" column="14" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/storemanager/StoreService.java" />
@@ -818,19 +815,22 @@
       <jump line="326" column="0" filename="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/service/ApiGatewayUtil.java" />
       <jump line="219" column="50" filename="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/service/ApiGatewayUtil.java" />
       <jump line="328" column="0" filename="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/service/ApiGatewayUtil.java" />
+      <jump line="231" column="17" filename="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/service/ApiGatewayUtil.java" />
+      <jump line="329" column="0" filename="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/service/ApiGatewayUtil.java" />
+      <jump line="35" column="19" filename="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/service/ApiGatewayUtil.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ANONYMOUS</text>
+        <text>&quot;8080&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>ANONYMOUS</text>
+        <text>&quot;8080&quot;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkZXBsb3lBcGlcPg==</text>
+        <text encoding="base64">XDxhcHBQb3J0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJhbWV0ZXJzLnB1dCgiQXV0aFR5cGUiLCAiQU5PTllNT1VTIik7Cg==</text>
+        <text encoding="base64">ICAgIEBWYWx1ZSgiJHthbGl5dW4uZGVwbG95LnZwY0lkfSIpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJzaWduU3RyaW5nLS0tLT4iICsgc2lnblN0cmluZyk7Cg==</text>
@@ -864,9 +864,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkZXBsb3lBcGlcPg==</last-search>
+      <last-search encoding="base64">XDxhcHBQb3J0XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkZXBsb3lBcGlcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxhcHBQb3J0XD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZXNwb25zZVw+</last-substitute>
       <last-dir>1</last-dir>
@@ -874,7 +874,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZWxhdGVkVHJhbmNoZXNcPg==</entry>
         <entry encoding="base64">XDxFUlJPUl9EWU5BTUlDX1JBVElOR19DQVBcPg==</entry>
         <entry encoding="base64">XDxlcnJNc2dcPg==</entry>
         <entry encoding="base64">XDxzZW1pY29sb25cPg==</entry>
@@ -894,6 +893,7 @@
         <entry encoding="base64">XDxwYXJzZURlYWxEb2N1bWVudFw+</entry>
         <entry encoding="base64">XDxwYXJhbWV0ZXJzXD4=</entry>
         <entry encoding="base64">XDxkZXBsb3lBcGlcPg==</entry>
+        <entry encoding="base64">XDxhcHBQb3J0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>maps</entry>
