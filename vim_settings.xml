@@ -107,11 +107,11 @@
       <file name="$USER_HOME$/gitBucket/membersystem/WarDeploy/pom.xml" timestamp="1562036141514">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/WarDeploy/src/main/resources/logback.xml" timestamp="1562658865461">
-        <mark key="[" line="3" column="50" />
-        <mark key="]" line="3" column="53" />
-        <mark key="." line="3" column="53" />
-        <mark key="^" line="3" column="53" />
+      <file name="$USER_HOME$/gitBucket/membersystem/WarDeploy/src/main/resources/logback.xml" timestamp="1562660596208">
+        <mark key="[" line="11" column="27" />
+        <mark key="]" line="10" column="26" />
+        <mark key="." line="10" column="26" />
+        <mark key="^" line="10" column="26" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/WechatUserRepo.java" timestamp="1561978184352">
         <mark key="[" line="12" column="66" />
@@ -845,10 +845,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>DEBUG</text>
+        <text>errorAppender</text>
       </register>
       <register name="-" type="4">
-        <text>DEBUG</text>
+        <text>errorAppender</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRJTG9nZ2VyRmFjdG9yeVw+</text>
@@ -857,31 +857,31 @@
         <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHN0b3JlTmFtZTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxpbmNsdWRlIHJlc291cmNlPSJvcmcvc3ByaW5nZnJhbWV3b3JrL2Jvb3QvbG9nZ2luZy9sb2diYWNrL2Jhc2UueG1sIi8+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIDxpbmNsdWRlIHJlc291cmNlPSJvcmcvc3ByaW5nZnJhbWV3b3JrL2Jvb3QvbG9nZ2luZy9sb2diYWNrL2Jhc2UueG1sIi8+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGFwcENvbnRleHROYW1lLnN0YXJ0c1dpdGgoInN0b3JlIikpewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3BvbnNlLnNldFN0b3JlQ29udGV4dCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGFwcENvbnRleHROYW1lLnN0YXJ0c1dpdGgoInN0b3JlIikpewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3BvbnNlLnNldFN0b3JlQ29udGV4dCgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlsb2dnZXIuaW5mbygid2VjaGF0IHVzZXIgbG9naW4gc3VjISAiK3dlY2hhdFVzZXIudG9TdHJpbmcoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlsb2dnZXIuaW5mbygidXNlciBsb2dpbiAgcmVzdWx0OiIrcmVzcG9uc2UudG9TdHJpbmcoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>map</text>
