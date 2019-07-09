@@ -42,11 +42,6 @@
   <action id="Diff.ShowDiff" />
   <action id="DirDiffMenu.SynchronizeDiff.All" />
   <action id="DuplicatesForm.SendToRight" />
-  <action id="EditSource">
-    <keyboard-shortcut first-keystroke="meta down" />
-    <keyboard-shortcut first-keystroke="f4" />
-    <keyboard-shortcut first-keystroke="shift enter" />
-  </action>
   <action id="EditorChooseLookupItemDot" />
   <action id="EditorCutLineEnd" />
   <action id="EditorDeleteToLineEnd">
@@ -85,7 +80,6 @@
     <keyboard-shortcut first-keystroke="ctrl semicolon" />
   </action>
   <action id="EditorSplitLine" />
-  <action id="EditorStartNewLine" />
   <action id="EditorStartNewLineBefore">
     <keyboard-shortcut first-keystroke="shift ctrl enter" />
   </action>
