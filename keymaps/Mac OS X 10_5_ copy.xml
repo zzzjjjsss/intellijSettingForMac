@@ -28,6 +28,10 @@
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="meta slash" />
   </action>
+  <action id="CollapseExpandableComponent">
+    <keyboard-shortcut first-keystroke="meta subtract" />
+    <keyboard-shortcut first-keystroke="meta minus" />
+  </action>
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="meta divide" />
     <keyboard-shortcut first-keystroke="ctrl slash" />
@@ -38,6 +42,11 @@
   <action id="Diff.ShowDiff" />
   <action id="DirDiffMenu.SynchronizeDiff.All" />
   <action id="DuplicatesForm.SendToRight" />
+  <action id="EditSource">
+    <keyboard-shortcut first-keystroke="meta down" />
+    <keyboard-shortcut first-keystroke="f4" />
+    <keyboard-shortcut first-keystroke="shift enter" />
+  </action>
   <action id="EditorChooseLookupItemDot" />
   <action id="EditorCutLineEnd" />
   <action id="EditorDeleteToLineEnd">
@@ -76,6 +85,7 @@
     <keyboard-shortcut first-keystroke="ctrl semicolon" />
   </action>
   <action id="EditorSplitLine" />
+  <action id="EditorStartNewLine" />
   <action id="EditorStartNewLineBefore">
     <keyboard-shortcut first-keystroke="shift ctrl enter" />
   </action>
@@ -86,6 +96,10 @@
   <action id="EditorUpWithSelection">
     <keyboard-shortcut first-keystroke="shift up" />
     <keyboard-shortcut first-keystroke="shift ctrl p" />
+  </action>
+  <action id="ExpandExpandableComponent">
+    <keyboard-shortcut first-keystroke="meta add" />
+    <keyboard-shortcut first-keystroke="meta equals" />
   </action>
   <action id="ExportToTextFile" />
   <action id="ExpressionTypeInfo" />
@@ -164,6 +178,7 @@
   <action id="MoveLineUp">
     <keyboard-shortcut first-keystroke="meta k" />
   </action>
+  <action id="OpenElementInNewWindow" />
   <action id="OptimizeImports">
     <keyboard-shortcut first-keystroke="shift ctrl o" />
   </action>
