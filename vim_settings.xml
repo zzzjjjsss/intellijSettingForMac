@@ -107,6 +107,12 @@
       <file name="$USER_HOME$/gitBucket/membersystem/WarDeploy/pom.xml" timestamp="1562036141514">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/WarDeploy/src/main/resources/logback.xml" timestamp="1562658865461">
+        <mark key="[" line="3" column="50" />
+        <mark key="]" line="3" column="53" />
+        <mark key="." line="3" column="53" />
+        <mark key="^" line="3" column="53" />
+      </file>
       <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/WechatUserRepo.java" timestamp="1561978184352">
         <mark key="[" line="12" column="66" />
         <mark key="]" line="12" column="66" />
@@ -154,7 +160,6 @@
         <mark key="." line="287" column="0" />
         <mark key="^" line="287" column="4" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-jcl/5.0.10.RELEASE/spring-jcl-5.0.10.RELEASE-sources.jar!/org/apache/commons/logging/LogFactory.java" timestamp="1562642974102" />
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/service/DealSyncService.java" timestamp="1560405278044">
         <mark key="[" line="9" column="38" />
         <mark key="]" line="9" column="104" />
@@ -223,7 +228,6 @@
         <mark key="." line="44" column="78" />
         <mark key="^" line="44" column="78" />
       </file>
-      <file name="/ApiGatewayUtil.java" timestamp="1562555147678" />
       <file name="$USER_HOME$/gitBucket/membersystem/SpringBootDeploy/src/main/java/com/uf/member/filter/AuthenFilter.java" timestamp="1561964085055">
         <mark key="'" line="37" column="25" />
         <mark key="[" line="76" column="26" />
@@ -389,7 +393,6 @@
         <mark key="." line="30" column="36" />
         <mark key="^" line="30" column="36" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.2/httpclient-4.5.2-sources.jar!/org/apache/http/client/protocol/HttpClientContext.java" timestamp="1562234637261" />
       <file name="$USER_HOME$/gitBucket/membersystem/PlatformService/src/main/resources/application-dev.properties" timestamp="1561981433545">
         <mark key="[" line="3" column="72" />
         <mark key="]" line="3" column="72" />
@@ -579,7 +582,6 @@
         <mark key="." line="15" column="60" />
         <mark key="^" line="15" column="60" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/slf4j/jcl-over-slf4j/1.7.25/jcl-over-slf4j-1.7.25-sources.jar!/org/apache/commons/logging/impl/SLF4JLogFactory.java" timestamp="1562640862740" />
       <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/RechargeCardShareItem.java" timestamp="1561528331467">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="7" />
@@ -626,7 +628,6 @@
         <mark key="." line="38" column="40" />
         <mark key="^" line="38" column="40" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/component/SpringBeans.java" timestamp="1562568265548" />
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/storemanager/CommonSettingResponse.java" timestamp="1562568492287">
         <mark key="[" line="12" column="5" />
         <mark key="]" line="14" column="36" />
@@ -699,6 +700,7 @@
         <mark key="." line="158" column="32" />
         <mark key="^" line="158" column="32" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/1.5.6.RELEASE/spring-boot-1.5.6.RELEASE-sources.jar!/org/springframework/boot/logging/LoggingApplicationListener.java" timestamp="1562658257664" />
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/utils/s3Tool/src/main/java/com/moodys/dynamodb/Main.java" timestamp="1559813599868">
         <mark key="'" line="11" column="35" />
         <mark key="[" line="17" column="46" />
@@ -842,11 +844,11 @@
       <jump line="406" column="33" filename="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25-sources.jar!/org/slf4j/LoggerFactory.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>DEBUG</text>
       </register>
       <register name="-" type="4">
-        <text>.accessKeyId</text>
+        <text>DEBUG</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRJTG9nZ2VyRmFjdG9yeVw+</text>
@@ -855,31 +857,31 @@
         <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHN0b3JlTmFtZTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGFwcENvbnRleHROYW1lLnN0YXJ0c1dpdGgoInN0b3JlIikpewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3BvbnNlLnNldFN0b3JlQ29udGV4dCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGFwcENvbnRleHROYW1lLnN0YXJ0c1dpdGgoInN0b3JlIikpewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3BvbnNlLnNldFN0b3JlQ29udGV4dCgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlsb2dnZXIuaW5mbygid2VjaGF0IHVzZXIgbG9naW4gc3VjISAiK3dlY2hhdFVzZXIudG9TdHJpbmcoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlsb2dnZXIuaW5mbygidXNlciBsb2dpbiAgcmVzdWx0OiIrcmVzcG9uc2UudG9TdHJpbmcoKSk7Cg==</text>
+        <text encoding="base64">CQlsb2dnZXIuaW5mbygid2VjaGF0IHVzZXIgbG9naW4gc3VjISAiK3dlY2hhdFVzZXIudG9TdHJpbmcoKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJzaWduU3RyaW5nLS0tLT4iICsgc2lnblN0cmluZyk7Cg==</text>
+        <text encoding="base64">CQlsb2dnZXIuaW5mbygidXNlciBsb2dpbiAgcmVzdWx0OiIrcmVzcG9uc2UudG9TdHJpbmcoKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>map</text>
