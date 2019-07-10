@@ -78,7 +78,7 @@
         <mark key="." line="233" column="44" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/1.5.6.RELEASE/spring-boot-1.5.6.RELEASE-sources.jar!/org/springframework/boot/logging/logback/file-appender.xml" timestamp="1562660942522" />
-      <file name="$USER_HOME$/gitBucket/membersystem/WarDeploy/pom.xml" timestamp="1562036141514">
+      <file name="$USER_HOME$/gitBucket/membersystem/WarDeploy/pom.xml" timestamp="1562736115061">
         <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/WarDeploy/src/main/resources/logback.xml" timestamp="1562662179554">
@@ -130,11 +130,11 @@
         <mark key="." line="214" column="53" />
         <mark key="^" line="214" column="53" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/restful/controller/CommonController.java" timestamp="1562668694529">
-        <mark key="[" line="47" column="19" />
-        <mark key="]" line="47" column="24" />
-        <mark key="^" line="47" column="24" />
-        <mark key="." line="47" column="24" />
+      <file name="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/restful/controller/CommonController.java" timestamp="1562735946434">
+        <mark key="[" line="19" column="51" />
+        <mark key="]" line="19" column="74" />
+        <mark key="^" line="19" column="74" />
+        <mark key="." line="19" column="74" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/PlatformService/src/main/java/com/uf/member/platform/util/HttpUtil.java" timestamp="1561959359475">
         <mark key="'" line="48" column="56" />
@@ -143,11 +143,11 @@
         <mark key="." line="44" column="78" />
         <mark key="^" line="44" column="78" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/ApplicationInit.java" timestamp="1562729901628">
-        <mark key="[" line="37" column="32" />
-        <mark key="]" line="37" column="32" />
-        <mark key="." line="37" column="32" />
-        <mark key="^" line="36" column="34" />
+      <file name="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/ApplicationInit.java" timestamp="1562735908845">
+        <mark key="[" line="32" column="31" />
+        <mark key="]" line="32" column="43" />
+        <mark key="." line="32" column="43" />
+        <mark key="^" line="32" column="43" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/SpringBootDeploy/src/main/java/com/uf/member/filter/AuthenFilter.java" timestamp="1561964085055">
         <mark key="'" line="37" column="25" />
@@ -438,7 +438,6 @@
       <jump line="273" column="28" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AccountService.java" />
       <jump line="277" column="16" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AccountService.java" />
       <jump line="43" column="22" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AccountService.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/gitBucket/membersystem/WarDeploy/pom.xml" />
       <jump line="58" column="22" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/storemanager/StoreService.java" />
       <jump line="59" column="50" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/storemanager/StoreService.java" />
       <jump line="65" column="34" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/sf-cloud-provider/src/main/java/com/moodys/sav/cloud/CloudApiFactory.java" />
@@ -508,13 +507,14 @@
       <jump line="286" column="38" filename="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25-sources.jar!/org/slf4j/LoggerFactory.java" />
       <jump line="289" column="70" filename="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25-sources.jar!/org/slf4j/LoggerFactory.java" />
       <jump line="343" column="56" filename="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25-sources.jar!/org/slf4j/LoggerFactory.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/gitBucket/membersystem/WarDeploy/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>lc</text>
+        <text>CommonController.class</text>
       </register>
       <register name="-" type="4">
-        <text>lc</text>
+        <text>CommonController.class</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTdGF0aWNMb2dnZXJCaW5kZXJcPg==</text>
@@ -523,31 +523,31 @@
         <text encoding="base64">ICAgICAgICBJIGNvbnRleHQ9KExvZ2dlckNvbnRleHQpTG9nZ2VyRmFjdG9yeS5nZXRJTG9nZ2VyRmFjdG9yeSgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLyrov5nph4zlkK/liqhlbmNvZGVy5ZKMYXBwZW5kZXLjgIIqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLyrov5nph4zlkK/phY3nva5hcHBlbmRlciovCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLyrov5nph4zlkK/liqhlbmNvZGVy5ZKMYXBwZW5kZXLjgIIqLwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bG9nRmlsZU5hbWU9bWVtYmVyU3lzdGVtX2FkbWluLmxvZwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLyrov5nph4zlkK/phY3nva5hcHBlbmRlciovCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTG9nU2VydmljZSBsb2dTZXJ2aWNlOwo=</text>
+        <text encoding="base64">bG9nRmlsZU5hbWU9bWVtYmVyU3lzdGVtX2FkbWluLmxvZwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTG9nU2VydmljZSBsb2dTZXJ2aWNlOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICDniYjmnYPlo7DmmI7vvJrmnKzmlofkuLrljZrkuLvljp/liJvmlofnq6DvvIzovazovb3or7fpmYTkuIrljZrmlofpk77mjqXvvIEK</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAtLS0tLS0tLS0tLS0tLS0tLS0tLS0KICAgICAgICDkvZzogIXvvJpfV2lsbGlhbV9DaGV1bmcKICAgICAgICDmnaXmupDvvJpDU0ROCiAgICAgICAg5Y6f5paH77yaaHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxNDk2MDEzMjE4L2FydGljbGUvZGV0YWlscy82OTIyMDkwNwo=</text>
+        <text encoding="base64">ICAgICAgICDniYjmnYPlo7DmmI7vvJrmnKzmlofkuLrljZrkuLvljp/liJvmlofnq6DvvIzovazovb3or7fpmYTkuIrljZrmlofpk77mjqXvvIEK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8ZW5jb2Rlcj4KICAgICAgICAgICAgPHBhdHRlcm4+PC9wYXR0ZXJuPgogICAgICAgIDwvZW5jb2Rlcj4K</text>
+        <text encoding="base64">ICAgICAgICAtLS0tLS0tLS0tLS0tLS0tLS0tLS0KICAgICAgICDkvZzogIXvvJpfV2lsbGlhbV9DaGV1bmcKICAgICAgICDmnaXmupDvvJpDU0ROCiAgICAgICAg5Y6f5paH77yaaHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxNDk2MDEzMjE4L2FydGljbGUvZGV0YWlscy82OTIyMDkwNwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8L2VuY29kZXI+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8ZW5jb2Rlcj4KICAgICAgICAgICAgPHBhdHRlcm4+PC9wYXR0ZXJuPgogICAgICAgIDwvZW5jb2Rlcj4K</text>
       </register>
       <register name=":" type="4">
         <text>map</text>
