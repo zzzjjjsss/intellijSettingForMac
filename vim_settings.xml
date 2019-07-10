@@ -143,11 +143,11 @@
         <mark key="." line="44" column="78" />
         <mark key="^" line="44" column="78" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/ApplicationInit.java" timestamp="1562735908845">
-        <mark key="[" line="32" column="31" />
-        <mark key="]" line="32" column="43" />
-        <mark key="." line="32" column="43" />
-        <mark key="^" line="32" column="43" />
+      <file name="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/ApplicationInit.java" timestamp="1562737068476">
+        <mark key="[" line="47" column="44" />
+        <mark key="]" line="47" column="49" />
+        <mark key="." line="47" column="49" />
+        <mark key="^" line="47" column="49" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/SpringBootDeploy/src/main/java/com/uf/member/filter/AuthenFilter.java" timestamp="1561964085055">
         <mark key="'" line="37" column="25" />
@@ -510,8 +510,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/gitBucket/membersystem/WarDeploy/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>CommonController.class</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJzZXQgYXBwZW5kZXIuLi4uLi4uLi4iKTsK</text>
       </register>
       <register name="-" type="4">
         <text>CommonController.class</text>
@@ -520,7 +520,7 @@
         <text encoding="base64">XDxTdGF0aWNMb2dnZXJCaW5kZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBJIGNvbnRleHQ9KExvZ2dlckNvbnRleHQpTG9nZ2VyRmFjdG9yeS5nZXRJTG9nZ2VyRmFjdG9yeSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJzZXQgYXBwZW5kZXIuLi4uLi4uLi4iKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
