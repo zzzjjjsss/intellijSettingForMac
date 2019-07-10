@@ -47,7 +47,7 @@
         <mark key="^" line="34" column="49" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/resources/application.properties" timestamp="1562729714422">
+      <file name="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/resources/application.properties" timestamp="1562741703567">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
@@ -130,7 +130,7 @@
         <mark key="." line="214" column="53" />
         <mark key="^" line="214" column="53" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/restful/controller/CommonController.java" timestamp="1562740147156">
+      <file name="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/restful/controller/CommonController.java" timestamp="1562740225382">
         <mark key="[" line="47" column="28" />
         <mark key="]" line="49" column="74" />
         <mark key="^" line="49" column="74" />
@@ -143,11 +143,11 @@
         <mark key="." line="44" column="78" />
         <mark key="^" line="44" column="78" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/ApplicationInit.java" timestamp="1562738413703">
-        <mark key="[" line="48" column="59" />
-        <mark key="]" line="26" column="73" />
-        <mark key="." line="26" column="73" />
-        <mark key="^" line="26" column="73" />
+      <file name="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/ApplicationInit.java" timestamp="1562741740776">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="39" column="36" />
+        <mark key="." line="39" column="36" />
+        <mark key="^" line="39" column="36" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/SpringBootDeploy/src/main/java/com/uf/member/filter/AuthenFilter.java" timestamp="1561964085055">
         <mark key="'" line="37" column="25" />
@@ -511,11 +511,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/gitBucket/membersystem/WarDeploy/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJzZXQgYXBwZW5kZXIuLi4uLi4uLi4iKTsK</text>
+      <register name="&quot;" type="4">
+        <text>logName</text>
       </register>
       <register name="-" type="4">
-        <text>CommonController.class</text>
+        <text>logName</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTdGF0aWNMb2dnZXJCaW5kZXJcPg==</text>
