@@ -47,11 +47,11 @@
         <mark key="^" line="34" column="49" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/resources/application.properties" timestamp="1562667961410">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="7" column="0" />
+      <file name="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/resources/application.properties" timestamp="1562729714422">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="8" column="12" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/slf4j/jcl-over-slf4j/1.7.25/jcl-over-slf4j-1.7.25-sources.jar!/org/apache/commons/logging/LogFactory.java" timestamp="1562643314823">
         <mark key="'" line="40" column="22" />
@@ -143,6 +143,12 @@
         <mark key="." line="44" column="78" />
         <mark key="^" line="44" column="78" />
       </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/ApplicationInit.java" timestamp="1562729901628">
+        <mark key="[" line="37" column="32" />
+        <mark key="]" line="37" column="32" />
+        <mark key="." line="37" column="32" />
+        <mark key="^" line="36" column="34" />
+      </file>
       <file name="$USER_HOME$/gitBucket/membersystem/SpringBootDeploy/src/main/java/com/uf/member/filter/AuthenFilter.java" timestamp="1561964085055">
         <mark key="'" line="37" column="25" />
         <mark key="[" line="76" column="26" />
@@ -218,6 +224,10 @@
         <mark key="^" line="26" column="106" />
         <mark key="." line="26" column="106" />
       </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/component/ApplicationInit.java" timestamp="1562729179212">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="10" />
+      </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/SystemConfigService.java" timestamp="1560308533996">
         <mark key="'" line="33" column="19" />
         <mark key="[" line="29" column="9" />
@@ -225,6 +235,7 @@
         <mark key="." line="30" column="36" />
         <mark key="^" line="30" column="36" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/ch/qos/logback/logback-classic/1.1.11/logback-classic-1.1.11-sources.jar!/org/slf4j/impl/StaticLoggerBinder.java" timestamp="1562727935016" />
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-cloud-access/src/main/java/com/moodys/sav/sfs/cloud/impl/aws/VmInstanceHandlerImpl.java" timestamp="1561009529401">
         <mark key="'" line="456" column="0" />
         <mark key="[" line="457" column="64" />
@@ -359,7 +370,7 @@
         <mark key="^" line="158" column="32" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/1.5.6.RELEASE/spring-boot-1.5.6.RELEASE-sources.jar!/org/springframework/boot/logging/LoggingApplicationListener.java" timestamp="1562658257664" />
-      <file name="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/resources/logback.xml" timestamp="1562668112035">
+      <file name="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/resources/logback.xml" timestamp="1562729855018">
         <mark key="[" line="20" column="27" />
         <mark key="]" line="20" column="38" />
         <mark key="." line="20" column="38" />
@@ -500,43 +511,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>p.getResource().getOneAppointmentCustomerCount()</text>
+        <text>lc</text>
       </register>
       <register name="-" type="4">
-        <text>p.getResource().getOneAppointmentCustomerCount()</text>
+        <text>lc</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTdGF0aWNMb2dnZXJCaW5kZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bG9nZ2luZy5maWxlPW1lbWViZXJTeXN0ZW1fJHthcHAuY29udGV4dE5hbWV9LmxvZwo=</text>
+        <text encoding="base64">ICAgICAgICBJIGNvbnRleHQ9KExvZ2dlckNvbnRleHQpTG9nZ2VyRmFjdG9yeS5nZXRJTG9nZ2VyRmFjdG9yeSgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTG9nU2VydmljZSBsb2dTZXJ2aWNlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLyrov5nph4zlkK/liqhlbmNvZGVy5ZKMYXBwZW5kZXLjgIIqLwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLyrov5nph4zlkK/phY3nva5hcHBlbmRlciovCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICDniYjmnYPlo7DmmI7vvJrmnKzmlofkuLrljZrkuLvljp/liJvmlofnq6DvvIzovazovb3or7fpmYTkuIrljZrmlofpk77mjqXvvIEK</text>
+        <text encoding="base64">bG9nRmlsZU5hbWU9bWVtYmVyU3lzdGVtX2FkbWluLmxvZwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAtLS0tLS0tLS0tLS0tLS0tLS0tLS0KICAgICAgICDkvZzogIXvvJpfV2lsbGlhbV9DaGV1bmcKICAgICAgICDmnaXmupDvvJpDU0ROCiAgICAgICAg5Y6f5paH77yaaHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxNDk2MDEzMjE4L2FydGljbGUvZGV0YWlscy82OTIyMDkwNwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTG9nU2VydmljZSBsb2dTZXJ2aWNlOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8ZW5jb2Rlcj4KICAgICAgICAgICAgPHBhdHRlcm4+PC9wYXR0ZXJuPgogICAgICAgIDwvZW5jb2Rlcj4K</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8L2VuY29kZXI+Cg==</text>
+        <text encoding="base64">ICAgICAgICDniYjmnYPlo7DmmI7vvJrmnKzmlofkuLrljZrkuLvljp/liJvmlofnq6DvvIzovazovb3or7fpmYTkuIrljZrmlofpk77mjqXvvIEK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHBhdHRlcm4+JHtGSUxFX0xPR19QQVRURVJOfTwvcGF0dGVybj4K</text>
+        <text encoding="base64">ICAgICAgICAtLS0tLS0tLS0tLS0tLS0tLS0tLS0KICAgICAgICDkvZzogIXvvJpfV2lsbGlhbV9DaGV1bmcKICAgICAgICDmnaXmupDvvJpDU0ROCiAgICAgICAg5Y6f5paH77yaaHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxNDk2MDEzMjE4L2FydGljbGUvZGV0YWlscy82OTIyMDkwNwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8ZW5jb2Rlcj4K</text>
+        <text encoding="base64">ICAgICAgICA8ZW5jb2Rlcj4KICAgICAgICAgICAgPHBhdHRlcm4+PC9wYXR0ZXJuPgogICAgICAgIDwvZW5jb2Rlcj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgICAgICAgICBUaHJlYWQuc2xlZXAoMTAwKTsKICAgICAgICAgICAgICAgICAgICB9IGNhdGNoIChJbnRlcnJ1cHRlZEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICA8L2VuY29kZXI+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>map</text>
