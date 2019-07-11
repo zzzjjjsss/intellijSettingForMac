@@ -90,11 +90,10 @@
         <mark key="." line="17" column="27" />
         <mark key="^" line="17" column="27" />
       </file>
-      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/webapp/WEB-INF/applicationContext.xml" timestamp="1562743436601">
-        <mark key="[" line="35" column="43" />
-        <mark key="]" line="35" column="60" />
-        <mark key="." line="35" column="60" />
-        <mark key="^" line="35" column="60" />
+      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/webapp/WEB-INF/applicationContext.xml" timestamp="1562812697761">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/WechatUserRepo.java" timestamp="1561978184352">
         <mark key="[" line="12" column="66" />
@@ -712,8 +711,8 @@
       <jump line="25" column="19" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/storemanager/SettingController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>default</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPHR4Om1ldGhvZCBuYW1lPSJzeW5jRGVhbEluZm8iIHByb3BhZ2F0aW9uPSJORVZFUiIgLz4K</text>
       </register>
       <register name="-" type="4">
         <text>default</text>
@@ -725,31 +724,31 @@
         <text encoding="base64">bG9nLm5hbWU9cGxhdGZvcm1TZXJ2aWNlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJU3lzdGVtLm91dC5wcmludGxuKCJocWwuLi4uLi4uLi4uLi4uLi4uIiArIGhxbCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHR4Om1ldGhvZCBuYW1lPSJzeW5jRGVhbEluZm8iIHByb3BhZ2F0aW9uPSJORVZFUiIgLz4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJsb2dOYW1lOiIrTE9HX05BTUUpOwo=</text>
+        <text encoding="base64">CQkJU3lzdGVtLm91dC5wcmludGxuKCJocWwuLi4uLi4uLi4uLi4uLi4uIiArIGhxbCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXByaXZhdGUgTG9nIGxvZ2dlciA9IExvZ0ZhY3RvcnkuZ2V0TG9nKEF1dGhlbkZpbHRlci5jbGFzcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJsb2dOYW1lOiIrTE9HX05BTUUpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bG9nZ2luZy5maWxlPW1lbWViZXJTeXN0ZW1fJHthcHAuY29udGV4dE5hbWV9LmxvZwo=</text>
+        <text encoding="base64">CXByaXZhdGUgTG9nIGxvZ2dlciA9IExvZ0ZhY3RvcnkuZ2V0TG9nKEF1dGhlbkZpbHRlci5jbGFzcyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cHJpdmF0ZSBMb2dnZXIgbG9nZ2VyPSBMb2dnZXJGYWN0b3J5LmdldExvZ2dlcihBcHBsaWNhdGlvbkluaXQuTE9HX05BTUUpOwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">bG9nZ2luZy5maWxlPW1lbWViZXJTeXN0ZW1fJHthcHAuY29udGV4dE5hbWV9LmxvZwo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">cHJpdmF0ZSBMb2dnZXIgbG9nZ2VyPSBMb2dnZXJGYWN0b3J5LmdldExvZ2dlcihBcHBsaWNhdGlvbkluaXQuTE9HX05BTUUpOwo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">CXByaXZhdGUgTG9nIGxvZ2dlciA9IExvZ0ZhY3RvcnkuZ2V0TG9nKFN0YXRpc3RpY3NTZXJ2aWNlLmNsYXNzKTsK</text>
+        <text encoding="base64">bG9nZ2luZy5maWxlPW1lbWViZXJTeXN0ZW1fJHthcHAuY29udGV4dE5hbWV9LmxvZwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXByaXZhdGUgTG9nIGxvZ2dlciA9IExvZ0ZhY3RvcnkuZ2V0TG9nKFJlc291cmNlU2NoZWR1bGVTZXJ2aWNlLmNsYXNzKTsK</text>
+        <text encoding="base64">CXByaXZhdGUgTG9nIGxvZ2dlciA9IExvZ0ZhY3RvcnkuZ2V0TG9nKFN0YXRpc3RpY3NTZXJ2aWNlLmNsYXNzKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CXByaXZhdGUgTG9nIGxvZ2dlciA9IExvZ0ZhY3RvcnkuZ2V0TG9nKEdlbmVyYXRlQXBwb2ludG1lbnRTY2hlZHVsZXIuY2xhc3MpOwo=</text>
+        <text encoding="base64">CXByaXZhdGUgTG9nIGxvZ2dlciA9IExvZ0ZhY3RvcnkuZ2V0TG9nKFJlc291cmNlU2NoZWR1bGVTZXJ2aWNlLmNsYXNzKTsK</text>
       </register>
       <register name=":" type="4">
         <text>map</text>
