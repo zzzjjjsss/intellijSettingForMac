@@ -573,6 +573,12 @@
         <mark key="^" line="57" column="70" />
         <mark key="." line="57" column="70" />
       </file>
+      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/sf-cloud-provider/src/test/java/com/moodys/sav/cloud/mq/ActiveMqTest.java" timestamp="1562921089556">
+        <mark key="[" line="34" column="61" />
+        <mark key="]" line="34" column="139" />
+        <mark key="." line="34" column="139" />
+        <mark key="^" line="34" column="139" />
+      </file>
       <file name="$USER_HOME$/gitBucket/membersystem/PlatformService/src/main/java/com/uf/member/platform/service/AccountService.java" timestamp="1561948580425">
         <mark key="'" line="24" column="12" />
         <mark key="[" line="8" column="0" />
@@ -963,10 +969,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>logName</text>
+        <text>ssl://b-06699bd7-087c-4379-84a4-61d132379506-1.mq.us-west-2.amazonaws.com:61617</text>
       </register>
       <register name="-" type="4">
-        <text>logName</text>
+        <text>ssl://b-06699bd7-087c-4379-84a4-61d132379506-1.mq.us-west-2.amazonaws.com:61617</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxMT0dfTkFNRVw+</text>

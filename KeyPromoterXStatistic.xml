@@ -57,6 +57,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'ActiveMqTest'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'ActiveMqTest'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
     </option>
   </component>
 </application>
