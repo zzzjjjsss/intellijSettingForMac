@@ -676,6 +676,9 @@
         <mark key="." line="15" column="60" />
         <mark key="^" line="15" column="60" />
       </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/CustomerCountCard.java" timestamp="1563169002837">
+        <mark key="'" line="52" column="15" />
+      </file>
       <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/RechargeCardShareItem.java" timestamp="1561528331467">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="7" />
@@ -866,10 +869,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="45" filename="$USER_HOME$/gitBucket/membersystem/WarDeploy/src/main/java/com/uf/member/filter/AuthenFilter.java" />
-      <jump line="155" column="0" filename="$USER_HOME$/gitBucket/membersystem/WarDeploy/src/main/java/com/uf/member/filter/AuthenFilter.java" />
-      <jump line="57" column="0" filename="$USER_HOME$/gitBucket/membersystem/PlatformService/src/main/java/com/uf/member/platform/component/ScheduleBean.java" />
-      <jump line="83" column="0" filename="$USER_HOME$/gitBucket/membersystem/PlatformService/src/main/java/com/uf/member/platform/component/ScheduleBean.java" />
       <jump line="273" column="28" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AccountService.java" />
       <jump line="277" column="16" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AccountService.java" />
       <jump line="43" column="22" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AccountService.java" />
@@ -966,6 +965,10 @@
       <jump line="338" column="0" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AccountService.java" />
       <jump line="15" column="35" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/component/SpringBeans.java" />
       <jump line="23" column="25" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/component/SpringBeans.java" />
+      <jump line="17" column="22" filename="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/CustomerCountCard.java" />
+      <jump line="55" column="13" filename="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/CustomerCountCard.java" />
+      <jump line="54" column="37" filename="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/CustomerCountCard.java" />
+      <jump line="52" column="15" filename="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/CustomerCountCard.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -975,7 +978,7 @@
         <text>ssl://b-06699bd7-087c-4379-84a4-61d132379506-1.mq.us-west-2.amazonaws.com:61617</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxMT0dfTkFNRVw+</text>
+        <text encoding="base64">XDxidXlUaW1lXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CUBBdXRvd2lyZWQK</text>
@@ -1012,17 +1015,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxMT0dfTkFNRVw+</last-search>
+      <last-search encoding="base64">XDxidXlUaW1lXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxMT0dfTkFNRVw+</last-pattern>
+      <last-pattern encoding="base64">XDxidXlUaW1lXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZXNwb25zZVw+</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwYXJhbWV0ZXJzXD4=</entry>
         <entry encoding="base64">XDxkZXBsb3lBcGlcPg==</entry>
         <entry encoding="base64">XDxhcHBQb3J0XD4=</entry>
         <entry encoding="base64">XDxsb2dGYWN0b3J5XD4=</entry>
@@ -1042,6 +1044,7 @@
         <entry encoding="base64">XDxUaHJlYWRQb29sRXhlY3V0b3JcPg==</entry>
         <entry encoding="base64">XDxBbGl5dW5TbXNUb29sXD4=</entry>
         <entry encoding="base64">XDxMT0dfTkFNRVw+</entry>
+        <entry encoding="base64">XDxidXlUaW1lXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>maps</entry>
