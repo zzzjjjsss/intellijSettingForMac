@@ -770,11 +770,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/GetInfoService.java" timestamp="1563178837905">
-        <mark key="[" line="98" column="61" />
-        <mark key="]" line="100" column="26" />
-        <mark key="." line="100" column="26" />
-        <mark key="^" line="100" column="26" />
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/GetInfoService.java" timestamp="1563180670240">
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="130" column="0" />
+        <mark key="." line="130" column="0" />
+        <mark key="^" line="129" column="20" />
       </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/DealCusipsSynchronizer.java" timestamp="1561703842143">
         <mark key="'" line="52" column="23" />
@@ -986,8 +986,8 @@
       <jump line="991" column="36" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/UDEV/Enterprise/java/dealdownload/src/main/java/com/wsainc/dealdownload/DealDownloaderFromDL.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>L</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>L</text>
@@ -999,22 +999,22 @@
         <text encoding="base64">CUBBdXRvd2lyZWQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAtLS0tLS0tLS0tLS0tLS0tLS0tLS0KICAgICAgICAgICAgICAgIOS9nOiAhe+8muS8iuiMqOexs+WPrwogICAgICAgIOadpea6kO+8mkNTRE4KICAgICAgICDljp/mlofvvJpodHRwczovL2Jsb2cuY3Nkbi5uZXQvRXR6bWljby9hcnRpY2xlL2RldGFpbHMvODI2NDAxNCAKICAgICAgICDniYjmnYPlo7DmmI7vvJrmnKzmlofkuLrljZrkuLvljp/liJvmlofnq6DvvIzovazovb3or7fpmYTkuIrljZrmlofpk77mjqXvvIEK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQkJCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAtLS0tLS0tLS0tLS0tLS0tLS0tLS0KICAgICAgICAgICAgICAgIOS9nOiAhe+8muS8iuiMqOexs+WPrwogICAgICAgIOadpea6kO+8mkNTRE4KICAgICAgICDljp/mlofvvJpodHRwczovL2Jsb2cuY3Nkbi5uZXQvRXR6bWljby9hcnRpY2xlL2RldGFpbHMvODI2NDAxNCAKICAgICAgICDniYjmnYPlo7DmmI7vvJrmnKzmlofkuLrljZrkuLvljp/liJvmlofnq6DvvIzovazovb3or7fpmYTkuIrljZrmlofpk77mjqXvvIEK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQkJCg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBMaW5rZWRMaXN0PAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQljb3VudENhcmRzTGlzdC5hZGRBbGwoY291bnRDYXJkSW5mb3MudmFsdWVzKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBMaW5rZWRMaXN0PAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXByaXZhdGUgTG9nZ2VyIGxvZ2dlcj0gTG9nZ2VyRmFjdG9yeS5nZXRMb2dnZXIoQXBwbGljYXRpb25Jbml0LkxPR19OQU1FKTsK</text>
+        <text encoding="base64">CQljb3VudENhcmRzTGlzdC5hZGRBbGwoY291bnRDYXJkSW5mb3MudmFsdWVzKCkpOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">CXByaXZhdGUgTG9nZ2VyIGxvZ2dlcj0gTG9nZ2VyRmFjdG9yeS5nZXRMb2dnZXIoQXBwbGljYXRpb25Jbml0LkxPR19OQU1FKTsK</text>
