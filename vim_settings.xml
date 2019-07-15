@@ -760,11 +760,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/GetInfoService.java" timestamp="1561533266300">
-        <mark key="[" line="179" column="0" />
-        <mark key="]" line="179" column="0" />
-        <mark key="." line="179" column="0" />
-        <mark key="^" line="179" column="58" />
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/GetInfoService.java" timestamp="1563170478259">
+        <mark key="[" line="162" column="8" />
+        <mark key="]" line="162" column="8" />
+        <mark key="." line="162" column="8" />
+        <mark key="^" line="181" column="58" />
       </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/DealCusipsSynchronizer.java" timestamp="1561703842143">
         <mark key="'" line="52" column="23" />
@@ -972,10 +972,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ssl://b-06699bd7-087c-4379-84a4-61d132379506-1.mq.us-west-2.amazonaws.com:61617</text>
+        <text>List</text>
       </register>
       <register name="-" type="4">
-        <text>ssl://b-06699bd7-087c-4379-84a4-61d132379506-1.mq.us-west-2.amazonaws.com:61617</text>
+        <text>List</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxidXlUaW1lXD4=</text>
