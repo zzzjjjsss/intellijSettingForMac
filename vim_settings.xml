@@ -770,11 +770,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/GetInfoService.java" timestamp="1563180670240">
-        <mark key="[" line="90" column="0" />
-        <mark key="]" line="130" column="0" />
-        <mark key="." line="130" column="0" />
-        <mark key="^" line="129" column="20" />
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/GetInfoService.java" timestamp="1563181912479">
+        <mark key="[" line="90" column="47" />
+        <mark key="]" line="90" column="47" />
+        <mark key="." line="90" column="47" />
+        <mark key="^" line="122" column="52" />
       </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/DealCusipsSynchronizer.java" timestamp="1561703842143">
         <mark key="'" line="52" column="23" />
@@ -986,11 +986,11 @@
       <jump line="991" column="36" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/UDEV/Enterprise/java/dealdownload/src/main/java/com/wsainc/dealdownload/DealDownloaderFromDL.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>L</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsaXN0VG9BZGRlZFw+</text>
