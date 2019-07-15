@@ -177,6 +177,10 @@
     <keyboard-shortcut first-keystroke="shift ctrl o" />
   </action>
   <action id="OverrideMethods" />
+  <action id="PasteMultiple">
+    <keyboard-shortcut first-keystroke="shift meta v" />
+    <keyboard-shortcut first-keystroke="shift ctrl v" />
+  </action>
   <action id="QuickImplementations">
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
