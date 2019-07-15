@@ -770,11 +770,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/GetInfoService.java" timestamp="1563176557436">
-        <mark key="[" line="93" column="87" />
-        <mark key="]" line="93" column="88" />
-        <mark key="." line="93" column="88" />
-        <mark key="^" line="93" column="88" />
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/GetInfoService.java" timestamp="1563178217826">
+        <mark key="[" line="93" column="90" />
+        <mark key="]" line="93" column="87" />
+        <mark key="." line="93" column="87" />
+        <mark key="^" line="93" column="94" />
       </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/DealCusipsSynchronizer.java" timestamp="1561703842143">
         <mark key="'" line="52" column="23" />
@@ -982,10 +982,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>+</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>+</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsaXN0VG9BZGRlZFw+</text>
