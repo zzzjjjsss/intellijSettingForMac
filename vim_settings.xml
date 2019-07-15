@@ -63,6 +63,12 @@
         <mark key="." line="30" column="35" />
         <mark key="^" line="30" column="35" />
       </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/Test.java" timestamp="1563171852643">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="24" column="43" />
+      </file>
       <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/CountCardShareItem.java" timestamp="1561603766608">
         <mark key="'" line="12" column="28" />
         <mark key="[" line="7" column="0" />
@@ -106,6 +112,9 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
         <mark key="^" line="21" column="49" />
+      </file>
+      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/UDEV/Enterprise/java/dealdownload/src/main/java/com/wsainc/dealdownload/DealDownloaderFromDL.java" timestamp="1563171296458">
+        <mark key="'" line="991" column="36" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/slf4j/jcl-over-slf4j/1.7.25/jcl-over-slf4j-1.7.25-sources.jar!/org/apache/commons/logging/LogFactory.java" timestamp="1562643314823">
         <mark key="'" line="40" column="22" />
@@ -663,6 +672,7 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/CardsInfo.java" timestamp="1563171657520" />
       <file name="$USER_HOME$/gitBucket/membersystem/PlatformService/src/main/java/com/uf/member/platform/component/SpringBeans.java" timestamp="1561948643453">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="14" />
@@ -760,11 +770,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/GetInfoService.java" timestamp="1563170478259">
-        <mark key="[" line="162" column="8" />
-        <mark key="]" line="162" column="8" />
-        <mark key="." line="162" column="8" />
-        <mark key="^" line="181" column="58" />
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/GetInfoService.java" timestamp="1563171512350">
+        <mark key="[" line="170" column="0" />
+        <mark key="]" line="170" column="0" />
+        <mark key="." line="170" column="0" />
+        <mark key="^" line="167" column="37" />
       </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/DealCusipsSynchronizer.java" timestamp="1561703842143">
         <mark key="'" line="52" column="23" />
@@ -869,8 +879,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="273" column="28" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AccountService.java" />
-      <jump line="277" column="16" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AccountService.java" />
       <jump line="43" column="22" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AccountService.java" />
       <jump line="58" column="22" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/storemanager/StoreService.java" />
       <jump line="59" column="50" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/storemanager/StoreService.java" />
@@ -969,28 +977,30 @@
       <jump line="55" column="13" filename="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/CustomerCountCard.java" />
       <jump line="54" column="37" filename="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/CustomerCountCard.java" />
       <jump line="52" column="15" filename="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/CustomerCountCard.java" />
+      <jump line="985" column="21" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/UDEV/Enterprise/java/dealdownload/src/main/java/com/wsainc/dealdownload/DealDownloaderFromDL.java" />
+      <jump line="991" column="36" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/UDEV/Enterprise/java/dealdownload/src/main/java/com/wsainc/dealdownload/DealDownloaderFromDL.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>List</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>List</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxidXlUaW1lXD4=</text>
+        <text encoding="base64">XDxsaXN0VG9BZGRlZFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CUBBdXRvd2lyZWQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CXByaXZhdGUgTG9nZ2VyIGxvZ2dlcj0gTG9nZ2VyRmFjdG9yeS5nZXRMb2dnZXIoQXBwbGljYXRpb25Jbml0LkxPR19OQU1FKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXByaXZhdGUgTG9nZ2VyIGxvZ2dlcj0gTG9nZ2VyRmFjdG9yeS5nZXRMb2dnZXIoQXBwbGljYXRpb25Jbml0LkxPR19OQU1FKTsK</text>
+        <text encoding="base64">ICAgICAgICBMaW5rZWRMaXN0PAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXByaXZhdGUgTG9nZ2VyIGxvZ2dlcj0gTG9nZ2VyRmFjdG9yeS5nZXRMb2dnZXIoQXBwbGljYXRpb25Jbml0LkxPR19OQU1FKTsK</text>
+        <text encoding="base64">CQljb3VudENhcmRzTGlzdC5hZGRBbGwoY291bnRDYXJkSW5mb3MudmFsdWVzKCkpOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">CXByaXZhdGUgTG9nZ2VyIGxvZ2dlcj0gTG9nZ2VyRmFjdG9yeS5nZXRMb2dnZXIoQXBwbGljYXRpb25Jbml0LkxPR19OQU1FKTsK</text>
@@ -1015,17 +1025,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxidXlUaW1lXD4=</last-search>
+      <last-search encoding="base64">XDxsaXN0VG9BZGRlZFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxidXlUaW1lXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxsaXN0VG9BZGRlZFw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZXNwb25zZVw+</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkZXBsb3lBcGlcPg==</entry>
         <entry encoding="base64">XDxhcHBQb3J0XD4=</entry>
         <entry encoding="base64">XDxsb2dGYWN0b3J5XD4=</entry>
         <entry encoding="base64">XDxiaW5kXD4=</entry>
@@ -1045,6 +1054,7 @@
         <entry encoding="base64">XDxBbGl5dW5TbXNUb29sXD4=</entry>
         <entry encoding="base64">XDxMT0dfTkFNRVw+</entry>
         <entry encoding="base64">XDxidXlUaW1lXD4=</entry>
+        <entry encoding="base64">XDxsaXN0VG9BZGRlZFw+</entry>
       </history-search>
       <history-cmd>
         <entry>maps</entry>
