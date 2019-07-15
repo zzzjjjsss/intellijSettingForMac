@@ -65,6 +65,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'DateTimeUtil'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'DateTimeUtil'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
     </option>
   </component>
 </application>
