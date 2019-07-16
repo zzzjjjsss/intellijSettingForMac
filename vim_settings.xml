@@ -360,8 +360,11 @@
         <mark key="." line="196" column="60" />
         <mark key="^" line="196" column="60" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/event/MyEventBus.java" timestamp="1563248086907">
-        <mark key="[" line="18" column="53" />
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/event/MyEventBus.java" timestamp="1563252180761">
+        <mark key="[" line="19" column="128" />
+        <mark key="]" line="19" column="129" />
+        <mark key="." line="19" column="129" />
+        <mark key="^" line="19" column="129" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/SpringBootDeploy/src/main/resources/application-prod.properties" timestamp="1562832514428">
         <mark key="'" line="15" column="0" />
@@ -514,10 +517,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Executors.newFixedThreadPool(1)</text>
+        <text>Blo</text>
       </register>
       <register name="-" type="4">
-        <text>Executors.newFixedThreadPool(1)</text>
+        <text>Blo</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxldmVudEJ1c1w+</text>
