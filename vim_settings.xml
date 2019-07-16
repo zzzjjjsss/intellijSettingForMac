@@ -20,13 +20,6 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadPoolExecutor.java" timestamp="1563247998501">
         <mark key="'" line="2113" column="0" />
       </file>
-      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/HttpDealSynchronizer.java" timestamp="1562151971656">
-        <mark key="'" line="346" column="33" />
-        <mark key="[" line="390" column="45" />
-        <mark key="]" line="390" column="57" />
-        <mark key="^" line="390" column="57" />
-        <mark key="." line="390" column="57" />
-      </file>
       <file name="$USER_HOME$/gitBucket/membersystem/WarDeploy/src/main/java/com/uf/member/filter/AuthenFilter.java" timestamp="1563158453426">
         <mark key="'" line="138" column="17" />
         <mark key="[" line="44" column="7" />
@@ -304,7 +297,6 @@
         <mark key="." line="38" column="40" />
         <mark key="^" line="38" column="40" />
       </file>
-      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/sf-data-provider/src/main/resources/com/moodys/sav/data/bean/DealInfo.hbm.xml" timestamp="1563260022728" />
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/component/SpringBeans.java" timestamp="1562915559621">
         <mark key="'" line="23" column="25" />
         <mark key="[" line="69" column="75" />
@@ -319,7 +311,7 @@
         <mark key="." line="37" column="0" />
         <mark key="^" line="38" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563259570390">
+      <file name="/Dummy.txt" timestamp="1563261946727">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -357,13 +349,6 @@
         <mark key="]" line="65" column="140" />
         <mark key="." line="65" column="140" />
         <mark key="^" line="65" column="140" />
-      </file>
-      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/service/impl/DealSyncServiceImpl.java" timestamp="1563260375873">
-        <mark key="'" line="63" column="15" />
-        <mark key="[" line="176" column="16" />
-        <mark key="]" line="176" column="27" />
-        <mark key="." line="196" column="60" />
-        <mark key="^" line="196" column="60" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/event/MyEventBus.java" timestamp="1563252183665">
         <mark key="[" line="19" column="128" />
