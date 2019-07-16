@@ -232,6 +232,12 @@
         <mark key="." line="23" column="25" />
         <mark key="^" line="23" column="25" />
       </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/storemanager/StatisticsContorller.java" timestamp="1563246111467">
+        <mark key="[" line="25" column="71" />
+        <mark key="]" line="33" column="22" />
+        <mark key="^" line="33" column="22" />
+        <mark key="." line="33" column="22" />
+      </file>
       <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/CustomerRepo.java" timestamp="1561710206115">
         <mark key="'" line="15" column="40" />
         <mark key="[" line="15" column="49" />

@@ -185,7 +185,6 @@
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
   <action id="QuickJavaDoc">
-    <keyboard-shortcut first-keystroke="f1" />
     <mouse-shortcut keystroke="control button2" />
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
@@ -216,6 +215,9 @@
   </action>
   <action id="Terminal.OpenInTerminal">
     <keyboard-shortcut first-keystroke="shift meta o" />
+  </action>
+  <action id="ToolWindowsGroup">
+    <keyboard-shortcut first-keystroke="f1" />
   </action>
   <action id="UnselectPreviousOccurrence" />
   <action id="Vcs.Push" />

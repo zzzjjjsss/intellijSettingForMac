@@ -30,7 +30,23 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌃G'</ShortCut>
           <Description>Declaration</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Exclude">
+        <Item>
+          <IdeaActionID>UsageView.Exclude</IdeaActionID>
+          <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
+          <Description>Exclude</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Jump to Source">
+        <Item>
+          <IdeaActionID>EditSource</IdeaActionID>
+          <ShortCut>'⌘↓' or 'F4'</ShortCut>
+          <Description>Jump to Source</Description>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
