@@ -158,11 +158,11 @@
         <mark key="^" line="31" column="53" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/WechatAppApi/src/main/java/com/uf/wechat/miniapp/bean/WechatMiniAppUserLoginResponse.java" timestamp="1563259363968">
+      <file name="$USER_HOME$/gitBucket/membersystem/WechatAppApi/src/main/java/com/uf/wechat/miniapp/bean/WechatMiniAppUserLoginResponse.java" timestamp="1563259514160">
         <mark key="[" line="4" column="26" />
-        <mark key="]" line="4" column="26" />
-        <mark key="^" line="4" column="26" />
-        <mark key="." line="4" column="26" />
+        <mark key="]" line="15" column="4" />
+        <mark key="^" line="15" column="4" />
+        <mark key="." line="15" column="4" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/schedule/Scheduler.java" timestamp="1563188996478">
         <mark key="[" line="58" column="29" />
@@ -266,6 +266,9 @@
         <mark key="." line="32" column="72" />
         <mark key="^" line="32" column="72" />
       </file>
+      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-admin-service/src/main/java/com/moodys/sav/admin/service/impl/AdminServiceImpl.java" timestamp="1563260314500">
+        <mark key="'" line="44" column="24" />
+      </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/storemanager/RestfulResponse.java" timestamp="1561453546294">
         <mark key="'" line="23" column="41" />
         <mark key="[" line="23" column="50" />
@@ -301,6 +304,7 @@
         <mark key="." line="38" column="40" />
         <mark key="^" line="38" column="40" />
       </file>
+      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/sf-data-provider/src/main/resources/com/moodys/sav/data/bean/DealInfo.hbm.xml" timestamp="1563260022728" />
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/component/SpringBeans.java" timestamp="1562915559621">
         <mark key="'" line="23" column="25" />
         <mark key="[" line="69" column="75" />
@@ -315,7 +319,7 @@
         <mark key="." line="37" column="0" />
         <mark key="^" line="38" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563252194700">
+      <file name="/Dummy.txt" timestamp="1563259570390">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -354,8 +358,8 @@
         <mark key="." line="65" column="140" />
         <mark key="^" line="65" column="140" />
       </file>
-      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/service/impl/DealSyncServiceImpl.java" timestamp="1563174646084">
-        <mark key="'" line="18" column="58" />
+      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/service/impl/DealSyncServiceImpl.java" timestamp="1563260375873">
+        <mark key="'" line="63" column="15" />
         <mark key="[" line="176" column="16" />
         <mark key="]" line="176" column="27" />
         <mark key="." line="196" column="60" />
@@ -415,11 +419,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="8" filename="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/service/ApiGatewayUtil.java" />
-      <jump line="45" column="8" filename="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/service/ApiGatewayUtil.java" />
-      <jump line="46" column="8" filename="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/service/ApiGatewayUtil.java" />
-      <jump line="48" column="8" filename="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/service/ApiGatewayUtil.java" />
-      <jump line="49" column="8" filename="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/service/ApiGatewayUtil.java" />
       <jump line="120" column="19" filename="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/service/ApiGatewayUtil.java" />
       <jump line="198" column="0" filename="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/service/ApiGatewayUtil.java" />
       <jump line="326" column="0" filename="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/service/ApiGatewayUtil.java" />
@@ -515,6 +514,11 @@
       <jump line="2113" column="0" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadPoolExecutor.java" />
       <jump line="12" column="34" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AccountService.java" />
       <jump line="75" column="8" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AccountService.java" />
+      <jump line="21" column="31" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-admin-service/src/main/java/com/moodys/sav/admin/service/impl/AdminServiceImpl.java" />
+      <jump line="90" column="52" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-admin-service/src/main/java/com/moodys/sav/admin/service/impl/AdminServiceImpl.java" />
+      <jump line="44" column="24" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-admin-service/src/main/java/com/moodys/sav/admin/service/impl/AdminServiceImpl.java" />
+      <jump line="31" column="24" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/service/impl/DealSyncServiceImpl.java" />
+      <jump line="63" column="15" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/service/impl/DealSyncServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -524,7 +528,7 @@
         <text>_</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxXZWNoYXRNaW5pQXBwVXNlckxvZ2luUmVzcG9uc2VcPg==</text>
+        <text encoding="base64">XDxkZWFsSW5mb0Rhb1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
@@ -561,9 +565,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxXZWNoYXRNaW5pQXBwVXNlckxvZ2luUmVzcG9uc2VcPg==</last-search>
+      <last-search encoding="base64">XDxkZWFsSW5mb0Rhb1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxXZWNoYXRNaW5pQXBwVXNlckxvZ2luUmVzcG9uc2VcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxkZWFsSW5mb0Rhb1w+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZXNwb25zZVw+</last-substitute>
       <last-dir>1</last-dir>
@@ -571,9 +575,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRJTG9nZ2VyRmFjdG9yeVw+</entry>
-        <entry encoding="base64">XDxmaWxlQXBwZW5kZXJcPg==</entry>
-        <entry encoding="base64">XDxsb2dnZXJcPg==</entry>
         <entry encoding="base64">XDxmaWxsTWlzc2VkQXBwb2ludFBvaW50XD4=</entry>
         <entry encoding="base64">XDxmaW5kUG9zc2libGVTdGF0aWNMb2dnZXJCaW5kZXJQYXRoU2V0XD4=</entry>
         <entry encoding="base64">XDxTdGF0aWNMb2dnZXJCaW5kZXJcPg==</entry>
@@ -591,6 +592,9 @@
         <entry encoding="base64">XDxNeUV2ZW50QnVzXD4=</entry>
         <entry encoding="base64">XDxldmVudEJ1c1w+</entry>
         <entry encoding="base64">XDxXZWNoYXRNaW5pQXBwVXNlckxvZ2luUmVzcG9uc2VcPg==</entry>
+        <entry encoding="base64">XDxEZWFsSW5mb0Rhb1w+</entry>
+        <entry encoding="base64">XDxkZWFsRGFvXD4=</entry>
+        <entry encoding="base64">XDxkZWFsSW5mb0Rhb1w+</entry>
       </history-search>
       <history-cmd>
         <entry>maps</entry>
