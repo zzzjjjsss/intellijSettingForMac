@@ -203,6 +203,9 @@
   <action id="ShowContent">
     <keyboard-shortcut first-keystroke="shift ctrl down" />
   </action>
+  <action id="ShowIntentionActions">
+    <keyboard-shortcut first-keystroke="meta enter" />
+  </action>
   <action id="ShowPopupMenu">
     <keyboard-shortcut first-keystroke="ctrl meta down" />
   </action>
