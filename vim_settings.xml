@@ -35,12 +35,12 @@
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-supervisory/src/main/java/com/moodys/sav/sfs/supervisory/task/ExportFailedBlendTasks.java" timestamp="1563427545897">
         <mark key="[" line="18" column="74" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/WechatAppApi/src/main/java/com/uf/wechat/miniapp/WechatApi.java" timestamp="1563259195923">
+      <file name="$USER_HOME$/gitBucket/membersystem/WechatAppApi/src/main/java/com/uf/wechat/miniapp/WechatApi.java" timestamp="1563440410119">
         <mark key="'" line="66" column="8" />
-        <mark key="[" line="19" column="18" />
-        <mark key="]" line="19" column="26" />
-        <mark key="^" line="19" column="26" />
-        <mark key="." line="19" column="26" />
+        <mark key="[" line="163" column="49" />
+        <mark key="]" line="163" column="51" />
+        <mark key="^" line="163" column="51" />
+        <mark key="." line="163" column="51" />
       </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/schedule/DealCusipsSyncTask.java" timestamp="1561691985129">
         <mark key="'" line="65" column="17" />
@@ -424,6 +424,9 @@
         <mark key="." line="65" column="140" />
         <mark key="^" line="65" column="140" />
       </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/WechatAppApi/src/main/java/com/uf/wechat/miniapp/util/HttpsUtil.java" timestamp="1563440427336">
+        <mark key="'" line="142" column="25" />
+      </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/time/LocalDateTime.java" timestamp="1563357077648">
         <mark key="'" line="1181" column="25" />
       </file>
@@ -500,7 +503,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="33" filename="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/ApplicationInit.java" />
       <jump line="29" column="12" filename="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/ApplicationInit.java" />
       <jump line="30" column="12" filename="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/ApplicationInit.java" />
       <jump line="31" column="12" filename="$USER_HOME$/gitBucket/membersystem/DeployAdmin/src/main/java/com/uf/member/deploy/ApplicationInit.java" />
@@ -600,13 +602,14 @@
       <jump line="384" column="106" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-supervisory/src/main/java/com/moodys/sav/sfs/supervisory/monitor/JobOutputZipMonitor.java" />
       <jump line="377" column="12" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-supervisory/src/main/java/com/moodys/sav/sfs/supervisory/monitor/JobOutputZipMonitor.java" />
       <jump line="58" column="37" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-supervisory/src/main/java/com/moodys/sav/sfs/supervisory/task/FetchFromS3AndParserJsonTask.java" />
+      <jump line="142" column="25" filename="$USER_HOME$/gitBucket/membersystem/WechatAppApi/src/main/java/com/uf/wechat/miniapp/util/HttpsUtil.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>430</text>
       </register>
       <register name="-" type="4">
-        <text>var4</text>
+        <text>430</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleHBvcnRQYXRoU3VtbWFyeVRhc2tcPg==</text>
