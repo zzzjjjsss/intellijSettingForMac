@@ -382,10 +382,11 @@
         <mark key="." line="38" column="40" />
         <mark key="^" line="38" column="40" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/util/Test.java" timestamp="1563534045808">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/util/Test.java" timestamp="1563762916893">
+        <mark key="[" line="12" column="8" />
+        <mark key="]" line="12" column="112" />
+        <mark key="^" line="12" column="112" />
+        <mark key="." line="12" column="112" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/component/SpringBeans.java" timestamp="1562915559621">
         <mark key="'" line="23" column="25" />
@@ -401,17 +402,17 @@
         <mark key="^" line="28" column="74" />
         <mark key="." line="28" column="74" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563538880328">
+      <file name="/Dummy.txt" timestamp="1563763001407">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/GetInfoService.java" timestamp="1563761630285">
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/GetInfoService.java" timestamp="1563762961920">
         <mark key="'" line="88" column="16" />
-        <mark key="[" line="63" column="47" />
-        <mark key="]" line="63" column="82" />
-        <mark key="." line="63" column="82" />
-        <mark key="^" line="63" column="82" />
+        <mark key="[" line="90" column="135" />
+        <mark key="]" line="90" column="135" />
+        <mark key="." line="90" column="135" />
+        <mark key="^" line="90" column="135" />
       </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/dealsync/DealCusipsSynchronizer.java" timestamp="1561703842143">
         <mark key="'" line="52" column="23" />
@@ -549,43 +550,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>java.time.LocalDate.parse(dateStr);</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>java.time.LocalDate.parse(dateStr);</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb25zdW1lSW5mb1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBqYXZhLnRpbWUuTG9jYWxEYXRlIGRhdGU9amF2YS50aW1lLkxvY2FsRGF0ZS5wYXJzZSgiMjAxOS0wNy0wMiIsIGZvcm1hdHRlcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkYXRlLnRvSW5zdGFudCgpLmF0Wm9uZShab25lSWQuc3lzdGVtRGVmYXVsdCgpKS50b0xvY2FsRGF0ZVRpbWUoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkYXRlRm9ybWF0LmZvcm1hdChjYXJkLmdldEVuZERhdGUoKS50b0luc3RhbnQoKSkKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBMb2NhbERhdGUucGFyc2UoZGF0ZSwgRGF0ZVRpbWVGb3JtYXR0ZXIub2ZQYXR0ZXJuKCJ5eXl5LU1NLWRkIikpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChQYXJzZUV4Y2VwdGlvbiBlKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBqYXZhLnRpbWUuTG9jYWxEYXRlIGRhdGU9amF2YS50aW1lLkxvY2FsRGF0ZS5wYXJzZSgiMjAxOS0wNy0wMiIsIGZvcm1hdHRlcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBEYXRlVGltZUZvcm1hdHRlciBmb3JtYXR0ZXIgPSBuZXcgRGF0ZVRpbWVGb3JtYXR0ZXJCdWlsZGVyKCkKICAgICAgICAgICAgICAgIC5hcHBlbmRWYWx1ZShZRUFSLCA0LCAxMCwgU2lnblN0eWxlLkVYQ0VFRFNfUEFEKQogICAgICAgICAgICAgICAgLmFwcGVuZExpdGVyYWwoJy0nKQogICAgICAgICAgICAgICAgLmFwcGVuZFZhbHVlKE1PTlRIX09GX1lFQVIsIDEsMixTaWduU3R5bGUuTk9STUFMKQogICAgICAgICAgICAgICAgLmFwcGVuZExpdGVyYWwoJy0nKQogICAgICAgICAgICAgICAgLmFwcGVuZFZhbHVlKERBWV9PRl9NT05USCwgMSwyLFNpZ25TdHlsZS5OT1JNQUwpLnRvRm9ybWF0dGVyKCk7Cgo=</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChQYXJzZUV4Y2VwdGlvbiBlKSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZm9ybWF0dGVyLnBhcnNlKGRhdGVTdHIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBqYXZhLnRpbWUuTG9jYWxEYXRlIGRhdGU9amF2YS50aW1lLkxvY2FsRGF0ZS5wYXJzZSgiMjAxOS0wNy0wMiIsIGZvcm1hdHRlcik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBMb2NhbERhdGUgbG9jYWxEYXRlPW5ldyBMb2NhbERhdGUoKQo=</text>
+        <text encoding="base64">ICAgICAgICBEYXRlVGltZUZvcm1hdHRlciBmb3JtYXR0ZXIgPSBuZXcgRGF0ZVRpbWVGb3JtYXR0ZXJCdWlsZGVyKCkKICAgICAgICAgICAgICAgIC5hcHBlbmRWYWx1ZShZRUFSLCA0LCAxMCwgU2lnblN0eWxlLkVYQ0VFRFNfUEFEKQogICAgICAgICAgICAgICAgLmFwcGVuZExpdGVyYWwoJy0nKQogICAgICAgICAgICAgICAgLmFwcGVuZFZhbHVlKE1PTlRIX09GX1lFQVIsIDEsMixTaWduU3R5bGUuTk9STUFMKQogICAgICAgICAgICAgICAgLmFwcGVuZExpdGVyYWwoJy0nKQogICAgICAgICAgICAgICAgLmFwcGVuZFZhbHVlKERBWV9PRl9NT05USCwgMSwyLFNpZ25TdHlsZS5OT1JNQUwpLnRvRm9ybWF0dGVyKCk7Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>map</text>
