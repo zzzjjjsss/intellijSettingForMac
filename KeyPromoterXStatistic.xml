@@ -65,6 +65,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Refresh">
+        <Item>
+          <IdeaActionID>Vcs.Log.Refresh</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Refresh</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Revert...">
         <Item>
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
