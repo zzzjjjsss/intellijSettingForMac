@@ -4,6 +4,8 @@
       <mapping ext="ftl" type="HTML" />
       <mapping pattern="appointmentDownload" type="PLAIN_TEXT" />
       <mapping pattern="tmep" type="PLAIN_TEXT" />
+      <mapping pattern="uploadDeviationFile" type="PLAIN_TEXT" />
+      <mapping ext="twig" type="PLAIN_TEXT" />
       <removed_mapping ext="ftl" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
