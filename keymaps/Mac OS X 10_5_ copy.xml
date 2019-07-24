@@ -89,7 +89,7 @@
   </action>
   <action id="EditorUpWithSelection">
     <keyboard-shortcut first-keystroke="shift up" />
-    <keyboard-shortcut first-keystroke="shift ctrl p" />
+    <keyboard-shortcut first-keystroke="shift ctrl l" />
   </action>
   <action id="ExpandExpandableComponent">
     <keyboard-shortcut first-keystroke="meta add" />
