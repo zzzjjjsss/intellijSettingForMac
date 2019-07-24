@@ -102,8 +102,8 @@
         <mark key="^" line="36" column="58" />
         <mark key="." line="36" column="30" />
       </file>
-      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-web/src/main/webapp/WEB-INF/views/admin/fileUpload.html.twig" timestamp="1563951327381">
-        <mark key="'" line="765" column="36" />
+      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-web/src/main/webapp/WEB-INF/views/admin/fileUpload.html.twig" timestamp="1563953665877">
+        <mark key="'" line="413" column="4" />
         <mark key="j" line="1034" column="57" />
         <mark key="[" line="697" column="35" />
         <mark key="]" line="697" column="35" />
@@ -189,12 +189,12 @@
         <mark key="'" line="632" column="31" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/time/LocalDate.java" timestamp="1563360958007" />
-      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-web/src/main/java/com/moodys/sav/sfs/web/controller/FileUploadController.java" timestamp="1563951493924">
-        <mark key="'" line="338" column="23" />
-        <mark key="[" line="338" column="23" />
-        <mark key="]" line="338" column="30" />
-        <mark key="^" line="338" column="30" />
-        <mark key="." line="338" column="30" />
+      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-web/src/main/java/com/moodys/sav/sfs/web/controller/FileUploadController.java" timestamp="1563953946922">
+        <mark key="'" line="363" column="23" />
+        <mark key="[" line="164" column="43" />
+        <mark key="]" line="164" column="57" />
+        <mark key="^" line="164" column="57" />
+        <mark key="." line="164" column="57" />
       </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-admin-service/src/main/java/com/moodys/sav/admin/service/impl/AdminServiceImpl.java" timestamp="1563260314500">
         <mark key="'" line="44" column="24" />
@@ -229,10 +229,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="110" column="10" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-web/target/sfs-web-1.2/WEB-INF/views/admin/uploadDeviationFile.html.twig" />
-      <jump line="116" column="10" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-web/target/sfs-web-1.2/WEB-INF/views/admin/uploadDeviationFile.html.twig" />
-      <jump line="62" column="75" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-web/target/sfs-web-1.2/WEB-INF/views/admin/uploadDeviationFile.html.twig" />
-      <jump line="159" column="20" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-web/target/sfs-web-1.2/WEB-INF/views/admin/uploadDeviationFile.html.twig" />
       <jump line="65" column="19" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-web/target/sfs-web-1.2/WEB-INF/views/admin/uploadDeviationFile.html.twig" />
       <jump line="69" column="0" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-web/target/sfs-web-1.2/WEB-INF/views/admin/uploadDeviationFile.html.twig" />
       <jump line="77" column="26" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-web/target/sfs-web-1.2/WEB-INF/views/admin/uploadDeviationFile.html.twig" />
@@ -316,9 +312,7 @@
       <jump line="4" column="0" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-data-access/src/main/java/com/moodys/sav/sfs/data/dao/impl/mysql/DeviationFileInfoDaoImpl.java" />
       <jump line="481" column="70" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-web/src/main/webapp/WEB-INF/views/admin/fileUpload.html.twig" />
       <jump line="744" column="9" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-web/src/main/webapp/WEB-INF/views/admin/fileUpload.html.twig" />
-      <jump line="465" column="9" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-web/src/main/webapp/WEB-INF/views/admin/fileUpload.html.twig" />
       <jump line="791" column="28" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-web/src/main/webapp/WEB-INF/views/admin/fileUpload.html.twig" />
-      <jump line="413" column="4" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-web/src/main/webapp/WEB-INF/views/admin/fileUpload.html.twig" />
       <jump line="1020" column="28" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-web/src/main/webapp/WEB-INF/views/admin/fileUpload.html.twig" />
       <jump line="697" column="20" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-web/src/main/webapp/WEB-INF/views/admin/fileUpload.html.twig" />
       <jump line="56" column="28" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-web/src/main/webapp/WEB-INF/views/admin/fileUpload.html.twig" />
@@ -329,55 +323,61 @@
       <jump line="692" column="70" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-web/src/main/webapp/WEB-INF/views/admin/fileUpload.html.twig" />
       <jump line="765" column="36" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-web/src/main/webapp/WEB-INF/views/admin/fileUpload.html.twig" />
       <jump line="338" column="23" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-web/src/main/java/com/moodys/sav/sfs/web/controller/FileUploadController.java" />
+      <jump line="677" column="9" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-web/src/main/webapp/WEB-INF/views/admin/fileUpload.html.twig" />
+      <jump line="1026" column="28" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-web/src/main/webapp/WEB-INF/views/admin/fileUpload.html.twig" />
+      <jump line="404" column="4" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-web/src/main/webapp/WEB-INF/views/admin/fileUpload.html.twig" />
+      <jump line="797" column="28" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-web/src/main/webapp/WEB-INF/views/admin/fileUpload.html.twig" />
+      <jump line="465" column="9" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-web/src/main/webapp/WEB-INF/views/admin/fileUpload.html.twig" />
+      <jump line="413" column="4" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-web/src/main/webapp/WEB-INF/views/admin/fileUpload.html.twig" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>cmbs_overwrite_s3_path</text>
+        <text>getUploadUer</text>
       </register>
       <register name="-" type="4">
-        <text>cmbs_overwrite_s3_path</text>
+        <text>getUploadUer</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmaWxlUGF0aFw+</text>
+        <text encoding="base64">XDxnZXREZXZpYXRpb25GaWxlc0NvbnRlbnRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBMaXN0PERldmlhdGlvbkZpbGVJbmZvPiBmaW5kQWN0aXZlRmlsZUluZm8oKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJQWJzT3ZlcndyaXRlSW5mbyBhYnNPdmVyd3JpdGVJbmZvID0gYWJzT3ZlcndyaXRlSW5mb0Rhby5maW5kQnlJZChBYnNPdmVyd3JpdGVJbmZvLmNsYXNzLCBJbnRlZ2VyLnZhbHVlT2YoaW5mb0lkKSk7Cg==</text>
+        <text encoding="base64">CQkJCW9iai5wdXQoInZlcnNpb24iLCBpbmZvLmdldFZlcnNpb24oKSA9PSBudWxsID8gIiIgOiBpbmZvLmdldFZlcnNpb24oKSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJZGUuZGVsZXRlKGV4ZUluZm8pOwo=</text>
+        <text encoding="base64">CQlMaXN0PEV4ZUluZm8+IGV4ZXMgPSBleGVEYW8uZmluZEFsbChFeGVJbmZvLmNsYXNzKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJRXhlSW5mbyBleGVJbmZvID0gZXhlRGFvLmZpbmRCeUlkKEV4ZUluZm8uY2xhc3MsIEludGVnZXIudmFsdWVPZihpbmZvSWQpKTsK</text>
+        <text encoding="base64">CQkJQWJzT3ZlcndyaXRlSW5mbyBhYnNPdmVyd3JpdGVJbmZvID0gYWJzT3ZlcndyaXRlSW5mb0Rhby5maW5kQnlJZChBYnNPdmVyd3JpdGVJbmZvLmNsYXNzLCBJbnRlZ2VyLnZhbHVlT2YoaW5mb0lkKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCX0qLwo=</text>
+        <text encoding="base64">CQkJZGUuZGVsZXRlKGV4ZUluZm8pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQlyZXR1cm4gImV4c2l0IGFjdGl2ZSBleGUgZmlsZSxhbmQgb25seSBvbmUgYWN0aXZlIGV4ZSBmaWxlIGlzIGFsbG93ZWQgISAgIjsK</text>
+        <text encoding="base64">CQkJRXhlSW5mbyBleGVJbmZvID0gZXhlRGFvLmZpbmRCeUlkKEV4ZUluZm8uY2xhc3MsIEludGVnZXIudmFsdWVPZihpbmZvSWQpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCS8qaWYgKGRldmlhdGlvbkluZm9zICE9IG51bGwgJiYgZXhlSW5mb3Muc2l6ZSgpID4gMCAmJiBzdGF0dXMuZXF1YWxzSWdub3JlQ2FzZSgiYWN0aXZlIikpIHsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJCQlkZXZpYXRpb25GaWxlSW5mby5zZXRWZXJzaW9uKHZlcnNpb24pOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">CQkJCX0qLwo=</text>
       </register>
-      <register name="9" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQkJCQlyZXR1cm4gImV4c2l0IGFjdGl2ZSBleGUgZmlsZSxhbmQgb25seSBvbmUgYWN0aXZlIGV4ZSBmaWxlIGlzIGFsbG93ZWQgISAgIjsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQkJCS8qaWYgKGRldmlhdGlvbkluZm9zICE9IG51bGwgJiYgZXhlSW5mb3Muc2l6ZSgpID4gMCAmJiBzdGF0dXMuZXF1YWxzSWdub3JlQ2FzZSgiYWN0aXZlIikpIHsK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">CQkJCQlkZXZpYXRpb25GaWxlSW5mby5zZXRWZXJzaW9uKHZlcnNpb24pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>map</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmaWxlUGF0aFw+</last-search>
+      <last-search encoding="base64">XDxnZXREZXZpYXRpb25GaWxlc0NvbnRlbnRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmaWxlUGF0aFw+</last-pattern>
+      <last-pattern encoding="base64">XDxnZXREZXZpYXRpb25GaWxlc0NvbnRlbnRcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxpc1Rhc2tFbmRcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -397,14 +397,14 @@
         <entry encoding="base64">XDxleGVGb3JtXD4=</entry>
         <entry encoding="base64">XDxkZXZpYXRpb25GaWxlSW5mb0Zvcm1cPg==</entry>
         <entry encoding="base64">XDxidWlsZEV4ZUluZm9PcGVyYXRpb25nQ2VsbFw+</entry>
-        <entry encoding="base64">XDxnZXRFeGVGaWxlc0NvbnRlbnRcPg==</entry>
-        <entry encoding="base64">XDxnZXREZXZpYXRpb25GaWxlc0NvbnRlbnRcPg==</entry>
         <entry encoding="base64">XDx1cGxvYWRFeGVDb250ZW50XD4=</entry>
         <entry encoding="base64">XDx1cGxvYWREZXZpYXRpb25Nb2RlbFw+</entry>
         <entry encoding="base64">XDx1cGxvYWREZXZpYXRpb25Db250ZW50XD4=</entry>
         <entry encoding="base64">XDxidWlsZERldmlhdGlvbkluZm9PcGVyYXRpb25nQ2VsbFw+</entry>
         <entry encoding="base64">XDxkb3dubG9hZERldmlhdGlvbkZpbGVcPg==</entry>
         <entry encoding="base64">XDxmaWxlUGF0aFw+</entry>
+        <entry encoding="base64">XDxnZXRFeGVGaWxlc0NvbnRlbnRcPg==</entry>
+        <entry encoding="base64">XDxnZXREZXZpYXRpb25GaWxlc0NvbnRlbnRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>maps</entry>
