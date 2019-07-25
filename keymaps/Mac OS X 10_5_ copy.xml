@@ -103,7 +103,9 @@
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="meta o" />
   </action>
-  <action id="FindNext" />
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="ctrl meta n" />
+  </action>
   <action id="FindUsages" />
   <action id="Generate">
     <keyboard-shortcut first-keystroke="ctrl enter" />
