@@ -168,11 +168,11 @@
         <mark key="^" line="12" column="27" />
         <mark key="." line="12" column="27" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/appointment/AppointmentsInfoResponse.java" timestamp="1564056704253">
-        <mark key="[" line="7" column="63" />
-        <mark key="]" line="10" column="47" />
-        <mark key="^" line="10" column="47" />
-        <mark key="." line="10" column="47" />
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/appointment/AppointmentsInfoResponse.java" timestamp="1564058513654">
+        <mark key="[" line="8" column="61" />
+        <mark key="]" line="10" column="3" />
+        <mark key="^" line="10" column="3" />
+        <mark key="." line="10" column="3" />
       </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-supervisory/src/main/java/com/moodys/sav/sfs/supervisory/task/ExportFailedBlendTasks.java" timestamp="1563427545897">
         <mark key="[" line="18" column="74" />
@@ -183,11 +183,11 @@
         <mark key="^" line="5" column="22" />
         <mark key="." line="5" column="12" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/appointment/Appointment.java" timestamp="1564057156793">
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/appointment/Appointment.java" timestamp="1564057252898">
         <mark key="[" line="5" column="11" />
-        <mark key="]" line="2" column="12" />
-        <mark key="^" line="2" column="12" />
-        <mark key="." line="2" column="12" />
+        <mark key="]" line="9" column="38" />
+        <mark key="^" line="9" column="38" />
+        <mark key="." line="9" column="38" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/cache/EhcacheService.java" timestamp="1563258985286">
         <mark key="[" line="86" column="16" />
