@@ -44,6 +44,10 @@
   <action id="DuplicatesForm.SendToRight" />
   <action id="EditorChooseLookupItemDot" />
   <action id="EditorCutLineEnd" />
+  <action id="EditorDelete">
+    <keyboard-shortcut first-keystroke="delete" />
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
   <action id="EditorDeleteToLineEnd">
     <keyboard-shortcut first-keystroke="ctrl k" />
   </action>
@@ -183,12 +187,10 @@
     <keyboard-shortcut first-keystroke="shift meta v" />
     <keyboard-shortcut first-keystroke="shift ctrl v" />
   </action>
-  <action id="QuickImplementations">
-    <keyboard-shortcut first-keystroke="meta d" />
-  </action>
+  <action id="QuickImplementations" />
   <action id="QuickJavaDoc">
     <mouse-shortcut keystroke="control button2" />
-    <keyboard-shortcut first-keystroke="ctrl d" />
+    <keyboard-shortcut first-keystroke="meta d" />
   </action>
   <action id="Refactorings.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="ctrl r" />
