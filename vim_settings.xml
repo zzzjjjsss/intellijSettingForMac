@@ -266,7 +266,7 @@
         <mark key="." line="10" column="49" />
         <mark key="^" line="10" column="49" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/ResourceCategory.java" timestamp="1564122821514">
+      <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/ResourceCategory.java" timestamp="1564125971430">
         <mark key="[" line="15" column="3" />
         <mark key="]" line="15" column="3" />
         <mark key="^" line="15" column="3" />
@@ -321,6 +321,12 @@
         <mark key="^" line="6" column="24" />
         <mark key="." line="6" column="24" />
       </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/ResourceImage.java" timestamp="1564126917032">
+        <mark key="[" line="12" column="11" />
+        <mark key="]" line="14" column="24" />
+        <mark key="." line="14" column="24" />
+        <mark key="^" line="14" column="24" />
+      </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-supervisory/src/main/java/com/moodys/sav/sfs/supervisory/task/ExportSummaryTask.java" timestamp="1563427593659">
         <mark key="[" line="16" column="72" />
       </file>
@@ -339,11 +345,11 @@
         <mark key="." line="61" column="0" />
         <mark key="^" line="61" column="0" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/ScheduleResource.java" timestamp="1564122546010">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="^" line="33" column="0" />
-        <mark key="." line="33" column="0" />
+      <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/ScheduleResource.java" timestamp="1564127008758">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="^" line="34" column="47" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-cmm-proxy/src/main/java/com/moodys/sav/sfs/cmm/generator/v4/OneAccountCmmDataGenerator.java" timestamp="1564123825494">
         <mark key="'" line="184" column="69" />
@@ -515,11 +521,11 @@
       <jump line="86" column="0" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-cmm-proxy/src/main/java/com/moodys/sav/sfs/cmm/generator/v4/CmmDataGeneratorTask.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;1 month CD rate&quot;.equalsIgnoreCase(item.getIndexName().trim())</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;1 month CD rate&quot;.equalsIgnoreCase(item.getIndexName().trim())</text>
+        <text>Boolean isHeadImg;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzY2VuYXJpb0luZm9cPg==</text>
@@ -528,31 +534,31 @@
         <text encoding="base64">QEVudGl0eQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBDYXNjYWRlVHlwZS5NRVJHRQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBDYXNjYWRlVHlwZS5QRVJTSVNULAo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgYnl0ZVtdIGltYWdlQ29udGVudHM7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FzY2FkZSA9IHsK</text>
+        <text encoding="base64">ICAgIEBDb2x1bW4oY29sdW1uRGVmaW5pdGlvbiA9ICJiaW5hcnkiKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QEVudGl0eQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBDYXNjYWRlVHlwZS5NRVJHRQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">TGlzdFJlc291cmNlc1Jlc3BvbnNlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBDYXNjYWRlVHlwZS5QRVJTSVNULAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXNwb25zZS5zZXRSZXNvdXJjZXMoYXBwb2ludG1lbnRTZXJ2aWNlLmZpbmRBbGxSZXNvdXJjZXMoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzY2FkZSA9IHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CUBSZXF1ZXN0TWFwcGluZyh2YWx1ZSA9ICJhcHBvaW50T25lUmVzb3VyY2UiLCBtZXRob2QgPSBSZXF1ZXN0TWV0aG9kLlBPU1QpCglwdWJsaWMgUmVzdGZ1bFJlc3BvbnNlIGFwcG9pbnRPbmVSZXNvdXJjZShAUmVxdWVzdEhlYWRlcih2YWx1ZSA9ICJUb2tlbiIpIFN0cmluZyB0b2tlbiwgQFJlcXVlc3RCb2R5IEFwcG9pbnRSZXNvdXJjZVJlcXVlc3QgcmVxdWVzdCkgdGhyb3dzIEV4Y2VwdGlvbiB7CgkJUmVzdGZ1bFJlc3BvbnNlIHJlc3BvbnNlID0gbmV3IFJlc3RmdWxSZXNwb25zZSgpOwoJCUN1c3RvbWVyIGN1c3RvbWVyID0gKEN1c3RvbWVyKSBjYWNoZS5nZXRDYWNoZWRPYmplY3QoQ2FjaGVPYmplY3RUeXBlLlNFU1NJT04sIHRva2VuKTsKCQlsb2dnZXIuaW5mbygiY3VzdG9tZXI6IitjdXN0b21lci5nZXRDYXJkTnVtYmVyKCkrIiAgc3RhcnQgdG8gYXBwb2ludCBvbmUgcmVzb3VyY2UsYXBwb2ludCBpZDoiK3JlcXVlc3QuZ2V0QXBwb2ludElkKCkpOwoJCU9wZXJhdGlvblJlc3VsdDxSZXNvdXJjZUFwcG9pbnRtZW50PiByZXN1bHQgPSBhcHBvaW50bWVudFNlcnZpY2UuYXBwb2ludE9uZVJlc291cmNlKGN1c3RvbWVyLCByZXF1ZXN0LmdldEFwcG9pbnRJZCgpLHJlcXVlc3QuZ2V0Q3VzdG9tZXJOYW1lKCkscmVxdWVzdC5nZXRSZW1hcmsoKSk7CgkJbG9nZ2VyLmluZm8oImN1c3RvbWVyOiIrY3VzdG9tZXIuZ2V0Q2FyZE51bWJlcigpKyIgICBhcHBvaW50IG9uZSByZXNvdXJjZSBmaW5pc2hlZCAsYXBwb2ludCBpZDoiK3JlcXVlc3QuZ2V0QXBwb2ludElkKCkpOwoJCWlmIChyZXN1bHQuaXNTdWNjZXNzKCkpIHsKCQkJYXBwb2ludG1lbnRTZXJ2aWNlLm5vdGlmeUN1c3RvbWVyQXBwb2ludFN1YyhyZXN1bHQuZ2V0UmVzdWx0VmFsdWUoKSwgY3VzdG9tZXIpOwoJCQlyZXNwb25zZS5zZXRSZXN1bHRDb2RlKFJlc3VsdENvZGUuT0spOwoJCX0gZWxzZSB7CgkJCXJlc3BvbnNlLnNldFJlc3VsdENvZGUoUmVzdWx0Q29kZS5GQUlMKTsKCQkJcmVzcG9uc2Uuc2V0TWVzKHJlc3VsdC5nZXRFcnJvck1lc3NhZ2UoKSk7CgkJfQoJCXJldHVybiByZXNwb25zZTsKCX0K</text>
+        <text encoding="base64">QEVudGl0eQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">TGlzdFJlc291cmNlc1Jlc3BvbnNlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzd2l0Y2ggKHRpbWVTZWdtZW50U3RyKXsKICAgICAgICAgICAgY2FzZSAKICAgICAgICAgICAgICAgIHJldHVybiBNT1JOSU5HOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXNwb25zZS5zZXRSZXNvdXJjZXMoYXBwb2ludG1lbnRTZXJ2aWNlLmZpbmRBbGxSZXNvdXJjZXMoKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>map</text>
