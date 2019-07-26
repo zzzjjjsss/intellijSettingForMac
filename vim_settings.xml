@@ -201,6 +201,10 @@
         <mark key="^" line="86" column="21" />
         <mark key="." line="86" column="21" />
       </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/RechargeRecord.java" timestamp="1564120269869">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="7" />
+      </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/sf-cloud-provider/src/test/java/com/moodys/sav/cloud/mq/ActiveMqTest.java" timestamp="1563158007502">
         <mark key="[" line="34" column="61" />
         <mark key="]" line="34" column="139" />
@@ -230,6 +234,12 @@
         <mark key="]" line="10" column="49" />
         <mark key="." line="10" column="49" />
         <mark key="^" line="10" column="49" />
+      </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/ResourceCategory.java" timestamp="1564120309304">
+        <mark key="[" line="5" column="31" />
+        <mark key="]" line="9" column="24" />
+        <mark key="." line="9" column="24" />
+        <mark key="^" line="9" column="24" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/appointment/TimeSegmentAppointItemStatusEnum.java" timestamp="1563971759256">
         <mark key="[" line="3" column="3" />
@@ -291,6 +301,9 @@
         <mark key="]" line="61" column="0" />
         <mark key="." line="61" column="0" />
         <mark key="^" line="61" column="0" />
+      </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/ScheduleResource.java" timestamp="1564120342440">
+        <mark key="[" line="29" column="0" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/event/MyEventBus.java" timestamp="1563252183665">
         <mark key="[" line="19" column="128" />
@@ -456,8 +469,8 @@
       <jump line="31" column="78" filename="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/ResourceAppointmentRepo.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>ListCategorysResponse</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">TGlzdFJlc291cmNlc1Jlc3BvbnNlCg==</text>
       </register>
       <register name="-" type="4">
         <text>ListCategorysResponse</text>
@@ -466,25 +479,25 @@
         <text encoding="base64">XDxhcHBvaW50VGltZVBvaW50XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGRhdGU7Cg==</text>
+        <text encoding="base64">QEVudGl0eQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXNwb25zZS5zZXRSZXNvdXJjZXMoYXBwb2ludG1lbnRTZXJ2aWNlLmZpbmRBbGxSZXNvdXJjZXMoKSk7Cg==</text>
+        <text encoding="base64">TGlzdFJlc291cmNlc1Jlc3BvbnNlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CUBSZXF1ZXN0TWFwcGluZyh2YWx1ZSA9ICJhcHBvaW50T25lUmVzb3VyY2UiLCBtZXRob2QgPSBSZXF1ZXN0TWV0aG9kLlBPU1QpCglwdWJsaWMgUmVzdGZ1bFJlc3BvbnNlIGFwcG9pbnRPbmVSZXNvdXJjZShAUmVxdWVzdEhlYWRlcih2YWx1ZSA9ICJUb2tlbiIpIFN0cmluZyB0b2tlbiwgQFJlcXVlc3RCb2R5IEFwcG9pbnRSZXNvdXJjZVJlcXVlc3QgcmVxdWVzdCkgdGhyb3dzIEV4Y2VwdGlvbiB7CgkJUmVzdGZ1bFJlc3BvbnNlIHJlc3BvbnNlID0gbmV3IFJlc3RmdWxSZXNwb25zZSgpOwoJCUN1c3RvbWVyIGN1c3RvbWVyID0gKEN1c3RvbWVyKSBjYWNoZS5nZXRDYWNoZWRPYmplY3QoQ2FjaGVPYmplY3RUeXBlLlNFU1NJT04sIHRva2VuKTsKCQlsb2dnZXIuaW5mbygiY3VzdG9tZXI6IitjdXN0b21lci5nZXRDYXJkTnVtYmVyKCkrIiAgc3RhcnQgdG8gYXBwb2ludCBvbmUgcmVzb3VyY2UsYXBwb2ludCBpZDoiK3JlcXVlc3QuZ2V0QXBwb2ludElkKCkpOwoJCU9wZXJhdGlvblJlc3VsdDxSZXNvdXJjZUFwcG9pbnRtZW50PiByZXN1bHQgPSBhcHBvaW50bWVudFNlcnZpY2UuYXBwb2ludE9uZVJlc291cmNlKGN1c3RvbWVyLCByZXF1ZXN0LmdldEFwcG9pbnRJZCgpLHJlcXVlc3QuZ2V0Q3VzdG9tZXJOYW1lKCkscmVxdWVzdC5nZXRSZW1hcmsoKSk7CgkJbG9nZ2VyLmluZm8oImN1c3RvbWVyOiIrY3VzdG9tZXIuZ2V0Q2FyZE51bWJlcigpKyIgICBhcHBvaW50IG9uZSByZXNvdXJjZSBmaW5pc2hlZCAsYXBwb2ludCBpZDoiK3JlcXVlc3QuZ2V0QXBwb2ludElkKCkpOwoJCWlmIChyZXN1bHQuaXNTdWNjZXNzKCkpIHsKCQkJYXBwb2ludG1lbnRTZXJ2aWNlLm5vdGlmeUN1c3RvbWVyQXBwb2ludFN1YyhyZXN1bHQuZ2V0UmVzdWx0VmFsdWUoKSwgY3VzdG9tZXIpOwoJCQlyZXNwb25zZS5zZXRSZXN1bHRDb2RlKFJlc3VsdENvZGUuT0spOwoJCX0gZWxzZSB7CgkJCXJlc3BvbnNlLnNldFJlc3VsdENvZGUoUmVzdWx0Q29kZS5GQUlMKTsKCQkJcmVzcG9uc2Uuc2V0TWVzKHJlc3VsdC5nZXRFcnJvck1lc3NhZ2UoKSk7CgkJfQoJCXJldHVybiByZXNwb25zZTsKCX0K</text>
+        <text encoding="base64">ICAgICAgICByZXNwb25zZS5zZXRSZXNvdXJjZXMoYXBwb2ludG1lbnRTZXJ2aWNlLmZpbmRBbGxSZXNvdXJjZXMoKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">CUBSZXF1ZXN0TWFwcGluZyh2YWx1ZSA9ICJhcHBvaW50T25lUmVzb3VyY2UiLCBtZXRob2QgPSBSZXF1ZXN0TWV0aG9kLlBPU1QpCglwdWJsaWMgUmVzdGZ1bFJlc3BvbnNlIGFwcG9pbnRPbmVSZXNvdXJjZShAUmVxdWVzdEhlYWRlcih2YWx1ZSA9ICJUb2tlbiIpIFN0cmluZyB0b2tlbiwgQFJlcXVlc3RCb2R5IEFwcG9pbnRSZXNvdXJjZVJlcXVlc3QgcmVxdWVzdCkgdGhyb3dzIEV4Y2VwdGlvbiB7CgkJUmVzdGZ1bFJlc3BvbnNlIHJlc3BvbnNlID0gbmV3IFJlc3RmdWxSZXNwb25zZSgpOwoJCUN1c3RvbWVyIGN1c3RvbWVyID0gKEN1c3RvbWVyKSBjYWNoZS5nZXRDYWNoZWRPYmplY3QoQ2FjaGVPYmplY3RUeXBlLlNFU1NJT04sIHRva2VuKTsKCQlsb2dnZXIuaW5mbygiY3VzdG9tZXI6IitjdXN0b21lci5nZXRDYXJkTnVtYmVyKCkrIiAgc3RhcnQgdG8gYXBwb2ludCBvbmUgcmVzb3VyY2UsYXBwb2ludCBpZDoiK3JlcXVlc3QuZ2V0QXBwb2ludElkKCkpOwoJCU9wZXJhdGlvblJlc3VsdDxSZXNvdXJjZUFwcG9pbnRtZW50PiByZXN1bHQgPSBhcHBvaW50bWVudFNlcnZpY2UuYXBwb2ludE9uZVJlc291cmNlKGN1c3RvbWVyLCByZXF1ZXN0LmdldEFwcG9pbnRJZCgpLHJlcXVlc3QuZ2V0Q3VzdG9tZXJOYW1lKCkscmVxdWVzdC5nZXRSZW1hcmsoKSk7CgkJbG9nZ2VyLmluZm8oImN1c3RvbWVyOiIrY3VzdG9tZXIuZ2V0Q2FyZE51bWJlcigpKyIgICBhcHBvaW50IG9uZSByZXNvdXJjZSBmaW5pc2hlZCAsYXBwb2ludCBpZDoiK3JlcXVlc3QuZ2V0QXBwb2ludElkKCkpOwoJCWlmIChyZXN1bHQuaXNTdWNjZXNzKCkpIHsKCQkJYXBwb2ludG1lbnRTZXJ2aWNlLm5vdGlmeUN1c3RvbWVyQXBwb2ludFN1YyhyZXN1bHQuZ2V0UmVzdWx0VmFsdWUoKSwgY3VzdG9tZXIpOwoJCQlyZXNwb25zZS5zZXRSZXN1bHRDb2RlKFJlc3VsdENvZGUuT0spOwoJCX0gZWxzZSB7CgkJCXJlc3BvbnNlLnNldFJlc3VsdENvZGUoUmVzdWx0Q29kZS5GQUlMKTsKCQkJcmVzcG9uc2Uuc2V0TWVzKHJlc3VsdC5nZXRFcnJvck1lc3NhZ2UoKSk7CgkJfQoJCXJldHVybiByZXNwb25zZTsKCX0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzd2l0Y2ggKHRpbWVTZWdtZW50U3RyKXsKICAgICAgICAgICAgY2FzZSAKICAgICAgICAgICAgICAgIHJldHVybiBNT1JOSU5HOwo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoTU9STklORy50b1N0cmluZygpLmVxdWFsc0lnbm9yZUNhc2UodGltZVNlZ21lbnRTdHIpKXsKICAgICAgICAgICAgcmV0dXJuIE1PUk5JTkc7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBzd2l0Y2ggKHRpbWVTZWdtZW50U3RyKXsKICAgICAgICAgICAgY2FzZSAKICAgICAgICAgICAgICAgIHJldHVybiBNT1JOSU5HOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoTU9STklORy50b1N0cmluZygpLmVxdWFsc0lnbm9yZUNhc2UodGltZVNlZ21lbnRTdHIpKXsKICAgICAgICAgICAgcmV0dXJuIE1PUk5JTkc7CiAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -493,7 +506,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>map</text>
