@@ -10,11 +10,11 @@
         <mark key="^" line="361" column="125" />
         <mark key="." line="361" column="125" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/storemanager/SaveResourceRequest.java" timestamp="1564372001743">
-        <mark key="[" line="7" column="19" />
-        <mark key="]" line="7" column="28" />
-        <mark key="." line="7" column="28" />
-        <mark key="^" line="7" column="28" />
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/storemanager/SaveResourceRequest.java" timestamp="1564374486809">
+        <mark key="[" line="14" column="12" />
+        <mark key="]" line="14" column="27" />
+        <mark key="." line="14" column="27" />
+        <mark key="^" line="14" column="27" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/storemanager/ResourceScheduleService.java" timestamp="1564369512668">
         <mark key="'" line="324" column="0" />
