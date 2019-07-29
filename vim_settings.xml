@@ -10,6 +10,12 @@
         <mark key="^" line="361" column="125" />
         <mark key="." line="361" column="125" />
       </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/storemanager/SaveResourceRequest.java" timestamp="1564372001743">
+        <mark key="[" line="7" column="19" />
+        <mark key="]" line="7" column="28" />
+        <mark key="." line="7" column="28" />
+        <mark key="^" line="7" column="28" />
+      </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/storemanager/ResourceScheduleService.java" timestamp="1564369512668">
         <mark key="'" line="324" column="0" />
         <mark key="[" line="313" column="0" />
@@ -180,12 +186,12 @@
         <mark key="^" line="7" column="27" />
         <mark key="." line="7" column="27" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AppointmentService.java" timestamp="1564136175868">
-        <mark key="'" line="295" column="127" />
-        <mark key="[" line="195" column="0" />
-        <mark key="]" line="195" column="0" />
-        <mark key="^" line="193" column="107" />
-        <mark key="." line="195" column="0" />
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AppointmentService.java" timestamp="1564371735618">
+        <mark key="'" line="298" column="127" />
+        <mark key="[" line="208" column="141" />
+        <mark key="]" line="209" column="145" />
+        <mark key="." line="209" column="145" />
+        <mark key="^" line="209" column="145" />
       </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-supervisory/src/main/java/com/moodys/sav/sfs/supervisory/monitor/Test.java" timestamp="1563434064684">
         <mark key="[" line="12" column="92" />
@@ -564,41 +570,41 @@
       <jump line="178" column="0" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/storemanager/ResourceScheduleController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQlmdXR1cmVBcHBvaW50ZWQ9ZnV0dXJlQXBwb2ludGVkK3RvZGF5QXBwb2ludGVkOwo=</text>
+      <register name="&quot;" type="4">
+        <text>startTime</text>
       </register>
       <register name="-" type="4">
-        <text>todayAppointed</text>
+        <text>startTime</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxMb2NhbERhdGVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CXByaXZhdGUgTG9uZyBpZDsK</text>
+        <text encoding="base64">CXByaXZhdGUgSW50ZWdlciBzdGFydFRpbWU7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlmdXR1cmVBcHBvaW50ZWQ9ZnV0dXJlQXBwb2ludGVkK3RvZGF5QXBwb2ludGVkOwo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQlUaW1lc3RhbXAgdG9kYXk9bmV3IFRpbWVzdGFtcChTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKSk7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQlJbnRlZ2VyIHRvZGF5QXBwb2ludGVkPQlhcHBvaW50VG9DdXN0b21lclJlcG8uY291bnRUb2RheUFwcG9pbnRlZEFmdGVyQ3VycmVudEhvdXIoaWQsdG9kYXksbmV3IExvY2FsVGltZSgpLmdldEhvdXJPZkRheSgpKTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQlmdXR1cmVBcHBvaW50ZWQ9dG9JbnQoZnV0dXJlQXBwb2ludGVkKTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQlJbnRlZ2VyIGZ1dHVyZUFwcG9pbnRlZCA9MDsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">TG9uZwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3RyaW5nIHRpbWVQb2ludD0K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQlmdXR1cmVBcHBvaW50ZWQ9ZnV0dXJlQXBwb2ludGVkK3RvZGF5QXBwb2ludGVkOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQlUaW1lc3RhbXAgdG9kYXk9bmV3IFRpbWVzdGFtcChTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKSk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQlJbnRlZ2VyIHRvZGF5QXBwb2ludGVkPQlhcHBvaW50VG9DdXN0b21lclJlcG8uY291bnRUb2RheUFwcG9pbnRlZEFmdGVyQ3VycmVudEhvdXIoaWQsdG9kYXksbmV3IExvY2FsVGltZSgpLmdldEhvdXJPZkRheSgpKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQlmdXR1cmVBcHBvaW50ZWQ9dG9JbnQoZnV0dXJlQXBwb2ludGVkKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQlJbnRlZ2VyIGZ1dHVyZUFwcG9pbnRlZCA9MDsK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">TG9uZwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
