@@ -16,12 +16,12 @@
         <mark key="." line="23" column="28" />
         <mark key="^" line="23" column="28" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/storemanager/ResourceScheduleService.java" timestamp="1564480050786">
-        <mark key="'" line="193" column="0" />
-        <mark key="[" line="382" column="50" />
-        <mark key="]" line="382" column="50" />
-        <mark key="^" line="386" column="10" />
-        <mark key="." line="382" column="50" />
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/storemanager/ResourceScheduleService.java" timestamp="1564482347736">
+        <mark key="'" line="194" column="0" />
+        <mark key="[" line="386" column="70" />
+        <mark key="]" line="386" column="85" />
+        <mark key="^" line="386" column="85" />
+        <mark key="." line="386" column="85" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/appointment/OneWeekAppointInfoHeads.java" timestamp="1563970237135">
         <mark key="[" line="2" column="38" />
@@ -439,7 +439,9 @@
         <mark key="^" line="10" column="39" />
         <mark key="." line="10" column="39" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/CustomerRepo.java" timestamp="1564479161614" />
+      <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/CustomerRepo.java" timestamp="1564481612658">
+        <mark key="'" line="10" column="73" />
+      </file>
       <file name="$USER_HOME$/gitBucket/membersystem/SpringBootDeploy/pom.xml" timestamp="1564386514593">
         <mark key="[" line="17" column="97" />
         <mark key="]" line="17" column="97" />
@@ -594,7 +596,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="77" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-web/src/main/webapp/WEB-INF/views/launch/launchABS.html.twig" />
       <jump line="29" column="22" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-web/src/main/webapp/WEB-INF/views/launch/launchABS.html.twig" />
       <jump line="35" column="73" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-web/src/main/webapp/WEB-INF/views/launch/launchABS.html.twig" />
       <jump line="36" column="22" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-web/src/main/webapp/WEB-INF/views/launch/launchABS.html.twig" />
@@ -694,13 +695,14 @@
       <jump line="36" column="12" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/storemanager/ResourceScheduleController.java" />
       <jump line="165" column="15" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/storemanager/ResourceScheduleController.java" />
       <jump line="164" column="13" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/storemanager/ResourceScheduleController.java" />
+      <jump line="10" column="73" filename="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/CustomerRepo.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>detailImgUrls</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbWFnZUJhc2VGb2xkZXJcPg==</text>
@@ -709,31 +711,31 @@
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odXJpLmdldFNjaGVtZSgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1hZ2VTZXJ2ZXJCYXNlVXJsID0gaW1hZ2VTZXJ2ZXJBZGRyZXNzICsgIi8iICsgaW1hZ2VzQXBwTmFtZTsK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgaW1hZ2VTZXJ2ZXJCYXNlVXJsID0gaW1hZ2VTZXJ2ZXJBZGRyZXNzOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIEBDb2x1bW4odHkpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSk7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzb3VyY2UuZ2V0RGV0YWlsSW1nVXJscygpLmZvckVhY2godS0+ewo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXNvdXJjZVNlcnZpY2UucHJvY2Vzc0ltYWdlVXJsKCk7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaW1hZ2VTZXJ2ZXJCYXNlVXJsID0gaW1hZ2VTZXJ2ZXJBZGRyZXNzICsgIi8iICsgaW1hZ2VzQXBwTmFtZTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgaW1hZ2VTZXJ2ZXJCYXNlVXJsID0gaW1hZ2VTZXJ2ZXJBZGRyZXNzOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIEBDb2x1bW4odHkpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfSk7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmVzb3VyY2UuZ2V0RGV0YWlsSW1nVXJscygpLmZvckVhY2godS0+ewo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBgYDFgYAo=</text>
+        <text encoding="base64">ICAgICAgICByZXNvdXJjZVNlcnZpY2UucHJvY2Vzc0ltYWdlVXJsKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>map</text>
