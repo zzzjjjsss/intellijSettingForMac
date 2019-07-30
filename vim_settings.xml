@@ -16,12 +16,12 @@
         <mark key="." line="23" column="28" />
         <mark key="^" line="23" column="28" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/storemanager/ResourceScheduleService.java" timestamp="1564482347736">
-        <mark key="'" line="194" column="0" />
-        <mark key="[" line="386" column="70" />
-        <mark key="]" line="386" column="85" />
-        <mark key="^" line="386" column="85" />
-        <mark key="." line="386" column="85" />
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/storemanager/ResourceScheduleService.java" timestamp="1564484189394">
+        <mark key="'" line="51" column="47" />
+        <mark key="[" line="405" column="16" />
+        <mark key="]" line="405" column="53" />
+        <mark key="." line="405" column="53" />
+        <mark key="^" line="405" column="53" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/appointment/OneWeekAppointInfoHeads.java" timestamp="1563970237135">
         <mark key="[" line="2" column="38" />
@@ -529,12 +529,12 @@
         <mark key="." line="19" column="128" />
         <mark key="^" line="19" column="128" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/storemanager/ResourceScheduleController.java" timestamp="1564480032396">
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/storemanager/ResourceScheduleController.java" timestamp="1564484504744">
         <mark key="'" line="164" column="13" />
-        <mark key="[" line="168" column="0" />
-        <mark key="]" line="168" column="0" />
-        <mark key="^" line="183" column="64" />
-        <mark key="." line="168" column="0" />
+        <mark key="[" line="188" column="47" />
+        <mark key="]" line="188" column="76" />
+        <mark key="^" line="188" column="76" />
+        <mark key="." line="188" column="76" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/appointment/TimeSegmentAppointInfo.java" timestamp="1563972344103">
         <mark key="[" line="11" column="42" />
@@ -596,11 +596,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="22" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-web/src/main/webapp/WEB-INF/views/launch/launchABS.html.twig" />
-      <jump line="35" column="73" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-web/src/main/webapp/WEB-INF/views/launch/launchABS.html.twig" />
-      <jump line="36" column="22" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-web/src/main/webapp/WEB-INF/views/launch/launchABS.html.twig" />
-      <jump line="41" column="70" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-web/src/main/webapp/WEB-INF/views/launch/launchABS.html.twig" />
-      <jump line="42" column="22" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-web/src/main/webapp/WEB-INF/views/launch/launchABS.html.twig" />
       <jump line="60" column="69" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-web/src/main/webapp/WEB-INF/views/launch/launchABS.html.twig" />
       <jump line="62" column="22" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-web/src/main/webapp/WEB-INF/views/launch/launchABS.html.twig" />
       <jump line="68" column="71" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-web/src/main/webapp/WEB-INF/views/launch/launchABS.html.twig" />
@@ -696,46 +691,51 @@
       <jump line="165" column="15" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/storemanager/ResourceScheduleController.java" />
       <jump line="164" column="13" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/storemanager/ResourceScheduleController.java" />
       <jump line="10" column="73" filename="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/CustomerRepo.java" />
+      <jump line="400" column="14" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/storemanager/ResourceScheduleService.java" />
+      <jump line="409" column="0" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/storemanager/ResourceScheduleService.java" />
+      <jump line="402" column="30" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/storemanager/ResourceScheduleService.java" />
+      <jump line="414" column="0" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/storemanager/ResourceScheduleService.java" />
+      <jump line="51" column="47" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/storemanager/ResourceScheduleService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.setHeadImgUrl</text>
       </register>
       <register name="-" type="4">
-        <text>detailImgUrls</text>
+        <text>.setHeadImgUrl</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbWFnZUJhc2VGb2xkZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odXJpLmdldFNjaGVtZSgpKTsK</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzb3VyY2VSZXF1ZXN0LnNldERldGFpbEltZ1VybHMoZGV0YWlsVXJscyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1hZ2VTZXJ2ZXJCYXNlVXJsID0gaW1hZ2VTZXJ2ZXJBZGRyZXNzICsgIi8iICsgaW1hZ2VzQXBwTmFtZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGltYWdlcwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgaW1hZ2VTZXJ2ZXJCYXNlVXJsID0gaW1hZ2VTZXJ2ZXJBZGRyZXNzOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICBpZiAoIWRlc0ZvbGRlci5leGlzdHMoKSl7CiAgICAgICAgICAgICAgIGRlc0ZvbGRlci5ta2RpcnMoKTsKICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBDb2x1bW4odHkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzb3VyY2UuZ2V0RGV0YWlsSW1nVXJscygpLmZvckVhY2godS0+ewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXNvdXJjZVNlcnZpY2UucHJvY2Vzc0ltYWdlVXJsKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>map</text>
