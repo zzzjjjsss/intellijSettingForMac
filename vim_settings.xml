@@ -173,7 +173,7 @@
         <mark key="^" line="36" column="58" />
         <mark key="." line="36" column="30" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/customer/AppointmentController.java" timestamp="1564456068945">
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/customer/AppointmentController.java" timestamp="1564565041736">
         <mark key="[" line="56" column="25" />
         <mark key="]" line="56" column="26" />
         <mark key="." line="56" column="26" />
@@ -259,10 +259,6 @@
         <mark key="^" line="12" column="27" />
         <mark key="." line="12" column="27" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/CustomerRechargeCard.java" timestamp="1564478886972">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="7" />
-      </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/appointment/AppointmentsInfoResponse.java" timestamp="1564106347557">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -313,10 +309,6 @@
         <mark key="." line="86" column="21" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/AppointResourceRequest.java" timestamp="1564456189560" />
-      <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/RechargeRecord.java" timestamp="1564120269869">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="7" />
-      </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/sf-cloud-provider/src/test/java/com/moodys/sav/cloud/mq/ActiveMqTest.java" timestamp="1563158007502">
         <mark key="[" line="34" column="61" />
         <mark key="]" line="34" column="139" />
