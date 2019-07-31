@@ -16,12 +16,12 @@
         <mark key="." line="23" column="28" />
         <mark key="^" line="23" column="28" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/storemanager/ResourceScheduleService.java" timestamp="1564543220997">
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/storemanager/ResourceScheduleService.java" timestamp="1564550071278">
         <mark key="'" line="210" column="19" />
-        <mark key="[" line="281" column="30" />
-        <mark key="]" line="281" column="37" />
-        <mark key="." line="281" column="37" />
-        <mark key="^" line="281" column="37" />
+        <mark key="[" line="394" column="78" />
+        <mark key="]" line="394" column="79" />
+        <mark key="." line="394" column="79" />
+        <mark key="^" line="393" column="61" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/appointment/OneWeekAppointInfoHeads.java" timestamp="1563970237135">
         <mark key="[" line="2" column="38" />
@@ -200,7 +200,7 @@
         <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/appointment/TimeSegmentAppointmentsInfoResponse.java" timestamp="1564455857631" />
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/storemanager/ResourceDetailResponse.java" timestamp="1564544016611">
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/storemanager/ResourceDetailResponse.java" timestamp="1564549558852">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="34" column="34" />
         <mark key="^" line="34" column="34" />
@@ -425,11 +425,11 @@
         <mark key="." line="663" column="150" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem_WechatApp/app.json" timestamp="1564388838026" />
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/util/Test.java" timestamp="1564479827184">
-        <mark key="[" line="9" column="30" />
-        <mark key="]" line="9" column="30" />
-        <mark key="^" line="8" column="41" />
-        <mark key="." line="9" column="30" />
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/util/Test.java" timestamp="1564550053428">
+        <mark key="[" line="11" column="45" />
+        <mark key="]" line="11" column="63" />
+        <mark key="." line="11" column="63" />
+        <mark key="^" line="11" column="63" />
       </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-data-access/src/main/java/com/moodys/sav/sfs/data/dao/CmmSyncDao.java" timestamp="1564045312125" />
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/component/SpringBeans.java" timestamp="1564384666214" />
@@ -636,43 +636,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>setHeadImgFileServerPath</text>
+        <text>fields.get(2)</text>
       </register>
       <register name="-" type="4">
-        <text>setHeadImgFileServerPath</text>
+        <text>fields.get(2)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXN1bHRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+        <text encoding="base64">ICAgICAgIFVSSSB1cmw9IFVSSS5jcmVhdGUoaW1hZ2VVcmwpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CXB1YmxpYyBTdHJpbmcgZ2V0SGVhZEltZ0ZpbGVTZXJ2ZXJQYXRoKCkgewoJCXJldHVybiBoZWFkSW1nRmlsZVNlcnZlclBhdGg7Cgl9CgoJcHVibGljIHZvaWQgc2V0SGVhZEltZ0ZpbGVTZXJ2ZXJQYXRoKFN0cmluZyBoZWFkSW1nRmlsZVNlcnZlclBhdGgpIHsKCQl0aGlzLmhlYWRJbWdGaWxlU2VydmVyUGF0aCA9IGhlYWRJbWdGaWxlU2VydmVyUGF0aDsKCX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBodHRwczovL3N6LjUxODUxOC54eXovaW1hZ2VzX3Rjenl6cy91cGxvYWQvMzIxNTY0NTQ5NjQxMDkxLmpwZwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzb3VyY2VSZXF1ZXN0LnNldERldGFpbEltZ1VybHMoZGV0YWlsVXJscyk7Cg==</text>
+        <text encoding="base64">CXB1YmxpYyBTdHJpbmcgZ2V0SGVhZEltZ0ZpbGVTZXJ2ZXJQYXRoKCkgewoJCXJldHVybiBoZWFkSW1nRmlsZVNlcnZlclBhdGg7Cgl9CgoJcHVibGljIHZvaWQgc2V0SGVhZEltZ0ZpbGVTZXJ2ZXJQYXRoKFN0cmluZyBoZWFkSW1nRmlsZVNlcnZlclBhdGgpIHsKCQl0aGlzLmhlYWRJbWdGaWxlU2VydmVyUGF0aCA9IGhlYWRJbWdGaWxlU2VydmVyUGF0aDsKCX0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGltYWdlcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICBpZiAoIWRlc0ZvbGRlci5leGlzdHMoKSl7CiAgICAgICAgICAgICAgIGRlc0ZvbGRlci5ta2RpcnMoKTsKICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzb3VyY2VSZXF1ZXN0LnNldERldGFpbEltZ1VybHMoZGV0YWlsVXJscyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGltYWdlcwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICBpZiAoIWRlc0ZvbGRlci5leGlzdHMoKSl7CiAgICAgICAgICAgICAgIGRlc0ZvbGRlci5ta2RpcnMoKTsKICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>map</text>
