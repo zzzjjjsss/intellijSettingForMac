@@ -198,6 +198,7 @@
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
+  <action id="Rerun" />
   <action id="Run" />
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SelectNextOccurrence">
