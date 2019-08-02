@@ -45,7 +45,22 @@
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-supervisory/src/main/java/com/moodys/sav/sfs/supervisory/task/ExportCollateralCashflowTask.java" timestamp="1563427536878">
         <mark key="[" line="16" column="74" />
       </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/ControllerExceptionHandler.java" timestamp="1563516491267">
+        <mark key="[" line="16" column="13" />
+        <mark key="]" line="16" column="13" />
+        <mark key="." line="16" column="13" />
+      </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem_WechatApp/component/drawer/index.wxss" timestamp="1564627349755">
+        <mark key="[" line="0" column="637" />
+        <mark key="]" line="0" column="638" />
+        <mark key="." line="0" column="638" />
+      </file>
       <file name="$USER_HOME$/gitBucket/membersystem/WarDeploy/pom.xml" timestamp="1564468003423" />
+      <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/ResourceToCategory.java" timestamp="1564128687884">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/appointment/OneTimeSegment.java" timestamp="1564730730588">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="34" />
@@ -142,6 +157,11 @@
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem_WechatApp/pages/customer/appointment/resourceDetail.json" timestamp="1564727125192">
         <mark key="[" line="1" column="22" />
       </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/storemanager/ConsumeLogService.java" timestamp="1563523227119">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
+      </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/appointment/TimeSegmentAppointmentsInfoResponse.java" timestamp="1564731947317" />
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/storemanager/ResourceDetailResponse.java" timestamp="1564713318623">
         <mark key="'" line="31" column="15" />
@@ -177,12 +197,12 @@
         <mark key="^" line="30" column="64" />
         <mark key="." line="30" column="64" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CustomerAppointmentService.java" timestamp="1564735037511">
-        <mark key="'" line="67" column="13" />
-        <mark key="[" line="166" column="100" />
-        <mark key="]" line="170" column="103" />
-        <mark key="^" line="170" column="103" />
-        <mark key="." line="170" column="103" />
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CustomerAppointmentService.java" timestamp="1564737409162">
+        <mark key="'" line="218" column="120" />
+        <mark key="[" line="218" column="120" />
+        <mark key="]" line="218" column="134" />
+        <mark key="." line="218" column="134" />
+        <mark key="^" line="218" column="134" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/SpringBootDeploy/src/main/resources/application-prod.properties" timestamp="1564388307181" />
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-supervisory/src/main/java/com/moodys/sav/sfs/supervisory/task/ExportNotSupportCusipTask.java" timestamp="1563427565769">
@@ -255,6 +275,11 @@
         <mark key="^" line="54" column="81" />
         <mark key="." line="54" column="81" />
       </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/util/TimePointUtil.java" timestamp="1564130060204">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/ResourceCategory.java" timestamp="1564384611915">
         <mark key="[" line="12" column="52" />
         <mark key="]" line="12" column="52" />
@@ -284,11 +309,11 @@
         <mark key="^" line="54" column="41" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/appointment/OneWeekAppointInfo.java" timestamp="1564735150851">
-        <mark key="[" line="9" column="45" />
-        <mark key="]" line="14" column="75" />
-        <mark key="^" line="14" column="75" />
-        <mark key="." line="14" column="75" />
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/appointment/OneWeekAppointInfo.java" timestamp="1564737364881">
+        <mark key="[" line="14" column="44" />
+        <mark key="]" line="14" column="44" />
+        <mark key="^" line="9" column="45" />
+        <mark key="." line="14" column="44" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/SpringBootDeploy/pom.xml" timestamp="1564386514593">
         <mark key="[" line="17" column="97" />
@@ -335,6 +360,11 @@
         <mark key="." line="8" column="58" />
         <mark key="^" line="8" column="58" />
       </file>
+      <file name="/Dummy.txt" timestamp="1564736104648">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="4" />
+        <mark key="." line="0" column="4" />
+      </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-supervisory/src/main/java/com/moodys/sav/sfs/supervisory/task/ExportTranchCashflowTask.java" timestamp="1563427600748">
         <mark key="[" line="15" column="72" />
       </file>
@@ -365,11 +395,11 @@
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/appointment/TimeSegmentAppointIemStatusEnum.java" timestamp="1563971745582">
         <mark key="[" line="2" column="46" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/storemanager/ScheduleResourceInfo.java" timestamp="1564730005675">
-        <mark key="[" line="8" column="30" />
-        <mark key="]" line="18" column="29" />
-        <mark key="^" line="18" column="29" />
-        <mark key="." line="18" column="29" />
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/storemanager/ScheduleResourceInfo.java" timestamp="1564737414101">
+        <mark key="[" line="17" column="38" />
+        <mark key="]" line="19" column="29" />
+        <mark key="^" line="19" column="29" />
+        <mark key="." line="19" column="29" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/appointment/WeeksAppointInfoResponse.java" timestamp="1564728671119">
         <mark key="[" line="8" column="72" />
@@ -385,21 +415,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="20" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-web/src/main/java/com/moodys/sav/sfs/web/service/MessageService.java" />
-      <jump line="27" column="21" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-web/src/main/java/com/moodys/sav/sfs/web/service/MessageService.java" />
-      <jump line="700" column="20" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-storm/src/main/java/com/moodys/sav/sfs/storm/LaunchExeSpout.java" />
-      <jump line="1436" column="28" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-storm/src/main/java/com/moodys/sav/sfs/storm/LaunchExeSpout.java" />
-      <jump line="1439" column="23" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-storm/src/main/java/com/moodys/sav/sfs/storm/LaunchExeSpout.java" />
-      <jump line="1441" column="23" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-storm/src/main/java/com/moodys/sav/sfs/storm/LaunchExeSpout.java" />
-      <jump line="1444" column="33" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-storm/src/main/java/com/moodys/sav/sfs/storm/LaunchExeSpout.java" />
-      <jump line="1459" column="45" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-storm/src/main/java/com/moodys/sav/sfs/storm/LaunchExeSpout.java" />
-      <jump line="2673" column="29" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-storm/src/main/java/com/moodys/sav/sfs/storm/LaunchExeSpout.java" />
-      <jump line="100" column="15" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-web/src/main/webapp/WEB-INF/views/dialog/globalValuesABS.html.twig" />
-      <jump line="121" column="231" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-web/src/main/java/com/moodys/sav/sfs/web/service/RunSimulationService.java" />
-      <jump line="242" column="79" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-web/src/main/java/com/moodys/sav/sfs/web/controller/RunSimulationController.java" />
-      <jump line="248" column="75" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-web/src/main/java/com/moodys/sav/sfs/web/controller/RunSimulationController.java" />
-      <jump line="254" column="100" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-web/src/main/java/com/moodys/sav/sfs/web/controller/RunSimulationController.java" />
-      <jump line="145" column="10" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-data-access/src/main/resources/applicationContext.xml" />
       <jump line="18" column="100" filename="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/ResourceAppointmentRepo.java" />
       <jump line="24" column="134" filename="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/ResourceAppointmentRepo.java" />
       <jump line="31" column="78" filename="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/ResourceAppointmentRepo.java" />
@@ -485,55 +500,70 @@
       <jump line="78" column="44" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/customer/AppointmentController.java" />
       <jump line="67" column="13" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CustomerAppointmentService.java" />
       <jump line="52" column="193" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/customer/AppointmentController.java" />
+      <jump line="207" column="17" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CustomerAppointmentService.java" />
+      <jump line="196" column="40" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CustomerAppointmentService.java" />
+      <jump line="197" column="27" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CustomerAppointmentService.java" />
+      <jump line="140" column="27" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CustomerAppointmentService.java" />
+      <jump line="148" column="16" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CustomerAppointmentService.java" />
+      <jump line="222" column="43" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CustomerAppointmentService.java" />
+      <jump line="208" column="36" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CustomerAppointmentService.java" />
+      <jump line="209" column="62" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CustomerAppointmentService.java" />
+      <jump line="210" column="63" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CustomerAppointmentService.java" />
+      <jump line="211" column="65" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CustomerAppointmentService.java" />
+      <jump line="212" column="64" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CustomerAppointmentService.java" />
+      <jump line="213" column="62" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CustomerAppointmentService.java" />
+      <jump line="214" column="64" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CustomerAppointmentService.java" />
+      <jump line="215" column="62" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CustomerAppointmentService.java" />
+      <jump line="218" column="120" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CustomerAppointmentService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>=new OneDaySegmentAppointments()</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>=new OneDaySegmentAppointments()</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0aW1lU2VnbWVudElkXD4=</text>
+        <text encoding="base64">XDxzZWdtZW50SW5mb3NcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc3RhcnRUaW1lPW5ldyBUaW1lc3RhbXAodGVtcC50b0xvY2FsRGF0ZVRpbWUoTG9jYWxUaW1lLnBhcnNlKFRpbWVTZWdtZW50RW51bS5NT1JOSU5HLmdldFN0YXJ0VGltZSgpKSkudG9EYXRlKCkuZ2V0VGltZSgpKTsKICAgICAgICAgICAgICAgICAgICAgICAgZW5kVGltZT1uZXcgVGltZXN0YW1wKHRlbXAudG9Mb2NhbERhdGVUaW1lKExvY2FsVGltZS5wYXJzZShUaW1lU2VnbWVudEVudW0uTU9STklORy5nZXRFbmRUaW1lKCkpKS50b0RhdGUoKS5nZXRUaW1lKCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZW5kVGltZSA9IG5ldyBUaW1lc3RhbXAodGVtcC50b0xvY2FsRGF0ZVRpbWUoTG9jYWxUaW1lLnBhcnNlKCIyMzo1OTo1OSIpKS50b0RhdGUoKS5nZXRUaW1lKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZW5kVGltZT1uZXcgVGltZXN0YW1wKHRlbXAudG9Mb2NhbERhdGVUaW1lKExvY2FsVGltZS5wYXJzZShUaW1lU2VnbWVudEVudW0uTU9STklORy5nZXRFbmRUaW1lKCkpKS50b0RhdGUoKS5nZXRUaW1lKCkpOwogICAgICAgICAgICAgICAgICAgICAgICBlbmRUaW1lID0gbmV3IFRpbWVzdGFtcCh0ZW1wLnRvTG9jYWxEYXRlVGltZShMb2NhbFRpbWUucGFyc2UoIjIzOjU5OjU5IikpLnRvRGF0ZSgpLmdldFRpbWUoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc3RhcnRUaW1lID0gbmV3IFRpbWVzdGFtcCh0ZW1wLnRvTG9jYWxEYXRlVGltZShMb2NhbFRpbWUucGFyc2UoIjE3OjU5OjU5IikpLnRvRGF0ZSgpLmdldFRpbWUoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZW5kVGltZSA9IG5ldyBUaW1lc3RhbXAodGVtcC50b0xvY2FsRGF0ZVRpbWUoTG9jYWxUaW1lLnBhcnNlKCIyMzo1OTo1OSIpKS50b0RhdGUoKS5nZXRUaW1lKCkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZW5kVGltZSA9IG5ldyBUaW1lc3RhbXAodGVtcC50b0xvY2FsRGF0ZVRpbWUoTG9jYWxUaW1lLnBhcnNlKCIxODowMDowMCIpKS50b0RhdGUoKS5nZXRUaW1lKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZW5kVGltZT1uZXcgVGltZXN0YW1wKHRlbXAudG9Mb2NhbERhdGVUaW1lKExvY2FsVGltZS5wYXJzZShUaW1lU2VnbWVudEVudW0uTU9STklORy5nZXRFbmRUaW1lKCkpKS50b0RhdGUoKS5nZXRUaW1lKCkpOwogICAgICAgICAgICAgICAgICAgICAgICBlbmRUaW1lID0gbmV3IFRpbWVzdGFtcCh0ZW1wLnRvTG9jYWxEYXRlVGltZShMb2NhbFRpbWUucGFyc2UoIjIzOjU5OjU5IikpLnRvRGF0ZSgpLmdldFRpbWUoKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc3RhcnRUaW1lID0gbmV3IFRpbWVzdGFtcCh0ZW1wLnRvTG9jYWxEYXRlVGltZShMb2NhbFRpbWUucGFyc2UoIjExOjU5OjU5IikpLnRvRGF0ZSgpLmdldFRpbWUoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc3RhcnRUaW1lID0gbmV3IFRpbWVzdGFtcCh0ZW1wLnRvTG9jYWxEYXRlVGltZShMb2NhbFRpbWUucGFyc2UoIjE3OjU5OjU5IikpLnRvRGF0ZSgpLmdldFRpbWUoKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZW5kVGltZSA9IG5ldyBUaW1lc3RhbXAodGVtcC50b0xvY2FsRGF0ZVRpbWUoTG9jYWxUaW1lLnBhcnNlKCIxMjowMDowMCIpKS50b0RhdGUoKS5nZXRUaW1lKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZW5kVGltZSA9IG5ldyBUaW1lc3RhbXAodGVtcC50b0xvY2FsRGF0ZVRpbWUoTG9jYWxUaW1lLnBhcnNlKCIxODowMDowMCIpKS50b0RhdGUoKS5nZXRUaW1lKCkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc3RhcnRUaW1lID0gbmV3IFRpbWVzdGFtcCh0ZW1wLnRvTG9jYWxEYXRlVGltZShMb2NhbFRpbWUucGFyc2UoIjA1OjU5OjU5IikpLnRvRGF0ZSgpLmdldFRpbWUoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc3RhcnRUaW1lID0gbmV3IFRpbWVzdGFtcCh0ZW1wLnRvTG9jYWxEYXRlVGltZShMb2NhbFRpbWUucGFyc2UoIjExOjU5OjU5IikpLnRvRGF0ZSgpLmdldFRpbWUoKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZW5kVGltZSA9IG5ldyBUaW1lc3RhbXAodGVtcC50b0xvY2FsRGF0ZVRpbWUoTG9jYWxUaW1lLnBhcnNlKCIwNTo1OTo1OSIpKS50b0RhdGUoKS5nZXRUaW1lKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZW5kVGltZSA9IG5ldyBUaW1lc3RhbXAodGVtcC50b0xvY2FsRGF0ZVRpbWUoTG9jYWxUaW1lLnBhcnNlKCIxMjowMDowMCIpKS50b0RhdGUoKS5nZXRUaW1lKCkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc3RhcnRUaW1lID0gbmV3IFRpbWVzdGFtcCh0ZW1wLnRvTG9jYWxEYXRlVGltZShMb2NhbFRpbWUucGFyc2UoVGltZVNlZ21lbnRFbnVtLkJFRk9SRV9NT1JOSU5HLmdldFN0YXJ0VGltZSgpKSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc3RhcnRUaW1lID0gbmV3IFRpbWVzdGFtcCh0ZW1wLnRvTG9jYWxEYXRlVGltZShMb2NhbFRpbWUucGFyc2UoIjA1OjU5OjU5IikpLnRvRGF0ZSgpLmdldFRpbWUoKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>map</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0aW1lU2VnbWVudElkXD4=</last-search>
+      <last-search encoding="base64">XDxzZWdtZW50SW5mb3NcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0aW1lU2VnbWVudElkXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxzZWdtZW50SW5mb3NcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxpc1Rhc2tFbmRcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -541,9 +571,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwYVNldGluZ1w+</entry>
-        <entry encoding="base64">XDxhcHBlbmRDaGlsZFw+</entry>
-        <entry encoding="base64">XDxhcHBseVZvbFw+</entry>
         <entry encoding="base64">XDxqb2JJZFw+</entry>
         <entry encoding="base64">XDxhcHBvaW50VGltZVBvaW50XD4=</entry>
         <entry encoding="base64">XDxzY2VcPg==</entry>
@@ -561,6 +588,9 @@
         <entry encoding="base64">XDxyZXNvdXJjZUNhdGVnb3J5UmVwb1w+</entry>
         <entry encoding="base64">XDxzZXROb3RpY2VJbmZvXD4=</entry>
         <entry encoding="base64">XDx0aW1lU2VnbWVudElkXD4=</entry>
+        <entry encoding="base64">XDxmaWxsVGhlRW1wdHlUaW1lU2VnbWVudFw+</entry>
+        <entry encoding="base64">XDx0ZW1wT25lV2Vla0FwcG9pbnRcPg==</entry>
+        <entry encoding="base64">XDxzZWdtZW50SW5mb3NcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>maps</entry>
