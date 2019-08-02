@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="cancel appointment alert" />
       <item value="set Input Content" />
       <item value="Constants" />
       <item value="constant" />
@@ -10,7 +11,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="6" />
+        <entry key="ENGLISH" value="7" />
         <entry key="CATALAN" value="1" />
         <entry key="CORSICAN" value="1" />
       </map>
