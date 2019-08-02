@@ -142,7 +142,7 @@
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem_WechatApp/pages/customer/appointment/resourceDetail.json" timestamp="1564727125192">
         <mark key="[" line="1" column="22" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/appointment/TimeSegmentAppointmentsInfoResponse.java" timestamp="1564455857631" />
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/appointment/TimeSegmentAppointmentsInfoResponse.java" timestamp="1564731947317" />
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/storemanager/ResourceDetailResponse.java" timestamp="1564713318623">
         <mark key="'" line="31" column="15" />
         <mark key="[" line="21" column="0" />
@@ -177,12 +177,12 @@
         <mark key="^" line="30" column="64" />
         <mark key="." line="30" column="64" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CustomerAppointmentService.java" timestamp="1564730721378">
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CustomerAppointmentService.java" timestamp="1564732277211">
         <mark key="'" line="67" column="13" />
-        <mark key="[" line="223" column="67" />
-        <mark key="]" line="223" column="67" />
-        <mark key="^" line="223" column="36" />
-        <mark key="." line="223" column="67" />
+        <mark key="[" line="113" column="24" />
+        <mark key="]" line="116" column="44" />
+        <mark key="^" line="116" column="44" />
+        <mark key="." line="116" column="44" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/SpringBootDeploy/src/main/resources/application-prod.properties" timestamp="1564388307181" />
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-supervisory/src/main/java/com/moodys/sav/sfs/supervisory/task/ExportNotSupportCusipTask.java" timestamp="1563427565769">
@@ -221,6 +221,12 @@
         <mark key="]" line="8" column="62" />
         <mark key="^" line="10" column="46" />
         <mark key="." line="10" column="46" />
+      </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/appointment/Appointment.java" timestamp="1564732552440">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="10" column="35" />
+        <mark key="^" line="10" column="35" />
+        <mark key="." line="10" column="35" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/AppointResourceRequest.java" timestamp="1564456189560" />
       <file name="$MAVEN_REPOSITORY$/joda-time/joda-time/2.10/joda-time-2.10-sources.jar!/org/joda/time/format/DateTimeFormat.java" timestamp="1564390264063" />
