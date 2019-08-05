@@ -199,12 +199,12 @@
         <mark key="^" line="30" column="64" />
         <mark key="." line="30" column="64" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CustomerAppointmentService.java" timestamp="1564738279413">
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CustomerAppointmentService.java" timestamp="1564975862982">
         <mark key="'" line="141" column="27" />
-        <mark key="[" line="181" column="66" />
-        <mark key="]" line="182" column="62" />
-        <mark key="." line="182" column="62" />
-        <mark key="^" line="182" column="62" />
+        <mark key="[" line="87" column="12" />
+        <mark key="]" line="87" column="15" />
+        <mark key="." line="87" column="15" />
+        <mark key="^" line="87" column="15" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/SpringBootDeploy/src/main/resources/application-prod.properties" timestamp="1564388307181" />
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-supervisory/src/main/java/com/moodys/sav/sfs/supervisory/task/ExportNotSupportCusipTask.java" timestamp="1563427565769">
@@ -282,11 +282,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/ResourceCategory.java" timestamp="1564384611915">
-        <mark key="[" line="12" column="52" />
-        <mark key="]" line="12" column="52" />
-        <mark key="^" line="15" column="3" />
-        <mark key="." line="12" column="52" />
+      <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/ResourceCategory.java" timestamp="1564975846068">
+        <mark key="[" line="22" column="29" />
+        <mark key="]" line="22" column="32" />
+        <mark key="^" line="22" column="32" />
+        <mark key="." line="22" column="32" />
       </file>
       <file name="$MAVEN_REPOSITORY$/joda-time/joda-time/2.10/joda-time-2.10-sources.jar!/org/joda/time/LocalDateTime.java" timestamp="1564389633348" />
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/storemanager/ListCategoriesResponse.java" timestamp="1564378529887">
@@ -523,10 +523,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>weekTimeSegments</text>
+        <text>Set</text>
       </register>
       <register name="-" type="4">
-        <text>weekTimeSegments</text>
+        <text>Set</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0ZW1wT25lV2Vla0FwcG9pbnRcPg==</text>
