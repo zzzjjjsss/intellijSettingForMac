@@ -49,6 +49,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Hide All Windows">
+        <Item>
+          <IdeaActionID>HideAllWindows</IdeaActionID>
+          <ShortCut>'⇧⌘F12'</ShortCut>
+          <Description>Hide All Windows</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Jump to Source">
         <Item>
           <IdeaActionID>EditSource</IdeaActionID>
@@ -78,6 +86,14 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'Application'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Restore Windows">
+        <Item>
+          <IdeaActionID>HideAllWindows</IdeaActionID>
+          <ShortCut>'⇧⌘F12'</ShortCut>
+          <Description>Restore Windows</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
