@@ -253,12 +253,12 @@
         <mark key="^" line="12" column="92" />
         <mark key="." line="12" column="92" />
       </file>
-      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-storm/src/main/java/com/moodys/sav/sfs/storm/LaunchExeSpout.java" timestamp="1565061894625">
-        <mark key="'" line="1385" column="20" />
-        <mark key="[" line="1420" column="20" />
-        <mark key="]" line="1420" column="57" />
-        <mark key="." line="1420" column="57" />
-        <mark key="^" line="1420" column="57" />
+      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-storm/src/main/java/com/moodys/sav/sfs/storm/LaunchExeSpout.java" timestamp="1565062671535">
+        <mark key="'" line="1388" column="20" />
+        <mark key="[" line="1452" column="45" />
+        <mark key="]" line="1452" column="59" />
+        <mark key="." line="1452" column="59" />
+        <mark key="^" line="1452" column="59" />
       </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-cmm-proxy/src/main/java/com/moodys/sav/sfs/cmm/generator/v4/SameScenarioBatchRun.java" timestamp="1564123775958">
         <mark key="'" line="41" column="17" />
@@ -716,10 +716,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>deviationFile.get(0).getS3Path()</text>
+        <text>&quot;0.3&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>deviationFile.get(0).getS3Path()</text>
+        <text>&quot;0.3&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkb3dubG9hZENtbVJlc3VsdFhtbFw+</text>
@@ -728,31 +728,31 @@
         <text encoding="base64">ICAgIHN0YXRpYyBBYnNPdmVyd3JpdGVEYW8gIGFic092ZXJ3cml0ZURhbz1udWxsOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTdHJpbmcga2V5ID0gRXhwb3J0VXRpbHMucGFyc2VQYXRoS2V5KHMzUGF0aCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb2xsYXRlcmFsQXNzZXR0eXBlTWFwcGluZ0Rhby5maW5kQnlDb2xsYXRlcmFsVHlwZShjb2xsYXRlclR5cGUpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTdHJpbmcgYnVja2V0ID0gRXhwb3J0VXRpbHMucGFyc2VQYXRoQnVja2V0KHMzUGF0aCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgID0gU3BsaXR0ZXIub24oIiwiKS5zcGxpdChsaW5lcy5nZXQoaSkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzM2hhbmRsZXIucmV0cmlldmVPYmplY3QoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTdHJpbmcga2V5ID0gRXhwb3J0VXRpbHMucGFyc2VQYXRoS2V5KHMzUGF0aCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb2wK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTdHJpbmcgYnVja2V0ID0gRXhwb3J0VXRpbHMucGFyc2VQYXRoQnVja2V0KHMzUGF0aCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzM2hhbmRsZXIucmV0cmlldmVPYmplY3QoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBPYmplY3Qgdm9sYXRpbGl0eU9iaj1tc2dKc29uLmdldCgiYXBwbHlWb2xhdGlsaXR5Iik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb2wK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgaXRlbS5zZXRBcHBvaW50VGltZShzdGFydCArICItIiArIGVuZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzb3VyY2VzPXNjaGVkdWxlUmVzb3VyY2VSZXBvLmZpbmRCeUNhdGVnb3J5SXNFbXB0eSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBPYmplY3Qgdm9sYXRpbGl0eU9iaj1tc2dKc29uLmdldCgiYXBwbHlWb2xhdGlsaXR5Iik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBJbnRlZ2VyIG5vQ2F0ZVJlc291Y2VDb3VudD1zY2hlZHVsZVJlc291cmNlUmVwby5jb3VudE5vQ2F0ZXRvcnkoKTsK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgaXRlbS5zZXRBcHBvaW50VGltZShzdGFydCArICItIiArIGVuZCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>map</text>
