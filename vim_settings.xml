@@ -346,6 +346,7 @@
         <mark key="^" line="10" column="35" />
         <mark key="." line="10" column="35" />
       </file>
+      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/sf-cloud/webservice/sf-file-service/src/main/java/com/moodys/sav/file/ratesync/RateDbFileSynchronizer.java" timestamp="1565233798984" />
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/cache/EhcacheService.java" timestamp="1563258985286">
         <mark key="[" line="86" column="16" />
         <mark key="]" line="86" column="21" />
