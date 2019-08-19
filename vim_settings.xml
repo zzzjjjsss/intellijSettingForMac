@@ -10,6 +10,12 @@
         <mark key="^" line="361" column="125" />
         <mark key="." line="361" column="125" />
       </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/storemanager/IndexPageResourceResponse.java" timestamp="1566200129114">
+        <mark key="[" line="6" column="69" />
+        <mark key="]" line="8" column="53" />
+        <mark key="^" line="8" column="53" />
+        <mark key="." line="8" column="53" />
+      </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/storemanager/SaveResourceRequest.java" timestamp="1564713495457">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="29" />
@@ -78,6 +84,7 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="19" column="25" />
       </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/storemanager/ListResourcesResponse.java" timestamp="1566200117929" />
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/UDEV/Enterprise/java/dealdownload/src/main/java/com/wsainc/dealdownload/DealDownloaderFromDL.java" timestamp="1563171296458">
         <mark key="'" line="991" column="36" />
       </file>
@@ -197,12 +204,12 @@
         <mark key="^" line="36" column="58" />
         <mark key="." line="36" column="30" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/customer/AppointmentController.java" timestamp="1566199256120">
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/customer/AppointmentController.java" timestamp="1566199374452">
         <mark key="'" line="26" column="13" />
-        <mark key="[" line="50" column="29" />
-        <mark key="]" line="50" column="29" />
-        <mark key="." line="50" column="29" />
-        <mark key="^" line="60" column="4" />
+        <mark key="[" line="51" column="11" />
+        <mark key="]" line="51" column="11" />
+        <mark key="." line="51" column="11" />
+        <mark key="^" line="51" column="56" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/OnePageResourceAppointments.java" timestamp="1564057086265" />
       <file name="$USER_HOME$/gitBucket/membersystem/SpringBootDeploy/src/main/resources/application-dev.properties" timestamp="1564476919381">
@@ -714,10 +721,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>resourceWeeksAppointInfo</text>
+        <text>WeeksAppointInfoResponse</text>
       </register>
       <register name="-" type="4">
-        <text>resourceWeeksAppointInfo</text>
+        <text>WeeksAppointInfoResponse</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkb3dubG9hZENtbVJlc3VsdFhtbFw+</text>
