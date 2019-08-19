@@ -197,12 +197,12 @@
         <mark key="^" line="36" column="58" />
         <mark key="." line="36" column="30" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/customer/AppointmentController.java" timestamp="1566182405975">
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/customer/AppointmentController.java" timestamp="1566199256120">
         <mark key="'" line="26" column="13" />
-        <mark key="[" line="82" column="26" />
-        <mark key="]" line="84" column="46" />
-        <mark key="." line="84" column="46" />
-        <mark key="^" line="84" column="46" />
+        <mark key="[" line="50" column="29" />
+        <mark key="]" line="50" column="29" />
+        <mark key="." line="50" column="29" />
+        <mark key="^" line="60" column="4" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/OnePageResourceAppointments.java" timestamp="1564057086265" />
       <file name="$USER_HOME$/gitBucket/membersystem/SpringBootDeploy/src/main/resources/application-dev.properties" timestamp="1564476919381">
@@ -713,11 +713,11 @@
       <jump line="26" column="13" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/customer/AppointmentController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBIdHRwUmVzcG9uc2UgcmVzcG9uc2UgPSBjbGllbnQuZXhlY3V0ZShwb3N0KTsK</text>
+      <register name="&quot;" type="4">
+        <text>resourceWeeksAppointInfo</text>
       </register>
       <register name="-" type="4">
-        <text>http://echo.200please.com</text>
+        <text>resourceWeeksAppointInfo</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkb3dubG9hZENtbVJlc3VsdFhtbFw+</text>
