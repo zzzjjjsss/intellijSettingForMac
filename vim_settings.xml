@@ -220,11 +220,11 @@
         <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-cmm-proxy/src/main/resources/springContext.xml" timestamp="1565086446301" />
-      <file name="$USER_HOME$/gitBucket/membersystem/WarDeploy/src/main/resources/application.properties" timestamp="1564970826228">
+      <file name="$USER_HOME$/gitBucket/membersystem/WarDeploy/src/main/resources/application.properties" timestamp="1566384046043">
         <mark key="[" line="17" column="29" />
-        <mark key="]" line="0" column="21" />
-        <mark key="^" line="0" column="21" />
-        <mark key="." line="0" column="21" />
+        <mark key="]" line="17" column="29" />
+        <mark key="^" line="8" column="30" />
+        <mark key="." line="17" column="29" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/Gateway/src/main/resources/application.properties" timestamp="1564487784188">
         <mark key="[" line="10" column="45" />
@@ -232,7 +232,7 @@
         <mark key="." line="10" column="45" />
         <mark key="^" line="9" column="37" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/WarDeploy/src/main/java/com/uf/member/filter/AuthenFilter.java" timestamp="1566382831847" />
+      <file name="$USER_HOME$/gitBucket/membersystem/WarDeploy/src/main/java/com/uf/member/filter/AuthenFilter.java" timestamp="1566383702346" />
       <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/ImagesContentRepo.java" timestamp="1564479182077">
         <mark key="[" line="4" column="76" />
         <mark key="]" line="4" column="76" />
@@ -507,11 +507,11 @@
       <jump line="26" column="13" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/customer/AppointmentController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>wechat_check_version</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkb3dubG9hZENtbVJlc3VsdFhtbFw+</text>
