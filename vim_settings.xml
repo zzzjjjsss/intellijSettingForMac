@@ -47,6 +47,7 @@
         <mark key="." line="14" column="35" />
         <mark key="^" line="14" column="35" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.2/httpclient-4.5.2-sources.jar!/org/apache/http/impl/client/AIMDBackoffManager.java" timestamp="1566468397166" />
       <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/ImagesContentRepo.java" timestamp="1564479182077">
         <mark key="[" line="4" column="76" />
         <mark key="]" line="4" column="76" />
