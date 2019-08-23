@@ -233,8 +233,8 @@
         <mark key="." line="4" column="76" />
         <mark key="^" line="4" column="76" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/client/HttpClientBuilder.java" timestamp="1566547447967">
-        <mark key="'" line="158" column="32" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/client/HttpClientBuilder.java" timestamp="1566548649361">
+        <mark key="'" line="888" column="16" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/CountCardDefinitionRepo.java" timestamp="1566474874205" />
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/storemanager/CardManageService.java" timestamp="1566536225822">
@@ -255,6 +255,9 @@
         <mark key="]" line="10" column="35" />
         <mark key="^" line="10" column="35" />
         <mark key="." line="10" column="35" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/client/InternalHttpClient.java" timestamp="1566549586697">
+        <mark key="'" line="81" column="34" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/ResourceCategoryRepo.java" timestamp="1564379321188">
         <mark key="[" line="4" column="92" />
@@ -412,17 +415,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-cmm-proxy/src/main/java/com/moodys/sav/sfs/cmm/generator/v4/CmmDataGeneratorTask.java" />
-      <jump line="1395" column="19" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-cmm-proxy/src/main/java/com/moodys/sav/sfs/cmm/generator/v4/CmmDataGeneratorTask.java" />
-      <jump line="201" column="24" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/storemanager/ResourceScheduleService.java" />
-      <jump line="203" column="12" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/storemanager/ResourceScheduleService.java" />
-      <jump line="204" column="12" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/storemanager/ResourceScheduleService.java" />
-      <jump line="205" column="19" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/storemanager/ResourceScheduleService.java" />
-      <jump line="208" column="12" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/storemanager/ResourceScheduleService.java" />
-      <jump line="209" column="12" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/storemanager/ResourceScheduleService.java" />
-      <jump line="210" column="19" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/storemanager/ResourceScheduleService.java" />
-      <jump line="16" column="25" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/storemanager/ResourceDetailResponse.java" />
-      <jump line="200" column="206" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/storemanager/ResourceScheduleService.java" />
       <jump line="18" column="31" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/storemanager/ResourceDetailResponse.java" />
       <jump line="22" column="15" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/storemanager/ResourceDetailResponse.java" />
       <jump line="98" column="22" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/storemanager/ResourceScheduleController.java" />
@@ -512,6 +504,17 @@
       <jump line="20" column="23" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/storemanager/AppointPointCustomerInfoResponse.java" />
       <jump line="34" column="19" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/storemanager/AppointPointCustomerInfoResponse.java" />
       <jump line="158" column="32" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/client/HttpClientBuilder.java" />
+      <jump line="230" column="27" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/client/HttpClientBuilder.java" />
+      <jump line="878" column="38" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/client/HttpClientBuilder.java" />
+      <jump line="888" column="16" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/client/HttpClientBuilder.java" />
+      <jump line="165" column="26" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/client/InternalHttpClient.java" />
+      <jump line="167" column="16" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/client/InternalHttpClient.java" />
+      <jump line="169" column="16" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/client/InternalHttpClient.java" />
+      <jump line="173" column="24" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/client/InternalHttpClient.java" />
+      <jump line="176" column="20" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/client/InternalHttpClient.java" />
+      <jump line="179" column="16" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/client/InternalHttpClient.java" />
+      <jump line="180" column="46" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/client/InternalHttpClient.java" />
+      <jump line="81" column="34" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/client/InternalHttpClient.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -521,7 +524,7 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZXF1ZXN0RXhlY1w+</text>
+        <text encoding="base64">XDxleGVjQ2hhaW5cPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
@@ -558,9 +561,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZXF1ZXN0RXhlY1w+</last-search>
+      <last-search encoding="base64">XDxleGVjQ2hhaW5cPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZXF1ZXN0RXhlY1w+</last-pattern>
+      <last-pattern encoding="base64">XDxleGVjQ2hhaW5cPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxpc1Rhc2tFbmRcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -568,8 +571,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZXROb3RpY2VJbmZvXD4=</entry>
-        <entry encoding="base64">XDx0aW1lU2VnbWVudElkXD4=</entry>
         <entry encoding="base64">XDxmaWxsVGhlRW1wdHlUaW1lU2VnbWVudFw+</entry>
         <entry encoding="base64">XDxzZWdtZW50SW5mb3NcPg==</entry>
         <entry encoding="base64">XDx0ZW1wT25lV2Vla0FwcG9pbnRcPg==</entry>
@@ -588,6 +589,8 @@
         <entry encoding="base64">XDxjb3VudENhcmREZWZpbml0aW9uXD4=</entry>
         <entry encoding="base64">XDxwaG9uZU51bWJlclw+</entry>
         <entry encoding="base64">XDxyZXF1ZXN0RXhlY1w+</entry>
+        <entry encoding="base64">XDxjb25maWdcPg==</entry>
+        <entry encoding="base64">XDxleGVjQ2hhaW5cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>maps</entry>
