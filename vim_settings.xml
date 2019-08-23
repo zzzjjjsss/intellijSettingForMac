@@ -51,21 +51,6 @@
         <mark key="^" line="7" column="87" />
         <mark key="." line="7" column="87" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/ControllerExceptionHandler.java" timestamp="1563516491267">
-        <mark key="[" line="16" column="13" />
-        <mark key="]" line="16" column="13" />
-        <mark key="." line="16" column="13" />
-      </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem_WechatApp/component/drawer/index.wxss" timestamp="1564627349755">
-        <mark key="[" line="0" column="637" />
-        <mark key="]" line="0" column="638" />
-        <mark key="." line="0" column="638" />
-      </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/ResourceToCategory.java" timestamp="1564128687884">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/appointment/OneTimeSegment.java" timestamp="1564730730588">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="34" />
@@ -168,11 +153,6 @@
         <mark key="^" line="162" column="82" />
         <mark key="." line="162" column="82" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/storemanager/ConsumeLogService.java" timestamp="1563523227119">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
-      </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/storemanager/ResourceDetailResponse.java" timestamp="1564713318623">
         <mark key="'" line="31" column="15" />
         <mark key="[" line="21" column="0" />
@@ -186,12 +166,12 @@
         <mark key="^" line="7" column="27" />
         <mark key="." line="7" column="27" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AppointmentService.java" timestamp="1566202893352">
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AppointmentService.java" timestamp="1566541282106">
         <mark key="'" line="299" column="127" />
-        <mark key="[" line="411" column="5" />
-        <mark key="]" line="413" column="45" />
-        <mark key="." line="413" column="45" />
-        <mark key="^" line="413" column="45" />
+        <mark key="[" line="773" column="67" />
+        <mark key="]" line="774" column="54" />
+        <mark key="." line="774" column="54" />
+        <mark key="^" line="774" column="54" />
       </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-storm/src/main/java/com/moodys/sav/sfs/storm/LaunchExeSpout.java" timestamp="1566473647477">
         <mark key="'" line="1592" column="24" />
@@ -212,6 +192,13 @@
         <mark key="]" line="108" column="0" />
         <mark key="." line="108" column="0" />
         <mark key="^" line="105" column="36" />
+      </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/storemanager/AppointPointCustomerInfoResponse.java" timestamp="1566541245476">
+        <mark key="'" line="34" column="19" />
+        <mark key="[" line="22" column="34" />
+        <mark key="]" line="20" column="28" />
+        <mark key="^" line="20" column="28" />
+        <mark key="." line="20" column="28" />
       </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-data-access/src/main/java/com/moodys/sav/sfs/data/bean/DeviationFileInfo.java" timestamp="1565061104979">
         <mark key="[" line="10" column="28" />
@@ -290,11 +277,6 @@
         <mark key="^" line="54" column="81" />
         <mark key="." line="54" column="81" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/util/TimePointUtil.java" timestamp="1564130060204">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/ResourceCategory.java" timestamp="1564975846068">
         <mark key="[" line="22" column="29" />
         <mark key="]" line="22" column="32" />
@@ -362,11 +344,6 @@
         <mark key="." line="13" column="64" />
         <mark key="^" line="13" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1566460918816">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="4" />
-        <mark key="." line="0" column="4" />
-      </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/customer/CustomerAppointmentController.java" timestamp="1564110950461">
         <mark key="[" line="61" column="4" />
         <mark key="]" line="61" column="0" />
@@ -432,8 +409,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="414" column="0" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/storemanager/ResourceScheduleService.java" />
-      <jump line="51" column="47" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/storemanager/ResourceScheduleService.java" />
       <jump line="1010" column="1" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-cmm-proxy/src/main/java/com/moodys/sav/sfs/cmm/generator/v4/CmmDataGeneratorTask.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-cmm-proxy/src/main/java/com/moodys/sav/sfs/cmm/generator/v4/CmmDataGeneratorTask.java" />
       <jump line="1395" column="19" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-cmm-proxy/src/main/java/com/moodys/sav/sfs/cmm/generator/v4/CmmDataGeneratorTask.java" />
@@ -532,6 +507,8 @@
       <jump line="92" column="32" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/storemanager/CardManageService.java" />
       <jump line="169" column="0" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/storemanager/CardManageService.java" />
       <jump line="18" column="25" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/storemanager/CountCardDefInfo.java" />
+      <jump line="20" column="23" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/storemanager/AppointPointCustomerInfoResponse.java" />
+      <jump line="34" column="19" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/storemanager/AppointPointCustomerInfoResponse.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -541,7 +518,7 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb3VudENhcmREZWZpbml0aW9uXD4=</text>
+        <text encoding="base64">XDxwaG9uZU51bWJlclw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
@@ -578,9 +555,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb3VudENhcmREZWZpbml0aW9uXD4=</last-search>
+      <last-search encoding="base64">XDxwaG9uZU51bWJlclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb3VudENhcmREZWZpbml0aW9uXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxwaG9uZU51bWJlclw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxpc1Rhc2tFbmRcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -588,7 +565,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0aXRsZVw+</entry>
         <entry encoding="base64">XDxyZXNvdXJjZUNhdGVnb3J5UmVwb1w+</entry>
         <entry encoding="base64">XDxzZXROb3RpY2VJbmZvXD4=</entry>
         <entry encoding="base64">XDx0aW1lU2VnbWVudElkXD4=</entry>
@@ -608,6 +584,7 @@
         <entry encoding="base64">XDxjb21tYW5kXD4=</entry>
         <entry encoding="base64">XDxkZXRhaWxJbWdVcmxzXD4=</entry>
         <entry encoding="base64">XDxjb3VudENhcmREZWZpbml0aW9uXD4=</entry>
+        <entry encoding="base64">XDxwaG9uZU51bWJlclw+</entry>
       </history-search>
       <history-cmd>
         <entry>maps</entry>
