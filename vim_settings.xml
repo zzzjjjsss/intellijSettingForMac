@@ -57,6 +57,9 @@
         <mark key="." line="8" column="34" />
         <mark key="^" line="8" column="34" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/execchain/MainClientExec.java" timestamp="1566556360564">
+        <mark key="'" line="439" column="18" />
+      </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-web/src/main/java/com/moodys/sav/sfs/web/controller/RunSimulationController.java" timestamp="1564040147719">
         <mark key="'" line="254" column="100" />
         <mark key="[" line="224" column="159" />
@@ -420,7 +423,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="31" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/storemanager/ResourceDetailResponse.java" />
       <jump line="22" column="15" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/storemanager/ResourceDetailResponse.java" />
       <jump line="98" column="22" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/storemanager/ResourceScheduleController.java" />
       <jump line="80" column="17" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/storemanager/ResourceScheduleController.java" />
@@ -520,6 +522,7 @@
       <jump line="179" column="16" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/client/InternalHttpClient.java" />
       <jump line="180" column="46" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/client/InternalHttpClient.java" />
       <jump line="81" column="34" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/client/InternalHttpClient.java" />
+      <jump line="439" column="18" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/execchain/MainClientExec.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
