@@ -239,12 +239,12 @@
         <mark key="^" line="4" column="76" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/CountCardDefinitionRepo.java" timestamp="1566474874205" />
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/storemanager/CardManageService.java" timestamp="1566530268115">
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/storemanager/CardManageService.java" timestamp="1566533930777">
         <mark key="'" line="170" column="0" />
-        <mark key="[" line="85" column="44" />
-        <mark key="]" line="85" column="54" />
-        <mark key="^" line="85" column="54" />
-        <mark key="." line="85" column="54" />
+        <mark key="[" line="69" column="34" />
+        <mark key="]" line="69" column="34" />
+        <mark key="^" line="69" column="34" />
+        <mark key="." line="69" column="34" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/appointment/ListCategorysResponse.java" timestamp="1564558233548">
         <mark key="[" line="8" column="0" />
