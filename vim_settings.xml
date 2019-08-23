@@ -233,6 +233,9 @@
         <mark key="." line="4" column="76" />
         <mark key="^" line="4" column="76" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/client/HttpClientBuilder.java" timestamp="1566547447967">
+        <mark key="'" line="158" column="32" />
+      </file>
       <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/CountCardDefinitionRepo.java" timestamp="1566474874205" />
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/storemanager/CardManageService.java" timestamp="1566536225822">
         <mark key="'" line="170" column="0" />
@@ -409,7 +412,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1010" column="1" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-cmm-proxy/src/main/java/com/moodys/sav/sfs/cmm/generator/v4/CmmDataGeneratorTask.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-cmm-proxy/src/main/java/com/moodys/sav/sfs/cmm/generator/v4/CmmDataGeneratorTask.java" />
       <jump line="1395" column="19" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-cmm-proxy/src/main/java/com/moodys/sav/sfs/cmm/generator/v4/CmmDataGeneratorTask.java" />
       <jump line="201" column="24" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/storemanager/ResourceScheduleService.java" />
@@ -509,6 +511,7 @@
       <jump line="18" column="25" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/storemanager/CountCardDefInfo.java" />
       <jump line="20" column="23" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/storemanager/AppointPointCustomerInfoResponse.java" />
       <jump line="34" column="19" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/storemanager/AppointPointCustomerInfoResponse.java" />
+      <jump line="158" column="32" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/client/HttpClientBuilder.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -518,7 +521,7 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwaG9uZU51bWJlclw+</text>
+        <text encoding="base64">XDxyZXF1ZXN0RXhlY1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
@@ -555,9 +558,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwaG9uZU51bWJlclw+</last-search>
+      <last-search encoding="base64">XDxyZXF1ZXN0RXhlY1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwaG9uZU51bWJlclw+</last-pattern>
+      <last-pattern encoding="base64">XDxyZXF1ZXN0RXhlY1w+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxpc1Rhc2tFbmRcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -565,7 +568,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZXNvdXJjZUNhdGVnb3J5UmVwb1w+</entry>
         <entry encoding="base64">XDxzZXROb3RpY2VJbmZvXD4=</entry>
         <entry encoding="base64">XDx0aW1lU2VnbWVudElkXD4=</entry>
         <entry encoding="base64">XDxmaWxsVGhlRW1wdHlUaW1lU2VnbWVudFw+</entry>
@@ -585,6 +587,7 @@
         <entry encoding="base64">XDxkZXRhaWxJbWdVcmxzXD4=</entry>
         <entry encoding="base64">XDxjb3VudENhcmREZWZpbml0aW9uXD4=</entry>
         <entry encoding="base64">XDxwaG9uZU51bWJlclw+</entry>
+        <entry encoding="base64">XDxyZXF1ZXN0RXhlY1w+</entry>
       </history-search>
       <history-cmd>
         <entry>maps</entry>
