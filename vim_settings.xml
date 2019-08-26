@@ -169,12 +169,12 @@
         <mark key="^" line="7" column="27" />
         <mark key="." line="7" column="27" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AppointmentService.java" timestamp="1566541282106">
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AppointmentService.java" timestamp="1566786660802">
         <mark key="'" line="299" column="127" />
-        <mark key="[" line="773" column="67" />
-        <mark key="]" line="774" column="54" />
-        <mark key="." line="774" column="54" />
-        <mark key="^" line="774" column="54" />
+        <mark key="[" line="774" column="33" />
+        <mark key="]" line="774" column="51" />
+        <mark key="." line="774" column="51" />
+        <mark key="^" line="774" column="51" />
       </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-storm/src/main/java/com/moodys/sav/sfs/storm/LaunchExeSpout.java" timestamp="1566473647477">
         <mark key="'" line="1592" column="24" />
@@ -353,7 +353,7 @@
         <mark key="." line="13" column="64" />
         <mark key="^" line="13" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1566554647696">
+      <file name="/Dummy.txt" timestamp="1566786814706">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -525,11 +525,11 @@
       <jump line="439" column="18" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/execchain/MainClientExec.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>customer.getRealName()</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>customer.getRealName()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGVjQ2hhaW5cPg==</text>
