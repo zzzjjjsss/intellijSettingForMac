@@ -48,6 +48,7 @@
         <mark key="^" line="7" column="87" />
         <mark key="." line="7" column="87" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9-sources.jar!/org/apache/http/config/SocketConfig.java" timestamp="1566886893703" />
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/appointment/OneTimeSegment.java" timestamp="1564730730588">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="34" />
