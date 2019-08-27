@@ -48,7 +48,9 @@
         <mark key="^" line="7" column="87" />
         <mark key="." line="7" column="87" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9-sources.jar!/org/apache/http/config/SocketConfig.java" timestamp="1566886893703" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9-sources.jar!/org/apache/http/config/SocketConfig.java" timestamp="1566887192361">
+        <mark key="'" line="199" column="54" />
+      </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/appointment/OneTimeSegment.java" timestamp="1564730730588">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="34" />
@@ -234,8 +236,8 @@
         <mark key="." line="4" column="76" />
         <mark key="^" line="4" column="76" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/conn/PoolingHttpClientConnectionManager.java" timestamp="1566883437824">
-        <mark key="'" line="551" column="17" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/conn/PoolingHttpClientConnectionManager.java" timestamp="1566887690610">
+        <mark key="'" line="303" column="16" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/client/HttpClientBuilder.java" timestamp="1566548649361">
         <mark key="'" line="888" column="16" />
@@ -429,14 +431,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="15" filename="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/ScheduleResource.java" />
-      <jump line="36" column="32" filename="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/ScheduleResource.java" />
-      <jump line="37" column="13" filename="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/ScheduleResource.java" />
-      <jump line="150" column="0" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/customer/AppointmentController.java" />
-      <jump line="154" column="0" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/customer/AppointmentController.java" />
-      <jump line="42" column="33" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/customer/AppointmentController.java" />
-      <jump line="78" column="44" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/customer/AppointmentController.java" />
-      <jump line="67" column="13" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CustomerAppointmentService.java" />
       <jump line="52" column="193" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/customer/AppointmentController.java" />
       <jump line="207" column="17" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CustomerAppointmentService.java" />
       <jump line="196" column="40" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CustomerAppointmentService.java" />
@@ -529,6 +523,14 @@
       <jump line="79" column="17" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/conn/routing/HttpRoute.java" />
       <jump line="544" column="50" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/conn/PoolingHttpClientConnectionManager.java" />
       <jump line="551" column="17" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/conn/PoolingHttpClientConnectionManager.java" />
+      <jump line="50" column="22" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9-sources.jar!/org/apache/http/config/SocketConfig.java" />
+      <jump line="60" column="22" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9-sources.jar!/org/apache/http/config/SocketConfig.java" />
+      <jump line="69" column="27" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9-sources.jar!/org/apache/http/config/SocketConfig.java" />
+      <jump line="181" column="15" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9-sources.jar!/org/apache/http/config/SocketConfig.java" />
+      <jump line="199" column="54" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9-sources.jar!/org/apache/http/config/SocketConfig.java" />
+      <jump line="300" column="25" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/conn/PoolingHttpClientConnectionManager.java" />
+      <jump line="302" column="12" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/conn/PoolingHttpClientConnectionManager.java" />
+      <jump line="303" column="16" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/conn/PoolingHttpClientConnectionManager.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -538,7 +540,7 @@
         <text>customer.getRealName()</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzb2NrZXRDb25maWdNYXBcPg==</text>
+        <text encoding="base64">XDxlbnRyeVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
@@ -575,9 +577,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzb2NrZXRDb25maWdNYXBcPg==</last-search>
+      <last-search encoding="base64">XDxlbnRyeVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzb2NrZXRDb25maWdNYXBcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxlbnRyeVw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxpc1Rhc2tFbmRcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -585,8 +587,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0ZW1wT25lV2Vla0FwcG9pbnRcPg==</entry>
-        <entry encoding="base64">XDxhcHBvaW50VGltZVw+</entry>
         <entry encoding="base64">XDxhcHBseVZvbGF0aWxpdHlcPg==</entry>
         <entry encoding="base64">XDxpbnB1dERvY1w+</entry>
         <entry encoding="base64">XDxwYVNldGluZ1w+</entry>
@@ -605,6 +605,8 @@
         <entry encoding="base64">XDxleGVjQ2hhaW5cPg==</entry>
         <entry encoding="base64">XDxwcm94eUNoYWluXD4=</entry>
         <entry encoding="base64">XDxzb2NrZXRDb25maWdNYXBcPg==</entry>
+        <entry encoding="base64">XDxiYWNrbG9nU2l6ZVw+</entry>
+        <entry encoding="base64">XDxlbnRyeVw+</entry>
       </history-search>
       <history-cmd>
         <entry>maps</entry>
