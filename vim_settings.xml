@@ -230,6 +230,9 @@
         <mark key="." line="10" column="45" />
         <mark key="^" line="9" column="37" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/execchain/RetryExec.java" timestamp="1566890923644">
+        <mark key="'" line="94" column="33" />
+      </file>
       <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/ImagesContentRepo.java" timestamp="1564479182077">
         <mark key="[" line="4" column="76" />
         <mark key="]" line="4" column="76" />
@@ -239,8 +242,8 @@
       <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/conn/PoolingHttpClientConnectionManager.java" timestamp="1566887690610">
         <mark key="'" line="303" column="16" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/client/HttpClientBuilder.java" timestamp="1566548649361">
-        <mark key="'" line="888" column="16" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/client/HttpClientBuilder.java" timestamp="1566890761338">
+        <mark key="'" line="1060" column="37" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/CountCardDefinitionRepo.java" timestamp="1566474874205" />
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/storemanager/CardManageService.java" timestamp="1566536225822">
@@ -431,21 +434,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="193" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/customer/AppointmentController.java" />
-      <jump line="207" column="17" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CustomerAppointmentService.java" />
-      <jump line="196" column="40" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CustomerAppointmentService.java" />
-      <jump line="197" column="27" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CustomerAppointmentService.java" />
-      <jump line="148" column="16" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CustomerAppointmentService.java" />
-      <jump line="222" column="43" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CustomerAppointmentService.java" />
-      <jump line="208" column="36" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CustomerAppointmentService.java" />
-      <jump line="209" column="62" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CustomerAppointmentService.java" />
-      <jump line="210" column="63" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CustomerAppointmentService.java" />
-      <jump line="211" column="65" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CustomerAppointmentService.java" />
-      <jump line="212" column="64" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CustomerAppointmentService.java" />
-      <jump line="213" column="62" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CustomerAppointmentService.java" />
-      <jump line="214" column="64" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CustomerAppointmentService.java" />
-      <jump line="215" column="62" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CustomerAppointmentService.java" />
-      <jump line="218" column="120" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CustomerAppointmentService.java" />
       <jump line="176" column="71" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CustomerAppointmentService.java" />
       <jump line="195" column="80" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CustomerAppointmentService.java" />
       <jump line="198" column="40" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/CustomerAppointmentService.java" />
@@ -531,6 +519,21 @@
       <jump line="300" column="25" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/conn/PoolingHttpClientConnectionManager.java" />
       <jump line="302" column="12" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/conn/PoolingHttpClientConnectionManager.java" />
       <jump line="303" column="16" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/conn/PoolingHttpClientConnectionManager.java" />
+      <jump line="1134" column="12" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/client/HttpClientBuilder.java" />
+      <jump line="1126" column="8" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/client/HttpClientBuilder.java" />
+      <jump line="1050" column="24" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/client/HttpClientBuilder.java" />
+      <jump line="1124" column="8" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/client/HttpClientBuilder.java" />
+      <jump line="1060" column="37" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/client/HttpClientBuilder.java" />
+      <jump line="88" column="28" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/execchain/RetryExec.java" />
+      <jump line="64" column="34" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/execchain/RetryExec.java" />
+      <jump line="68" column="34" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/execchain/RetryExec.java" />
+      <jump line="70" column="21" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/execchain/RetryExec.java" />
+      <jump line="72" column="31" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/execchain/RetryExec.java" />
+      <jump line="65" column="42" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/execchain/RetryExec.java" />
+      <jump line="69" column="42" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/execchain/RetryExec.java" />
+      <jump line="71" column="21" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/execchain/RetryExec.java" />
+      <jump line="73" column="28" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/execchain/RetryExec.java" />
+      <jump line="94" column="33" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/execchain/RetryExec.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -540,7 +543,7 @@
         <text>customer.getRealName()</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxlbnRyeVw+</text>
+        <text encoding="base64">XDxyZXRyeVJlcXVlc3RcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
@@ -577,9 +580,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxlbnRyeVw+</last-search>
+      <last-search encoding="base64">XDxyZXRyeVJlcXVlc3RcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxlbnRyeVw+</last-pattern>
+      <last-pattern encoding="base64">XDxyZXRyeVJlcXVlc3RcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxpc1Rhc2tFbmRcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -587,9 +590,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhcHBseVZvbGF0aWxpdHlcPg==</entry>
-        <entry encoding="base64">XDxpbnB1dERvY1w+</entry>
-        <entry encoding="base64">XDxwYVNldGluZ1w+</entry>
         <entry encoding="base64">XDxkZWFsSWRcPg==</entry>
         <entry encoding="base64">XDxkZWFsVXBkYXRlSWRcPg==</entry>
         <entry encoding="base64">XDxjb2xsYXRlclR5cGVcPg==</entry>
@@ -602,11 +602,14 @@
         <entry encoding="base64">XDxwaG9uZU51bWJlclw+</entry>
         <entry encoding="base64">XDxyZXF1ZXN0RXhlY1w+</entry>
         <entry encoding="base64">XDxjb25maWdcPg==</entry>
-        <entry encoding="base64">XDxleGVjQ2hhaW5cPg==</entry>
         <entry encoding="base64">XDxwcm94eUNoYWluXD4=</entry>
         <entry encoding="base64">XDxzb2NrZXRDb25maWdNYXBcPg==</entry>
         <entry encoding="base64">XDxiYWNrbG9nU2l6ZVw+</entry>
         <entry encoding="base64">XDxlbnRyeVw+</entry>
+        <entry encoding="base64">XDxleGVjQ2hhaW5cPg==</entry>
+        <entry encoding="base64">XDxyZXF1ZXN0RXhlY3V0b3JcPg==</entry>
+        <entry encoding="base64">XDxyZXRyeUhhbmRsZXJcPg==</entry>
+        <entry encoding="base64">XDxyZXRyeVJlcXVlc3RcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>maps</entry>
