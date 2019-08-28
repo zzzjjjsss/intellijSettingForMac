@@ -17,12 +17,6 @@
         <mark key="^" line="421" column="26" />
         <mark key="." line="421" column="7" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/storemanager/CountCardManageController.java" timestamp="1566536244767">
-        <mark key="[" line="43" column="28" />
-        <mark key="]" line="43" column="38" />
-        <mark key="." line="43" column="38" />
-        <mark key="^" line="43" column="38" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.2/httpclient-4.5.2-sources.jar!/org/apache/http/impl/client/AIMDBackoffManager.java" timestamp="1566468397166" />
       <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9-sources.jar!/org/apache/http/impl/pool/BasicConnFactory.java" timestamp="1566969420084">
         <mark key="'" line="107" column="13" />
@@ -143,6 +137,9 @@
       <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/client/HttpClientBuilder.java" timestamp="1566960998132">
         <mark key="'" line="944" column="36" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9-sources.jar!/org/apache/http/impl/DefaultBHttpClientConnection.java" timestamp="1566971751314">
+        <mark key="'" line="62" column="49" />
+      </file>
       <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/CountCardDefinitionRepo.java" timestamp="1566474874205" />
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/storemanager/CardManageService.java" timestamp="1566536225822">
         <mark key="'" line="170" column="0" />
@@ -159,11 +156,8 @@
         <mark key="'" line="52" column="13" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5.jar!/org/apache/http/impl/conn/PoolingHttpClientConnectionManager.class" timestamp="1566882969771" />
-      <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/ResourceImageRepo.java" timestamp="1566474941053">
-        <mark key="[" line="13" column="35" />
-        <mark key="]" line="13" column="45" />
-        <mark key="." line="13" column="45" />
-        <mark key="^" line="13" column="45" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9-sources.jar!/org/apache/http/HttpMessage.java" timestamp="1566972437193">
+        <mark key="'" line="99" column="14" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9-sources.jar!/org/apache/http/pool/PoolEntry.java" timestamp="1566963214722">
         <mark key="'" line="97" column="26" />
@@ -175,28 +169,10 @@
         <mark key="^" line="192" column="67" />
         <mark key="." line="192" column="67" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/ResourceImage.java" timestamp="1566474628029">
-        <mark key="[" line="12" column="17" />
-        <mark key="]" line="12" column="16" />
-        <mark key="." line="12" column="16" />
-        <mark key="^" line="12" column="16" />
-      </file>
       <file name="/Dummy.txt" timestamp="1566819838348">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
-      </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/storemanager/CountCardDefInfo.java" timestamp="1566536961496">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="59" />
-        <mark key="." line="18" column="45" />
-        <mark key="^" line="18" column="45" />
-      </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/GetInfoService.java" timestamp="1566537191961">
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="0" />
-        <mark key="." line="82" column="0" />
-        <mark key="^" line="81" column="58" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/ScheduleResource.java" timestamp="1564984241047">
         <mark key="'" line="37" column="13" />
@@ -222,22 +198,8 @@
         <mark key="^" line="19" column="29" />
         <mark key="." line="19" column="29" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/CountCardImage.java" timestamp="1566475064769">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="7" />
-        <mark key="^" line="10" column="50" />
-        <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/CountCardImageRepo.java" timestamp="1566529506712">
-        <mark key="[" line="12" column="33" />
-        <mark key="]" line="12" column="42" />
-        <mark key="^" line="12" column="42" />
-        <mark key="." line="12" column="42" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="158" column="32" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/client/HttpClientBuilder.java" />
-      <jump line="230" column="27" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/client/HttpClientBuilder.java" />
       <jump line="878" column="38" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/client/HttpClientBuilder.java" />
       <jump line="888" column="16" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/client/HttpClientBuilder.java" />
       <jump line="165" column="26" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/client/InternalHttpClient.java" />
@@ -336,6 +298,8 @@
       <jump line="107" column="13" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9-sources.jar!/org/apache/http/impl/pool/BasicConnFactory.java" />
       <jump line="55" column="13" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9-sources.jar!/org/apache/http/impl/io/SessionOutputBufferImpl.java" />
       <jump line="68" column="31" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9-sources.jar!/org/apache/http/impl/io/SessionOutputBufferImpl.java" />
+      <jump line="62" column="49" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9-sources.jar!/org/apache/http/impl/DefaultBHttpClientConnection.java" />
+      <jump line="99" column="14" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9-sources.jar!/org/apache/http/HttpMessage.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -345,7 +309,7 @@
         <text>customer.getRealName()</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTZXNzaW9uT3V0cHV0QnVmZmVySW1wbFw+</text>
+        <text encoding="base64">XDxyZXF1ZXN0V3JpdGVyXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
@@ -382,9 +346,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxTZXNzaW9uT3V0cHV0QnVmZmVySW1wbFw+</last-search>
+      <last-search encoding="base64">XDxyZXF1ZXN0V3JpdGVyXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTZXNzaW9uT3V0cHV0QnVmZmVySW1wbFw+</last-pattern>
+      <last-pattern encoding="base64">XDxyZXF1ZXN0V3JpdGVyXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxpc1Rhc2tFbmRcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -392,7 +356,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzb2NrZXRDb25maWdNYXBcPg==</entry>
         <entry encoding="base64">XDxiYWNrbG9nU2l6ZVw+</entry>
         <entry encoding="base64">XDxlbnRyeVw+</entry>
         <entry encoding="base64">XDxyZXF1ZXN0RXhlY3V0b3JcPg==</entry>
@@ -412,6 +375,7 @@
         <entry encoding="base64">XDxwb29sRW50cnlcPg==</entry>
         <entry encoding="base64">XDxjb25uRmFjdG9yeVw+</entry>
         <entry encoding="base64">XDxTZXNzaW9uT3V0cHV0QnVmZmVySW1wbFw+</entry>
+        <entry encoding="base64">XDxyZXF1ZXN0V3JpdGVyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>maps</entry>
