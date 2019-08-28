@@ -15,6 +15,19 @@
         <mark key="." line="23" column="29" />
         <mark key="^" line="23" column="29" />
       </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/storemanager/ResourceScheduleService.java" timestamp="1566530177797">
+        <mark key="'" line="204" column="206" />
+        <mark key="[" line="204" column="217" />
+        <mark key="]" line="421" column="7" />
+        <mark key="^" line="421" column="26" />
+        <mark key="." line="421" column="7" />
+      </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/storemanager/CountCardManageController.java" timestamp="1566536244767">
+        <mark key="[" line="43" column="28" />
+        <mark key="]" line="43" column="38" />
+        <mark key="." line="43" column="38" />
+        <mark key="^" line="43" column="38" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9-sources.jar!/org/apache/http/impl/AbstractHttpClientConnection.java" timestamp="1566980434668">
         <mark key="'" line="134" column="19" />
       </file>
@@ -43,6 +56,12 @@
       <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9-sources.jar!/org/apache/http/message/AbstractHttpMessage.java" timestamp="1566896581927">
         <mark key="'" line="63" column="25" />
       </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem_WechatApp/pages/customer/appointment/resourceDetail.js" timestamp="1566987946248">
+        <mark key="[" line="98" column="16" />
+        <mark key="]" line="98" column="16" />
+        <mark key="." line="98" column="16" />
+        <mark key="^" line="123" column="21" />
+      </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/appointment/OneTimeSegment.java" timestamp="1564730730588">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="34" />
@@ -70,10 +89,11 @@
         <mark key="^" line="5" column="12" />
         <mark key="." line="5" column="12" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/customer/CustomerController.java" timestamp="1566986841942">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/customer/CustomerController.java" timestamp="1566988150494">
+        <mark key="[" line="105" column="29" />
+        <mark key="]" line="105" column="37" />
+        <mark key="^" line="105" column="37" />
+        <mark key="." line="105" column="37" />
       </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-web/src/main/webapp/WEB-INF/views/dialog/runSimulationABS.html.twig" timestamp="1564037989688">
         <mark key="[" line="360" column="21" />
@@ -98,6 +118,13 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/customer/AppointmentController.java" timestamp="1566987937203">
+        <mark key="'" line="28" column="13" />
+        <mark key="[" line="170" column="29" />
+        <mark key="]" line="170" column="37" />
+        <mark key="^" line="170" column="37" />
+        <mark key="." line="170" column="37" />
+      </file>
       <file name="$USER_HOME$/gitBucket/membersystem/SpringBootDeploy/src/main/resources/application-dev.properties" timestamp="1564476919381">
         <mark key="[" line="16" column="33" />
         <mark key="]" line="16" column="46" />
@@ -116,6 +143,13 @@
       <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/conn/DefaultRoutePlanner.java" timestamp="1566897302581">
         <mark key="'" line="106" column="23" />
       </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AppointmentService.java" timestamp="1566786660802">
+        <mark key="'" line="299" column="127" />
+        <mark key="[" line="774" column="33" />
+        <mark key="]" line="774" column="51" />
+        <mark key="." line="774" column="51" />
+        <mark key="^" line="774" column="51" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9-sources.jar!/org/apache/http/protocol/HttpRequestExecutor.java" timestamp="1566975920847">
         <mark key="'" line="205" column="8" />
       </file>
@@ -127,6 +161,11 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/client/methods/HttpPost.java" timestamp="1566983845690" />
       <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9-sources.jar!/org/apache/http/entity/ByteArrayEntity.java" timestamp="1566984041837" />
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem_WechatApp/pages/customer/appointment/resourceList.js" timestamp="1566987898783">
+        <mark key="[" line="66" column="22" />
+        <mark key="]" line="66" column="22" />
+        <mark key="." line="66" column="22" />
+      </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-data-access/src/main/java/com/moodys/sav/sfs/data/bean/DeviationFileInfo.java" timestamp="1565061104979">
         <mark key="[" line="10" column="28" />
         <mark key="]" line="12" column="27" />
@@ -174,6 +213,13 @@
         <mark key="'" line="62" column="49" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/CountCardDefinitionRepo.java" timestamp="1566474874205" />
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/storemanager/CardManageService.java" timestamp="1566536225822">
+        <mark key="'" line="170" column="0" />
+        <mark key="[" line="69" column="34" />
+        <mark key="]" line="69" column="34" />
+        <mark key="^" line="69" column="34" />
+        <mark key="." line="69" column="34" />
+      </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/appointment/ListCategorysResponse.java" timestamp="1564558233548">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="62" />
@@ -186,6 +232,11 @@
         <mark key="^" line="10" column="35" />
         <mark key="." line="10" column="35" />
       </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem_WechatApp/pages/customer/index.js" timestamp="1566987833070">
+        <mark key="[" line="142" column="16" />
+        <mark key="]" line="142" column="16" />
+        <mark key="." line="142" column="16" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/conn/HttpClientConnectionManager.java" timestamp="1566875967632" />
       <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/client/InternalHttpClient.java" timestamp="1566897940208">
         <mark key="'" line="105" column="25" />
@@ -197,6 +248,12 @@
         <mark key="'" line="52" column="13" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5.jar!/org/apache/http/impl/conn/PoolingHttpClientConnectionManager.class" timestamp="1566882969771" />
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem_WechatApp/pages/customer/appointment/categoriesList.js" timestamp="1566987881480">
+        <mark key="[" line="98" column="16" />
+        <mark key="]" line="98" column="21" />
+        <mark key="." line="98" column="21" />
+        <mark key="^" line="98" column="21" />
+      </file>
       <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/ResourceCategoryRepo.java" timestamp="1564379321188">
         <mark key="[" line="4" column="92" />
         <mark key="]" line="5" column="54" />
@@ -229,6 +286,12 @@
         <mark key="]" line="22" column="32" />
         <mark key="^" line="22" column="32" />
         <mark key="." line="22" column="32" />
+      </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/ResourceImageRepo.java" timestamp="1566474941053">
+        <mark key="[" line="13" column="35" />
+        <mark key="]" line="13" column="45" />
+        <mark key="." line="13" column="45" />
+        <mark key="^" line="13" column="45" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/FileServer/pom.xml" timestamp="1564468055160">
         <mark key="[" line="53" column="29" />
@@ -273,6 +336,12 @@
         <mark key="^" line="12" column="12" />
         <mark key="." line="12" column="12" />
       </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/ResourceImage.java" timestamp="1566474628029">
+        <mark key="[" line="12" column="17" />
+        <mark key="]" line="12" column="16" />
+        <mark key="." line="12" column="16" />
+        <mark key="^" line="12" column="16" />
+      </file>
       <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/ConfigKey.java" timestamp="1566205790751">
         <mark key="[" line="13" column="50" />
         <mark key="]" line="13" column="64" />
@@ -290,11 +359,24 @@
         <mark key="." line="61" column="0" />
         <mark key="^" line="61" column="0" />
       </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/storemanager/CountCardDefInfo.java" timestamp="1566536961496">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="59" />
+        <mark key="." line="18" column="45" />
+        <mark key="^" line="18" column="45" />
+      </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/GetInfoService.java" timestamp="1566986311146">
         <mark key="[" line="215" column="0" />
         <mark key="]" line="215" column="0" />
         <mark key="." line="215" column="0" />
         <mark key="^" line="197" column="11" />
+      </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/storemanager/ResourceScheduleController.java" timestamp="1566529070119">
+        <mark key="'" line="80" column="17" />
+        <mark key="[" line="207" column="286" />
+        <mark key="]" line="207" column="311" />
+        <mark key="^" line="207" column="311" />
+        <mark key="." line="207" column="311" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/conn/routing/HttpRoute.java" timestamp="1566875679064">
         <mark key="'" line="79" column="17" />
@@ -305,11 +387,23 @@
         <mark key="^" line="10" column="58" />
         <mark key="." line="10" column="58" />
       </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/CountCardImage.java" timestamp="1566475064769">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="7" />
+        <mark key="^" line="10" column="50" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-data-access/src/main/java/com/moodys/sav/sfs/data/dao/DeviationFileInfoDao.java" timestamp="1565061202821">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="56" />
         <mark key="." line="7" column="32" />
         <mark key="^" line="7" column="32" />
+      </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/CountCardImageRepo.java" timestamp="1566529506712">
+        <mark key="[" line="12" column="33" />
+        <mark key="]" line="12" column="42" />
+        <mark key="^" line="12" column="42" />
+        <mark key="." line="12" column="42" />
       </file>
     </filemarks>
     <jumps>
@@ -415,11 +509,11 @@
       <jump line="106" column="17" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9-sources.jar!/org/apache/http/impl/io/ContentLengthOutputStream.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoY3VzdG9tZXIgPT0gbnVsbCkgewogICAgICAgICAgICBNeUNhcmRzUmVzcG9uc2UgcmVzcG9uc2UgPSBuZXcgTXlDYXJkc1Jlc3BvbnNlKCk7CiAgICAgICAgICAgIHJlc3BvbnNlLnNldFJlc3VsdENvZGUoUmVzdWx0Q29kZS5OT19MT0dJTik7CiAgICAgICAgICAgIHJlc3BvbnNlLnNldE1lcygicGxlYXNlIGJpbmQgcGhvbmUgdG8gbG9naW4hIik7CiAgICAgICAgICAgIHJldHVybiByZXNwb25zZTsKICAgICAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>FAIL</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0b3RhbFw+</text>
@@ -428,31 +522,31 @@
         <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoY3VzdG9tZXIgPT0gbnVsbCkgewogICAgICAgICAgICBNeUNhcmRzUmVzcG9uc2UgcmVzcG9uc2UgPSBuZXcgTXlDYXJkc1Jlc3BvbnNlKCk7CiAgICAgICAgICAgIHJlc3BvbnNlLnNldFJlc3VsdENvZGUoUmVzdWx0Q29kZS5OT19MT0dJTik7CiAgICAgICAgICAgIHJlc3BvbnNlLnNldE1lcygicGxlYXNlIGJpbmQgcGhvbmUgdG8gbG9naW4hIik7CiAgICAgICAgICAgIHJldHVybiByZXNwb25zZTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3VzdG9tZXIgPSAoQ3VzdG9tZXIpIGNhY2hlT2JqOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoY2FjaGVPYmogIT0gbnVsbCkgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBDdXN0b21lciBjdXN0b21lciA9IG51bGw7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3VzdG9tZXIgPSAoQ3VzdG9tZXIpIGNhY2hlT2JqOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoY2FjaGVPYmogIT0gbnVsbCkgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3lzdGVtQ29uZmlnU2VydmljZSBjb25maWdTZXJ2aWNlOwo=</text>
+        <text encoding="base64">ICAgICAgICBDdXN0b21lciBjdXN0b21lciA9IG51bGw7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CXByaXZhdGUK</text>
+        <text encoding="base64">ICAgICAgICBPYmplY3QgY2FjaGVPYmogPSBjYWNoZS5nZXRDYWNoZWRPYmplY3QoQ2FjaGVPYmplY3RUeXBlLlNFU1NJT04sIHRva2VuKTsK</text>
       </register>
       <register name=":" type="4">
         <text>map</text>
