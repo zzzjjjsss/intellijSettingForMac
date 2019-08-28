@@ -89,11 +89,11 @@
         <mark key="^" line="5" column="12" />
         <mark key="." line="5" column="12" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/customer/CustomerController.java" timestamp="1566988150494">
-        <mark key="[" line="105" column="29" />
-        <mark key="]" line="105" column="37" />
-        <mark key="^" line="105" column="37" />
-        <mark key="." line="105" column="37" />
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/customer/CustomerController.java" timestamp="1566997901736">
+        <mark key="[" line="53" column="51" />
+        <mark key="]" line="53" column="54" />
+        <mark key="^" line="53" column="54" />
+        <mark key="." line="53" column="54" />
       </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-web/src/main/webapp/WEB-INF/views/dialog/runSimulationABS.html.twig" timestamp="1564037989688">
         <mark key="[" line="360" column="21" />
@@ -365,11 +365,11 @@
         <mark key="." line="18" column="45" />
         <mark key="^" line="18" column="45" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/GetInfoService.java" timestamp="1566991863450">
-        <mark key="[" line="172" column="0" />
-        <mark key="]" line="172" column="8" />
-        <mark key="." line="172" column="8" />
-        <mark key="^" line="197" column="11" />
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/GetInfoService.java" timestamp="1566997800262">
+        <mark key="[" line="114" column="9" />
+        <mark key="]" line="115" column="32" />
+        <mark key="." line="115" column="32" />
+        <mark key="^" line="115" column="32" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/storemanager/ResourceScheduleController.java" timestamp="1566529070119">
         <mark key="'" line="80" column="17" />
@@ -510,10 +510,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>customer</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>customer</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0b3RhbFw+</text>
@@ -522,31 +522,31 @@
         <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBDdXN0b21lciBjdXN0b21lciA9IChDdXN0b21lcikgY2FjaGUuZ2V0Q2FjaGVkT2JqZWN0KENhY2hlT2JqZWN0VHlwZS5TRVNTSU9OLCB0b2tlbik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3VzdG9tZXIgPSAoQ3VzdG9tZXIpIGNhY2hlT2JqOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoY2FjaGVPYmogIT0gbnVsbCkgewo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBDdXN0b21lciBjdXN0b21lciA9IG51bGw7Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY3VzdG9tZXIgPSAoQ3VzdG9tZXIpIGNhY2hlT2JqOwo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoY2FjaGVPYmogIT0gbnVsbCkgewo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBDdXN0b21lciBjdXN0b21lciA9IG51bGw7Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY3VzdG9tZXIgPSAoQ3VzdG9tZXIpIGNhY2hlT2JqOwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBPYmplY3QgY2FjaGVPYmogPSBjYWNoZS5nZXRDYWNoZWRPYmplY3QoQ2FjaGVPYmplY3RUeXBlLlNFU1NJT04sIHRva2VuKTsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoY2FjaGVPYmogIT0gbnVsbCkgewo=</text>
       </register>
       <register name=":" type="4">
         <text>map</text>
