@@ -3,7 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.2/httpclient-4.5.2-sources.jar!/org/apache/http/impl/client/AIMDBackoffManager.java" timestamp="1566468397166" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9-sources.jar!/org/apache/http/impl/AbstractHttpClientConnection.java" timestamp="1566980434668">
+        <mark key="'" line="134" column="19" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9-sources.jar!/org/apache/http/impl/pool/BasicConnFactory.java" timestamp="1566969420084">
         <mark key="'" line="107" column="13" />
       </file>
@@ -16,16 +18,17 @@
       <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9-sources.jar!/org/apache/http/message/AbstractHttpMessage.java" timestamp="1566896581927">
         <mark key="'" line="63" column="25" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9-sources.jar!/org/apache/http/impl/io/ContentLengthOutputStream.java" timestamp="1566981485267">
+        <mark key="'" line="106" column="17" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9-sources.jar!/org/apache/http/impl/io/SessionOutputBufferImpl.java" timestamp="1566970016873">
         <mark key="'" line="68" column="31" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/execchain/MainClientExec.java" timestamp="1566973156159">
         <mark key="'" line="255" column="66" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/CountCardDetailInfo.java" timestamp="1566537373744">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9-sources.jar!/org/apache/http/entity/StringEntity.java" timestamp="1566979774946">
+        <mark key="'" line="76" column="49" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/conn/DefaultRoutePlanner.java" timestamp="1566897302581">
         <mark key="'" line="106" column="23" />
@@ -48,55 +51,29 @@
       <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9-sources.jar!/org/apache/http/impl/DefaultBHttpClientConnection.java" timestamp="1566971751314">
         <mark key="'" line="62" column="49" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/CountCardDefinitionRepo.java" timestamp="1566474874205" />
-      <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/conn/HttpClientConnectionManager.java" timestamp="1566875967632" />
       <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/client/InternalHttpClient.java" timestamp="1566897940208">
         <mark key="'" line="105" column="25" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9-sources.jar!/org/apache/http/impl/entity/EntitySerializer.java" timestamp="1566978849955">
+        <mark key="'" line="65" column="40" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/conn/CPoolProxy.java" timestamp="1566963496079">
         <mark key="'" line="52" column="13" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5.jar!/org/apache/http/impl/conn/PoolingHttpClientConnectionManager.class" timestamp="1566882969771" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9-sources.jar!/org/apache/http/impl/entity/StrictContentLengthStrategy.java" timestamp="1566980491380">
+        <mark key="'" line="65" column="49" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9-sources.jar!/org/apache/http/HttpMessage.java" timestamp="1566973104025">
         <mark key="'" line="99" column="14" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9-sources.jar!/org/apache/http/pool/PoolEntry.java" timestamp="1566963214722">
         <mark key="'" line="97" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1566819838348">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="4" />
-        <mark key="." line="0" column="4" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/conn/routing/HttpRoute.java" timestamp="1566875679064">
         <mark key="'" line="79" column="17" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="169" column="16" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/client/InternalHttpClient.java" />
-      <jump line="173" column="24" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/client/InternalHttpClient.java" />
-      <jump line="176" column="20" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/client/InternalHttpClient.java" />
-      <jump line="179" column="16" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/client/InternalHttpClient.java" />
-      <jump line="180" column="46" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/client/InternalHttpClient.java" />
-      <jump line="439" column="18" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/execchain/MainClientExec.java" />
-      <jump line="77" column="17" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/conn/routing/HttpRoute.java" />
-      <jump line="79" column="17" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/conn/routing/HttpRoute.java" />
-      <jump line="544" column="50" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/conn/PoolingHttpClientConnectionManager.java" />
-      <jump line="551" column="17" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/conn/PoolingHttpClientConnectionManager.java" />
-      <jump line="50" column="22" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9-sources.jar!/org/apache/http/config/SocketConfig.java" />
-      <jump line="60" column="22" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9-sources.jar!/org/apache/http/config/SocketConfig.java" />
-      <jump line="69" column="27" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9-sources.jar!/org/apache/http/config/SocketConfig.java" />
-      <jump line="181" column="15" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9-sources.jar!/org/apache/http/config/SocketConfig.java" />
-      <jump line="199" column="54" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9-sources.jar!/org/apache/http/config/SocketConfig.java" />
-      <jump line="300" column="25" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/conn/PoolingHttpClientConnectionManager.java" />
-      <jump line="302" column="12" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/conn/PoolingHttpClientConnectionManager.java" />
-      <jump line="303" column="16" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/conn/PoolingHttpClientConnectionManager.java" />
-      <jump line="88" column="28" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/execchain/RetryExec.java" />
-      <jump line="64" column="34" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/execchain/RetryExec.java" />
-      <jump line="68" column="34" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/execchain/RetryExec.java" />
-      <jump line="70" column="21" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/execchain/RetryExec.java" />
-      <jump line="72" column="31" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/execchain/RetryExec.java" />
-      <jump line="65" column="42" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/execchain/RetryExec.java" />
       <jump line="69" column="42" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/execchain/RetryExec.java" />
       <jump line="71" column="21" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/execchain/RetryExec.java" />
       <jump line="73" column="28" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/execchain/RetryExec.java" />
@@ -173,6 +150,30 @@
       <jump line="52" column="40" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9-sources.jar!/org/apache/http/impl/io/AbstractMessageWriter.java" />
       <jump line="72" column="13" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9-sources.jar!/org/apache/http/impl/io/AbstractMessageWriter.java" />
       <jump line="205" column="8" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9-sources.jar!/org/apache/http/protocol/HttpRequestExecutor.java" />
+      <jump line="65" column="40" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9-sources.jar!/org/apache/http/impl/entity/EntitySerializer.java" />
+      <jump line="155" column="20" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9-sources.jar!/org/apache/http/entity/StringEntity.java" />
+      <jump line="160" column="45" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9-sources.jar!/org/apache/http/entity/StringEntity.java" />
+      <jump line="166" column="29" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9-sources.jar!/org/apache/http/entity/StringEntity.java" />
+      <jump line="41" column="56" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9-sources.jar!/org/apache/http/entity/StringEntity.java" />
+      <jump line="48" column="27" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9-sources.jar!/org/apache/http/entity/StringEntity.java" />
+      <jump line="51" column="61" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9-sources.jar!/org/apache/http/entity/StringEntity.java" />
+      <jump line="53" column="21" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9-sources.jar!/org/apache/http/entity/StringEntity.java" />
+      <jump line="54" column="26" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9-sources.jar!/org/apache/http/entity/StringEntity.java" />
+      <jump line="69" column="13" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9-sources.jar!/org/apache/http/entity/StringEntity.java" />
+      <jump line="76" column="49" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9-sources.jar!/org/apache/http/entity/StringEntity.java" />
+      <jump line="76" column="35" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9-sources.jar!/org/apache/http/impl/AbstractHttpClientConnection.java" />
+      <jump line="134" column="19" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9-sources.jar!/org/apache/http/impl/AbstractHttpClientConnection.java" />
+      <jump line="67" column="27" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9-sources.jar!/org/apache/http/impl/entity/StrictContentLengthStrategy.java" />
+      <jump line="114" column="20" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9-sources.jar!/org/apache/http/impl/entity/StrictContentLengthStrategy.java" />
+      <jump line="55" column="22" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9-sources.jar!/org/apache/http/impl/entity/StrictContentLengthStrategy.java" />
+      <jump line="61" column="14" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9-sources.jar!/org/apache/http/impl/entity/StrictContentLengthStrategy.java" />
+      <jump line="65" column="49" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9-sources.jar!/org/apache/http/impl/entity/StrictContentLengthStrategy.java" />
+      <jump line="107" column="55" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9-sources.jar!/org/apache/http/impl/io/ContentLengthOutputStream.java" />
+      <jump line="113" column="17" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9-sources.jar!/org/apache/http/impl/io/ContentLengthOutputStream.java" />
+      <jump line="127" column="17" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9-sources.jar!/org/apache/http/impl/io/ContentLengthOutputStream.java" />
+      <jump line="129" column="17" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9-sources.jar!/org/apache/http/impl/io/ContentLengthOutputStream.java" />
+      <jump line="62" column="17" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9-sources.jar!/org/apache/http/impl/io/ContentLengthOutputStream.java" />
+      <jump line="106" column="17" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9-sources.jar!/org/apache/http/impl/io/ContentLengthOutputStream.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -182,7 +183,7 @@
         <text>customer.getRealName()</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpZlw+</text>
+        <text encoding="base64">XDx0b3RhbFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
@@ -219,21 +220,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpZlw+</last-search>
+      <last-search encoding="base64">XDx0b3RhbFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpZlw+</last-pattern>
+      <last-pattern encoding="base64">XDx0b3RhbFw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxpc1Rhc2tFbmRcPg==</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZXRyeUhhbmRsZXJcPg==</entry>
-        <entry encoding="base64">XDxyZXRyeVJlcXVlc3RcPg==</entry>
-        <entry encoding="base64">XDxyb3V0ZVBsYW5uZXJcPg==</entry>
-        <entry encoding="base64">XDxzeXN0ZW1Qcm9wZXJ0aWVzXD4=</entry>
-        <entry encoding="base64">XDxkZXRlcm1pbmVQcm94eVw+</entry>
         <entry encoding="base64">XDxleGVjQ2hhaW5cPg==</entry>
         <entry encoding="base64">XDxyZXNwb25zZVw+</entry>
         <entry encoding="base64">XDxjb25uTWFuYWdlclw+</entry>
@@ -249,6 +245,11 @@
         <entry encoding="base64">XDxnZXRSZXF1ZXN0TGluZVw+</entry>
         <entry encoding="base64">XDxzZXNzaW9uQnVmZmVyXD4=</entry>
         <entry encoding="base64">XDxpZlw+</entry>
+        <entry encoding="base64">XDxsZW5TdHJhdGVneVw+</entry>
+        <entry encoding="base64">XDxjb250ZW50XD4=</entry>
+        <entry encoding="base64">XDxlbnRpdHlzZXJpYWxpemVyXD4=</entry>
+        <entry encoding="base64">XDxpbXBsaWNpdExlblw+</entry>
+        <entry encoding="base64">XDx0b3RhbFw+</entry>
       </history-search>
       <history-cmd>
         <entry>maps</entry>
