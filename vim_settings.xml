@@ -24,14 +24,17 @@
         <mark key="^" line="43" column="38" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.2/httpclient-4.5.2-sources.jar!/org/apache/http/impl/client/AIMDBackoffManager.java" timestamp="1566468397166" />
-      <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9-sources.jar!/org/apache/http/impl/pool/BasicConnFactory.java" timestamp="1566964120891">
-        <mark key="'" line="65" column="72" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9-sources.jar!/org/apache/http/impl/pool/BasicConnFactory.java" timestamp="1566969420084">
+        <mark key="'" line="107" column="13" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9-sources.jar!/org/apache/http/config/SocketConfig.java" timestamp="1566887192361">
         <mark key="'" line="199" column="54" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9-sources.jar!/org/apache/http/message/AbstractHttpMessage.java" timestamp="1566896581927">
         <mark key="'" line="63" column="25" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9-sources.jar!/org/apache/http/impl/io/SessionOutputBufferImpl.java" timestamp="1566970016873">
+        <mark key="'" line="68" column="31" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/execchain/MainClientExec.java" timestamp="1566963128872">
         <mark key="'" line="247" column="20" />
@@ -233,10 +236,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="169" column="0" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/storemanager/CardManageService.java" />
-      <jump line="18" column="25" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/storemanager/CountCardDefInfo.java" />
-      <jump line="20" column="23" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/storemanager/AppointPointCustomerInfoResponse.java" />
-      <jump line="34" column="19" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/storemanager/AppointPointCustomerInfoResponse.java" />
       <jump line="158" column="32" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/client/HttpClientBuilder.java" />
       <jump line="230" column="27" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/client/HttpClientBuilder.java" />
       <jump line="878" column="38" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/client/HttpClientBuilder.java" />
@@ -333,6 +332,10 @@
       <jump line="48" column="32" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/conn/CPoolProxy.java" />
       <jump line="52" column="13" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/conn/CPoolProxy.java" />
       <jump line="65" column="72" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9-sources.jar!/org/apache/http/impl/pool/BasicConnFactory.java" />
+      <jump line="80" column="13" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9-sources.jar!/org/apache/http/impl/pool/BasicConnFactory.java" />
+      <jump line="107" column="13" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9-sources.jar!/org/apache/http/impl/pool/BasicConnFactory.java" />
+      <jump line="55" column="13" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9-sources.jar!/org/apache/http/impl/io/SessionOutputBufferImpl.java" />
+      <jump line="68" column="31" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9-sources.jar!/org/apache/http/impl/io/SessionOutputBufferImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -342,7 +345,7 @@
         <text>customer.getRealName()</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb25uRmFjdG9yeVw+</text>
+        <text encoding="base64">XDxTZXNzaW9uT3V0cHV0QnVmZmVySW1wbFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
@@ -379,9 +382,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb25uRmFjdG9yeVw+</last-search>
+      <last-search encoding="base64">XDxTZXNzaW9uT3V0cHV0QnVmZmVySW1wbFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb25uRmFjdG9yeVw+</last-pattern>
+      <last-pattern encoding="base64">XDxTZXNzaW9uT3V0cHV0QnVmZmVySW1wbFw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxpc1Rhc2tFbmRcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -389,7 +392,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwcm94eUNoYWluXD4=</entry>
         <entry encoding="base64">XDxzb2NrZXRDb25maWdNYXBcPg==</entry>
         <entry encoding="base64">XDxiYWNrbG9nU2l6ZVw+</entry>
         <entry encoding="base64">XDxlbnRyeVw+</entry>
@@ -409,6 +411,7 @@
         <entry encoding="base64">XDxQb29sRW50cnlcPg==</entry>
         <entry encoding="base64">XDxwb29sRW50cnlcPg==</entry>
         <entry encoding="base64">XDxjb25uRmFjdG9yeVw+</entry>
+        <entry encoding="base64">XDxTZXNzaW9uT3V0cHV0QnVmZmVySW1wbFw+</entry>
       </history-search>
       <history-cmd>
         <entry>maps</entry>
