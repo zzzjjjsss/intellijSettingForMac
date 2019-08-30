@@ -290,8 +290,8 @@
       <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/conn/PoolingHttpClientConnectionManager.java" timestamp="1566887690610">
         <mark key="'" line="303" column="16" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/client/HttpClientBuilder.java" timestamp="1567047843755">
-        <mark key="'" line="408" column="13" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/client/HttpClientBuilder.java" timestamp="1567131281268">
+        <mark key="'" line="1137" column="34" />
         <mark key="[" line="251" column="63" />
         <mark key="]" line="694" column="34" />
         <mark key="^" line="694" column="34" />
@@ -516,7 +516,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="73" column="28" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/execchain/RetryExec.java" />
       <jump line="94" column="33" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/execchain/RetryExec.java" />
       <jump line="94" column="35" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/client/InternalHttpClient.java" />
       <jump line="104" column="21" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/client/InternalHttpClient.java" />
@@ -616,6 +615,7 @@
       <jump line="945" column="12" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/client/HttpClientBuilder.java" />
       <jump line="163" column="20" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/client/HttpClientBuilder.java" />
       <jump line="408" column="13" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/client/HttpClientBuilder.java" />
+      <jump line="1137" column="34" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/client/HttpClientBuilder.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
