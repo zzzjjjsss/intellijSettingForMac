@@ -358,12 +358,6 @@
         <mark key="^" line="192" column="67" />
         <mark key="." line="192" column="67" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/util/Test.java" timestamp="1567390990166">
-        <mark key="[" line="15" column="92" />
-        <mark key="]" line="15" column="92" />
-        <mark key="." line="15" column="92" />
-        <mark key="^" line="15" column="30" />
-      </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/appointment/CategoryInfo.java" timestamp="1564659682408">
         <mark key="[" line="12" column="8" />
         <mark key="]" line="12" column="12" />
@@ -382,7 +376,7 @@
         <mark key="." line="13" column="64" />
         <mark key="^" line="13" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1567067216670">
+      <file name="/Dummy.txt" timestamp="1567392407407">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
