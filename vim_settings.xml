@@ -230,6 +230,11 @@
         <mark key="^" line="12" column="28" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/storemanager/SettingController.java" timestamp="1567405740806">
+        <mark key="[" line="64" column="75" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
+      </file>
       <file name="$USER_HOME$/gitBucket/membersystem/WarDeploy/src/main/resources/application.properties" timestamp="1566535571456">
         <mark key="[" line="17" column="29" />
         <mark key="]" line="17" column="29" />
@@ -241,6 +246,11 @@
         <mark key="]" line="10" column="45" />
         <mark key="." line="10" column="45" />
         <mark key="^" line="9" column="37" />
+      </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/WarDeploy/src/main/java/com/uf/member/filter/AuthenFilter.java" timestamp="1567405574305">
+        <mark key="'" line="42" column="8" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="31" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/ImagesContentRepo.java" timestamp="1564479182077">
         <mark key="[" line="4" column="76" />
@@ -281,6 +291,12 @@
         <mark key="." line="142" column="16" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/conn/HttpClientConnectionManager.java" timestamp="1566875967632" />
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/storemanager/AdminService.java" timestamp="1567405734701">
+        <mark key="[" line="34" column="56" />
+        <mark key="]" line="34" column="81" />
+        <mark key="^" line="34" column="81" />
+        <mark key="." line="34" column="81" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/joda-time/joda-time/2.10/joda-time-2.10-sources.jar!/org/joda/time/format/DateTimeFormat.java" timestamp="1567390571158" />
       <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5.jar!/org/apache/http/impl/conn/PoolingHttpClientConnectionManager.class" timestamp="1566882969771" />
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem_WechatApp/pages/customer/appointment/categoriesList.js" timestamp="1566987881480">
@@ -446,7 +462,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="25" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9-sources.jar!/org/apache/http/message/AbstractHttpMessage.java" />
       <jump line="83" column="35" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/client/InternalHttpClient.java" />
       <jump line="779" column="13" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/client/HttpClientBuilder.java" />
       <jump line="948" column="52" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/client/HttpClientBuilder.java" />
@@ -546,55 +561,56 @@
       <jump line="583" column="43" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AppointmentService.java" />
       <jump line="103" column="16" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AppointmentService.java" />
       <jump line="147" column="31" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/customer/AppointmentController.java" />
+      <jump line="42" column="8" filename="$USER_HOME$/gitBucket/membersystem/WarDeploy/src/main/java/com/uf/member/filter/AuthenFilter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>getOne</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text>getOne</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkYXRlU3RyXD4=</text>
+        <text encoding="base64">XDxjYWNoZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RhcnRUaW1lPW5ldyBUaW1lc3RhbXAoTG9jYWxEYXRlVGltZS5wYXJzZShkYXRlU3RyKyIgMDA6MDA6MDAiKS50b0RhdGUoKS5nZXRUaW1lKCkpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgQ2FjaGVTZXJ2aWNlIGNhY2hlOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgdXJsU3RyPSJodHRwczovL3N6LjUxODUxOC54eXovaW1hZ2VzX3Rjenl6cy91cGxvYWQvMzIxNTY0NTQ5NjQxMDkxLmpwZyI7CiAgICAgICAgVVJJIHVybD0gVVJJLmNyZWF0ZSh1cmxTdHIpOwogICAgICAgIExpc3Q8U3RyaW5nPiBmaWVsZHM9IFNwbGl0dGVyLm9uKCIvIikub21pdEVtcHR5U3RyaW5ncygpLnNwbGl0VG9MaXN0KHVybC5nZXRQYXRoKCkpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihmaWVsZHMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGltZXN0YW1wID0gVGltZXN0YW1wLnZhbHVlT2YoZGF0ZS5hdFRpbWUoamF2YS50aW1lLkxvY2FsVGltZS5NSUROSUdIVCkpOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9jYWxEYXRlLnBhcnNlKGRhdGVTdHIrIiIpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgamF2YS50aW1lLkxvY2FsRGF0ZSBkYXRlID0gRGF0ZVRpbWVQYXJzZXJVdGlsLnBhcnNlVG9Mb2NhbERhdGUoZGF0ZVN0cik7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PEFwcG9pbnRtZW50VG9DdXN0b21lcj4gYXBwb2ludG1lbnRzID0gYXBwb2ludFRvQ3VzdG9tZXJSZXBvLmZpbmQK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgdXJsU3RyPSJodHRwczovL3N6LjUxODUxOC54eXovaW1hZ2VzX3Rjenl6cy91cGxvYWQvMzIxNTY0NTQ5NjQxMDkxLmpwZyI7CiAgICAgICAgVVJJIHVybD0gVVJJLmNyZWF0ZSh1cmxTdHIpOwogICAgICAgIExpc3Q8U3RyaW5nPiBmaWVsZHM9IFNwbGl0dGVyLm9uKCIvIikub21pdEVtcHR5U3RyaW5ncygpLnNwbGl0VG9MaXN0KHVybC5nZXRQYXRoKCkpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihmaWVsZHMpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGltZXN0YW1wID0gVGltZXN0YW1wLnZhbHVlT2YoZGF0ZS5hdFRpbWUoamF2YS50aW1lLkxvY2FsVGltZS5NSUROSUdIVCkpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgTG9jYWxEYXRlLnBhcnNlKGRhdGVTdHIrIiIpCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgamF2YS50aW1lLkxvY2FsRGF0ZSBkYXRlID0gRGF0ZVRpbWVQYXJzZXJVdGlsLnBhcnNlVG9Mb2NhbERhdGUoZGF0ZVN0cik7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBMaXN0PEFwcG9pbnRtZW50VG9DdXN0b21lcj4gZmluZE9uZURheUFwcG9pbnRtZW50c09yZGVyQnlUaW1lUG9pbnQoQFBhcmFtKCJkYXRlIikgVGltZXN0YW1wIHN0YXJ0VGltZVBvaW50KTsK</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PEFwcG9pbnRtZW50VG9DdXN0b21lcj4gYXBwb2ludG1lbnRzID0gYXBwb2ludFRvQ3VzdG9tZXJSZXBvLmZpbmQK</text>
       </register>
       <register name=":" type="4">
         <text>map</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkYXRlU3RyXD4=</last-search>
+      <last-search encoding="base64">XDxjYWNoZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkYXRlU3RyXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxjYWNoZVw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxpc1Rhc2tFbmRcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -602,7 +618,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb25uTWFuYWdlclw+</entry>
         <entry encoding="base64">XDxwb29saW5nbWdyXD4=</entry>
         <entry encoding="base64">XDxjb25uUmVxdWVzdFw+</entry>
         <entry encoding="base64">XDxtYW5hZ2VkQ29ublw+</entry>
@@ -622,6 +637,7 @@
         <entry encoding="base64">XDxjb25uTWFuYWdlckNvcHlcPg==</entry>
         <entry encoding="base64">XDxjb25uTWFuYWdlclNoYXJlZFw+</entry>
         <entry encoding="base64">XDxkYXRlU3RyXD4=</entry>
+        <entry encoding="base64">XDxjYWNoZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>maps</entry>
