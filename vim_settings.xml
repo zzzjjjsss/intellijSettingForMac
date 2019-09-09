@@ -39,7 +39,7 @@
       <file name="$USER_HOME$/github/java-design-patterns/temp" timestamp="1567667579696">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/WarDeploy/src/main/resources/application.properties" timestamp="1566535571456">
+      <file name="$USER_HOME$/gitBucket/membersystem/WarDeploy/src/main/resources/application.properties" timestamp="1568024534583">
         <mark key="[" line="17" column="29" />
         <mark key="]" line="17" column="29" />
         <mark key="^" line="8" column="30" />
@@ -233,6 +233,7 @@
         <mark key="." line="53" column="38" />
         <mark key="^" line="53" column="38" />
       </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/PlatformService/src/main/resources/application.properties" timestamp="1568024632053" />
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/storemanager/StatisticsContorller.java" timestamp="1564134051978">
         <mark key="'" line="25" column="8" />
         <mark key="[" line="30" column="43" />
@@ -362,7 +363,7 @@
         <mark key="." line="617" column="56" />
         <mark key="^" line="617" column="56" />
       </file>
-      <file name="/Dummy.txt" timestamp="1568022824233">
+      <file name="/Dummy.txt" timestamp="1568024471351">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
