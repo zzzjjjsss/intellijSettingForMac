@@ -121,12 +121,6 @@
         <mark key="^" line="56" column="7" />
         <mark key="." line="56" column="7" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem_WechatApp/pages/customer/appointment/categoriesList.js" timestamp="1566987881480">
-        <mark key="[" line="98" column="16" />
-        <mark key="]" line="98" column="21" />
-        <mark key="." line="98" column="21" />
-        <mark key="^" line="98" column="21" />
-      </file>
       <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/ResourceCategoryRepo.java" timestamp="1564379321188">
         <mark key="[" line="4" column="92" />
         <mark key="]" line="5" column="54" />
@@ -348,7 +342,7 @@
         <mark key="." line="617" column="56" />
         <mark key="^" line="617" column="56" />
       </file>
-      <file name="/Dummy.txt" timestamp="1567756016402">
+      <file name="/Dummy.txt" timestamp="1567996792670">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
