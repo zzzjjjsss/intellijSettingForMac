@@ -332,6 +332,9 @@
         <mark key="^" line="170" column="20" />
         <mark key="." line="156" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/cookie/CookieOrigin.java" timestamp="1568258780382">
+        <mark key="'" line="57" column="24" />
+      </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-data-access/src/main/java/com/moodys/sav/sfs/data/bean/CollateralAssettypeMapping.java" timestamp="1565058883299">
         <mark key="[" line="6" column="3" />
         <mark key="]" line="7" column="27" />
@@ -485,10 +488,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="102" column="21" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/client/InternalHttpClient.java" />
-      <jump line="105" column="25" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/client/InternalHttpClient.java" />
-      <jump line="1050" column="24" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/client/HttpClientBuilder.java" />
-      <jump line="1060" column="37" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/client/HttpClientBuilder.java" />
       <jump line="1124" column="37" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/client/HttpClientBuilder.java" />
       <jump line="1165" column="12" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/client/HttpClientBuilder.java" />
       <jump line="1156" column="12" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/client/HttpClientBuilder.java" />
@@ -585,6 +584,10 @@
       <jump line="34" column="27" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/storemanager/AdminService.java" />
       <jump line="142" column="34" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem_WechatApp/pages/index.js" />
       <jump line="146" column="20" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem_WechatApp/pages/index.js" />
+      <jump line="49" column="72" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/cookie/CookieOrigin.java" />
+      <jump line="53" column="21" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/cookie/CookieOrigin.java" />
+      <jump line="56" column="31" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/cookie/CookieOrigin.java" />
+      <jump line="57" column="24" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/cookie/CookieOrigin.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -594,7 +597,7 @@
         <text>page</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb250ZXh0TmFtZVw+</text>
+        <text encoding="base64">XDxwYXRoXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHBhZ2Uuc2V0RGF0YSh7ICJzdG9yZUluZm9zIjogW3sgY29udGV4dE5hbWU6ICJ4eGxmZCIsIHN0b3JlTmFtZTogIuaYn+aYn+eQhuWPkeW6lyIsIHN0b3JlRGVzY3JpcHRpb246ICLmj5DkvpvmtJfliarlkLnvvIzlpLTlj5HmiqTnkIbvvIzlkITnp43lj5HlnovnmoTorr7orqHkuI7liLbkvZzvvIEiIH1dIH0pOwo=</text>
@@ -631,9 +634,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb250ZXh0TmFtZVw+</last-search>
+      <last-search encoding="base64">XDxwYXRoXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb250ZXh0TmFtZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxwYXRoXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxpc1Rhc2tFbmRcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -641,7 +644,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwb29sRW50cnlcPg==</entry>
         <entry encoding="base64">XDxjb25uRmFjdG9yeVw+</entry>
         <entry encoding="base64">XDxTZXNzaW9uT3V0cHV0QnVmZmVySW1wbFw+</entry>
         <entry encoding="base64">XDxyZXF1ZXN0V3JpdGVyXD4=</entry>
@@ -661,6 +663,7 @@
         <entry encoding="base64">XDxjYWNoZU9ialw+</entry>
         <entry encoding="base64">XDxtYW5hZ2VyS2V5XD4=</entry>
         <entry encoding="base64">XDxjb250ZXh0TmFtZVw+</entry>
+        <entry encoding="base64">XDxwYXRoXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>maps</entry>
