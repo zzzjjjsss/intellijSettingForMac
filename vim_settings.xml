@@ -330,12 +330,12 @@
         <mark key="]" line="145" column="16" />
         <mark key="." line="145" column="16" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/CustomerInfoRobot/src/main/java/com/uf/member/robot/Main.java" timestamp="1568615593233">
-        <mark key="'" line="49" column="28" />
-        <mark key="[" line="92" column="41" />
-        <mark key="]" line="92" column="44" />
-        <mark key="." line="92" column="44" />
-        <mark key="^" line="92" column="44" />
+      <file name="$USER_HOME$/gitBucket/membersystem/CustomerInfoRobot/src/main/java/com/uf/member/robot/Main.java" timestamp="1568619492762">
+        <mark key="'" line="100" column="46" />
+        <mark key="[" line="99" column="45" />
+        <mark key="]" line="99" column="45" />
+        <mark key="^" line="42" column="94" />
+        <mark key="." line="99" column="45" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/storemanager/AdminService.java" timestamp="1567407180747">
         <mark key="'" line="34" column="27" />
@@ -499,7 +499,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1165" column="12" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/client/HttpClientBuilder.java" />
       <jump line="1156" column="12" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/client/HttpClientBuilder.java" />
       <jump line="1134" column="12" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/client/HttpClientBuilder.java" />
       <jump line="1126" column="41" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/client/HttpClientBuilder.java" />
@@ -599,13 +598,14 @@
       <jump line="56" column="31" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/cookie/CookieOrigin.java" />
       <jump line="57" column="24" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/cookie/CookieOrigin.java" />
       <jump line="49" column="28" filename="$USER_HOME$/gitBucket/membersystem/CustomerInfoRobot/src/main/java/com/uf/member/robot/Main.java" />
+      <jump line="93" column="46" filename="$USER_HOME$/gitBucket/membersystem/CustomerInfoRobot/src/main/java/com/uf/member/robot/Main.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>:</text>
+        <text>telephone</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>telephone</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXRoXD4=</text>

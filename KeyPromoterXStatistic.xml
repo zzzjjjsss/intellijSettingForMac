@@ -153,6 +153,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'Main'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'Main'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'Test'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
