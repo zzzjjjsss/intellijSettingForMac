@@ -330,12 +330,12 @@
         <mark key="]" line="145" column="16" />
         <mark key="." line="145" column="16" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/CustomerInfoRobot/src/main/java/com/uf/member/robot/Main.java" timestamp="1568619492762">
+      <file name="$USER_HOME$/gitBucket/membersystem/CustomerInfoRobot/src/main/java/com/uf/member/robot/Main.java" timestamp="1568620152088">
         <mark key="'" line="100" column="46" />
         <mark key="[" line="99" column="45" />
-        <mark key="]" line="99" column="45" />
-        <mark key="^" line="42" column="94" />
-        <mark key="." line="99" column="45" />
+        <mark key="]" line="50" column="56" />
+        <mark key="^" line="50" column="56" />
+        <mark key="." line="50" column="56" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/storemanager/AdminService.java" timestamp="1567407180747">
         <mark key="'" line="34" column="27" />
