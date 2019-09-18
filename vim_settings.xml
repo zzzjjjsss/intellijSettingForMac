@@ -39,7 +39,8 @@
         <mark key="^" line="7" column="87" />
         <mark key="." line="7" column="87" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/DeletedAppointmentToCustomer.java" timestamp="1568789636837">
+      <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/DeletedAppointmentToCustomer.java" timestamp="1568792653569">
+        <mark key="'" line="13" column="17" />
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="35" />
         <mark key="^" line="23" column="35" />
@@ -153,12 +154,12 @@
         <mark key="^" line="7" column="27" />
         <mark key="." line="7" column="27" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AppointmentService.java" timestamp="1568789154186">
-        <mark key="'" line="737" column="20" />
-        <mark key="[" line="702" column="11" />
-        <mark key="]" line="702" column="11" />
-        <mark key="." line="702" column="11" />
-        <mark key="^" line="702" column="11" />
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AppointmentService.java" timestamp="1568792533551">
+        <mark key="'" line="763" column="24" />
+        <mark key="[" line="243" column="63" />
+        <mark key="]" line="243" column="63" />
+        <mark key="^" line="243" column="63" />
+        <mark key="." line="243" column="63" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/storemanager/ImageController.java" timestamp="1564493723348">
         <mark key="[" line="30" column="61" />
@@ -245,6 +246,7 @@
         <mark key="^" line="48" column="124" />
         <mark key="." line="48" column="124" />
       </file>
+      <file name="/DeletedAppointmentToCustomerRepo.java" timestamp="1568791207058" />
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-data-access/src/main/java/com/moodys/sav/sfs/data/dao/impl/mysql/CollateralAssettypeMappingDaoImpl.java" timestamp="1564045628195">
         <mark key="[" line="10" column="16" />
         <mark key="]" line="10" column="49" />
@@ -276,11 +278,11 @@
         <mark key="." line="53" column="38" />
         <mark key="^" line="53" column="38" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/ResourceAppointment.java" timestamp="1564384972100">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
+      <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/ResourceAppointment.java" timestamp="1568790192174">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="34" column="0" />
         <mark key="^" line="54" column="41" />
-        <mark key="." line="54" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/appointment/OneWeekAppointInfo.java" timestamp="1564738168194">
         <mark key="[" line="6" column="44" />
@@ -295,11 +297,11 @@
         <mark key="^" line="16" column="0" />
         <mark key="." line="17" column="97" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/DeletedAppointmentToCustomerRepo.java" timestamp="1568788473605">
-        <mark key="[" line="12" column="74" />
-        <mark key="]" line="12" column="74" />
-        <mark key="^" line="11" column="177" />
-        <mark key="." line="12" column="74" />
+      <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/DeletedAppointmentToCustomerRepo.java" timestamp="1568792672793">
+        <mark key="[" line="14" column="66" />
+        <mark key="]" line="14" column="83" />
+        <mark key="^" line="14" column="83" />
+        <mark key="." line="14" column="83" />
       </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-deal-sync/src/main/java/com/moodys/sav/sfs/dealsync/AbstractSynchronizer.java" timestamp="1568699754809">
         <mark key="'" line="62" column="52" />
@@ -374,19 +376,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="175" column="32" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/execchain/MainClientExec.java" />
-      <jump line="178" column="16" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/execchain/MainClientExec.java" />
-      <jump line="181" column="41" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/execchain/MainClientExec.java" />
-      <jump line="190" column="12" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/execchain/MainClientExec.java" />
-      <jump line="202" column="62" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/execchain/MainClientExec.java" />
-      <jump line="206" column="16" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/execchain/MainClientExec.java" />
-      <jump line="208" column="20" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/execchain/MainClientExec.java" />
-      <jump line="210" column="20" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/execchain/MainClientExec.java" />
-      <jump line="215" column="93" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/execchain/MainClientExec.java" />
-      <jump line="233" column="21" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/execchain/MainClientExec.java" />
-      <jump line="236" column="55" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/execchain/MainClientExec.java" />
-      <jump line="247" column="20" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/execchain/MainClientExec.java" />
-      <jump line="75" column="11" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9-sources.jar!/org/apache/http/pool/PoolEntry.java" />
       <jump line="97" column="26" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9-sources.jar!/org/apache/http/pool/PoolEntry.java" />
       <jump line="48" column="32" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/conn/CPoolProxy.java" />
       <jump line="52" column="13" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/conn/CPoolProxy.java" />
@@ -474,63 +463,75 @@
       <jump line="40" column="15" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/bean/OneAppointment.java" />
       <jump line="731" column="20" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AppointmentService.java" />
       <jump line="729" column="20" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AppointmentService.java" />
+      <jump line="705" column="40" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AppointmentService.java" />
+      <jump line="706" column="20" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AppointmentService.java" />
+      <jump line="707" column="20" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AppointmentService.java" />
+      <jump line="708" column="20" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AppointmentService.java" />
+      <jump line="709" column="20" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AppointmentService.java" />
+      <jump line="710" column="20" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AppointmentService.java" />
+      <jump line="713" column="24" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AppointmentService.java" />
+      <jump line="722" column="50" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AppointmentService.java" />
+      <jump line="726" column="24" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AppointmentService.java" />
+      <jump line="24" column="15" filename="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/DeletedAppointmentToCustomer.java" />
+      <jump line="27" column="38" filename="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/DeletedAppointmentToCustomer.java" />
+      <jump line="28" column="29" filename="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/DeletedAppointmentToCustomer.java" />
+      <jump line="13" column="17" filename="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/DeletedAppointmentToCustomer.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBMb25nIGdldEFwcG9pbnRJZCgpIHsKICAgICAgICByZXR1cm4gYXBwb2ludElkOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldEFwcG9pbnRJZChMb25nIGFwcG9pbnRJZCkgewogICAgICAgIHRoaXMuYXBwb2ludElkID0gYXBwb2ludElkOwogICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>Long resourceId, Timestamp startTimePoint,Timestamp endTimePoint</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>Long resourceId, Timestamp startTimePoint,Timestamp endTimePoint</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwb2ludFw+</text>
+        <text encoding="base64">XDxhcHBvaW50bWVudElkXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBMb25nIGdldEFwcG9pbnRJZCgpIHsKICAgICAgICByZXR1cm4gYXBwb2ludElkOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldEFwcG9pbnRJZChMb25nIGFwcG9pbnRJZCkgewogICAgICAgIHRoaXMuYXBwb2ludElkID0gYXBwb2ludElkOwogICAgfQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzb3VyY2VBcHBvaW50cy5wdXQoKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIEBRdWVyeSgic2VsZWN0ICogZnJvbSBEZWxldGVkQXBwb2ludG1lbnRUb0N1c3RvbWVyIGFjICB3aGVyZSA9OnJJZCAgYW5kIGFjLnN0YXJ0VGltZVBvaW50Pj06c3RhcnRUaW1lIGFuZCBhYy5zdGFydFRpbWVQb2ludDw9OmVuZFRpbWUiKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIFJlc291cmNlQXBwb2ludG1lbnQK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBMaXN0PERlbGV0ZWRBcHBvaW50bWVudFRvQ3VzdG9tZXI+IGZpbmRCeVJlc291cmNlSWRBbmRTdGFydFRpbWVQb2ludEFuZEVuZFRpbWVQb2ludChMb25nIHJlc291cmNlSWQsIFRpbWVzdGFtcCBzdGFydFRpbWVQb2ludCxUaW1lc3RhbXAgZW5kVGltZVBvaW50KTsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBhcHBvaW50bWVudFJlcG8uc2F2ZShzYXZlRGF0YSk7Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNhdmVEYXRhLmFkZChhcHBvaW50bWVudCk7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBMaXN0PFJlc291cmNlQXBwb2ludG1lbnQ+IHNhdmVEYXRhID0gbmV3IEFycmF5TGlzdDw+KCk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYXBwb2ludG1lbnQuc2V0QXBwb2ludGVkQ3VzdG9tZXJzKCk7Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChhcC5nZXQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>map</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwb2ludFw+</last-search>
+      <last-search encoding="base64">XDxhcHBvaW50bWVudElkXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwb2ludFw+</last-pattern>
+      <last-pattern encoding="base64">XDxhcHBvaW50bWVudElkXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxpc1Rhc2tFbmRcPg==</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpZlw+</entry>
         <entry encoding="base64">XDxsZW5TdHJhdGVneVw+</entry>
         <entry encoding="base64">XDxjb250ZW50XD4=</entry>
         <entry encoding="base64">XDxlbnRpdHlzZXJpYWxpemVyXD4=</entry>
@@ -547,9 +548,10 @@
         <entry encoding="base64">XDxwYXRoXD4=</entry>
         <entry encoding="base64">XDxtRGVhbEluZm9cPg==</entry>
         <entry encoding="base64">XDxyZXN1bHRcPg==</entry>
-        <entry encoding="base64">XDxhcHBvaW50bWVudElkXD4=</entry>
         <entry encoding="base64">XDxhcHBvaW50U3RhdHVzXD4=</entry>
         <entry encoding="base64">XDxwb2ludFw+</entry>
+        <entry encoding="base64">XDxhcHBvaW50bWVudFw+</entry>
+        <entry encoding="base64">XDxhcHBvaW50bWVudElkXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>maps</entry>
