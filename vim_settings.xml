@@ -94,12 +94,12 @@
         <mark key="^" line="360" column="50" />
         <mark key="." line="360" column="50" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/ResourceAppointmentRepo.java" timestamp="1568782675227">
+      <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/ResourceAppointmentRepo.java" timestamp="1568784350119">
         <mark key="'" line="35" column="78" />
-        <mark key="[" line="31" column="97" />
-        <mark key="]" line="31" column="96" />
-        <mark key="^" line="31" column="95" />
-        <mark key="." line="31" column="96" />
+        <mark key="[" line="38" column="102" />
+        <mark key="]" line="38" column="107" />
+        <mark key="^" line="38" column="107" />
+        <mark key="." line="38" column="107" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/PlatformService/src/main/resources/application.properties" timestamp="1568024632053" />
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/appointment/AppointItemStatusEnum.java" timestamp="1564729643882">
@@ -154,12 +154,11 @@
         <mark key="^" line="7" column="27" />
         <mark key="." line="7" column="27" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AppointmentService.java" timestamp="1568782817248">
-        <mark key="'" line="238" column="63" />
-        <mark key="[" line="239" column="28" />
-        <mark key="]" line="243" column="47" />
-        <mark key="." line="243" column="47" />
-        <mark key="^" line="243" column="47" />
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AppointmentService.java" timestamp="1568784829795">
+        <mark key="'" line="242" column="63" />
+        <mark key="[" line="216" column="20" />
+        <mark key="]" line="216" column="20" />
+        <mark key="." line="216" column="20" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/storemanager/ImageController.java" timestamp="1564493723348">
         <mark key="[" line="30" column="61" />
@@ -477,44 +476,44 @@
       <jump line="238" column="63" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AppointmentService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoZGF0ZS5pc0VxdWFsKG5ldyBMb2NhbERhdGUoKSkpewogICAgICAgICAgICAgICAgLy9UT0RPIGFkZCB0aGUgZGVsZXRlZCBjdXQKICAgICAgICAgICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcHBvaW50bWVudElkXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QEVudGl0eQo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBSZXNvdXJjZUFwcG9pbnRtZW50IGZpbmRUb3BCeVJlc291cmNlT3JkZXJCeVN0YXJ0VGltZVBvaW50RGVzYyhTY2hlZHVsZVJlc291cmNlIHJlc291cmNlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoZGF0ZS5pc0VxdWFsKG5ldyBMb2NhbERhdGUoKSkpewogICAgICAgICAgICAgICAgLy9UT0RPIGFkZCB0aGUgZGVsZXRlZCBjdXQKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS51Zi5tZW1iZXIuZGFvLm15c3FsLmVudGl0eS5DdXN0b21lcjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBSZXNvdXJjZUFwcG9pbnRtZW50IGdldEFwcG9pbnRtZW50KCkgewogICAgICAgIHJldHVybiBhcHBvaW50bWVudDsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRBcHBvaW50bWVudChSZXNvdXJjZUFwcG9pbnRtZW50IGFwcG9pbnRtZW50KSB7CiAgICAgICAgdGhpcy5hcHBvaW50bWVudCA9IGFwcG9pbnRtZW50OwogICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChhcC5nZXQpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgUmVzb3VyY2VBcHBvaW50bWVudCBhcHBvaW50bWVudDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBKb2luQ29sdW1uKG5hbWUgPSAiYXBwb2ludG1lbnRfaWQiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoZGF0ZS5pc0VxdWFsKG5ldyBMb2NhbERhdGUoKSkpewogICAgICAgICAgICAgICAgLy9UT0RPIGFkZCB0aGUgZGVsZXRlZCBjdXQKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBNYW55VG9PbmUK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS51Zi5tZW1iZXIuZGFvLm15c3FsLmVudGl0eS5DdXN0b21lcjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBSZXNvdXJjZUFwcG9pbnRtZW50IGdldEFwcG9pbnRtZW50KCkgewogICAgICAgIHJldHVybiBhcHBvaW50bWVudDsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRBcHBvaW50bWVudChSZXNvdXJjZUFwcG9pbnRtZW50IGFwcG9pbnRtZW50KSB7CiAgICAgICAgdGhpcy5hcHBvaW50bWVudCA9IGFwcG9pbnRtZW50OwogICAgfQoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJlZ2luID0gYmVnaW4ucGx1c0RheXMoMSk7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgUmVzb3VyY2VBcHBvaW50bWVudCBhcHBvaW50bWVudDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBKb2luQ29sdW1uKG5hbWUgPSAiYXBwb2ludG1lbnRfaWQiKQo=</text>
       </register>
       <register name=":" type="4">
         <text>map</text>
