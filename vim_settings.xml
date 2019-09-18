@@ -279,11 +279,18 @@
         <mark key="^" line="6" column="53" />
         <mark key="." line="6" column="53" />
       </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/CustomerRepo.java" timestamp="1568775475823" />
       <file name="$USER_HOME$/gitBucket/membersystem/SpringBootDeploy/pom.xml" timestamp="1564386514593">
         <mark key="[" line="17" column="97" />
         <mark key="]" line="17" column="97" />
         <mark key="^" line="16" column="0" />
         <mark key="." line="17" column="97" />
+      </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/DeletedAppointmentToCustomerRepo.java" timestamp="1568775528151">
+        <mark key="[" line="5" column="7" />
+        <mark key="]" line="5" column="7" />
+        <mark key="." line="5" column="7" />
+        <mark key="^" line="5" column="102" />
       </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-deal-sync/src/main/java/com/moodys/sav/sfs/dealsync/AbstractSynchronizer.java" timestamp="1568699754809">
         <mark key="'" line="62" column="52" />
@@ -460,11 +467,11 @@
       <jump line="91" column="13" filename="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/DeletedAppointmentToCustomer.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBSZXNvdXJjZUFwcG9pbnRtZW50IGdldEFwcG9pbnRtZW50KCkgewogICAgICAgIHJldHVybiBhcHBvaW50bWVudDsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRBcHBvaW50bWVudChSZXNvdXJjZUFwcG9pbnRtZW50IGFwcG9pbnRtZW50KSB7CiAgICAgICAgdGhpcy5hcHBvaW50bWVudCA9IGFwcG9pbnRtZW50OwogICAgfQoK</text>
+      <register name="&quot;" type="4">
+        <text>class</text>
       </register>
       <register name="-" type="4">
-        <text>telephone</text>
+        <text>class</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtRGVhbEluZm9cPg==</text>
