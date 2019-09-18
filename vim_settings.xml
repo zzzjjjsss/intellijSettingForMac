@@ -39,6 +39,15 @@
         <mark key="^" line="7" column="87" />
         <mark key="." line="7" column="87" />
       </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/DeletedAppointmentToCustomer.java" timestamp="1568773685291">
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="0" />
+        <mark key="^" line="93" column="0" />
+        <mark key="." line="86" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.0.Final/hibernate-jpa-2.1-api-1.0.0.Final-sources.jar!/javax/persistence/GeneratedValue.java" timestamp="1568773630343">
+        <mark key="'" line="57" column="18" />
+      </file>
       <file name="/AppointmentService.java" timestamp="1568613704260" />
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem_WechatApp/pages/customer/appointment/resourceDetail.js" timestamp="1566987946248">
         <mark key="[" line="98" column="16" />
@@ -61,9 +70,9 @@
       <file name="$USER_HOME$/github/java-design-patterns/bridge/src/main/java/com/iluwatar/bridge/Sword.java" timestamp="1568628717004">
         <mark key="'" line="32" column="13" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/AppointmentToCustomer.java" timestamp="1564136390306">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
+      <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/AppointmentToCustomer.java" timestamp="1568773513978">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="7" />
         <mark key="^" line="51" column="41" />
         <mark key="." line="51" column="0" />
       </file>
@@ -349,9 +358,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="221" column="25" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/execchain/MainClientExec.java" />
-      <jump line="187" column="35" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/execchain/MainClientExec.java" />
-      <jump line="93" column="46" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/execchain/MainClientExec.java" />
       <jump line="108" column="46" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/execchain/MainClientExec.java" />
       <jump line="116" column="21" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/execchain/MainClientExec.java" />
       <jump line="126" column="13" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/execchain/MainClientExec.java" />
@@ -449,10 +455,13 @@
       <jump line="128" column="64" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-deal-sync/src/main/java/com/moodys/sav/sfs/dealsync/AbstractSynchronizer.java" />
       <jump line="62" column="52" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-deal-sync/src/main/java/com/moodys/sav/sfs/dealsync/AbstractSynchronizer.java" />
       <jump line="167" column="8" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-deal-sync/src/main/java/com/moodys/sav/sfs/dealsync/DLSynchronizer.java" />
+      <jump line="57" column="18" filename="$MAVEN_REPOSITORY$/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.0.Final/hibernate-jpa-2.1-api-1.0.0.Final-sources.jar!/javax/persistence/GeneratedValue.java" />
+      <jump line="11" column="12" filename="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/DeletedAppointmentToCustomer.java" />
+      <jump line="91" column="13" filename="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/DeletedAppointmentToCustomer.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>telephone</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBSZXNvdXJjZUFwcG9pbnRtZW50IGdldEFwcG9pbnRtZW50KCkgewogICAgICAgIHJldHVybiBhcHBvaW50bWVudDsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRBcHBvaW50bWVudChSZXNvdXJjZUFwcG9pbnRtZW50IGFwcG9pbnRtZW50KSB7CiAgICAgICAgdGhpcy5hcHBvaW50bWVudCA9IGFwcG9pbnRtZW50OwogICAgfQoK</text>
       </register>
       <register name="-" type="4">
         <text>telephone</text>
@@ -461,34 +470,34 @@
         <text encoding="base64">XDxtRGVhbEluZm9cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJlZ2luID0gYmVnaW4ucGx1c0RheXMoMSk7Cg==</text>
+        <text encoding="base64">QEVudGl0eQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBSZXNvdXJjZUFwcG9pbnRtZW50IGdldEFwcG9pbnRtZW50KCkgewogICAgICAgIHJldHVybiBhcHBvaW50bWVudDsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRBcHBvaW50bWVudChSZXNvdXJjZUFwcG9pbnRtZW50IGFwcG9pbnRtZW50KSB7CiAgICAgICAgdGhpcy5hcHBvaW50bWVudCA9IGFwcG9pbnRtZW50OwogICAgfQoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJlZ2luID0gYmVnaW4ucGx1c0RheXMoMSk7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgUmVzb3VyY2VBcHBvaW50bWVudCBhcHBvaW50bWVudDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBKb2luQ29sdW1uKG5hbWUgPSAiYXBwb2ludG1lbnRfaWQiKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBNYW55VG9PbmUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJlZ2luID0gYmVnaW4ucGx1c0RheXMoMSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhcHAucmVMb2dpbigpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhcHAuZ2xvYmFsRGF0YS5zdG9yZUNvbnRleHQ9Inh4bGZkL2FwaSI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgIHd4Lgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>map</text>
