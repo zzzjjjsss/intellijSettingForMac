@@ -154,12 +154,12 @@
         <mark key="^" line="7" column="27" />
         <mark key="." line="7" column="27" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AppointmentService.java" timestamp="1568792533551">
-        <mark key="'" line="763" column="24" />
-        <mark key="[" line="243" column="63" />
-        <mark key="]" line="243" column="63" />
-        <mark key="^" line="243" column="63" />
-        <mark key="." line="243" column="63" />
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AppointmentService.java" timestamp="1568792951490">
+        <mark key="'" line="765" column="24" />
+        <mark key="[" line="854" column="37" />
+        <mark key="]" line="854" column="55" />
+        <mark key="^" line="854" column="55" />
+        <mark key="." line="854" column="55" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/storemanager/ImageController.java" timestamp="1564493723348">
         <mark key="[" line="30" column="61" />
@@ -192,7 +192,7 @@
         <mark key="^" line="12" column="28" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/WarDeploy/src/main/resources/application.properties" timestamp="1568024534583">
+      <file name="$USER_HOME$/gitBucket/membersystem/WarDeploy/src/main/resources/application.properties" timestamp="1568794145933">
         <mark key="[" line="17" column="29" />
         <mark key="]" line="17" column="29" />
         <mark key="^" line="8" column="30" />
@@ -297,11 +297,11 @@
         <mark key="^" line="16" column="0" />
         <mark key="." line="17" column="97" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/DeletedAppointmentToCustomerRepo.java" timestamp="1568792672793">
-        <mark key="[" line="14" column="66" />
-        <mark key="]" line="14" column="83" />
+      <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/DeletedAppointmentToCustomerRepo.java" timestamp="1568793728734">
+        <mark key="[" line="11" column="12" />
+        <mark key="]" line="11" column="12" />
         <mark key="^" line="14" column="83" />
-        <mark key="." line="14" column="83" />
+        <mark key="." line="11" column="12" />
       </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-deal-sync/src/main/java/com/moodys/sav/sfs/dealsync/AbstractSynchronizer.java" timestamp="1568699754809">
         <mark key="'" line="62" column="52" />
@@ -479,43 +479,52 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Long resourceId, Timestamp startTimePoint,Timestamp endTimePoint</text>
+        <text>*</text>
       </register>
       <register name="-" type="4">
-        <text>Long resourceId, Timestamp startTimePoint,Timestamp endTimePoint</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcHBvaW50bWVudElkXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBMaXN0PERlbGV0ZWRBcHBvaW50bWVudFRvQ3VzdG9tZXI+IGZpbmRCeVJlc291cmNlSWRBbmRTdGFydFRpbWVQb2ludEFuZEVuZFRpbWVQb2ludChMb25nIHJlc291cmNlSWQsIFRpbWVzdGFtcCBzdGFydFRpbWVQb2ludCxUaW1lc3RhbXAgZW5kVGltZVBvaW50KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBDdXN0b21lciBjdXN0b21lciA9IGN1c3RvbWVyUmVwby5maW5kT25lKGMuZ2V0Q3VzdG9tZXJJZCgpKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhcHBvaW50bWVudFJlcG8uc2F2ZShzYXZlRGF0YSk7Cg==</text>
+      <register name="1" type="4">
+        <text>StringUtils.isBlank(c.getCustomerName());
+                        response.add(info);
+                    } 
+                }</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNhdmVEYXRhLmFkZChhcHBvaW50bWVudCk7Cg==</text>
+      <register name="2" type="4">
+        <text>StringUtils.isBlank(c.getCustomerName());
+                        response.add(info);
+                    } 
+                }</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PFJlc291cmNlQXBwb2ludG1lbnQ+IHNhdmVEYXRhID0gbmV3IEFycmF5TGlzdDw+KCk7Cg==</text>
+      <register name="3" type="4">
+        <text>StringUtils.isBlank(c.getCustomerName());
+                        response.add(info);
+                    } 
+                }</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBhcHBvaW50bWVudFJlcG8uc2F2ZShzYXZlRGF0YSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNhdmVEYXRhLmFkZChhcHBvaW50bWVudCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYXBwb2ludG1lbnQuc2V0QXBwb2ludGVkQ3VzdG9tZXJzKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PFJlc291cmNlQXBwb2ludG1lbnQ+IHNhdmVEYXRhID0gbmV3IEFycmF5TGlzdDw+KCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYXBwb2ludG1lbnQuc2V0QXBwb2ludGVkQ3VzdG9tZXJzKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>map</text>
