@@ -96,10 +96,6 @@
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/ResourceAppointmentRepo.java" timestamp="1568784350119">
         <mark key="'" line="35" column="78" />
-        <mark key="[" line="38" column="102" />
-        <mark key="]" line="38" column="107" />
-        <mark key="^" line="38" column="107" />
-        <mark key="." line="38" column="107" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/PlatformService/src/main/resources/application.properties" timestamp="1568024632053" />
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/appointment/AppointItemStatusEnum.java" timestamp="1564729643882">
@@ -133,6 +129,9 @@
         <mark key="^" line="16" column="46" />
       </file>
       <file name="/index.js" timestamp="1568008564438" />
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/bean/OneAppointment.java" timestamp="1568786344251">
+        <mark key="'" line="40" column="15" />
+      </file>
       <file name="$USER_HOME$/gitBucket/membersystem/CustomerInfoRobot/pom.xml" timestamp="1568265139282">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -154,11 +153,10 @@
         <mark key="^" line="7" column="27" />
         <mark key="." line="7" column="27" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AppointmentService.java" timestamp="1568784829795">
-        <mark key="'" line="242" column="63" />
-        <mark key="[" line="216" column="20" />
-        <mark key="]" line="216" column="20" />
-        <mark key="." line="216" column="20" />
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AppointmentService.java" timestamp="1568786439722">
+        <mark key="[" line="721" column="42" />
+        <mark key="]" line="721" column="42" />
+        <mark key="." line="721" column="42" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/storemanager/ImageController.java" timestamp="1564493723348">
         <mark key="[" line="30" column="61" />
@@ -322,7 +320,7 @@
         <mark key="." line="13" column="64" />
         <mark key="^" line="13" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1568769347792">
+      <file name="/Dummy.txt" timestamp="1568786158220">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -374,8 +372,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1001" column="16" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/client/HttpClientBuilder.java" />
-      <jump line="998" column="16" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/client/HttpClientBuilder.java" />
       <jump line="994" column="20" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/client/HttpClientBuilder.java" />
       <jump line="993" column="20" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/client/HttpClientBuilder.java" />
       <jump line="175" column="32" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/execchain/MainClientExec.java" />
@@ -474,16 +470,18 @@
       <jump line="236" column="58" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AppointmentService.java" />
       <jump line="237" column="33" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AppointmentService.java" />
       <jump line="238" column="63" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AppointmentService.java" />
+      <jump line="12" column="20" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/bean/OneAppointment.java" />
+      <jump line="40" column="15" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/bean/OneAppointment.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>a.getResource().getOneAppointmentCustomerCount()</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>a.getResource().getOneAppointmentCustomerCount()</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhcHBvaW50bWVudElkXD4=</text>
+        <text encoding="base64">XDxhcHBvaW50U3RhdHVzXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBSZXNvdXJjZUFwcG9pbnRtZW50IGZpbmRUb3BCeVJlc291cmNlT3JkZXJCeVN0YXJ0VGltZVBvaW50RGVzYyhTY2hlZHVsZVJlc291cmNlIHJlc291cmNlKTsK</text>
@@ -520,9 +518,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhcHBvaW50bWVudElkXD4=</last-search>
+      <last-search encoding="base64">XDxhcHBvaW50U3RhdHVzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhcHBvaW50bWVudElkXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxhcHBvaW50U3RhdHVzXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxpc1Rhc2tFbmRcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -530,7 +528,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRSZXF1ZXN0TGluZVw+</entry>
         <entry encoding="base64">XDxzZXNzaW9uQnVmZmVyXD4=</entry>
         <entry encoding="base64">XDxpZlw+</entry>
         <entry encoding="base64">XDxsZW5TdHJhdGVneVw+</entry>
@@ -550,6 +547,7 @@
         <entry encoding="base64">XDxtRGVhbEluZm9cPg==</entry>
         <entry encoding="base64">XDxyZXN1bHRcPg==</entry>
         <entry encoding="base64">XDxhcHBvaW50bWVudElkXD4=</entry>
+        <entry encoding="base64">XDxhcHBvaW50U3RhdHVzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>maps</entry>
