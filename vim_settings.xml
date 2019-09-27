@@ -29,10 +29,10 @@
         <mark key="^" line="58" column="30" />
         <mark key="." line="58" column="30" />
       </file>
-      <file name="$USER_HOME$/github/java-design-patterns/composite/src/main/java/com/iluwatar/composite/App.java" timestamp="1569574787810">
-        <mark key="[" line="46" column="5" />
-        <mark key="]" line="46" column="6" />
-        <mark key="." line="46" column="5" />
+      <file name="$USER_HOME$/github/java-design-patterns/composite/src/main/java/com/iluwatar/composite/App.java" timestamp="1569576393434">
+        <mark key="[" line="38" column="19" />
+        <mark key="]" line="38" column="19" />
+        <mark key="." line="38" column="19" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/storemanager/CountCardManageController.java" timestamp="1566536244767">
         <mark key="[" line="43" column="28" />
@@ -337,6 +337,7 @@
         <mark key="^" line="10" column="35" />
         <mark key="." line="10" column="35" />
       </file>
+      <file name="$USER_HOME$/github/java-design-patterns/composite/src/main/java/com/iluwatar/composite/LetterComposite.java" timestamp="1569576789657" />
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem_WechatApp/pages/customer/index.js" timestamp="1566987833070">
         <mark key="[" line="145" column="16" />
         <mark key="]" line="145" column="16" />
@@ -447,6 +448,7 @@
         <mark key="." line="12" column="16" />
         <mark key="^" line="12" column="16" />
       </file>
+      <file name="$USER_HOME$/github/java-design-patterns/composite/src/main/java/com/iluwatar/composite/Sentence.java" timestamp="1569576604649" />
       <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/ConfigKey.java" timestamp="1566205790751">
         <mark key="[" line="13" column="50" />
         <mark key="]" line="13" column="64" />
