@@ -167,6 +167,11 @@
         <mark key="^" line="92" column="3" />
         <mark key="." line="92" column="3" />
       </file>
+      <file name="$USER_HOME$/github/java-design-patterns/observer/src/main/java/com/iluwatar/observer/WeatherObserver.java" timestamp="1569739692398">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+      </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/CountCardDetailInfo.java" timestamp="1567065931294">
         <mark key="[" line="38" column="31" />
         <mark key="]" line="39" column="18" />
@@ -636,8 +641,8 @@
       <jump line="33" column="34" filename="$USER_HOME$/github/java-design-patterns/iterator/src/main/java/com/iluwatar/iterator/bst/BstIterator.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBkZWZhdWx0ICB2b2lkIHRlc3QoKXsKICAgIFN5c3RlbS5vdXQucHJpbnRsbihhKTsgICAKICB9Cg==</text>
       </register>
       <register name="-" type="4">
         <text>=</text>
@@ -649,40 +654,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBDdXN0b21lciBjdXN0b21lciA9IGN1c3RvbWVyUmVwby5maW5kT25lKGMuZ2V0Q3VzdG9tZXJJZCgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICBkZWZhdWx0ICB2b2lkIHRlc3QoKXsKICAgIFN5c3RlbS5vdXQucHJpbnRsbihhKTsgICAKICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIGRlbGV0ZWQuZm9yRWFjaChkLT57Cg==</text>
+        <text encoding="base64">cHVibGljIGludGVyZmFjZSBXZWF0aGVyT2JzZXJ2ZXIgewogIHZvaWQgdXBkYXRlKFdlYXRoZXJUeXBlIGN1cnJlbnRXZWF0aGVyKTsKICBkZWZhdWx0ICB2b2lkIHRlc3QoKXsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICBTdHJpbmcgYT0iZCI7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGE9ImIiOwo=</text>
       </register>
-      <register name="5" type="4">
-        <text>StringUtils.isBlank(c.getCustomerName());
-                        response.add(info);
-                    } 
-                }</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="4">
-        <text>StringUtils.isBlank(c.getCustomerName());
-                        response.add(info);
-                    } 
-                }</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>StringUtils.isBlank(c.getCustomerName());
-                        response.add(info);
-                    } 
-                }</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIGRlbGV0ZWQuZm9yRWFjaChkLT57Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhcHBvaW50bWVudFJlcG8uc2F2ZShzYXZlRGF0YSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNhdmVEYXRhLmFkZChhcHBvaW50bWVudCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>map</text>
