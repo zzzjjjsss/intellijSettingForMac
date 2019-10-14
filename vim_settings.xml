@@ -62,11 +62,11 @@
         <mark key="." line="10" column="45" />
         <mark key="^" line="9" column="37" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/CustomerInfoRobot/src/main/java/com/uf/member/robot/BaiduMapRobot.java" timestamp="1571020153749">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="^" line="14" column="170" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/gitBucket/membersystem/CustomerInfoRobot/src/main/java/com/uf/member/robot/BaiduMapRobot.java" timestamp="1571022296036">
+        <mark key="[" line="52" column="69" />
+        <mark key="]" line="55" column="60" />
+        <mark key="^" line="55" column="60" />
+        <mark key="." line="55" column="60" />
       </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-data-access/src/main/resources/com/moodys/sav/sfs/data/bean/CollateralAssettypeMapping.hbm.xml" timestamp="1564045189545">
         <mark key="[" line="14" column="28" />
@@ -133,12 +133,12 @@
       <file name="$MAVEN_REPOSITORY$/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.0.Final/hibernate-jpa-2.1-api-1.0.0.Final-sources.jar!/javax/persistence/GeneratedValue.java" timestamp="1568773630343">
         <mark key="'" line="57" column="18" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/CustomerInfoRobot/src/main/java/com/uf/member/robot/Main.java" timestamp="1571020226209">
-        <mark key="'" line="105" column="46" />
-        <mark key="[" line="27" column="43" />
-        <mark key="]" line="28" column="17" />
-        <mark key="^" line="28" column="17" />
-        <mark key="." line="28" column="17" />
+      <file name="$USER_HOME$/gitBucket/membersystem/CustomerInfoRobot/src/main/java/com/uf/member/robot/Main.java" timestamp="1571021558848">
+        <mark key="'" line="106" column="46" />
+        <mark key="[" line="46" column="75" />
+        <mark key="]" line="46" column="77" />
+        <mark key="^" line="46" column="77" />
+        <mark key="." line="46" column="77" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/storemanager/AdminService.java" timestamp="1567407180747">
         <mark key="'" line="34" column="27" />
@@ -376,6 +376,12 @@
         <mark key="]" line="156" column="0" />
         <mark key="^" line="170" column="20" />
         <mark key="." line="156" column="0" />
+      </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/CustomerInfoRobot/src/main/java/com/uf/member/robot/CustomerInfo.java" timestamp="1571022207119">
+        <mark key="[" line="11" column="3" />
+        <mark key="]" line="12" column="17" />
+        <mark key="^" line="12" column="17" />
+        <mark key="." line="12" column="17" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/cookie/CookieOrigin.java" timestamp="1568258780382">
         <mark key="'" line="57" column="24" />
@@ -635,44 +641,44 @@
       <jump line="33" column="34" filename="$USER_HOME$/github/java-design-patterns/iterator/src/main/java/com/iluwatar/iterator/bst/BstIterator.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIFN0cmluZyB0b1N0cmluZygpIHsKCiAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>telephone</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXRoU3RhY2tcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBDdXN0b21lciBjdXN0b21lciA9IGN1c3RvbWVyUmVwby5maW5kT25lKGMuZ2V0Q3VzdG9tZXJJZCgpKTsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHRlbGVwaG9uZTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIFN0cmluZyB0b1N0cmluZygpIHsKCiAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgcXVlcnlVcmwgPSAicXVlcnk9IiArIHF1ZXJ5ICsgIiZ0YWc9Iit0YWcrICsgIiI7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gIkN1c3RvbWVySW5mb3siICsKICAgICAgICAgICAgICAgICJuYW1lPSciICsgbmFtZSArICdcJycgKwogICAgICAgICAgICAgICAgIiwgdXVpZD0nIiArIHV1aWQgKyAnXCcnICsKICAgICAgICAgICAgICAgICIsIHRlbGVwaG9uZT0nIiArIHRlbGVwaG9uZSArICdcJycgKwogICAgICAgICAgICAgICAgJ30nOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBkZWZhdWx0ICB2b2lkIHRlc3QoKXsKICAgIFN5c3RlbS5vdXQucHJpbnRsbihhKTsgICAKICB9Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHRlbGVwaG9uZTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHVibGljIGludGVyZmFjZSBXZWF0aGVyT2JzZXJ2ZXIgewogIHZvaWQgdXBkYXRlKFdlYXRoZXJUeXBlIGN1cnJlbnRXZWF0aGVyKTsKICBkZWZhdWx0ICB2b2lkIHRlc3QoKXsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBTdHJpbmcgYT0iZCI7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgcXVlcnlVcmwgPSAicXVlcnk9IiArIHF1ZXJ5ICsgIiZ0YWc9Iit0YWcrICsgIiI7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGE9ImIiOwo=</text>
+        <text encoding="base64">ICBkZWZhdWx0ICB2b2lkIHRlc3QoKXsKICAgIFN5c3RlbS5vdXQucHJpbnRsbihhKTsgICAKICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">cHVibGljIGludGVyZmFjZSBXZWF0aGVyT2JzZXJ2ZXIgewogIHZvaWQgdXBkYXRlKFdlYXRoZXJUeXBlIGN1cnJlbnRXZWF0aGVyKTsKICBkZWZhdWx0ICB2b2lkIHRlc3QoKXsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICBTdHJpbmcgYT0iZCI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIGRlbGV0ZWQuZm9yRWFjaChkLT57Cg==</text>
+        <text encoding="base64">ICAgIGE9ImIiOwo=</text>
       </register>
       <register name=":" type="4">
         <text>map</text>
