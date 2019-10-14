@@ -133,12 +133,12 @@
       <file name="$MAVEN_REPOSITORY$/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.0.Final/hibernate-jpa-2.1-api-1.0.0.Final-sources.jar!/javax/persistence/GeneratedValue.java" timestamp="1568773630343">
         <mark key="'" line="57" column="18" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/CustomerInfoRobot/src/main/java/com/uf/member/robot/Main.java" timestamp="1568620152088">
-        <mark key="'" line="100" column="46" />
-        <mark key="[" line="99" column="45" />
-        <mark key="]" line="50" column="56" />
-        <mark key="^" line="50" column="56" />
-        <mark key="." line="50" column="56" />
+      <file name="$USER_HOME$/gitBucket/membersystem/CustomerInfoRobot/src/main/java/com/uf/member/robot/Main.java" timestamp="1571017376086">
+        <mark key="'" line="104" column="46" />
+        <mark key="[" line="31" column="29" />
+        <mark key="]" line="31" column="37" />
+        <mark key="^" line="31" column="37" />
+        <mark key="." line="31" column="37" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/storemanager/AdminService.java" timestamp="1567407180747">
         <mark key="'" line="34" column="27" />
@@ -635,11 +635,11 @@
       <jump line="33" column="34" filename="$USER_HOME$/github/java-design-patterns/iterator/src/main/java/com/iluwatar/iterator/bst/BstIterator.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBkZWZhdWx0ICB2b2lkIHRlc3QoKXsKICAgIFN5c3RlbS5vdXQucHJpbnRsbihhKTsgICAKICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>31.373912d</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>31.373912d</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXRoU3RhY2tcPg==</text>
