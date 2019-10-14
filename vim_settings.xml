@@ -62,11 +62,11 @@
         <mark key="." line="10" column="45" />
         <mark key="^" line="9" column="37" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/CustomerInfoRobot/src/main/java/com/uf/member/robot/BaiduMapRobot.java" timestamp="1568273689874">
-        <mark key="[" line="2" column="28" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/gitBucket/membersystem/CustomerInfoRobot/src/main/java/com/uf/member/robot/BaiduMapRobot.java" timestamp="1571020153749">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="14" column="170" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-data-access/src/main/resources/com/moodys/sav/sfs/data/bean/CollateralAssettypeMapping.hbm.xml" timestamp="1564045189545">
         <mark key="[" line="14" column="28" />
@@ -133,12 +133,12 @@
       <file name="$MAVEN_REPOSITORY$/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.0.Final/hibernate-jpa-2.1-api-1.0.0.Final-sources.jar!/javax/persistence/GeneratedValue.java" timestamp="1568773630343">
         <mark key="'" line="57" column="18" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/CustomerInfoRobot/src/main/java/com/uf/member/robot/Main.java" timestamp="1571017376086">
-        <mark key="'" line="104" column="46" />
-        <mark key="[" line="31" column="29" />
-        <mark key="]" line="31" column="37" />
-        <mark key="^" line="31" column="37" />
-        <mark key="." line="31" column="37" />
+      <file name="$USER_HOME$/gitBucket/membersystem/CustomerInfoRobot/src/main/java/com/uf/member/robot/Main.java" timestamp="1571020226209">
+        <mark key="'" line="105" column="46" />
+        <mark key="[" line="27" column="43" />
+        <mark key="]" line="28" column="17" />
+        <mark key="^" line="28" column="17" />
+        <mark key="." line="28" column="17" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/storemanager/AdminService.java" timestamp="1567407180747">
         <mark key="'" line="34" column="27" />
@@ -636,10 +636,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>31.373912d</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>31.373912d</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXRoU3RhY2tcPg==</text>
@@ -648,31 +648,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBDdXN0b21lciBjdXN0b21lciA9IGN1c3RvbWVyUmVwby5maW5kT25lKGMuZ2V0Q3VzdG9tZXJJZCgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBkZWZhdWx0ICB2b2lkIHRlc3QoKXsKICAgIFN5c3RlbS5vdXQucHJpbnRsbihhKTsgICAKICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHVibGljIGludGVyZmFjZSBXZWF0aGVyT2JzZXJ2ZXIgewogIHZvaWQgdXBkYXRlKFdlYXRoZXJUeXBlIGN1cnJlbnRXZWF0aGVyKTsKICBkZWZhdWx0ICB2b2lkIHRlc3QoKXsK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgcXVlcnlVcmwgPSAicXVlcnk9IiArIHF1ZXJ5ICsgIiZ0YWc9Iit0YWcrICsgIiI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBTdHJpbmcgYT0iZCI7Cg==</text>
+        <text encoding="base64">ICBkZWZhdWx0ICB2b2lkIHRlc3QoKXsKICAgIFN5c3RlbS5vdXQucHJpbnRsbihhKTsgICAKICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGE9ImIiOwo=</text>
+        <text encoding="base64">cHVibGljIGludGVyZmFjZSBXZWF0aGVyT2JzZXJ2ZXIgewogIHZvaWQgdXBkYXRlKFdlYXRoZXJUeXBlIGN1cnJlbnRXZWF0aGVyKTsKICBkZWZhdWx0ICB2b2lkIHRlc3QoKXsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBTdHJpbmcgYT0iZCI7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGE9ImIiOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIGRlbGV0ZWQuZm9yRWFjaChkLT57Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIGRlbGV0ZWQuZm9yRWFjaChkLT57Cg==</text>
       </register>
       <register name=":" type="4">
         <text>map</text>
