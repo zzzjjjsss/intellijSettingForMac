@@ -395,6 +395,12 @@
       <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/cookie/CookieOrigin.java" timestamp="1568258780382">
         <mark key="'" line="57" column="24" />
       </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/util/Test.java" timestamp="1571107581753">
+        <mark key="[" line="14" column="66" />
+        <mark key="]" line="14" column="67" />
+        <mark key="." line="14" column="67" />
+        <mark key="^" line="15" column="63" />
+      </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-data-access/src/main/java/com/moodys/sav/sfs/data/bean/CollateralAssettypeMapping.java" timestamp="1565058883299">
         <mark key="[" line="6" column="3" />
         <mark key="]" line="7" column="27" />
@@ -419,12 +425,12 @@
         <mark key="." line="13" column="64" />
         <mark key="^" line="13" column="64" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AppointmentService.java" timestamp="1571105527580">
-        <mark key="'" line="845" column="24" />
-        <mark key="[" line="205" column="27" />
-        <mark key="]" line="439" column="23" />
-        <mark key="." line="439" column="23" />
-        <mark key="^" line="439" column="23" />
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AppointmentService.java" timestamp="1571107773482">
+        <mark key="'" line="847" column="24" />
+        <mark key="[" line="439" column="23" />
+        <mark key="]" line="439" column="97" />
+        <mark key="." line="439" column="97" />
+        <mark key="^" line="439" column="97" />
       </file>
       <file name="/Dummy.txt" timestamp="1571046883328">
         <mark key="[" line="0" column="0" />
@@ -652,43 +658,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>new Timestamp(endTime.toDate().getTime())</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>new Timestamp(endTime.toDate().getTime())</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXRoU3RhY2tcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHRlbGVwaG9uZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgVGltZXN0YW1wIHN0YXJ0VGltZT1uZXcgVGltZXN0YW1wKGxhdGVzdEdlbmVyYXRlLnRvTG9jYWxEYXRlVGltZShMb2NhbFRpbWUucGFyc2UoaisiOjAwOjAwIikpLnRvRGF0ZSgpLmdldFRpbWUoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIFN0cmluZyB0b1N0cmluZygpIHsKCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgVGltZXN0YW1wIGVuZFRpbWU9bGF0ZXN0R2VuZXJhdGUudG9Mb2NhbERhdGVUaW1lKExvY2FsVGltZS5wYXJzZSgoaisxKSsiOjAwOjAwIikpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gIkN1c3RvbWVySW5mb3siICsKICAgICAgICAgICAgICAgICJuYW1lPSciICsgbmFtZSArICdcJycgKwogICAgICAgICAgICAgICAgIiwgdXVpZD0nIiArIHV1aWQgKyAnXCcnICsKICAgICAgICAgICAgICAgICIsIHRlbGVwaG9uZT0nIiArIHRlbGVwaG9uZSArICdcJycgKwogICAgICAgICAgICAgICAgJ30nOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHRlbGVwaG9uZTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgdXJsU3RyPSJodHRwczovL3N6LjUxODUxOC54eXovaW1hZ2VzX3Rjenl6cy91cGxvYWQvMzIxNTY0NTQ5NjQxMDkxLmpwZyI7CiAgICAgICAgVVJJIHVybD0gVVJJLmNyZWF0ZSh1cmxTdHIpOwogICAgICAgIExpc3Q8U3RyaW5nPiBmaWVsZHM9IFNwbGl0dGVyLm9uKCIvIikub21pdEVtcHR5U3RyaW5ncygpLnNwbGl0VG9MaXN0KHVybC5nZXRQYXRoKCkpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihmaWVsZHMpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgcXVlcnlVcmwgPSAicXVlcnk9IiArIHF1ZXJ5ICsgIiZ0YWc9Iit0YWcrICsgIiI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBkZWZhdWx0ICB2b2lkIHRlc3QoKXsKICAgIFN5c3RlbS5vdXQucHJpbnRsbihhKTsgICAKICB9Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICBhcHBvaW50bWVudC5zZXRBcHBvaW50VGltZVBvaW50KGopOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHVibGljIGludGVyZmFjZSBXZWF0aGVyT2JzZXJ2ZXIgewogIHZvaWQgdXBkYXRlKFdlYXRoZXJUeXBlIGN1cnJlbnRXZWF0aGVyKTsKICBkZWZhdWx0ICB2b2lkIHRlc3QoKXsK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICBhcHBvaW50bWVudC5zZXRBcHBvaW50RGF0ZShuZXcgVGltZXN0YW1wKGxhdGVzdEdlbmVyYXRlLnRvRGF0ZSgpLmdldFRpbWUoKSkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBTdHJpbmcgYT0iZCI7Cg==</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIFN0cmluZyB0b1N0cmluZygpIHsKCiAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGE9ImIiOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gIkN1c3RvbWVySW5mb3siICsKICAgICAgICAgICAgICAgICJuYW1lPSciICsgbmFtZSArICdcJycgKwogICAgICAgICAgICAgICAgIiwgdXVpZD0nIiArIHV1aWQgKyAnXCcnICsKICAgICAgICAgICAgICAgICIsIHRlbGVwaG9uZT0nIiArIHRlbGVwaG9uZSArICdcJycgKwogICAgICAgICAgICAgICAgJ30nOwo=</text>
       </register>
       <register name=":" type="4">
         <text>map</text>
