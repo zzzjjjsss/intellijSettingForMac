@@ -362,7 +362,7 @@
         <mark key="." line="13" column="64" />
         <mark key="^" line="13" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1571131631474">
+      <file name="/Dummy.txt" timestamp="1571192486467">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -385,10 +385,11 @@
         <mark key="." line="115" column="32" />
         <mark key="^" line="115" column="32" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/CustomerInfoRobot/src/main/java/com/uf/member/robot/CsvContactList.java" timestamp="1571126462080">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
+      <file name="$USER_HOME$/gitBucket/membersystem/CustomerInfoRobot/src/main/java/com/uf/member/robot/CsvContactList.java" timestamp="1571192468273">
+        <mark key="[" line="18" column="47" />
+        <mark key="]" line="19" column="130" />
+        <mark key="." line="19" column="130" />
+        <mark key="^" line="19" column="130" />
       </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-deal-sync/src/main/java/com/moodys/sav/sfs/dealsync/DLSynchronizer.java" timestamp="1568699778329">
         <mark key="'" line="167" column="8" />
