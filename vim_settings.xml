@@ -185,6 +185,13 @@
         <mark key="." line="446" column="97" />
         <mark key="^" line="446" column="97" />
       </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/CustomerInfoRobot/src/main/java/com/uf/member/robot/TextContactsOutput.java" timestamp="1571820696814">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="31" column="42" />
+      </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/storemanager/ImageController.java" timestamp="1564493723348">
         <mark key="[" line="30" column="61" />
         <mark key="]" line="30" column="64" />
@@ -260,12 +267,12 @@
         <mark key="]" line="145" column="16" />
         <mark key="." line="145" column="16" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/CustomerInfoRobot/src/main/java/com/uf/member/robot/Main.java" timestamp="1571201337647">
-        <mark key="'" line="26" column="48" />
-        <mark key="[" line="41" column="33" />
-        <mark key="]" line="41" column="43" />
-        <mark key="." line="41" column="43" />
-        <mark key="^" line="41" column="43" />
+      <file name="$USER_HOME$/gitBucket/membersystem/CustomerInfoRobot/src/main/java/com/uf/member/robot/Main.java" timestamp="1571820872239">
+        <mark key="'" line="28" column="49" />
+        <mark key="[" line="49" column="27" />
+        <mark key="]" line="49" column="37" />
+        <mark key="." line="49" column="37" />
+        <mark key="^" line="49" column="37" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/ResourceCategoryRepo.java" timestamp="1564379321188">
         <mark key="[" line="4" column="92" />
@@ -426,15 +433,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="56" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9-sources.jar!/org/apache/http/entity/StringEntity.java" />
-      <jump line="48" column="27" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9-sources.jar!/org/apache/http/entity/StringEntity.java" />
-      <jump line="51" column="61" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9-sources.jar!/org/apache/http/entity/StringEntity.java" />
-      <jump line="53" column="21" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9-sources.jar!/org/apache/http/entity/StringEntity.java" />
-      <jump line="54" column="26" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9-sources.jar!/org/apache/http/entity/StringEntity.java" />
-      <jump line="69" column="13" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9-sources.jar!/org/apache/http/entity/StringEntity.java" />
-      <jump line="76" column="49" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9-sources.jar!/org/apache/http/entity/StringEntity.java" />
-      <jump line="76" column="35" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9-sources.jar!/org/apache/http/impl/AbstractHttpClientConnection.java" />
-      <jump line="134" column="19" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9-sources.jar!/org/apache/http/impl/AbstractHttpClientConnection.java" />
       <jump line="67" column="27" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9-sources.jar!/org/apache/http/impl/entity/StrictContentLengthStrategy.java" />
       <jump line="114" column="20" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9-sources.jar!/org/apache/http/impl/entity/StrictContentLengthStrategy.java" />
       <jump line="55" column="22" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9-sources.jar!/org/apache/http/impl/entity/StrictContentLengthStrategy.java" />
@@ -526,55 +524,64 @@
       <jump line="612" column="45" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadPoolExecutor.java" />
       <jump line="33" column="34" filename="$USER_HOME$/github/java-design-patterns/iterator/src/main/java/com/iluwatar/iterator/bst/BstIterator.java" />
       <jump line="17" column="48" filename="$USER_HOME$/gitBucket/membersystem/CustomerInfoRobot/src/main/java/com/uf/member/robot/Main.java" />
+      <jump line="29" column="24" filename="$USER_HOME$/gitBucket/membersystem/CustomerInfoRobot/src/main/java/com/uf/member/robot/TextContactsOutput.java" />
+      <jump line="15" column="0" filename="$USER_HOME$/gitBucket/membersystem/CustomerInfoRobot/src/main/java/com/uf/member/robot/TextContactsOutput.java" />
+      <jump line="11" column="0" filename="$USER_HOME$/gitBucket/membersystem/CustomerInfoRobot/src/main/java/com/uf/member/robot/TextContactsOutput.java" />
+      <jump line="8" column="0" filename="$USER_HOME$/gitBucket/membersystem/CustomerInfoRobot/src/main/java/com/uf/member/robot/TextContactsOutput.java" />
+      <jump line="3" column="0" filename="$USER_HOME$/gitBucket/membersystem/CustomerInfoRobot/src/main/java/com/uf/member/robot/TextContactsOutput.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/gitBucket/membersystem/CustomerInfoRobot/src/main/java/com/uf/member/robot/TextContactsOutput.java" />
+      <jump line="46" column="48" filename="$USER_HOME$/gitBucket/membersystem/CustomerInfoRobot/src/main/java/com/uf/member/robot/Main.java" />
+      <jump line="18" column="18" filename="$USER_HOME$/gitBucket/membersystem/CustomerInfoRobot/src/main/java/com/uf/member/robot/Main.java" />
+      <jump line="28" column="49" filename="$USER_HOME$/gitBucket/membersystem/CustomerInfoRobot/src/main/java/com/uf/member/robot/Main.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>changShaCsvOutput</text>
+        <text>shenZhenOut</text>
       </register>
       <register name="-" type="4">
-        <text>changShaCsvOutput</text>
+        <text>shenZhenOut</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwYXRoU3RhY2tcPg==</text>
+        <text encoding="base64">XDxzaGVuWmhlblJlY1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBSZWN0YW5nbGUgc2hhbmdIYWlSZWM9bmV3IFJlY3RhbmdsZSgxMjEuMDQ0MTcxLDMwLjczOTI2NmQsMTIxLjc3NTcwMWQsMzEuMzczOTEyZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PFN0cmluZz4gbWVpSmlhUXVlcnkgPSBBcnJheXMuYXNMaXN0KCLnvo7nlLIiLCAi576O5a65IiwgIue+juS9kyIpOwogICAgICAgIExpc3Q8U3RyaW5nPiBsaVJlblRhZyA9IEFycmF5cy5hc0xpc3QoIuS4veS6uiIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBDc3ZDb250YWN0TGlzdCBjaGFuZ1NoYUNzdk91dHB1dCA9IG5ldyBDc3ZDb250YWN0TGlzdChuZXcgRmlsZSgiL3RtcC9tZWlqaWEvY2hhbmdTaGEuY3N2IikpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbG9jYXRpb25OYW1lOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldExvY2F0aW9uTmFtZShTdHJpbmcgbG9jYXRpb25OYW1lKSB7CiAgICAgICAgdGhpcy5sb2NhdGlvbk5hbWUgPSBsb2NhdGlvbk5hbWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3RyaW5nIGxpbmUgPSAiXCJhIiArIGkgKyAiXCIsXCJcIixcIiIgKyB0ZWxlcGhvbmUgKyAiXCIsXCJcIixcIlwiLFwiXCIsXCJcIixcIlwiLFwiXCIsXCJcIixcIlwiLFwiXCIsXCJcIiwiOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0TG9jYXRpb25OYW1lKCkgewo=</text>
+        <text encoding="base64">ICAgICAgICBsaW5lcy5hZGQoIlwi5aeTXCIsXCLlkI1cIixcIuenu+WKqOeUteivnVwiLFwi5L2P5a6F55S16K+dIDJcIixcIuWFtuS7lueUteivnVwiLFwi5Y2V5L2NXCIsXCLpg6jpl6hcIixcIuWKnuWFrOWcsOeCuVwiLFwi6IGM5YqhXCIsXCLlpIfms6hcIixcIueUteWtkOmCruS7tlwiLFwi55S15a2Q6YKu5Lu2IDJcIixcIueUteWtkOmCruS7tiAzXCIsIik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBsb2NhdGlvbk5hbWU7Cg==</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgb3V0cHV0KExpc3Q8Q3VzdG9tZXJJbmZvPiBjdXN0b21lckluZm9zKSB7CiAgICAgICAgCiAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmxvY2F0aW9uTmFtZSA9IGxvY2F0aW9uTmFtZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAsIAo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAsIAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbG9jYXRpb25OYW1lOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldExvY2F0aW9uTmFtZShTdHJpbmcgbG9jYXRpb25OYW1lKSB7CiAgICAgICAgdGhpcy5sb2NhdGlvbk5hbWUgPSBsb2NhdGlvbk5hbWU7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0TG9jYXRpb25OYW1lKCkgewo=</text>
       </register>
       <register name=":" type="4">
         <text>map</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwYXRoU3RhY2tcPg==</last-search>
+      <last-search encoding="base64">XDxzaGVuWmhlblJlY1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwYXRoU3RhY2tcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxzaGVuWmhlblJlY1w+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxpc1Rhc2tFbmRcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -582,7 +589,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb25uTWFuYWdlckNvcHlcPg==</entry>
         <entry encoding="base64">XDxjb25uTWFuYWdlclNoYXJlZFw+</entry>
         <entry encoding="base64">XDxkYXRlU3RyXD4=</entry>
         <entry encoding="base64">XDxjYWNoZVw+</entry>
@@ -602,6 +608,7 @@
         <entry encoding="base64">XDx3XD4=</entry>
         <entry encoding="base64">XDx0aHJlYWRcPg==</entry>
         <entry encoding="base64">XDxwYXRoU3RhY2tcPg==</entry>
+        <entry encoding="base64">XDxzaGVuWmhlblJlY1w+</entry>
       </history-search>
       <history-cmd>
         <entry>maps</entry>
