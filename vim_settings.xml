@@ -191,12 +191,12 @@
         <mark key="^" line="32" column="52" />
         <mark key="." line="32" column="52" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/CustomerInfoRobot/src/main/java/com/uf/member/robot/TextContactsOutput.java" timestamp="1571820696814">
+      <file name="$USER_HOME$/gitBucket/membersystem/CustomerInfoRobot/src/main/java/com/uf/member/robot/TextContactsOutput.java" timestamp="1571911290862">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="31" column="42" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="8" />
+        <mark key="." line="44" column="8" />
+        <mark key="^" line="44" column="7" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/storemanager/ImageController.java" timestamp="1564493723348">
         <mark key="[" line="30" column="61" />
@@ -236,7 +236,7 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadPoolExecutor.java" timestamp="1569731740446">
         <mark key="'" line="612" column="45" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/CustomerInfoRobot/src/main/java/com/uf/member/robot/RectangleMapUtils.java" timestamp="1571130259975">
+      <file name="$USER_HOME$/gitBucket/membersystem/CustomerInfoRobot/src/main/java/com/uf/member/robot/RectangleMapUtils.java" timestamp="1571911556250">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
