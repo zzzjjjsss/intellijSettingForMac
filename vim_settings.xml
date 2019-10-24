@@ -185,8 +185,11 @@
         <mark key="." line="446" column="97" />
         <mark key="^" line="446" column="97" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/WechatAppApi/src/test/java/Test.java" timestamp="1571880197623">
-        <mark key="[" line="29" column="9" />
+      <file name="$USER_HOME$/gitBucket/membersystem/WechatAppApi/src/test/java/Test.java" timestamp="1571881281289">
+        <mark key="[" line="31" column="35" />
+        <mark key="]" line="32" column="52" />
+        <mark key="^" line="32" column="52" />
+        <mark key="." line="32" column="52" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/CustomerInfoRobot/src/main/java/com/uf/member/robot/TextContactsOutput.java" timestamp="1571820696814">
         <mark key="'" line="1" column="0" />
@@ -538,8 +541,8 @@
       <jump line="28" column="49" filename="$USER_HOME$/gitBucket/membersystem/CustomerInfoRobot/src/main/java/com/uf/member/robot/Main.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>shenZhenOut</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgYT1uZXcgU3RyaW5nKCJhaGgiKTsK</text>
       </register>
       <register name="-" type="4">
         <text>shenZhenOut</text>
@@ -548,7 +551,7 @@
         <text encoding="base64">XDxzaGVuWmhlblJlY1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PFN0cmluZz4gbWVpSmlhUXVlcnkgPSBBcnJheXMuYXNMaXN0KCLnvo7nlLIiLCAi576O5a65IiwgIue+juS9kyIpOwogICAgICAgIExpc3Q8U3RyaW5nPiBsaVJlblRhZyA9IEFycmF5cy5hc0xpc3QoIuS4veS6uiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgYT1uZXcgU3RyaW5nKCJhaGgiKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBDc3ZDb250YWN0TGlzdCBjaGFuZ1NoYUNzdk91dHB1dCA9IG5ldyBDc3ZDb250YWN0TGlzdChuZXcgRmlsZSgiL3RtcC9tZWlqaWEvY2hhbmdTaGEuY3N2IikpOwo=</text>
