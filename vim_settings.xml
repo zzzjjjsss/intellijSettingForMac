@@ -20,6 +20,9 @@
         <mark key="]" line="38" column="19" />
         <mark key="." line="38" column="19" />
       </file>
+      <file name="/Dummy.jql" timestamp="1571971225658">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/storemanager/CountCardManageController.java" timestamp="1566536244767">
         <mark key="[" line="43" column="28" />
         <mark key="]" line="43" column="38" />
@@ -355,7 +358,7 @@
         <mark key="." line="13" column="64" />
         <mark key="^" line="13" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1571908946628">
+      <file name="/Dummy.txt" timestamp="1571971173742">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
