@@ -74,7 +74,7 @@
   </action>
   <action id="EditorDuplicate" />
   <action id="EditorIndentLineOrSelection">
-    <keyboard-shortcut first-keystroke="shift ctrl i" />
+    <keyboard-shortcut first-keystroke="ctrl i" />
   </action>
   <action id="EditorMatchBrace" />
   <action id="EditorNextWord">
@@ -136,7 +136,7 @@
   </action>
   <action id="GotoImplementation">
     <mouse-shortcut keystroke="meta alt button1" />
-    <keyboard-shortcut first-keystroke="ctrl i" />
+    <keyboard-shortcut first-keystroke="shift ctrl i" />
   </action>
   <action id="GotoNextError">
     <keyboard-shortcut first-keystroke="ctrl close_bracket" />
@@ -146,7 +146,9 @@
     <keyboard-shortcut first-keystroke="ctrl open_bracket" />
     <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
-  <action id="GotoSuperMethod" />
+  <action id="GotoSuperMethod">
+    <keyboard-shortcut first-keystroke="shift ctrl u" />
+  </action>
   <action id="GotoTypeDeclaration">
     <mouse-shortcut keystroke="shift meta button1" />
     <keyboard-shortcut first-keystroke="shift ctrl g" />
@@ -185,6 +187,14 @@
   </action>
   <action id="MoveLineUp">
     <keyboard-shortcut first-keystroke="meta k" />
+  </action>
+  <action id="MoveStatementDown">
+    <keyboard-shortcut first-keystroke="shift meta down" />
+    <keyboard-shortcut first-keystroke="shift meta j" />
+  </action>
+  <action id="MoveStatementUp">
+    <keyboard-shortcut first-keystroke="shift meta up" />
+    <keyboard-shortcut first-keystroke="shift meta k" />
   </action>
   <action id="OpenElementInNewWindow" />
   <action id="OptimizeImports">
