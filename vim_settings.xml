@@ -43,12 +43,6 @@
         <mark key="." line="14" column="35" />
         <mark key="^" line="14" column="35" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/CustomerInfoRobot/src/main/java/com/uf/member/robot/Rectangle.java" timestamp="1571128488820">
-        <mark key="[" line="48" column="4" />
-        <mark key="]" line="51" column="16" />
-        <mark key="^" line="51" column="16" />
-        <mark key="." line="51" column="16" />
-      </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-data-access/src/main/java/com/moodys/sav/sfs/data/dao/CollateralAssettypeMappingDao.java" timestamp="1564045644757">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="88" />
@@ -243,6 +237,9 @@
         <mark key="." line="4" column="76" />
         <mark key="^" line="4" column="76" />
       </file>
+      <file name="/JSON Fragment (Rectangle.java:1165).json" timestamp="1571998370203">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/appointment/ListCategorysResponse.java" timestamp="1564558233548">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="62" />
@@ -254,6 +251,12 @@
         <mark key="]" line="10" column="35" />
         <mark key="^" line="10" column="35" />
         <mark key="." line="10" column="35" />
+      </file>
+      <file name="/JSON Fragment (Rectangle.java:1172).json" timestamp="1571998349307">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem_WechatApp/pages/customer/index.js" timestamp="1566987833070">
         <mark key="[" line="145" column="16" />
@@ -529,10 +532,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgaT0wOwo=</text>
+        <text encoding="base64">ICAgICAgU3RyaW5nIGE9IntcIm5hbWVcIjogXCJ6aGFuZ1wiLFxuIiArCg==</text>
       </register>
       <register name="-" type="4">
-        <text>shenZhenOut</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaGVuWmhlblJlY1w+</text>
@@ -541,31 +544,31 @@
         <text encoding="base64">ICAgICAgICBTdHJpbmcgYT1uZXcgU3RyaW5nKCJhaGgiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgaT0wOwo=</text>
+        <text encoding="base64">ICAgICAgU3RyaW5nIGE9IntcIm5hbWVcIjogXCJ6aGFuZ1wiLFxuIiArCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgU3RyaW5nIGE9InsibmFtZSI6Mix9IjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgLy9sYW5ndWFnZT1KU09OCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICBpbnQgaT0wOwogICAgICAgIH0gZmluYWxseSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnQgaT0wOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkbyB7CiAgICAgICAgICAgIGludCBpPTE7CiAgICAgICAgfSB3aGlsZSAodHJ1ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobGluZXMgPT0gbnVsbCkgewogICAgICAgICAgICBsaW5lcyA9IG5ldyBMaXN0PFN0cmluZz4oKTsKICAgICAgICB9IAo=</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICBpbnQgaT0wOwogICAgICAgIH0gZmluYWxseSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IDEwOyBpKyspIHsKICAgICAgICAgICAgCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBkbyB7CiAgICAgICAgICAgIGludCBpPTE7CiAgICAgICAgfSB3aGlsZSAodHJ1ZSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>map</text>
