@@ -49,17 +49,29 @@
         <mark key="^" line="7" column="87" />
         <mark key="." line="7" column="87" />
       </file>
+      <file name="$USER_HOME$/github/java-design-patterns/repository/src/main/java/com/iluwatar/repository/App.java" timestamp="1569571491260">
+        <mark key="'" line="76" column="17" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.0.Final/hibernate-jpa-2.1-api-1.0.0.Final-sources.jar!/javax/persistence/GeneratedValue.java" timestamp="1568773630343">
+        <mark key="'" line="57" column="18" />
+      </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem_WechatApp/pages/customer/appointment/resourceDetail.js" timestamp="1566987946248">
         <mark key="[" line="98" column="16" />
         <mark key="]" line="98" column="16" />
         <mark key="." line="98" column="16" />
         <mark key="^" line="123" column="21" />
       </file>
+      <file name="$USER_HOME$/github/java-design-patterns/builder/src/main/java/com/iluwatar/builder/Weapon.java" timestamp="1572328460421">
+        <mark key="'" line="29" column="12" />
+      </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/appointment/OneTimeSegment.java" timestamp="1564730730588">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="34" />
         <mark key="." line="8" column="34" />
         <mark key="^" line="8" column="34" />
+      </file>
+      <file name="$USER_HOME$/github/java-design-patterns/bridge/src/main/java/com/iluwatar/bridge/Sword.java" timestamp="1568628717004">
+        <mark key="'" line="32" column="13" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/CustomerInfoRobot/src/main/java/com/uf/member/robot/CsvContectList.java" timestamp="1571122445718">
         <mark key="[" line="7" column="18" />
@@ -142,6 +154,9 @@
         <mark key="." line="0" column="22" />
         <mark key="^" line="0" column="22" />
       </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/bean/OneAppointment.java" timestamp="1568786344251">
+        <mark key="'" line="40" column="15" />
+      </file>
       <file name="$USER_HOME$/gitBucket/membersystem/CustomerInfoRobot/pom.xml" timestamp="1568265139282">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -152,6 +167,9 @@
         <mark key="]" line="12" column="17" />
         <mark key="^" line="12" column="17" />
         <mark key="." line="12" column="17" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/cookie/CookieOrigin.java" timestamp="1568258780382">
+        <mark key="'" line="57" column="24" />
       </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-data-access/src/main/java/com/moodys/sav/sfs/data/bean/CollateralAssettypeMapping.java" timestamp="1565058883299">
         <mark key="[" line="6" column="3" />
@@ -219,6 +237,9 @@
         <mark key="^" line="8" column="30" />
         <mark key="." line="17" column="29" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadPoolExecutor.java" timestamp="1569731740446">
+        <mark key="'" line="612" column="45" />
+      </file>
       <file name="$USER_HOME$/gitBucket/membersystem/CustomerInfoRobot/src/main/java/com/uf/member/robot/RectangleMapUtils.java" timestamp="1571912974426">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
@@ -230,6 +251,9 @@
         <mark key="]" line="10" column="45" />
         <mark key="." line="10" column="45" />
         <mark key="^" line="9" column="37" />
+      </file>
+      <file name="$USER_HOME$/github/java-design-patterns/iterator/src/main/java/com/iluwatar/iterator/bst/BstIterator.java" timestamp="1569737101877">
+        <mark key="'" line="33" column="34" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/ImagesContentRepo.java" timestamp="1564479182077">
         <mark key="[" line="4" column="76" />
@@ -341,8 +365,8 @@
         <mark key="]" line="20" column="14" />
         <mark key="." line="20" column="14" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/util/Test.java" timestamp="1571107581753">
-        <mark key="^" line="3" column="63" />
+      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-deal-sync/src/main/java/com/moodys/sav/sfs/dealsync/AbstractSynchronizer.java" timestamp="1568699754809">
+        <mark key="'" line="62" column="52" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/appointment/CategoryInfo.java" timestamp="1564659682408">
         <mark key="[" line="12" column="8" />
@@ -362,7 +386,7 @@
         <mark key="." line="13" column="64" />
         <mark key="^" line="13" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1571982333864">
+      <file name="/Dummy.txt" timestamp="1572328188321">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -393,6 +417,9 @@
         <mark key="]" line="19" column="130" />
         <mark key="." line="19" column="130" />
         <mark key="^" line="19" column="130" />
+      </file>
+      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-deal-sync/src/main/java/com/moodys/sav/sfs/dealsync/DLSynchronizer.java" timestamp="1568699778329">
+        <mark key="'" line="167" column="8" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/appointment/WeeksAppointInfoResponse.java" timestamp="1564728671119">
         <mark key="[" line="8" column="72" />
@@ -429,7 +456,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="27" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9-sources.jar!/org/apache/http/impl/entity/StrictContentLengthStrategy.java" />
       <jump line="114" column="20" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9-sources.jar!/org/apache/http/impl/entity/StrictContentLengthStrategy.java" />
       <jump line="55" column="22" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9-sources.jar!/org/apache/http/impl/entity/StrictContentLengthStrategy.java" />
       <jump line="61" column="14" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9-sources.jar!/org/apache/http/impl/entity/StrictContentLengthStrategy.java" />
@@ -529,6 +555,7 @@
       <jump line="46" column="48" filename="$USER_HOME$/gitBucket/membersystem/CustomerInfoRobot/src/main/java/com/uf/member/robot/Main.java" />
       <jump line="18" column="18" filename="$USER_HOME$/gitBucket/membersystem/CustomerInfoRobot/src/main/java/com/uf/member/robot/Main.java" />
       <jump line="28" column="49" filename="$USER_HOME$/gitBucket/membersystem/CustomerInfoRobot/src/main/java/com/uf/member/robot/Main.java" />
+      <jump line="29" column="12" filename="$USER_HOME$/github/java-design-patterns/builder/src/main/java/com/iluwatar/builder/Weapon.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
