@@ -15,11 +15,6 @@
         <mark key="." line="23" column="29" />
         <mark key="^" line="23" column="29" />
       </file>
-      <file name="$USER_HOME$/github/java-design-patterns/composite/src/main/java/com/iluwatar/composite/App.java" timestamp="1569576393434">
-        <mark key="[" line="38" column="19" />
-        <mark key="]" line="38" column="19" />
-        <mark key="." line="38" column="19" />
-      </file>
       <file name="/Dummy.jql" timestamp="1571971225658">
         <mark key="[" line="0" column="0" />
       </file>
@@ -131,11 +126,6 @@
         <mark key="^" line="92" column="3" />
         <mark key="." line="92" column="3" />
       </file>
-      <file name="$USER_HOME$/github/java-design-patterns/observer/src/main/java/com/iluwatar/observer/WeatherObserver.java" timestamp="1569739692398">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-      </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/CountCardDetailInfo.java" timestamp="1567065931294">
         <mark key="[" line="38" column="31" />
         <mark key="]" line="39" column="18" />
@@ -156,11 +146,6 @@
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/bean/OneAppointment.java" timestamp="1568786344251">
         <mark key="'" line="40" column="15" />
-      </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/CustomerInfoRobot/pom.xml" timestamp="1568265139282">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/CustomerInfoRobot/src/main/java/com/uf/member/robot/CustomerInfo.java" timestamp="1571022207119">
         <mark key="[" line="11" column="3" />
@@ -207,11 +192,6 @@
         <mark key="]" line="30" column="64" />
         <mark key="^" line="30" column="64" />
         <mark key="." line="30" column="64" />
-      </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem_WechatApp/pages/customer/appointment/resourceList.js" timestamp="1566987898783">
-        <mark key="[" line="66" column="22" />
-        <mark key="]" line="66" column="22" />
-        <mark key="." line="66" column="22" />
       </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-data-access/src/main/java/com/moodys/sav/sfs/data/bean/DeviationFileInfo.java" timestamp="1565061104979">
         <mark key="[" line="10" column="28" />
@@ -281,11 +261,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem_WechatApp/pages/customer/index.js" timestamp="1566987833070">
-        <mark key="[" line="145" column="16" />
-        <mark key="]" line="145" column="16" />
-        <mark key="." line="145" column="16" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/CustomerInfoRobot/src/main/java/com/uf/member/robot/Main.java" timestamp="1571820872239">
         <mark key="'" line="28" column="49" />
@@ -360,11 +335,6 @@
         <mark key="^" line="26" column="83" />
         <mark key="." line="23" column="12" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/SpringBootDeploy/src/main/java/com/uf/member/Application.java" timestamp="1571104440094">
-        <mark key="[" line="20" column="13" />
-        <mark key="]" line="20" column="14" />
-        <mark key="." line="20" column="14" />
-      </file>
       <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-deal-sync/src/main/java/com/moodys/sav/sfs/dealsync/AbstractSynchronizer.java" timestamp="1568699754809">
         <mark key="'" line="62" column="52" />
       </file>
@@ -386,10 +356,10 @@
         <mark key="." line="13" column="64" />
         <mark key="^" line="13" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1572328188321">
+      <file name="/Dummy.txt" timestamp="1572412746489">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="4" />
-        <mark key="." line="0" column="4" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/customer/CustomerAppointmentController.java" timestamp="1564110950461">
         <mark key="[" line="61" column="4" />
@@ -558,8 +528,10 @@
       <jump line="29" column="12" filename="$USER_HOME$/github/java-design-patterns/builder/src/main/java/com/iluwatar/builder/Weapon.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgU3RyaW5nIGE9IntcIm5hbWVcIjogXCJ6aGFuZ1wiLFxuIiArCg==</text>
+      <register name="&quot;" type="4">
+        <text>add more output format
+
+(cherry picked from commit fad7066960b3bc7b96a22c0675a0dd46f95cac59)</text>
       </register>
       <register name="-" type="4">
         <text>{</text>
@@ -570,32 +542,34 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTdHJpbmcgYT1uZXcgU3RyaW5nKCJhaGgiKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgU3RyaW5nIGE9IntcIm5hbWVcIjogXCJ6aGFuZ1wiLFxuIiArCg==</text>
+      <register name="1" type="4">
+        <text>add more output format
+
+(cherry picked from commit fad7066960b3bc7b96a22c0675a0dd46f95cac59)</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgU3RyaW5nIGE9InsibmFtZSI6Mix9IjsK</text>
+        <text encoding="base64">ICAgICAgU3RyaW5nIGE9IntcIm5hbWVcIjogXCJ6aGFuZ1wiLFxuIiArCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLy9sYW5ndWFnZT1KU09OCg==</text>
+        <text encoding="base64">ICAgICAgU3RyaW5nIGE9InsibmFtZSI6Mix9IjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgaT0wOwo=</text>
+        <text encoding="base64">ICAgICAgLy9sYW5ndWFnZT1KU09OCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnQgaT0wOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICBpbnQgaT0wOwogICAgICAgIH0gZmluYWxseSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkbyB7CiAgICAgICAgICAgIGludCBpPTE7CiAgICAgICAgfSB3aGlsZSAodHJ1ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICBpbnQgaT0wOwogICAgICAgIH0gZmluYWxseSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBkbyB7CiAgICAgICAgICAgIGludCBpPTE7CiAgICAgICAgfSB3aGlsZSAodHJ1ZSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>map</text>
