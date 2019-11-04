@@ -365,13 +365,13 @@
         <mark key="." line="12" column="16" />
         <mark key="^" line="12" column="16" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/ConfigKey.java" timestamp="1572852815046">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="13" column="64" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/ConfigKey.java" timestamp="1572856915680">
+        <mark key="[" line="7" column="45" />
+        <mark key="]" line="7" column="49" />
+        <mark key="^" line="7" column="49" />
+        <mark key="." line="7" column="49" />
       </file>
-      <file name="/Dummy.txt" timestamp="1572412746489">
+      <file name="/Dummy.txt" timestamp="1572857227159">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -544,43 +544,47 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text>add more output format
+
+(cherry picked from commit fad7066960b3bc7b96a22c0675a0dd46f95cac59)</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>customer</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXRDYXJkTnVtYmVyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIE5FRURfQklORF9QSE9ORSA9ICJuZWVkLmJpbmQucGhvbmUiOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIEFQUE9JTlRfSVNfT1BFTl9CT09MRUFOID0gImFwcG9pbnRfaXNfb3BlbiI7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIE5FRURfQklORF9QSE9ORSA9ICJuZWVkLmJpbmQucGhvbmUiOwo=</text>
+      <register name="1" type="4">
+        <text>add more output format
+
+(cherry picked from commit fad7066960b3bc7b96a22c0675a0dd46f95cac59)</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQljdXN0b21lclJlcG8uc2F2ZShjdXN0b21lcik7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIE5FRURfQklORF9QSE9ORSA9ICJuZWVkLmJpbmQucGhvbmUiOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQljdXN0b21lci5zZXRQaG9uZU51bWJlcigpOwo=</text>
+        <text encoding="base64">CQkJCQljdXN0b21lclJlcG8uc2F2ZShjdXN0b21lcik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQkJY3VzdG9tZXIuc2V0Q2FyZE51bWJlcigpOwo=</text>
+        <text encoding="base64">CQkJCQljdXN0b21lci5zZXRQaG9uZU51bWJlcigpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQl9Cg==</text>
+        <text encoding="base64">CQkJCQkJY3VzdG9tZXIuc2V0Q2FyZE51bWJlcigpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQkK</text>
+        <text encoding="base64">CQkJCQl9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCWkK</text>
+        <text encoding="base64">CQkJCQkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJICAgIC8vVE9ETwo=</text>
+        <text encoding="base64">CQkJCWkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CQkJICAgIC8vVE9ETwo=</text>
       </register>
       <register name=":" type="4">
         <text>map</text>
