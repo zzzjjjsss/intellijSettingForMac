@@ -3,12 +3,20 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="E:/bitbucket/quant/stock/src/main/java/com/uf/stock/service/model/ModelEngine.java" timestamp="1575269281924">
-        <mark key="'" line="32" column="52" />
-        <mark key="[" line="26" column="72" />
-        <mark key="]" line="26" column="72" />
-        <mark key="." line="26" column="72" />
-        <mark key="^" line="26" column="72" />
+      <file name="E:/bitbucket/quant/stock/src/main/java/com/uf/stock/service/model/ModelEngineBuilder.java" timestamp="1575270234950">
+        <mark key="[" line="7" column="5" />
+        <mark key="]" line="8" column="3" />
+        <mark key="^" line="8" column="3" />
+        <mark key="." line="8" column="3" />
+      </file>
+      <file name="E:/bitbucket/quant/stock/src/main/java/com/uf/stock/service/model/ModelEngine.java" timestamp="1575270943416">
+        <mark key="[" line="14" column="26" />
+      </file>
+      <file name="E:/bitbucket/quant/stock/src/main/java/com/uf/stock/service/model/ModelRunner.java" timestamp="1575270886097">
+        <mark key="[" line="20" column="21" />
+        <mark key="]" line="20" column="22" />
+        <mark key="^" line="28" column="43" />
+        <mark key="." line="20" column="22" />
       </file>
     </filemarks>
     <jumps>
@@ -23,7 +31,7 @@
         <text encoding="base64">ICAgICAgICB0aGlzLmxvZyA9IGxvZzsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>y</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -38,7 +46,7 @@
         <text encoding="base64">ICAgICAgICAgICAgRmlsZVV0aWxzLndyaXRlTGluZXMoaW5wdXRGaWxlLCBBcnJheXMuYXNMaXN0KHNhbXBsZSkpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbnB1dFN0cmVhbVw+</text>
