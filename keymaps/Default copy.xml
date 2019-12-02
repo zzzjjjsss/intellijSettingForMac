@@ -274,6 +274,9 @@
   <action id="Vcs.ShowMessageHistory" />
   <action id="Vcs.UpdateProject" />
   <action id="ViewSource" />
+  <action id="VimRedo">
+    <keyboard-shortcut first-keystroke="shift ctrl z" />
+  </action>
   <action id="XDebugger.CopyWatch" />
   <action id="XDebugger.EditWatch" />
   <action id="XDebugger.SetValue" />

@@ -3,20 +3,35 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="E:/bitbucket/quant/stock/src/main/java/com/uf/stock/service/model/ModelEngineBuilder.java" timestamp="1575270234950">
-        <mark key="[" line="7" column="5" />
-        <mark key="]" line="8" column="3" />
-        <mark key="^" line="8" column="3" />
-        <mark key="." line="8" column="3" />
+      <file name="E:/bitbucket/quant/stock/src/main/java/com/uf/stock/service/model/PriceVolumeUpSampleGenerator.java" timestamp="1575272116126">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="77" />
+        <mark key="^" line="9" column="12" />
+        <mark key="." line="9" column="12" />
       </file>
-      <file name="E:/bitbucket/quant/stock/src/main/java/com/uf/stock/service/model/ModelEngine.java" timestamp="1575270943416">
-        <mark key="[" line="14" column="26" />
+      <file name="E:/bitbucket/quant/stock/src/main/java/com/uf/stock/service/model/ModelEngineBuilder.java" timestamp="1575271189654">
+        <mark key="[" line="8" column="5" />
+        <mark key="]" line="9" column="3" />
+        <mark key="^" line="9" column="3" />
+        <mark key="." line="9" column="3" />
       </file>
-      <file name="E:/bitbucket/quant/stock/src/main/java/com/uf/stock/service/model/ModelRunner.java" timestamp="1575270886097">
-        <mark key="[" line="20" column="21" />
-        <mark key="]" line="20" column="22" />
-        <mark key="^" line="28" column="43" />
-        <mark key="." line="20" column="22" />
+      <file name="E:/bitbucket/quant/stock/src/main/java/com/uf/stock/service/model/ModelEngine.java" timestamp="1575271613708">
+        <mark key="[" line="14" column="7" />
+        <mark key="]" line="14" column="15" />
+        <mark key="^" line="14" column="15" />
+        <mark key="." line="14" column="15" />
+      </file>
+      <file name="E:/bitbucket/quant/stock/src/main/java/com/uf/stock/service/model/PriceVolumeUpModelEngine.java" timestamp="1575272768117">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="24" column="14" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="E:/bitbucket/quant/stock/src/main/java/com/uf/stock/service/model/ModelRunner.java" timestamp="1575272732137">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="21" />
+        <mark key="^" line="20" column="21" />
+        <mark key="." line="20" column="21" />
       </file>
     </filemarks>
     <jumps>
@@ -27,29 +42,44 @@
       <jump line="32" column="52" filename="E:/bitbucket/quant/stock/src/main/java/com/uf/stock/service/model/ModelEngine.java" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmxvZyA9IGxvZzsK</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>y</text>
+      <register name="-" type="4">
+        <text>e</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxpbnB1dFN0cmVhbVw+</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgUHJpY2VWb2x1bWVVcFNhbXBsZUdlbmVyYXRvciBzYW1wbGVHZW5lcmF0b3I9bmV3IFByaWNlVm9sdW1lVXBTYW1wbGVHZW5lcmF0b3IoKTsK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRmlsZSBpbnB1dEZpbGUgPSBuZXcgRmlsZSgiaW5wdXQudHh0Iik7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnNhbXBsZUdlbmVyYXRvciA9IHNhbXBsZUdlbmVyYXRvcjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRmlsZVV0aWxzLndyaXRlTGluZXMoaW5wdXRGaWxlLCBBcnJheXMuYXNMaXN0KHNhbXBsZSkpOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="-" type="4">
-        <text>y</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="/" type="4">
-        <text encoding="base64">XDxpbnB1dFN0cmVhbVw+</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2VuZXJhdGVPbmVTYW1wbGUoTGlzdDxEYWlseU1pbnV0ZVRyYWRlRGV0YWlsPiBpbnB1dERhdGEpIHsK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">CiAgICAgICAgTGlzdDxGbG9hdD4gcHJpY2VzID0gbmV3IEFycmF5TGlzdDw+KCk7CiAgICAgICAgTGlzdDxJbnRlZ2VyPiB2b2x1bW5zID0gbmV3IEFycmF5TGlzdDw+KCk7CiAgICAgICAgaW5wdXREYXRhLmZvckVhY2goZCAtPiB7CiAgICAgICAgICAgIHByaWNlcy5hZGQoZC5nZXRBdmdQcmljZSgpKTsKICAgICAgICAgICAgdm9sdW1ucy5hZGQoZC5nZXRUcmFkZUFtb3VudCgpKTsKICAgICAgICB9KTsKICAgICAgICBib29sZWFuIGlzVm9sdW1lVXAgPSBNYXRoLmlzVXAodm9sdW1ucy5zdWJMaXN0KDEsIHZvbHVtbnMuc2l6ZSgpIC0gMiksIEFycmF5cy5hc0xpc3QoNjAsIDE1MCwgMjM4KSk7CiAgICAgICAgYm9vbGVhbiBpc1VwID0gTWF0aC5pc1dlaWdodFVwKHByaWNlcywgdm9sdW1ucywgQXJyYXlzLmFzTGlzdCg2MCwgMTUwLCAyMzgpKTsKICAgICAgICBTdHJpbmdCdWlsZGVyIGxpbmUgPSBuZXcgU3RyaW5nQnVpbGRlcigiIik7CiAgICAgICAgaWYgKGlzVXApIHsKICAgICAgICAgICAgbGluZS5hcHBlbmQoIjEiKTsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBsaW5lLmFwcGVuZCgiMCIpOwogICAgICAgIH0KICAgICAgICBpZiAoaXNWb2x1bWVVcCkgewogICAgICAgICAgICBsaW5lLmFwcGVuZCgiLDEiKTsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBsaW5lLmFwcGVuZCgiLDAiKTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIGxpbmUudG9TdHJpbmcoKTsK</text>
       </register>
     </registers>
     <search>
