@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="E:/bitbucket/quant/stock/src/main/java/com/uf/stock/schedule/DataSync.java" timestamp="1575643001684">
+        <mark key="[" line="45" column="23" />
+        <mark key="]" line="45" column="55" />
+        <mark key="." line="45" column="55" />
+        <mark key="^" line="45" column="55" />
+      </file>
       <file name="E:/bitbucket/quant/stock/src/main/java/com/uf/stock/dao/entity/AutoBuyStockInfo.java" timestamp="1575297844486">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -35,11 +41,11 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="12" />
       </file>
-      <file name="E:/bitbucket/quant/stock/src/main/resources/application-dev.properties" timestamp="1575297483670">
-        <mark key="[" line="9" column="17" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="9" column="16" />
+      <file name="E:/bitbucket/quant/stock/src/main/resources/application-dev.properties" timestamp="1575642990804">
+        <mark key="[" line="9" column="46" />
+        <mark key="]" line="10" column="43" />
+        <mark key="." line="10" column="43" />
+        <mark key="^" line="10" column="43" />
       </file>
       <file name="E:/bitbucket/quant/stock/src/main/java/com/uf/stock/service/crawler/StockDataSynchronizer.java" timestamp="1575299806619">
         <mark key="[" line="21" column="0" />
@@ -121,10 +127,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>0 28 18 * * *</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>0 28 18 * * *</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRCdXlQcmljZVw+</text>
