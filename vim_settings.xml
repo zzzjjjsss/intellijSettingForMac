@@ -18,11 +18,16 @@
       <file name="/a.dummy" timestamp="1575297973980">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/bitbucket/quant/stock/src/main/java/com/uf/stock/dao/mysql/BuyedStockRepository.java" timestamp="1575297882930" />
       <file name="E:/bitbucket/quant/stock/src/main/java/com/uf/stock/service/model/ModelRunner.java" timestamp="1575297320957">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
+      </file>
+      <file name="E:/bitbucket/quant/stock/pom.xml" timestamp="1575637809292">
+        <mark key="[" line="94" column="12" />
+        <mark key="]" line="88" column="35" />
+        <mark key="^" line="88" column="35" />
+        <mark key="." line="88" column="35" />
       </file>
       <file name="E:/bitbucket/quant/stock/src/main/java/com/uf/stock/service/model/PriceVolumeUpSampleGenerator.java" timestamp="1575272116126">
         <mark key="[" line="10" column="0" />
@@ -88,7 +93,6 @@
         <mark key="." line="108" column="78" />
         <mark key="^" line="108" column="78" />
       </file>
-      <file name="E:/bitbucket/quant/stock/src/main/java/com/uf/stock/restful/TradeController.java" timestamp="1575300940422" />
       <file name="E:/bitbucket/quant/stock/src/main/java/com/uf/stock/dao/entity/BuyedStock.java" timestamp="1575301040737">
         <mark key="[" line="16" column="25" />
         <mark key="]" line="18" column="29" />
@@ -117,10 +121,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>o</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRCdXlQcmljZVw+</text>
@@ -129,31 +133,31 @@
         <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHN0b2NrU3ltYm9sOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">CQkJCQk8IS0tILmks8zW98jrv9otLT4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgRGF0ZSBidXlUaW1lOwo=</text>
+        <text encoding="base64">CQkJCTxncm91cElkPm9yZy5hcGFjaGUubWF2ZW4ucGx1Z2luczwvZ3JvdXBJZD4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgc2VsbFJlcXVlc3Quc2V0U3RvcExvc2VQcmljZShuZXh0LmdldEJ1eVByaWNlKCkpOwo=</text>
+        <text encoding="base64">CQkJPHBsdWdpbj4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgRGF0ZSBidXlUaW1lOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhdXRvVHJhZGVTZXJ2aWNlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgc2VsbFJlcXVlc3Quc2V0U3RvcExvc2VQcmljZShuZXh0LmdldEJ1eVByaWNlKCkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhdXRvVHJhZGVTZXJ2aWNlCg==</text>
       </register>
     </registers>
     <search>
@@ -179,6 +183,9 @@
         <entry encoding="base64">XDxBdXRvVHJhZGVTZXJ2aWNlXD4=</entry>
         <entry encoding="base64">XDxnZXRCdXlQcmljZVw+</entry>
       </history-search>
+      <history-cmd />
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
