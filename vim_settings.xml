@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="E:/bitbucket/quant/stock/src/main/java/com/uf/stock/schedule/DataSync.java" timestamp="1575643001684">
-        <mark key="[" line="45" column="23" />
-        <mark key="]" line="45" column="55" />
-        <mark key="." line="45" column="55" />
-        <mark key="^" line="45" column="55" />
+      <file name="E:/bitbucket/quant/stock/src/main/java/com/uf/stock/schedule/DataSync.java" timestamp="1575727281496">
+        <mark key="[" line="75" column="9" />
+        <mark key="]" line="76" column="40" />
+        <mark key="." line="76" column="40" />
+        <mark key="^" line="76" column="40" />
       </file>
       <file name="E:/bitbucket/quant/stock/src/main/java/com/uf/stock/dao/entity/AutoBuyStockInfo.java" timestamp="1575297844486">
         <mark key="[" line="13" column="0" />
@@ -35,6 +35,13 @@
         <mark key="^" line="88" column="35" />
         <mark key="." line="88" column="35" />
       </file>
+      <file name="E:/bitbucket/quant/stock/src/main/java/com/uf/stock/util/HttpUtil.java" timestamp="1575726750512">
+        <mark key="'" line="93" column="75" />
+        <mark key="[" line="93" column="83" />
+        <mark key="]" line="93" column="96" />
+        <mark key="." line="93" column="96" />
+        <mark key="^" line="93" column="96" />
+      </file>
       <file name="E:/bitbucket/quant/stock/src/main/java/com/uf/stock/service/model/PriceVolumeUpSampleGenerator.java" timestamp="1575272116126">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="77" />
@@ -57,6 +64,7 @@
         <mark key="^" line="9" column="3" />
         <mark key="." line="9" column="3" />
       </file>
+      <file name="D:/Java/jdk1.8.0_25/src.zip!/java/lang/IllegalAccessException.java" timestamp="1575726605383" />
       <file name="E:/bitbucket/quant/stock/src/main/java/com/uf/stock/service/model/PriceVolumeUpModelEngine.java" timestamp="1575299594238">
         <mark key="[" line="13" column="57" />
         <mark key="]" line="13" column="58" />
@@ -105,6 +113,11 @@
         <mark key="^" line="18" column="29" />
         <mark key="." line="18" column="29" />
       </file>
+      <file name="E:/bitbucket/quant/stock/src/main/java/com/uf/stock/restful/DataSyncController.java" timestamp="1575727295200">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="37" column="12" filename="E:/bitbucket/quant/stock/src/main/java/com/uf/stock/service/model/ModelEngine.java" />
@@ -124,55 +137,57 @@
       <jump line="30" column="34" filename="E:/bitbucket/quant/stock/src/main/java/com/uf/stock/service/autotrade/AutoTrader.java" />
       <jump line="8" column="32" filename="E:/bitbucket/quant/stock/src/main/java/com/uf/stock/service/autotrade/AutoTrader.java" />
       <jump line="97" column="49" filename="E:/bitbucket/quant/stock/src/main/java/com/uf/stock/service/autotrade/AutoTrader.java" />
+      <jump line="108" column="14" filename="E:/bitbucket/quant/stock/src/main/java/com/uf/stock/util/HttpUtil.java" />
+      <jump line="92" column="75" filename="E:/bitbucket/quant/stock/src/main/java/com/uf/stock/util/HttpUtil.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0 28 18 * * *</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpc1N0YXJ0LnNldChmYWxzZSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>0 28 18 * * *</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRCdXlQcmljZVw+</text>
+        <text encoding="base64">XDxCYWNrb2ZmXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHN0b2NrU3ltYm9sOwo=</text>
+        <text encoding="base64">ICAgIEBSZXRyeWFibGUodmFsdWUgPSBbUnVudGltZUV4Y2VwdGlvbi5jbGFzc10sIG1heEF0dGVtcHRzID0gNSwgYmFja29mZiA9IEJhY2tvZmYoZGVsYXkgPSA1MDAwTCxtdWx0aXBsaWVyID0gMC4wKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQk8IS0tILmks8zW98jrv9otLT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpc1N0YXJ0LnNldChmYWxzZSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCTxncm91cElkPm9yZy5hcGFjaGUubWF2ZW4ucGx1Z2luczwvZ3JvdXBJZD4K</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJPHBsdWdpbj4K</text>
+        <text encoding="base64">ICAgICAgICBpZiAoKXsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgRGF0ZSBidXlUaW1lOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgc2VsbFJlcXVlc3Quc2V0U3RvcExvc2VQcmljZShuZXh0LmdldEJ1eVByaWNlKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBwb29sLnN1Ym1pdChuZXcgUnVubmFibGUoKSB7CiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgdm9pZCBydW4oKSB7CiAgICAgICAgICAgICAgICBMaXN0PFN0b2NrVHJhZGVJbmZvPiBpbmZvcyA9IGRhb1NlcnZpY2UuZmluZFN0b2NrVHJhZGVJbmZvcyhzdG9ja1N5bWJvbCk7CiAgICAgICAgICAgICAgICBpZiAoaW5mb3MgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgIGZvciAoU3RvY2tUcmFkZUluZm8gaW5mbyA6IGluZm9zKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBkYW9TZXJ2aWNlLmdlbmVyYXRlTWludXRlVHJhZGVEZXRhaWwoc3RvY2tTeW1ib2wsIGluZm8uZ2V0VHJhZGVEYXRlKCkpOwogICAgICAgICAgICAgICAgICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgbG9nLmVycm9yKCIiLCBlKTsKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0pOwogICAgICAgIHJldHVybiAiZ2VuZXJhdGUuLi4uLi4iOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBSZXRyeWFibGUobWF4QXR0ZW1wdHMgPSAzLGJhY2tvZmYgPSBCYWNrb2ZmKGRlbGF5PTUwMDBMKSx2YWx1ZSA9IHtJbGxlZ2FsQWNjZXNzRXhjZXB0aW9uLmNsYXNzfSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhdXRvVHJhZGVTZXJ2aWNlCg==</text>
+        <text encoding="base64">ICAgIEBSZXRyeWFibGUodmFsdWUgPSBbXSkK</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRCdXlQcmljZVw+</last-search>
+      <last-search encoding="base64">XDxCYWNrb2ZmXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRCdXlQcmljZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxCYWNrb2ZmXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDw7XD4=</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -188,6 +203,7 @@
         <entry encoding="base64">XDxkYXRhU3luY2hyb25pemVyXD4=</entry>
         <entry encoding="base64">XDxBdXRvVHJhZGVTZXJ2aWNlXD4=</entry>
         <entry encoding="base64">XDxnZXRCdXlQcmljZVw+</entry>
+        <entry encoding="base64">XDxCYWNrb2ZmXD4=</entry>
       </history-search>
       <history-cmd />
       <history-expr />
