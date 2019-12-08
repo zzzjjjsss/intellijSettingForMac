@@ -15,6 +15,7 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="13" column="24" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/retry/spring-retry/1.2.1.RELEASE/spring-retry-1.2.1.RELEASE.jar!/org/springframework/retry/annotation/Backoff.class" timestamp="1575803844494" />
       <file name="E:/bitbucket/quant/stock/src/main/java/com/uf/stock/service/model/ModelEngine.java" timestamp="1575271613708">
         <mark key="[" line="14" column="7" />
         <mark key="]" line="14" column="15" />
@@ -35,12 +36,12 @@
         <mark key="^" line="88" column="35" />
         <mark key="." line="88" column="35" />
       </file>
-      <file name="E:/bitbucket/quant/stock/src/main/java/com/uf/stock/util/HttpUtil.java" timestamp="1575796678388">
+      <file name="E:/bitbucket/quant/stock/src/main/java/com/uf/stock/util/HttpUtil.java" timestamp="1575803874029">
         <mark key="'" line="93" column="75" />
-        <mark key="[" line="93" column="83" />
-        <mark key="]" line="93" column="96" />
-        <mark key="." line="93" column="96" />
-        <mark key="^" line="93" column="96" />
+        <mark key="[" line="93" column="107" />
+        <mark key="]" line="93" column="107" />
+        <mark key="." line="93" column="107" />
+        <mark key="^" line="93" column="107" />
       </file>
       <file name="E:/bitbucket/quant/stock/src/main/java/com/uf/stock/service/crawler/SinaDataSynchronizer.java" timestamp="1575796223966" />
       <file name="E:/bitbucket/quant/stock/src/main/java/com/uf/stock/service/model/PriceVolumeUpSampleGenerator.java" timestamp="1575272116126">
