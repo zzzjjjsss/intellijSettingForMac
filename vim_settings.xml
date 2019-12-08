@@ -36,14 +36,18 @@
         <mark key="^" line="88" column="35" />
         <mark key="." line="88" column="35" />
       </file>
-      <file name="E:/bitbucket/quant/stock/src/main/java/com/uf/stock/util/HttpUtil.java" timestamp="1575803874029">
+      <file name="E:/bitbucket/quant/stock/src/main/java/com/uf/stock/util/HttpUtil.java" timestamp="1575805201423">
         <mark key="'" line="93" column="75" />
-        <mark key="[" line="93" column="107" />
-        <mark key="]" line="93" column="107" />
-        <mark key="." line="93" column="107" />
-        <mark key="^" line="93" column="107" />
+        <mark key="[" line="93" column="110" />
+        <mark key="]" line="93" column="127" />
+        <mark key="." line="93" column="127" />
+        <mark key="^" line="93" column="127" />
       </file>
-      <file name="E:/bitbucket/quant/stock/src/main/java/com/uf/stock/service/crawler/SinaDataSynchronizer.java" timestamp="1575796223966" />
+      <file name="E:/bitbucket/quant/stock/src/main/java/com/uf/stock/service/crawler/SinaDataSynchronizer.java" timestamp="1575805219579">
+        <mark key="[" line="225" column="29" />
+        <mark key="]" line="225" column="30" />
+        <mark key="." line="225" column="30" />
+      </file>
       <file name="E:/bitbucket/quant/stock/src/main/java/com/uf/stock/service/model/PriceVolumeUpSampleGenerator.java" timestamp="1575272116126">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="77" />
