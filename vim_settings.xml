@@ -35,13 +35,14 @@
         <mark key="^" line="88" column="35" />
         <mark key="." line="88" column="35" />
       </file>
-      <file name="E:/bitbucket/quant/stock/src/main/java/com/uf/stock/util/HttpUtil.java" timestamp="1575726750512">
+      <file name="E:/bitbucket/quant/stock/src/main/java/com/uf/stock/util/HttpUtil.java" timestamp="1575796678388">
         <mark key="'" line="93" column="75" />
         <mark key="[" line="93" column="83" />
         <mark key="]" line="93" column="96" />
         <mark key="." line="93" column="96" />
         <mark key="^" line="93" column="96" />
       </file>
+      <file name="E:/bitbucket/quant/stock/src/main/java/com/uf/stock/service/crawler/SinaDataSynchronizer.java" timestamp="1575796223966" />
       <file name="E:/bitbucket/quant/stock/src/main/java/com/uf/stock/service/model/PriceVolumeUpSampleGenerator.java" timestamp="1575272116126">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="77" />
@@ -64,7 +65,6 @@
         <mark key="^" line="9" column="3" />
         <mark key="." line="9" column="3" />
       </file>
-      <file name="D:/Java/jdk1.8.0_25/src.zip!/java/lang/IllegalAccessException.java" timestamp="1575726605383" />
       <file name="E:/bitbucket/quant/stock/src/main/java/com/uf/stock/service/model/PriceVolumeUpModelEngine.java" timestamp="1575299594238">
         <mark key="[" line="13" column="57" />
         <mark key="]" line="13" column="58" />
