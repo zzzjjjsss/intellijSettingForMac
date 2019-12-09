@@ -327,14 +327,14 @@
         <mark key="^" line="7" column="49" />
         <mark key="." line="7" column="49" />
       </file>
-      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AppointmentService.java" timestamp="1571107773482">
-        <mark key="'" line="854" column="24" />
-        <mark key="[" line="446" column="23" />
-        <mark key="]" line="446" column="97" />
-        <mark key="." line="446" column="97" />
-        <mark key="^" line="446" column="97" />
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AppointmentService.java" timestamp="1575856659186">
+        <mark key="'" line="855" column="24" />
+        <mark key="[" line="673" column="103" />
+        <mark key="]" line="673" column="103" />
+        <mark key="." line="673" column="103" />
+        <mark key="^" line="673" column="103" />
       </file>
-      <file name="/Dummy.txt" timestamp="1572857227159">
+      <file name="/Dummy.txt" timestamp="1575856764255">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -543,18 +543,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>add more output format
-
-(cherry picked from commit fad7066960b3bc7b96a22c0675a0dd46f95cac59)</text>
+        <text>+ &quot;~&quot; + LocalTime.fromDateFields(atc.getEndTimePoint()).toString(&quot;HH:mm&quot;) + &quot;点&quot;;</text>
       </register>
       <register name="-" type="4">
-        <text>customer</text>
+        <text>+ &quot;~&quot; + LocalTime.fromDateFields(atc.getEndTimePoint()).toString(&quot;HH:mm&quot;) + &quot;点&quot;;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXRDYXJkTnVtYmVyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIEFQUE9JTlRfSVNfT1BFTl9CT09MRUFOID0gImFwcG9pbnRfaXNfb3BlbiI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyB0aW1lID0gTG9jYWxUaW1lLmZyb21EYXRlRmllbGRzKGF0Yy5nZXRTdGFydFRpbWVQb2ludCgpKS50b1N0cmluZygiSEg6bW0iKSArICLngrkiICsgIn4iICsgTG9jYWxUaW1lLmZyb21EYXRlRmllbGRzKGF0Yy5nZXRFbmRUaW1lUG9pbnQoKSkudG9TdHJpbmcoIkhIOm1tIikgKyAi54K5IjsK</text>
       </register>
       <register name="1" type="4">
         <text>add more output format
