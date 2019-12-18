@@ -272,9 +272,6 @@
   <action id="ShowBookmarks">
     <keyboard-shortcut first-keystroke="shift ctrl b" />
   </action>
-  <action id="ShowContent">
-    <keyboard-shortcut first-keystroke="shift ctrl down" />
-  </action>
   <action id="ShowProjectStructureSettings">
     <keyboard-shortcut first-keystroke="alt semicolon" />
   </action>
