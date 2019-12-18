@@ -87,6 +87,12 @@
     <keyboard-shortcut first-keystroke="ctrl 0" />
   </action>
   <action id="EditorChooseLookupItemDot" />
+  <action id="EditorCloneCaretAbove">
+    <keyboard-shortcut first-keystroke="shift ctrl up" />
+  </action>
+  <action id="EditorCloneCaretBelow">
+    <keyboard-shortcut first-keystroke="shift ctrl down" />
+  </action>
   <action id="EditorCodeBlockEnd" />
   <action id="EditorCodeBlockEndWithSelection" />
   <action id="EditorCodeBlockStart" />
@@ -225,7 +231,6 @@
     <keyboard-shortcut first-keystroke="ctrl alt j" />
   </action>
   <action id="MoveStatementUp">
-    <keyboard-shortcut first-keystroke="shift ctrl up" />
     <keyboard-shortcut first-keystroke="ctrl alt k" />
   </action>
   <action id="NewElement">
