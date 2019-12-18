@@ -1,6 +1,219 @@
 <application>
   <component name="VimSettings">
-    <state version="5" enabled="true" />
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="E:/bitbucket/quant/stock/src/main/java/com/uf/stock/schedule/DataSync.java" timestamp="1575727281496">
+        <mark key="[" line="75" column="9" />
+        <mark key="]" line="76" column="40" />
+        <mark key="." line="76" column="40" />
+        <mark key="^" line="76" column="40" />
+      </file>
+      <file name="E:/bitbucket/quant/stock/src/main/java/com/uf/stock/dao/entity/AutoBuyStockInfo.java" timestamp="1575297844486">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="13" column="24" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/retry/spring-retry/1.2.1.RELEASE/spring-retry-1.2.1.RELEASE.jar!/org/springframework/retry/annotation/Backoff.class" timestamp="1575803844494" />
+      <file name="E:/bitbucket/quant/stock/src/main/java/com/uf/stock/service/model/ModelEngine.java" timestamp="1575271613708">
+        <mark key="[" line="14" column="7" />
+        <mark key="]" line="14" column="15" />
+        <mark key="^" line="14" column="15" />
+        <mark key="." line="14" column="15" />
+      </file>
+      <file name="/a.dummy" timestamp="1575297973980">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/bitbucket/quant/stock/src/main/java/com/uf/stock/service/model/ModelRunner.java" timestamp="1575297320957">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="E:/bitbucket/quant/stock/pom.xml" timestamp="1575637809292">
+        <mark key="[" line="94" column="12" />
+        <mark key="]" line="88" column="35" />
+        <mark key="^" line="88" column="35" />
+        <mark key="." line="88" column="35" />
+      </file>
+      <file name="E:/bitbucket/quant/stock/src/main/java/com/uf/stock/util/HttpUtil.java" timestamp="1575805201423">
+        <mark key="'" line="93" column="75" />
+        <mark key="[" line="93" column="110" />
+        <mark key="]" line="93" column="127" />
+        <mark key="." line="93" column="127" />
+        <mark key="^" line="93" column="127" />
+      </file>
+      <file name="E:/bitbucket/quant/stock/src/main/java/com/uf/stock/service/crawler/SinaDataSynchronizer.java" timestamp="1575805219579">
+        <mark key="[" line="225" column="29" />
+        <mark key="]" line="225" column="30" />
+        <mark key="." line="225" column="30" />
+      </file>
+      <file name="E:/bitbucket/quant/stock/src/main/java/com/uf/stock/service/model/PriceVolumeUpSampleGenerator.java" timestamp="1575272116126">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="77" />
+        <mark key="^" line="9" column="12" />
+        <mark key="." line="9" column="12" />
+      </file>
+      <file name="E:/bitbucket/quant/stock/src/main/resources/application-dev.properties" timestamp="1575642990804">
+        <mark key="[" line="9" column="46" />
+        <mark key="]" line="10" column="43" />
+        <mark key="." line="10" column="43" />
+        <mark key="^" line="10" column="43" />
+      </file>
+      <file name="E:/bitbucket/quant/stock/src/main/java/com/uf/stock/service/crawler/StockDataSynchronizer.java" timestamp="1575299806619">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="82" />
+      </file>
+      <file name="E:/bitbucket/quant/stock/src/main/java/com/uf/stock/service/model/ModelEngineBuilder.java" timestamp="1575271189654">
+        <mark key="[" line="8" column="5" />
+        <mark key="]" line="9" column="3" />
+        <mark key="^" line="9" column="3" />
+        <mark key="." line="9" column="3" />
+      </file>
+      <file name="E:/bitbucket/quant/stock/src/main/java/com/uf/stock/service/model/PriceVolumeUpModelEngine.java" timestamp="1575299594238">
+        <mark key="[" line="13" column="57" />
+        <mark key="]" line="13" column="58" />
+        <mark key="^" line="13" column="56" />
+        <mark key="." line="13" column="58" />
+      </file>
+      <file name="E:/bitbucket/quant/stock/src/main/java/com/uf/stock/dao/mysql/AutoBuyStockInfoRepository.java" timestamp="1575297908254">
+        <mark key="[" line="5" column="79" />
+        <mark key="]" line="5" column="94" />
+        <mark key="." line="5" column="94" />
+        <mark key="^" line="5" column="94" />
+      </file>
+      <file name="E:/bitbucket/quant/stock/src/main/java/com/uf/stock/dao/service/DaoService.java" timestamp="1575299503124">
+        <mark key="'" line="62" column="44" />
+        <mark key="[" line="150" column="5" />
+        <mark key="]" line="61" column="47" />
+        <mark key="^" line="61" column="47" />
+        <mark key="." line="61" column="47" />
+      </file>
+      <file name="E:/bitbucket/quant/stock/src/main/java/com/uf/stock/dao/service/AutoTradeService.java" timestamp="1575301074541">
+        <mark key="[" line="45" column="42" />
+        <mark key="]" line="46" column="33" />
+        <mark key="^" line="46" column="33" />
+        <mark key="." line="46" column="33" />
+      </file>
+      <file name="E:/bitbucket/quant/stock/src/main/java/com/uf/stock/dao/entity/AutoBuyMonitorStockInfo.java" timestamp="1575301020226">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="E:/bitbucket/quant/stock/src/main/java/com/uf/stock/service/autotrade/AutoSellRequest.java" timestamp="1575301403737">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="9" column="17" />
+        <mark key="^" line="9" column="17" />
+        <mark key="." line="9" column="17" />
+      </file>
+      <file name="E:/bitbucket/quant/stock/src/main/java/com/uf/stock/service/autotrade/AutoTrader.java" timestamp="1575301475153">
+        <mark key="[" line="108" column="77" />
+        <mark key="]" line="108" column="78" />
+        <mark key="." line="108" column="78" />
+        <mark key="^" line="108" column="78" />
+      </file>
+      <file name="E:/bitbucket/quant/stock/src/main/java/com/uf/stock/dao/entity/BuyedStock.java" timestamp="1575301040737">
+        <mark key="[" line="16" column="25" />
+        <mark key="]" line="18" column="29" />
+        <mark key="^" line="18" column="29" />
+        <mark key="." line="18" column="29" />
+      </file>
+      <file name="E:/bitbucket/quant/stock/src/main/java/com/uf/stock/restful/DataSyncController.java" timestamp="1575728444986">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="37" column="12" filename="E:/bitbucket/quant/stock/src/main/java/com/uf/stock/service/model/ModelEngine.java" />
+      <jump line="15" column="19" filename="E:/bitbucket/quant/stock/src/main/java/com/uf/stock/service/model/ModelEngine.java" />
+      <jump line="26" column="16" filename="E:/bitbucket/quant/stock/src/main/java/com/uf/stock/service/model/ModelEngine.java" />
+      <jump line="31" column="24" filename="E:/bitbucket/quant/stock/src/main/java/com/uf/stock/service/model/ModelEngine.java" />
+      <jump line="32" column="52" filename="E:/bitbucket/quant/stock/src/main/java/com/uf/stock/service/model/ModelEngine.java" />
+      <jump line="84" column="8" filename="E:/bitbucket/quant/stock/src/main/java/com/uf/stock/service/autotrade/AutoTrader.java" />
+      <jump line="80" column="48" filename="E:/bitbucket/quant/stock/src/main/java/com/uf/stock/dao/service/DaoService.java" />
+      <jump line="118" column="44" filename="E:/bitbucket/quant/stock/src/main/java/com/uf/stock/dao/service/DaoService.java" />
+      <jump line="24" column="38" filename="E:/bitbucket/quant/stock/src/main/java/com/uf/stock/dao/service/DaoService.java" />
+      <jump line="166" column="12" filename="E:/bitbucket/quant/stock/src/main/java/com/uf/stock/dao/service/DaoService.java" />
+      <jump line="61" column="121" filename="E:/bitbucket/quant/stock/src/main/java/com/uf/stock/dao/service/DaoService.java" />
+      <jump line="62" column="44" filename="E:/bitbucket/quant/stock/src/main/java/com/uf/stock/dao/service/DaoService.java" />
+      <jump line="31" column="37" filename="E:/bitbucket/quant/stock/src/main/java/com/uf/stock/service/autotrade/AutoTrader.java" />
+      <jump line="105" column="20" filename="E:/bitbucket/quant/stock/src/main/java/com/uf/stock/service/autotrade/AutoTrader.java" />
+      <jump line="30" column="34" filename="E:/bitbucket/quant/stock/src/main/java/com/uf/stock/service/autotrade/AutoTrader.java" />
+      <jump line="8" column="32" filename="E:/bitbucket/quant/stock/src/main/java/com/uf/stock/service/autotrade/AutoTrader.java" />
+      <jump line="97" column="49" filename="E:/bitbucket/quant/stock/src/main/java/com/uf/stock/service/autotrade/AutoTrader.java" />
+      <jump line="108" column="14" filename="E:/bitbucket/quant/stock/src/main/java/com/uf/stock/util/HttpUtil.java" />
+      <jump line="92" column="75" filename="E:/bitbucket/quant/stock/src/main/java/com/uf/stock/util/HttpUtil.java" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpc1N0YXJ0LnNldChmYWxzZSk7Cg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>;</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxCYWNrb2ZmXD4=</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIEBSZXRyeWFibGUodmFsdWUgPSBbUnVudGltZUV4Y2VwdGlvbi5jbGFzc10sIG1heEF0dGVtcHRzID0gNSwgYmFja29mZiA9IEJhY2tvZmYoZGVsYXkgPSA1MDAwTCxtdWx0aXBsaWVyID0gMC4wKSkK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpc1N0YXJ0LnNldChmYWxzZSk7Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoKXsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBwb29sLnN1Ym1pdChuZXcgUnVubmFibGUoKSB7CiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgdm9pZCBydW4oKSB7CiAgICAgICAgICAgICAgICBMaXN0PFN0b2NrVHJhZGVJbmZvPiBpbmZvcyA9IGRhb1NlcnZpY2UuZmluZFN0b2NrVHJhZGVJbmZvcyhzdG9ja1N5bWJvbCk7CiAgICAgICAgICAgICAgICBpZiAoaW5mb3MgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgIGZvciAoU3RvY2tUcmFkZUluZm8gaW5mbyA6IGluZm9zKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBkYW9TZXJ2aWNlLmdlbmVyYXRlTWludXRlVHJhZGVEZXRhaWwoc3RvY2tTeW1ib2wsIGluZm8uZ2V0VHJhZGVEYXRlKCkpOwogICAgICAgICAgICAgICAgICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgbG9nLmVycm9yKCIiLCBlKTsKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0pOwogICAgICAgIHJldHVybiAiZ2VuZXJhdGUuLi4uLi4iOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIEBSZXRyeWFibGUobWF4QXR0ZW1wdHMgPSAzLGJhY2tvZmYgPSBCYWNrb2ZmKGRlbGF5PTUwMDBMKSx2YWx1ZSA9IHtJbGxlZ2FsQWNjZXNzRXhjZXB0aW9uLmNsYXNzfSkK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIEBSZXRyeWFibGUodmFsdWUgPSBbXSkK</text>
+      </register>
+    </registers>
+    <search>
+      <last-search encoding="base64">XDxCYWNrb2ZmXD4=</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxCYWNrb2ZmXD4=</last-pattern>
+      <last-replace>~</last-replace>
+      <last-substitute encoding="base64">XDw7XD4=</last-substitute>
+      <last-dir>-1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry encoding="base64">XDxsb2dcPg==</entry>
+        <entry encoding="base64">XDxpbnB1dFN0cmVhbVw+</entry>
+        <entry encoding="base64">XDxvbmVNaW51dGVUcmFkZXNcPg==</entry>
+        <entry encoding="base64">XDxuZXdcPg==</entry>
+        <entry encoding="base64">XDxkYXRlXD4=</entry>
+        <entry encoding="base64">XDxtaW51dGVUcmFkZURldGFpbHNcPg==</entry>
+        <entry encoding="base64">XDw7XD4=</entry>
+        <entry encoding="base64">XDxwcmljZVZvbHVtZVVwTW9kZWxFbmdpbmVcPg==</entry>
+        <entry encoding="base64">XDxkYXRhU3luY2hyb25pemVyXD4=</entry>
+        <entry encoding="base64">XDxBdXRvVHJhZGVTZXJ2aWNlXD4=</entry>
+        <entry encoding="base64">XDxnZXRCdXlQcmljZVw+</entry>
+        <entry encoding="base64">XDxCYWNrb2ZmXD4=</entry>
+      </history-search>
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed Y</text>
@@ -90,11 +303,5 @@
         <text>ctrl pressed K</text>
       </shortcut-conflict>
     </shortcut-conflicts>
-    <editor />
-    <notifications>
-      <idea-join enabled="true" />
-      <idea-put enabled="false" />
-      <template-selectmode enabled="false" />
-    </notifications>
   </component>
 </application>
