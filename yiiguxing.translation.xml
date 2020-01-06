@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Iterate" />
       <item value="模拟器" />
       <item value="最后的" />
       <item value="lastest" />
@@ -14,7 +15,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5" />
+        <entry key="CHINESE" value="6" />
         <entry key="ENGLISH" value="6" />
         <entry key="CATALAN" value="2" />
         <entry key="CHICHEWA" value="1" />
