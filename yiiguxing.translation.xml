@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Quantum" />
+      <item value="Ledger" />
       <item value="Iterate" />
       <item value="模拟器" />
       <item value="最后的" />
