@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Curating" />
+      <item value="explore" />
+      <item value="propose" />
+      <item value="fork" />
+      <item value="Sponsors" />
+      <item value="hackathons" />
+      <item value="meetups" />
       <item value="approve" />
       <item value="stash" />
       <item value="Quantum" />
