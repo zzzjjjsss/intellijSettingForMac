@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="approve" />
       <item value="stash" />
       <item value="Quantum" />
       <item value="Ledger" />
