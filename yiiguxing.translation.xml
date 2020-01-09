@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="余额" />
+      <item value="balance" />
+      <item value="一手股票" />
+      <item value="手数" />
       <item value="回测" />
       <item value="migrate" />
       <item value="unidirectional " />
@@ -30,8 +34,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6" />
-        <entry key="ENGLISH" value="7" />
+        <entry key="CHINESE" value="7" />
+        <entry key="ENGLISH" value="8" />
         <entry key="CATALAN" value="2" />
         <entry key="CHICHEWA" value="1" />
         <entry key="CEBUANO" value="1" />
