@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="历史" />
       <item value="minus" />
       <item value="fixed" />
       <item value="固定的" />
@@ -38,7 +39,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="8" />
-        <entry key="ENGLISH" value="8" />
+        <entry key="ENGLISH" value="9" />
         <entry key="CATALAN" value="2" />
         <entry key="CHICHEWA" value="1" />
         <entry key="CEBUANO" value="1" />
