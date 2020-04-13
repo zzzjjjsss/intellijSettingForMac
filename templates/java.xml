@@ -1,5 +1,5 @@
 <templateSet group="java">
-  <template name="tryc" value="try{&#10;    $code$&#10;}catch(Exception e){&#10;    &#10;}finally{&#10;}" toReformat="false" toShortenFQNames="true">
+  <template name="tryc" value="try{&#10;    $code$&#10;}catch(Exception e){&#10;    &#10;}finally{&#10;}" description="" toReformat="false" toShortenFQNames="true">
     <variable name="code" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
