@@ -53,10 +53,9 @@
   <action id="CompareTwoFiles" />
   <action id="Console.Execute.Multiline" />
   <action id="ConsoleView.ClearAll">
-    <keyboard-shortcut first-keystroke="shift ctrl c" />
+    <keyboard-shortcut first-keystroke="alt c" />
   </action>
   <action id="CopyElement" />
-  <action id="CopyPaths" />
   <action id="Debugger.EditArrayFilter" />
   <action id="Debugger.EditCustomField" />
   <action id="Diff.ShowDiff" />
