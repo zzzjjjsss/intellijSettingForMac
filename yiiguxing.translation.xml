@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="fund" />
+      <item value="found" />
       <item value="thick" />
       <item value="knife" />
       <item value="transient" />
@@ -50,8 +52,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="9" />
-        <entry key="ENGLISH" value="9" />
+        <entry key="CHINESE" value="10" />
+        <entry key="ENGLISH" value="10" />
         <entry key="CATALAN" value="2" />
         <entry key="CHICHEWA" value="1" />
         <entry key="CEBUANO" value="1" />
