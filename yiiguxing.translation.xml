@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="满仓" />
+      <item value="亏损" />
       <item value="fund" />
       <item value="found" />
       <item value="thick" />
@@ -53,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="10" />
-        <entry key="ENGLISH" value="10" />
+        <entry key="ENGLISH" value="11" />
         <entry key="CATALAN" value="2" />
         <entry key="CHICHEWA" value="1" />
         <entry key="CEBUANO" value="1" />
