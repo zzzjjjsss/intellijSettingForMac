@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxzdG9ja1w+</entry>
         <entry encoding="base64">XDxzdGFydFw+</entry>
         <entry encoding="base64">XDxTdHJpbmdcPg==</entry>
         <entry encoding="base64">XDw/Pz9cPg==</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxnZXRMYXRlc3REYXRlXD4=</entry>
         <entry encoding="base64">XDxzdG9ja0RhdGFTeW5jaHJvbml6ZXJcPg==</entry>
         <entry encoding="base64">XDxzeW5jXD4=</entry>
+        <entry encoding="base64">XDxkYXlzQXZnUHJpY2VGaWx0ZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
@@ -176,17 +176,30 @@
         <mark key="." line="25" column="3" />
         <mark key="^" line="25" column="3" />
       </file>
+      <file name="C:/jason/quant/stock/src/main/java/com/uf/stock/service/backtest/selector/DaysAvgPriceFilter.java" timestamp="1595144323434">
+        <mark key="[" line="29" column="79" />
+        <mark key="]" line="31" column="28" />
+        <mark key="^" line="31" column="28" />
+        <mark key="." line="31" column="27" />
+      </file>
       <file name="C:/jason/xx/src/main/java/com/uf/xx/Constant.java" timestamp="1595054605570">
         <mark key="[" line="4" column="40" />
         <mark key="]" line="4" column="40" />
         <mark key="." line="4" column="40" />
         <mark key="^" line="6" column="43" />
       </file>
-      <file name="C:/jason/quant/stock/src/main/java/com/uf/stock/service/backtest/OneDayKeepBackTest.java" timestamp="1595142518055">
-        <mark key="[" line="65" column="166" />
-        <mark key="]" line="67" column="0" />
-        <mark key="^" line="65" column="164" />
-        <mark key="." line="67" column="0" />
+      <file name="C:/jason/quant/stock/src/main/java/com/uf/stock/service/backtest/OneDayKeepBackTest.java" timestamp="1595143659957">
+        <mark key="[" line="78" column="79" />
+        <mark key="]" line="78" column="79" />
+        <mark key="^" line="83" column="87" />
+        <mark key="." line="78" column="79" />
+      </file>
+      <file name="C:/jason/quant/stock/src/main/java/com/uf/stock/restful/BackTestController.java" timestamp="1595145014770">
+        <mark key="'" line="161" column="22" />
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="0" />
+        <mark key="." line="92" column="0" />
+        <mark key="^" line="124" column="50" />
       </file>
       <file name="C:/jason/membercenter_background/SpringBootDeploy/src/main/resources/application-dev.properties" timestamp="1594975684127">
         <mark key="[" line="9" column="14" />
@@ -221,10 +234,9 @@
         <mark key="^" line="17" column="33" />
         <mark key="." line="17" column="33" />
       </file>
+      <file name="C:/jason/quant/stock/src/main/java/com/uf/stock/dao/service/CachedDataAccessService.java" timestamp="1595142714765" />
     </filemarks>
     <jumps>
-      <jump line="93" column="25" filename="C:/jason/moodysGit/sfs-deal-sync/src/main/java/com/moodys/sav/sfs/dealsync/utils/SyncUtils.java" />
-      <jump line="103" column="65" filename="C:/jason/moodysGit/sfs-deal-sync/src/main/java/com/moodys/sav/sfs/dealsync/utils/SyncUtils.java" />
       <jump line="218" column="58" filename="C:/jason/moodysGit/sfs-deal-sync/src/main/java/com/moodys/sav/sfs/dealsync/utils/SyncUtils.java" />
       <jump line="65" column="21" filename="C:/jason/moodysGit/sfs-deal-sync/src/main/java/com/moodys/sav/sfs/dealsync/DLSynchronizer.java" />
       <jump line="74" column="11" filename="C:/jason/moodysGit/products/sfs-web/src/main/java/com/moodys/sav/sfs/web/callable/SyncCmmDataThread.java" />
@@ -323,12 +335,14 @@
       <jump line="46" column="30" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/schedule/AlertSchedule.java" />
       <jump line="73" column="29" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/schedule/AlertSchedule.java" />
       <jump line="78" column="28" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/schedule/AlertSchedule.java" />
+      <jump line="79" column="31" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/restful/BackTestController.java" />
+      <jump line="162" column="22" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/restful/BackTestController.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBpbml0Q2FjaCgpOwo=</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">CQk8cHJvcGVydHkgbmFtZT0iYXBwbHlWb2xhdGlsaXR5IiB0eXBlPSJzdHJpbmciPgoJCQk8Y29sdW1uIG5hbWU9ImFwcGx5X3ZvbGF0aWxpdHkiIC8+CgkJPC9wcm9wZXJ0eT4K</text>
@@ -337,40 +351,40 @@
         <text>groupId</text>
       </register>
       <register name="-" type="4">
-        <text>registDate</text>
+        <text>findAllStockInfos();</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzeW5jXD4=</text>
+        <text encoding="base64">XDxkYXlzQXZnUHJpY2VGaWx0ZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSFRyZWVNYXA8U3RyaW5nLCBJbnRlZ2VyPiBkYXRlVG9JbmRleCA9IChIVHJlZU1hcDxTdHJpbmcsIEludGVnZXI+KSBtYXBEYi5oYXNoTWFwKHN0b2NrU3ltYm9sICsgIi1kYXRlVG9JbmRleCIpLmNyZWF0ZU9yT3BlbigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmxvYXQgYXZnNSA9IGdldERheUF2Z1ByaWNlKHRvZGF5VHJhZGVJbmZvLmdldERheXNBdmdQcmljZSgpLCBsb25nRGF5KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBpbml0Q2FjaCgpOwo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGJ1eWluRGF5SW5mbyAhPSBudWxsICYmIHNlbGxEYXlJbmZvICE9IG51bGwpIHsK</text>
+        <text encoding="base64">ICAgICAgICBmdW5kU2VsZWN0b3Iuc2V0RmlsdGVycyhkYXlzQXZnUHJpY2VGaWx0ZXIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZsb2F0IGJ1eVByaWNlID0gYnV5aW5EYXlJbmZvLmdldENsb3NlUHJpY2UoKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZsb2F0IG5leHREYXlNaW5QcmljZSA9IGJ1eVByaWNlIC0gKGJ1eVByaWNlICogMC4xMWYpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHNlbGxEYXlJbmZvLmdldE9wZW5QcmljZSgpIDw9IG5leHREYXlNaW5QcmljZSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnRpbnVlOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgZmxvYXQgbW9uZXlQZXIxMDAgPSBzYi5nZXRNb25leVBlcjEwKCkgKiAxMGY7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBmbG9hdCBhY2NlcHREb3duUGVyY2VudCA9IDEwMGYgKiAobW9uZXlQZXIxMDAgLyAoYnV5UHJpY2UgKiAxMDApKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChhY2NlcHREb3duUGVyY2VudCA+IDMpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBPbmVEYXlLZWVwQmFja1Rlc3QuV2lsbEJ1eVN0b2NrIHdpbGxCdXlTdG9jayA9IG5ldyBPbmVEYXlLZWVwQmFja1Rlc3QuV2lsbEJ1eVN0b2NrKGFjY2VwdERvd25QZXJjZW50LCBzYiwgYnV5aW5EYXlJbmZvLCBzZWxsRGF5SW5mbyk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgd2lsbEJ1eVN0b2Nrcy5hZGQod2lsbEJ1eVN0b2NrKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgRGF5c0F2Z1ByaWNlRmlsdGVyIGRheXNBdmdQcmljZUZpbHRlcjsK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ewo=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3RvY2tUcmFkZUluZm8gc2VsbERheUluZm8gPSBjYWNoZWREYXRhQWNjZXNzU2VydmljZS5nZXRTdG9ja1RyYWRlSW5mb1F1aWNrQWNjZXNzb3Ioc2IuZ2V0U3RvY2tTeW1ib2woKSkuZ2V0T25lRGF5VHJhZGVJbmZvKGdpdmVEYXRlKTsK</text>
+        <text encoding="base64">ICAgICAgICBCb251c0JhY2tUZXN0IGJvbnVzQmFja1Rlc3QgPSBuZXcgQm9udXNCYWNrVGVzdChzdGFydERhdGUsIGVuZERhdGUsIHRvdGFsTW9uZXlGbG9hdCwgbmV3IEZpeGVkTW9uZXlCdXlpbmdBbW91bnRQb2xpY3kob25jZUJ1eU1vbmV5RmxvYXQpLCBkYW9TZXJ2aWNlLCBjYWNoZWREYXRhQWNjZXNzU2VydmljZSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAocmVnaXN0RGF0ZSAhPSBudWxsICYmIGdpdmVEYXRlICE9IG51bGwpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmxvYXQgYXZnNSA9IGdldERheUF2Z1ByaWNlKHRvZGF5VHJhZGVJbmZvLmdldERheXNBdmdQcmljZSgpLCBsb25nRGF5KTsKICAgICAgICAgICAgZmxvYXQgdG9kYXkxMEF2ZyA9IGdldERheUF2Z1ByaWNlKHRvZGF5VHJhZGVJbmZvLmdldERheXNBdmdQcmljZSgpLCBzaG9ydERheSk7CiAgICAgICAgICAgIGZsb2F0IHByZWRheTMwQXZnID0gZ2V0RGF5QXZnUHJpY2UocHJlRGF5VHJhZGVJbmZvLmdldERheXNBdmdQcmljZSgpLCBsb25nRGF5KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBEYXRlIGdpdmVEYXRlID0gc2IuZ2V0WGREYXRlKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
@@ -379,9 +393,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxzeW5jXD4=</last-search>
+      <last-search encoding="base64">XDxkYXlzQXZnUHJpY2VGaWx0ZXJcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzeW5jXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxkYXlzQXZnUHJpY2VGaWx0ZXJcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxnZW5lcmF0ZUNtbUJhc2VPdXRwdXRCeUNtbVRvb2xcPg==</last-substitute>
       <last-dir>1</last-dir>
