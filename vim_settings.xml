@@ -1,6 +1,39 @@
 <application>
-  <component name="VimSettings">
-    <state version="5" enabled="true" />
+  <component name="VimEditorSettings">
+    <editor />
+  </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry encoding="base64">XDxzdG9ja1w+</entry>
+        <entry encoding="base64">XDxzdGFydFw+</entry>
+        <entry encoding="base64">XDxTdHJpbmdcPg==</entry>
+        <entry encoding="base64">XDw/Pz9cPg==</entry>
+        <entry encoding="base64">XDw/P1w+</entry>
+        <entry encoding="base64">XDx0b2RheVRvdGFsQnV5XD4=</entry>
+        <entry encoding="base64">XDxjcmVkZW50aWFsc1w+</entry>
+        <entry encoding="base64">XDxzdG9yZUlkXD4=</entry>
+        <entry encoding="base64">XDxXZWNoYXRNaW5pQXBwQXBpXD4=</entry>
+        <entry encoding="base64">XDwpXD4=</entry>
+        <entry encoding="base64">XDxMb3dlc3RQcmljZVN0b2NrRmlsdGVyXD4=</entry>
+        <entry encoding="base64">XDxsb3dlc3RQcmljZVN0b2NrRmlsdGVyXD4=</entry>
+        <entry encoding="base64">XDxmXD4=</entry>
+        <entry encoding="base64">XDxyZWdpc3REYXRlXD4=</entry>
+        <entry encoding="base64">XDxuZWNlc3NhcnlTbGVlcFw+</entry>
+        <entry encoding="base64">XDxrb3RsaW5cPg==</entry>
+        <entry encoding="base64">XDxhZGRUb0xpc3RcPg==</entry>
+        <entry encoding="base64">XDxnZXRMYXRlc3REYXRlXD4=</entry>
+        <entry encoding="base64">XDxzdG9ja0RhdGFTeW5jaHJvbml6ZXJcPg==</entry>
+        <entry encoding="base64">XDxzeW5jXD4=</entry>
+      </history-search>
+      <history-cmd>
+        <entry>q</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed Y</text>
@@ -90,11 +123,276 @@
         <text>ctrl pressed K</text>
       </shortcut-conflict>
     </shortcut-conflicts>
-    <editor />
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1595054223907">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="C:/jason/quant/stock/src/main/java/com/uf/stock/schedule/AlertSchedule.java" timestamp="1594893658137">
+        <mark key="'" line="80" column="28" />
+        <mark key="[" line="44" column="26" />
+        <mark key="]" line="44" column="26" />
+        <mark key="^" line="44" column="29" />
+        <mark key="." line="44" column="26" />
+      </file>
+      <file name="C:/jason/quant/stock/src/main/java/com/uf/stock/service/backtest/selector/FundSelector.java" timestamp="1594892359828">
+        <mark key="[" line="45" column="33" />
+        <mark key="]" line="47" column="24" />
+        <mark key="." line="47" column="24" />
+        <mark key="^" line="47" column="24" />
+      </file>
+      <file name="C:/jason/quant/stock/src/main/java/com/uf/stock/service/business/StockDataSyncAndSave.java" timestamp="1594891100624">
+        <mark key="'" line="24" column="34" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="^" line="61" column="70" />
+        <mark key="." line="55" column="0" />
+      </file>
+      <file name="C:/jason/quant/stock/src/main/java/com/uf/stock/service/backtest/BuyingAmountPolicy.java" timestamp="1595141313617">
+        <mark key="[" line="2" column="37" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="C:/jason/quant/stock/src/main/java/com/uf/stock/dao/entity/Fund.java" timestamp="1594889337546">
+        <mark key="[" line="34" column="34" />
+        <mark key="]" line="34" column="37" />
+        <mark key="." line="34" column="37" />
+        <mark key="^" line="34" column="37" />
+      </file>
+      <file name="C:/jason/quant/stock/src/main/resources/application-dev.properties" timestamp="1594892417364">
+        <mark key="[" line="12" column="11" />
+        <mark key="]" line="12" column="3" />
+        <mark key="^" line="12" column="3" />
+        <mark key="." line="12" column="3" />
+      </file>
+      <file name="C:/jason/quant/stock/src/main/java/com/uf/stock/util/MapDbTest.java" timestamp="1594954730338">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="3" />
+        <mark key="." line="25" column="3" />
+        <mark key="^" line="25" column="3" />
+      </file>
+      <file name="C:/jason/xx/src/main/java/com/uf/xx/Constant.java" timestamp="1595054605570">
+        <mark key="[" line="4" column="40" />
+        <mark key="]" line="4" column="40" />
+        <mark key="." line="4" column="40" />
+        <mark key="^" line="6" column="43" />
+      </file>
+      <file name="C:/jason/quant/stock/src/main/java/com/uf/stock/service/backtest/OneDayKeepBackTest.java" timestamp="1595142518055">
+        <mark key="[" line="65" column="166" />
+        <mark key="]" line="67" column="0" />
+        <mark key="^" line="65" column="164" />
+        <mark key="." line="67" column="0" />
+      </file>
+      <file name="C:/jason/membercenter_background/SpringBootDeploy/src/main/resources/application-dev.properties" timestamp="1594975684127">
+        <mark key="[" line="9" column="14" />
+        <mark key="]" line="9" column="14" />
+        <mark key="." line="9" column="14" />
+        <mark key="^" line="8" column="31" />
+      </file>
+      <file name="C:/jason/quant/stock/src/main/java/com/uf/stock/dao/service/MapDbAccessService.java" timestamp="1594954802966">
+        <mark key="'" line="94" column="21" />
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="." line="78" column="0" />
+        <mark key="^" line="76" column="26" />
+      </file>
+      <file name="C:/jason/quant/stock/src/main/java/com/uf/stock/service/backtest/selector/StockFilter.java" timestamp="1594888770993">
+        <mark key="[" line="8" column="57" />
+        <mark key="]" line="8" column="57" />
+        <mark key="^" line="8" column="57" />
+        <mark key="." line="8" column="57" />
+      </file>
+      <file name="/fragment.java" timestamp="1594891051306">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/jason/quant/stock/src/main/java/com/uf/stock/service/crawler/StockDataSynchronizerImpl.java" timestamp="1594888432829">
+        <mark key="[" line="80" column="115" />
+        <mark key="]" line="80" column="116" />
+        <mark key="." line="80" column="116" />
+      </file>
+      <file name="C:/jason/quant/stock/src/main/java/com/uf/stock/restful/MonitorController.java" timestamp="1594887144461">
+        <mark key="[" line="17" column="21" />
+        <mark key="]" line="17" column="33" />
+        <mark key="^" line="17" column="33" />
+        <mark key="." line="17" column="33" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="93" column="25" filename="C:/jason/moodysGit/sfs-deal-sync/src/main/java/com/moodys/sav/sfs/dealsync/utils/SyncUtils.java" />
+      <jump line="103" column="65" filename="C:/jason/moodysGit/sfs-deal-sync/src/main/java/com/moodys/sav/sfs/dealsync/utils/SyncUtils.java" />
+      <jump line="218" column="58" filename="C:/jason/moodysGit/sfs-deal-sync/src/main/java/com/moodys/sav/sfs/dealsync/utils/SyncUtils.java" />
+      <jump line="65" column="21" filename="C:/jason/moodysGit/sfs-deal-sync/src/main/java/com/moodys/sav/sfs/dealsync/DLSynchronizer.java" />
+      <jump line="74" column="11" filename="C:/jason/moodysGit/products/sfs-web/src/main/java/com/moodys/sav/sfs/web/callable/SyncCmmDataThread.java" />
+      <jump line="245" column="37" filename="C:/jason/moodysGit/sfs-storm/src/main/java/com/moodys/sav/sfs/storm/LaunchExeSpout.java" />
+      <jump line="176" column="4" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/service/crawler/StockDataSynchronizerImpl.java" />
+      <jump line="188" column="0" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/service/crawler/StockDataSynchronizerImpl.java" />
+      <jump line="106" column="15" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/dao/service/DaoService.java" />
+      <jump line="278" column="0" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/dao/service/DaoService.java" />
+      <jump line="5" column="0" filename="C:/jason/quant/stock/src/main/resources/application-dev.properties" />
+      <jump line="31" column="35" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/service/crawler/StockDataSynchronizerImpl.java" />
+      <jump line="116" column="16" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/service/backtest/BuChangStyleBackTest.java" />
+      <jump line="144" column="0" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/service/backtest/BuChangStyleBackTest.java" />
+      <jump line="9" column="43" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/service/backtest/FixedMoneyBuyingAmountPolicy.java" />
+      <jump line="77" column="20" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/restful/BackTestController.java" />
+      <jump line="63" column="35" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/restful/BackTestController.java" />
+      <jump line="53" column="23" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/service/backtest/BuChangStyleBackTest.java" />
+      <jump line="54" column="40" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/service/backtest/BuChangStyleBackTest.java" />
+      <jump line="179" column="29" filename="C:/Java/openJdk/jdk1.8.0_252-amazon/src.zip!/java/util/concurrent/BlockingQueue.java" />
+      <jump line="208" column="16" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/service/backtest/BuChangStyleBackTest.java" />
+      <jump line="111" column="35" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/service/backtest/BuChangStyleBackTest.java" />
+      <jump line="81" column="13" filename="C:/Java/openJdk/jdk1.8.0_252-amazon/src.zip!/java/util/Collections.java" />
+      <jump line="184" column="17" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/service/backtest/BuChangStyleBackTest.java" />
+      <jump line="266" column="76" filename="C:/jason/moodysGit/products/sfs-cmm-proxy/src/main/java/com/moodys/sav/sfs/cmm/generator/v4/CmmDataGeneratorTask.java" />
+      <jump line="102" column="15" filename="C:/jason/moodysGit/sfs-commons/src/main/java/com/moodys/sav/sfs/commons/utils/DealInfoUtil.java" />
+      <jump line="116" column="32" filename="C:/jason/moodysGit/sfs-commons/src/main/java/com/moodys/sav/sfs/commons/utils/DealInfoUtil.java" />
+      <jump line="139" column="85" filename="C:/jason/moodysGit/sfs-commons/src/main/java/com/moodys/sav/sfs/commons/utils/DealInfoUtil.java" />
+      <jump line="166" column="25" filename="C:/jason/moodysGit/sfs-deal-sync/src/main/java/com/moodys/sav/sfs/dealsync/utils/SyncUtils.java" />
+      <jump line="49" column="0" filename="C:/jason/moodysGit/products/sfs-cmm-proxy/src/main/java/com/moodys/sav/sfs/cmm/generator/v4/SyncUtil.java" />
+      <jump line="196" column="55" filename="C:/jason/moodysGit/sfs-deal-sync/src/main/java/com/moodys/sav/sfs/dealsync/utils/SyncUtils.java" />
+      <jump line="24" column="13" filename="C:/jason/moodysGit/products/sfs-supervisory/src/main/java/com/moodys/sav/sfs/supervisory/task/FetchFromS3AndParserJsonTask.java" />
+      <jump line="213" column="19" filename="C:/jason/moodysGit/products/sfs-supervisory/src/main/java/com/moodys/sav/sfs/supervisory/task/FetchFromS3AndParserJsonTask.java" />
+      <jump line="763" column="23" filename="C:/jason/moodysGit/products/sfs-web/src/main/java/com/moodys/sav/sfs/web/controller/RunResultController.java" />
+      <jump line="772" column="29" filename="C:/jason/moodysGit/products/sfs-web/src/main/java/com/moodys/sav/sfs/web/controller/RunResultController.java" />
+      <jump line="773" column="56" filename="C:/jason/moodysGit/products/sfs-web/src/main/java/com/moodys/sav/sfs/web/controller/RunResultController.java" />
+      <jump line="774" column="33" filename="C:/jason/moodysGit/products/sfs-web/src/main/java/com/moodys/sav/sfs/web/controller/RunResultController.java" />
+      <jump line="783" column="41" filename="C:/jason/moodysGit/products/sfs-web/src/main/java/com/moodys/sav/sfs/web/controller/RunResultController.java" />
+      <jump line="806" column="36" filename="C:/jason/moodysGit/products/sfs-web/src/main/java/com/moodys/sav/sfs/web/controller/RunResultController.java" />
+      <jump line="130" column="12" filename="C:/jason/moodysGit/products/sfs-supervisory/src/main/java/com/moodys/sav/sfs/supervisory/monitor/JobOutputZipMonitor.java" />
+      <jump line="255" column="114" filename="C:/jason/moodysGit/products/sfs-supervisory/src/main/java/com/moodys/sav/sfs/supervisory/monitor/JobOutputZipMonitor.java" />
+      <jump line="374" column="12" filename="C:/jason/moodysGit/products/sfs-supervisory/src/main/java/com/moodys/sav/sfs/supervisory/monitor/JobOutputZipMonitor.java" />
+      <jump line="383" column="96" filename="C:/jason/moodysGit/products/sfs-supervisory/src/main/java/com/moodys/sav/sfs/supervisory/monitor/JobOutputZipMonitor.java" />
+      <jump line="256" column="32" filename="C:/jason/moodysGit/products/sfs-supervisory/src/main/java/com/moodys/sav/sfs/supervisory/monitor/JobOutputZipMonitor.java" />
+      <jump line="363" column="12" filename="C:/jason/moodysGit/products/sfs-supervisory/src/main/java/com/moodys/sav/sfs/supervisory/monitor/JobOutputZipMonitor.java" />
+      <jump line="365" column="16" filename="C:/jason/moodysGit/products/sfs-supervisory/src/main/java/com/moodys/sav/sfs/supervisory/monitor/JobOutputZipMonitor.java" />
+      <jump line="135" column="31" filename="C:/jason/moodysGit/products/sfs-supervisory/src/main/java/com/moodys/sav/sfs/supervisory/monitor/JobOutputZipMonitor.java" />
+      <jump line="227" column="16" filename="C:/jason/moodysGit/products/sfs-web/src/main/java/com/moodys/sav/sfs/web/monitor/RunUploadFileMonitor.java" />
+      <jump line="230" column="19" filename="C:/jason/moodysGit/products/sfs-web/src/main/java/com/moodys/sav/sfs/web/monitor/RunUploadFileMonitor.java" />
+      <jump line="235" column="23" filename="C:/jason/moodysGit/products/sfs-web/src/main/java/com/moodys/sav/sfs/web/monitor/RunUploadFileMonitor.java" />
+      <jump line="242" column="28" filename="C:/jason/moodysGit/products/sfs-web/src/main/java/com/moodys/sav/sfs/web/monitor/RunUploadFileMonitor.java" />
+      <jump line="343" column="31" filename="C:/jason/moodysGit/products/sfs-web/src/main/java/com/moodys/sav/sfs/web/monitor/RunUploadFileMonitor.java" />
+      <jump line="25" column="31" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/service/backtest/BuChangStyleBackTest.java" />
+      <jump line="55" column="40" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/service/backtest/BuChangStyleBackTest.java" />
+      <jump line="80" column="35" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/service/backtest/BuChangStyleBackTest.java" />
+      <jump line="82" column="43" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/service/backtest/BuChangStyleBackTest.java" />
+      <jump line="81" column="24" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/service/backtest/BuChangStyleBackTest.java" />
+      <jump line="72" column="24" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/service/backtest/BuChangStyleBackTest.java" />
+      <jump line="87" column="59" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/service/backtest/BuChangStyleBackTest.java" />
+      <jump line="67" column="22" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/service/backtest/BuChangStyleBackTest.java" />
+      <jump line="69" column="66" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/service/backtest/BuChangStyleBackTest.java" />
+      <jump line="70" column="43" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/service/backtest/BuChangStyleBackTest.java" />
+      <jump line="71" column="43" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/service/backtest/BuChangStyleBackTest.java" />
+      <jump line="91" column="81" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/service/backtest/BuChangStyleBackTest.java" />
+      <jump line="106" column="42" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/service/backtest/BuChangStyleBackTest.java" />
+      <jump line="76" column="11" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/restful/BackTestController.java" />
+      <jump line="17" column="344" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/dao/entity/Fund.java" />
+      <jump line="65" column="16" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/service/backtest/BuChangStyleBackTest.java" />
+      <jump line="120" column="28" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/service/backtest/BuChangStyleBackTest.java" />
+      <jump line="165" column="24" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/service/backtest/BuChangStyleBackTest.java" />
+      <jump line="174" column="45" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/service/backtest/BuChangStyleBackTest.java" />
+      <jump line="23" column="117" filename="C:/jason/moodysGit/sfs-commons/src/main/java/com/moodys/sav/sfs/commons/http/HttpClientUtils.java" />
+      <jump line="23" column="18" filename="C:/jason/membercenter_background/MemberSystem/src/main/java/com/uf/member/restful/controller/storemanager/StoreController.java" />
+      <jump line="35" column="95" filename="C:/jason/membercenter_background/MemberSystem/src/main/java/com/uf/member/restful/controller/storemanager/StoreController.java" />
+      <jump line="2" column="33" filename="C:/jason/membercenter_background/MemberSystem/src/main/java/com/uf/member/service/AccountService.java" />
+      <jump line="8" column="46" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/schedule/DataSyncSchedule.java" />
+      <jump line="56" column="35" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/schedule/DataSyncSchedule.java" />
+      <jump line="109" column="25" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/schedule/DataSyncSchedule.java" />
+      <jump line="9" column="17" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/dao/entity/StockBonus.java" />
+      <jump line="45" column="15" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/dao/entity/StockBonus.java" />
+      <jump line="59" column="0" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/dao/entity/StockBonus.java" />
+      <jump line="181" column="17" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/service/crawler/SinaDataSynchronizer.java" />
+      <jump line="246" column="8" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/service/crawler/SinaDataSynchronizer.java" />
+      <jump line="166" column="8" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/service/crawler/SinaDataSynchronizer.java" />
+      <jump line="370" column="27" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/service/crawler/SinaDataSynchronizer.java" />
+      <jump line="428" column="0" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/service/crawler/SinaDataSynchronizer.java" />
+      <jump line="52" column="20" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/schedule/DataSyncSchedule.java" />
+      <jump line="427" column="0" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/schedule/DataSyncSchedule.java" />
+      <jump line="113" column="27" filename="C:/jason/quant/stock/pom.xml" />
+      <jump line="108" column="8" filename="C:/jason/quant/stock/pom.xml" />
+      <jump line="70" column="21" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/dao/service/MapDbAccessService.java" />
+      <jump line="140" column="17" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/schedule/DataSyncSchedule.java" />
+      <jump line="29" column="34" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/service/business/StockDataSyncAndSave.java" />
+      <jump line="11" column="0" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/service/backtest/selector/LowestPriceStockFilter.java" />
+      <jump line="31" column="34" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/schedule/AlertSchedule.java" />
+      <jump line="43" column="30" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/schedule/AlertSchedule.java" />
+      <jump line="45" column="28" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/schedule/AlertSchedule.java" />
+      <jump line="46" column="30" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/schedule/AlertSchedule.java" />
+      <jump line="73" column="29" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/schedule/AlertSchedule.java" />
+      <jump line="78" column="28" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/schedule/AlertSchedule.java" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+      </register>
+      <register name="*" type="2">
+        <text encoding="base64">CQk8cHJvcGVydHkgbmFtZT0iYXBwbHlWb2xhdGlsaXR5IiB0eXBlPSJzdHJpbmciPgoJCQk8Y29sdW1uIG5hbWU9ImFwcGx5X3ZvbGF0aWxpdHkiIC8+CgkJPC9wcm9wZXJ0eT4K</text>
+      </register>
+      <register name="+" type="4">
+        <text>groupId</text>
+      </register>
+      <register name="-" type="4">
+        <text>registDate</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxzeW5jXD4=</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgSFRyZWVNYXA8U3RyaW5nLCBJbnRlZ2VyPiBkYXRlVG9JbmRleCA9IChIVHJlZU1hcDxTdHJpbmcsIEludGVnZXI+KSBtYXBEYi5oYXNoTWFwKHN0b2NrU3ltYm9sICsgIi1kYXRlVG9JbmRleCIpLmNyZWF0ZU9yT3BlbigpOwo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGJ1eWluRGF5SW5mbyAhPSBudWxsICYmIHNlbGxEYXlJbmZvICE9IG51bGwpIHsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZsb2F0IGJ1eVByaWNlID0gYnV5aW5EYXlJbmZvLmdldENsb3NlUHJpY2UoKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZsb2F0IG5leHREYXlNaW5QcmljZSA9IGJ1eVByaWNlIC0gKGJ1eVByaWNlICogMC4xMWYpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHNlbGxEYXlJbmZvLmdldE9wZW5QcmljZSgpIDw9IG5leHREYXlNaW5QcmljZSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnRpbnVlOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgZmxvYXQgbW9uZXlQZXIxMDAgPSBzYi5nZXRNb25leVBlcjEwKCkgKiAxMGY7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBmbG9hdCBhY2NlcHREb3duUGVyY2VudCA9IDEwMGYgKiAobW9uZXlQZXIxMDAgLyAoYnV5UHJpY2UgKiAxMDApKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChhY2NlcHREb3duUGVyY2VudCA+IDMpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBPbmVEYXlLZWVwQmFja1Rlc3QuV2lsbEJ1eVN0b2NrIHdpbGxCdXlTdG9jayA9IG5ldyBPbmVEYXlLZWVwQmFja1Rlc3QuV2lsbEJ1eVN0b2NrKGFjY2VwdERvd25QZXJjZW50LCBzYiwgYnV5aW5EYXlJbmZvLCBzZWxsRGF5SW5mbyk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgd2lsbEJ1eVN0b2Nrcy5hZGQod2lsbEJ1eVN0b2NrKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0=</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">ewo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3RvY2tUcmFkZUluZm8gc2VsbERheUluZm8gPSBjYWNoZWREYXRhQWNjZXNzU2VydmljZS5nZXRTdG9ja1RyYWRlSW5mb1F1aWNrQWNjZXNzb3Ioc2IuZ2V0U3RvY2tTeW1ib2woKSkuZ2V0T25lRGF5VHJhZGVJbmZvKGdpdmVEYXRlKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAocmVnaXN0RGF0ZSAhPSBudWxsICYmIGdpdmVEYXRlICE9IG51bGwpIHsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBEYXRlIGdpdmVEYXRlID0gc2IuZ2V0WGREYXRlKCk7Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>q</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search encoding="base64">XDxzeW5jXD4=</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxzeW5jXD4=</last-pattern>
+      <last-replace>~</last-replace>
+      <last-substitute encoding="base64">XDxnZW5lcmF0ZUNtbUJhc2VPdXRwdXRCeUNtbVRvb2xcPg==</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="false" />
-      <template-selectmode enabled="false" />
     </notifications>
   </component>
 </application>
