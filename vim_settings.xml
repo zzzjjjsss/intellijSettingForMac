@@ -176,11 +176,11 @@
         <mark key="." line="25" column="3" />
         <mark key="^" line="25" column="3" />
       </file>
-      <file name="C:/jason/quant/stock/src/main/java/com/uf/stock/service/backtest/selector/DaysAvgPriceFilter.java" timestamp="1595144323434">
-        <mark key="[" line="29" column="79" />
-        <mark key="]" line="31" column="28" />
-        <mark key="^" line="31" column="28" />
-        <mark key="." line="31" column="27" />
+      <file name="C:/jason/quant/stock/src/main/java/com/uf/stock/service/backtest/selector/DaysAvgPriceFilter.java" timestamp="1595147155512">
+        <mark key="[" line="34" column="29" />
+        <mark key="]" line="34" column="29" />
+        <mark key="^" line="34" column="45" />
+        <mark key="." line="34" column="29" />
       </file>
       <file name="C:/jason/xx/src/main/java/com/uf/xx/Constant.java" timestamp="1595054605570">
         <mark key="[" line="4" column="40" />
@@ -188,11 +188,11 @@
         <mark key="." line="4" column="40" />
         <mark key="^" line="6" column="43" />
       </file>
-      <file name="C:/jason/quant/stock/src/main/java/com/uf/stock/service/backtest/OneDayKeepBackTest.java" timestamp="1595143659957">
-        <mark key="[" line="78" column="79" />
-        <mark key="]" line="78" column="79" />
-        <mark key="^" line="83" column="87" />
-        <mark key="." line="78" column="79" />
+      <file name="C:/jason/quant/stock/src/main/java/com/uf/stock/service/backtest/OneDayKeepBackTest.java" timestamp="1595146553810">
+        <mark key="[" line="79" column="41" />
+        <mark key="]" line="79" column="41" />
+        <mark key="^" line="79" column="39" />
+        <mark key="." line="79" column="41" />
       </file>
       <file name="C:/jason/quant/stock/src/main/java/com/uf/stock/restful/BackTestController.java" timestamp="1595145014770">
         <mark key="'" line="161" column="22" />
@@ -341,8 +341,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpbml0Q2FjaCgpOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Jg==</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">CQk8cHJvcGVydHkgbmFtZT0iYXBwbHlWb2xhdGlsaXR5IiB0eXBlPSJzdHJpbmciPgoJCQk8Y29sdW1uIG5hbWU9ImFwcGx5X3ZvbGF0aWxpdHkiIC8+CgkJPC9wcm9wZXJ0eT4K</text>
@@ -351,13 +351,13 @@
         <text>groupId</text>
       </register>
       <register name="-" type="4">
-        <text>findAllStockInfos();</text>
+        <text encoding="base64">Jg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkYXlzQXZnUHJpY2VGaWx0ZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmxvYXQgYXZnNSA9IGdldERheUF2Z1ByaWNlKHRvZGF5VHJhZGVJbmZvLmdldERheXNBdmdQcmljZSgpLCBsb25nRGF5KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmxvYXQgYXZnMTAgPSBnZXREYXlBdmdQcmljZSh0b2RheVRyYWRlSW5mby5nZXREYXlzQXZnUHJpY2UoKSwgMTApOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBpbml0Q2FjaCgpOwo=</text>
