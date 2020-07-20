@@ -176,7 +176,7 @@
         <mark key="." line="25" column="3" />
         <mark key="^" line="25" column="3" />
       </file>
-      <file name="C:/jason/quant/stock/src/main/java/com/uf/stock/service/backtest/selector/DaysAvgPriceFilter.java" timestamp="1595147155512">
+      <file name="C:/jason/quant/stock/src/main/java/com/uf/stock/service/backtest/selector/DaysAvgPriceFilter.java" timestamp="1595147327455">
         <mark key="[" line="34" column="29" />
         <mark key="]" line="34" column="29" />
         <mark key="^" line="34" column="45" />
@@ -188,11 +188,12 @@
         <mark key="." line="4" column="40" />
         <mark key="^" line="6" column="43" />
       </file>
-      <file name="C:/jason/quant/stock/src/main/java/com/uf/stock/service/backtest/OneDayKeepBackTest.java" timestamp="1595146553810">
-        <mark key="[" line="79" column="41" />
-        <mark key="]" line="79" column="41" />
-        <mark key="^" line="79" column="39" />
-        <mark key="." line="79" column="41" />
+      <file name="C:/jason/quant/stock/src/main/java/com/uf/stock/service/backtest/OneDayKeepBackTest.java" timestamp="1595148681324">
+        <mark key="'" line="63" column="37" />
+        <mark key="[" line="101" column="68" />
+        <mark key="]" line="101" column="69" />
+        <mark key="^" line="101" column="69" />
+        <mark key="." line="101" column="68" />
       </file>
       <file name="C:/jason/quant/stock/src/main/java/com/uf/stock/restful/BackTestController.java" timestamp="1595145014770">
         <mark key="'" line="161" column="22" />
@@ -237,7 +238,6 @@
       <file name="C:/jason/quant/stock/src/main/java/com/uf/stock/dao/service/CachedDataAccessService.java" timestamp="1595142714765" />
     </filemarks>
     <jumps>
-      <jump line="218" column="58" filename="C:/jason/moodysGit/sfs-deal-sync/src/main/java/com/moodys/sav/sfs/dealsync/utils/SyncUtils.java" />
       <jump line="65" column="21" filename="C:/jason/moodysGit/sfs-deal-sync/src/main/java/com/moodys/sav/sfs/dealsync/DLSynchronizer.java" />
       <jump line="74" column="11" filename="C:/jason/moodysGit/products/sfs-web/src/main/java/com/moodys/sav/sfs/web/callable/SyncCmmDataThread.java" />
       <jump line="245" column="37" filename="C:/jason/moodysGit/sfs-storm/src/main/java/com/moodys/sav/sfs/storm/LaunchExeSpout.java" />
@@ -337,12 +337,13 @@
       <jump line="78" column="28" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/schedule/AlertSchedule.java" />
       <jump line="79" column="31" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/restful/BackTestController.java" />
       <jump line="162" column="22" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/restful/BackTestController.java" />
+      <jump line="63" column="37" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/service/backtest/OneDayKeepBackTest.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Jg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">CQk8cHJvcGVydHkgbmFtZT0iYXBwbHlWb2xhdGlsaXR5IiB0eXBlPSJzdHJpbmciPgoJCQk8Y29sdW1uIG5hbWU9ImFwcGx5X3ZvbGF0aWxpdHkiIC8+CgkJPC9wcm9wZXJ0eT4K</text>
@@ -351,40 +352,40 @@
         <text>groupId</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Jg==</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkYXlzQXZnUHJpY2VGaWx0ZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmxvYXQgYXZnMTAgPSBnZXREYXlBdmdQcmljZSh0b2RheVRyYWRlSW5mby5nZXREYXlzQXZnUHJpY2UoKSwgMTApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmbG9hdCBidXlpbmdQcmljZTIgPSAoYnV5aW5EYXlJbmZvLmdldE9wZW5QcmljZSgpICogMC45NmYpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbml0Q2FjaCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmdW5kU2VsZWN0b3Iuc2V0RmlsdGVycyhkYXlzQXZnUHJpY2VGaWx0ZXIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGJhbGFuY2VNb25leTwwKXsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgRGF5c0F2Z1ByaWNlRmlsdGVyIGRheXNBdmdQcmljZUZpbHRlcjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGJhbGFuY2VNb25leSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCB0b2RheUJ1eQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBCb251c0JhY2tUZXN0IGJvbnVzQmFja1Rlc3QgPSBuZXcgQm9udXNCYWNrVGVzdChzdGFydERhdGUsIGVuZERhdGUsIHRvdGFsTW9uZXlGbG9hdCwgbmV3IEZpeGVkTW9uZXlCdXlpbmdBbW91bnRQb2xpY3kob25jZUJ1eU1vbmV5RmxvYXQpLCBkYW9TZXJ2aWNlLCBjYWNoZWREYXRhQWNjZXNzU2VydmljZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmxvYXQgYXZnNSA9IGdldERheUF2Z1ByaWNlKHRvZGF5VHJhZGVJbmZvLmdldERheXNBdmdQcmljZSgpLCBsb25nRGF5KTsKICAgICAgICAgICAgZmxvYXQgdG9kYXkxMEF2ZyA9IGdldERheUF2Z1ByaWNlKHRvZGF5VHJhZGVJbmZvLmdldERheXNBdmdQcmljZSgpLCBzaG9ydERheSk7CiAgICAgICAgICAgIGZsb2F0IHByZWRheTMwQXZnID0gZ2V0RGF5QXZnUHJpY2UocHJlRGF5VHJhZGVJbmZvLmdldERheXNBdmdQcmljZSgpLCBsb25nRGF5KTsK</text>
+        <text encoding="base64">ICAgICAgICBpbml0Q2FjaCgpOwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmdW5kU2VsZWN0b3Iuc2V0RmlsdGVycyhkYXlzQXZnUHJpY2VGaWx0ZXIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
