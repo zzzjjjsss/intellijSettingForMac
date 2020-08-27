@@ -1,6 +1,8 @@
 <application>
   <component name="VimEditorSettings">
-    <editor />
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
   </component>
   <component name="VimHistorySettings">
     <history>
@@ -404,7 +406,7 @@
     </search>
   </component>
   <component name="VimSettings">
-    <state version="6" enabled="true" />
+    <state version="7" enabled="true" />
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="false" />
