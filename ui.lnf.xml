@@ -1,7 +1,10 @@
 <application>
+  <component name="DependencyUISettings">
+    <option name="UI_FLATTEN_PACKAGES" value="false" />
+    <option name="UI_SHOW_MODULES" value="false" />
+  </component>
   <component name="UISettings">
-    <option name="IDE_AA_TYPE" value="Greyscale" />
+    <option name="COLOR_BLINDNESS" value="deuteranopia" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
-    <option name="SHOW_INPLACE_COMMENTS" value="true" />
   </component>
 </application>

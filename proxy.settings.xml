@@ -1,7 +1,6 @@
 <application>
   <component name="HttpConfigurable">
-    <option name="USE_HTTP_PROXY" value="true" />
-    <option name="PROXY_HOST" value="proxy-hkg" />
+    <option name="PROXY_HOST" value="proxy-sfo" />
     <option name="PROXY_AUTHENTICATION" value="true" />
     <option name="KEEP_PROXY_PASSWORD" value="true" />
   </component>

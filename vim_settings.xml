@@ -1,77 +1,634 @@
 <application>
-  <component name="VimEditorSettings">
-    <editor>
-      <key-repeat enabled="true" />
-    </editor>
-  </component>
-  <component name="VimHistorySettings">
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/storemanager/IndexPageResourceResponse.java" timestamp="1566200849607">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="9" column="38" />
+        <mark key="^" line="9" column="38" />
+        <mark key="." line="9" column="38" />
+      </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/storemanager/SaveResourceRequest.java" timestamp="1564713495457">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="29" />
+        <mark key="." line="23" column="29" />
+        <mark key="^" line="23" column="29" />
+      </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/WarDeploy/src/main/resources/application.properties" timestamp="1568794145933">
+        <mark key="[" line="17" column="29" />
+        <mark key="]" line="17" column="29" />
+        <mark key="^" line="8" column="30" />
+        <mark key="." line="17" column="29" />
+      </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadPoolExecutor.java" timestamp="1569731740446">
+        <mark key="'" line="612" column="45" />
+      </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/CustomerInfoRobot/src/main/java/com/uf/member/robot/RectangleMapUtils.java" timestamp="1571912974426">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+        <mark key="^" line="38" column="12" />
+      </file>
+      <file name="/Dummy.jql" timestamp="1571971225658">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer1.txt" timestamp="1571997039746">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/storemanager/CountCardManageController.java" timestamp="1566536244767">
+        <mark key="[" line="43" column="28" />
+        <mark key="]" line="43" column="38" />
+        <mark key="." line="43" column="38" />
+        <mark key="^" line="43" column="38" />
+      </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/Gateway/src/main/resources/application.properties" timestamp="1564487784188">
+        <mark key="[" line="10" column="45" />
+        <mark key="]" line="10" column="45" />
+        <mark key="." line="10" column="45" />
+        <mark key="^" line="9" column="37" />
+      </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/CustomerInfoRobot/src/main/java/com/uf/member/robot/BaiduMapRobot.java" timestamp="1571980891849">
+        <mark key="[" line="108" column="0" />
+        <mark key="]" line="108" column="0" />
+        <mark key="." line="108" column="0" />
+      </file>
+      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-data-access/src/main/resources/com/moodys/sav/sfs/data/bean/CollateralAssettypeMapping.hbm.xml" timestamp="1564045189545">
+        <mark key="[" line="14" column="28" />
+        <mark key="]" line="14" column="35" />
+        <mark key="." line="14" column="35" />
+        <mark key="^" line="14" column="35" />
+      </file>
+      <file name="$USER_HOME$/github/java-design-patterns/iterator/src/main/java/com/iluwatar/iterator/bst/BstIterator.java" timestamp="1569737101877">
+        <mark key="'" line="33" column="34" />
+      </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/ImagesContentRepo.java" timestamp="1564479182077">
+        <mark key="[" line="4" column="76" />
+        <mark key="]" line="4" column="76" />
+        <mark key="." line="4" column="76" />
+        <mark key="^" line="4" column="76" />
+      </file>
+      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-data-access/src/main/java/com/moodys/sav/sfs/data/dao/CollateralAssettypeMappingDao.java" timestamp="1564045644757">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="88" />
+        <mark key="^" line="7" column="87" />
+        <mark key="." line="7" column="87" />
+      </file>
+      <file name="/JSON Fragment (Rectangle.java:1165).json" timestamp="1572427521899">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/appointment/ListCategorysResponse.java" timestamp="1564558233548">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="62" />
+        <mark key="^" line="10" column="46" />
+        <mark key="." line="10" column="46" />
+      </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/appointment/Appointment.java" timestamp="1564732552440">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="10" column="35" />
+        <mark key="^" line="10" column="35" />
+        <mark key="." line="10" column="35" />
+      </file>
+      <file name="/JSON Fragment (Rectangle.java:1172).json" timestamp="1571998349307">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/java-design-patterns/repository/src/main/java/com/iluwatar/repository/App.java" timestamp="1569571491260">
+        <mark key="'" line="76" column="17" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.0.Final/hibernate-jpa-2.1-api-1.0.0.Final-sources.jar!/javax/persistence/GeneratedValue.java" timestamp="1568773630343">
+        <mark key="'" line="57" column="18" />
+      </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/CustomerInfoRobot/src/main/java/com/uf/member/robot/Main.java" timestamp="1571820872239">
+        <mark key="'" line="28" column="49" />
+        <mark key="[" line="49" column="27" />
+        <mark key="]" line="49" column="37" />
+        <mark key="." line="49" column="37" />
+        <mark key="^" line="49" column="37" />
+      </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/ResourceCategoryRepo.java" timestamp="1564379321188">
+        <mark key="[" line="4" column="92" />
+        <mark key="]" line="5" column="54" />
+        <mark key="^" line="5" column="54" />
+        <mark key="." line="5" column="54" />
+      </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem_WechatApp/pages/customer/appointment/resourceDetail.js" timestamp="1566987946248">
+        <mark key="[" line="98" column="16" />
+        <mark key="]" line="98" column="16" />
+        <mark key="." line="98" column="16" />
+        <mark key="^" line="123" column="21" />
+      </file>
+      <file name="$USER_HOME$/github/java-design-patterns/builder/src/main/java/com/iluwatar/builder/Weapon.java" timestamp="1572328460421">
+        <mark key="'" line="29" column="12" />
+      </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/AppointmentToCustomerRepo.java" timestamp="1568788182688">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="152" />
+        <mark key="^" line="48" column="124" />
+        <mark key="." line="48" column="124" />
+      </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/appointment/OneTimeSegment.java" timestamp="1564730730588">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="34" />
+        <mark key="." line="8" column="34" />
+        <mark key="^" line="8" column="34" />
+      </file>
+      <file name="$USER_HOME$/github/java-design-patterns/bridge/src/main/java/com/iluwatar/bridge/Sword.java" timestamp="1568628717004">
+        <mark key="'" line="32" column="13" />
+      </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/CustomerInfoRobot/src/main/java/com/uf/member/robot/CsvContectList.java" timestamp="1571122445718">
+        <mark key="[" line="7" column="18" />
+        <mark key="]" line="7" column="19" />
+        <mark key="." line="7" column="19" />
+        <mark key="^" line="8" column="28" />
+      </file>
+      <file name="$USER_HOME$/github/java-design-patterns/api-gateway/api-gateway.iml" timestamp="1575251713746" />
+      <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/AppointmentToCustomer.java" timestamp="1568773513978">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="7" />
+        <mark key="^" line="51" column="41" />
+        <mark key="." line="51" column="0" />
+      </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/ResourceDetailInfoResponse.java" timestamp="1564455482153">
+        <mark key="[" line="5" column="40" />
+        <mark key="]" line="5" column="12" />
+        <mark key="^" line="5" column="12" />
+        <mark key="." line="5" column="12" />
+      </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/customer/CustomerController.java" timestamp="1566997901736">
+        <mark key="[" line="53" column="51" />
+        <mark key="]" line="53" column="54" />
+        <mark key="^" line="53" column="54" />
+        <mark key="." line="53" column="54" />
+      </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AccountService.java" timestamp="1572852857245">
+        <mark key="'" line="122" column="25" />
+        <mark key="[" line="296" column="21" />
+        <mark key="]" line="296" column="24" />
+        <mark key="^" line="296" column="24" />
+        <mark key="." line="296" column="24" />
+      </file>
+      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-data-access/src/main/java/com/moodys/sav/sfs/data/dao/impl/mysql/CollateralAssettypeMappingDaoImpl.java" timestamp="1564045628195">
+        <mark key="[" line="10" column="16" />
+        <mark key="]" line="10" column="49" />
+        <mark key="." line="10" column="49" />
+        <mark key="^" line="10" column="49" />
+      </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/storemanager/ResourceCategoryController.java" timestamp="1564644421857">
+        <mark key="[" line="54" column="54" />
+        <mark key="]" line="54" column="81" />
+        <mark key="^" line="54" column="81" />
+        <mark key="." line="54" column="81" />
+      </file>
+      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/products/sfs-web/src/main/webapp/WEB-INF/views/dialog/runSimulationABS.html.twig" timestamp="1564037989688">
+        <mark key="[" line="360" column="21" />
+        <mark key="]" line="360" column="50" />
+        <mark key="^" line="360" column="50" />
+        <mark key="." line="360" column="50" />
+      </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/ResourceCategory.java" timestamp="1564975846068">
+        <mark key="[" line="22" column="29" />
+        <mark key="]" line="22" column="32" />
+        <mark key="^" line="22" column="32" />
+        <mark key="." line="22" column="32" />
+      </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/ResourceAppointmentRepo.java" timestamp="1571102564146">
+        <mark key="'" line="43" column="78" />
+        <mark key="[" line="30" column="119" />
+        <mark key="]" line="30" column="119" />
+        <mark key="^" line="30" column="119" />
+        <mark key="." line="30" column="119" />
+      </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/ResourceImageRepo.java" timestamp="1566474941053">
+        <mark key="[" line="13" column="35" />
+        <mark key="]" line="13" column="45" />
+        <mark key="." line="13" column="45" />
+        <mark key="^" line="13" column="45" />
+      </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/FileServer/pom.xml" timestamp="1564468055160">
+        <mark key="[" line="53" column="29" />
+        <mark key="]" line="53" column="38" />
+        <mark key="." line="53" column="38" />
+        <mark key="^" line="53" column="38" />
+      </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/appointment/AppointItemStatusEnum.java" timestamp="1564729643882">
+        <mark key="[" line="3" column="24" />
+        <mark key="]" line="3" column="35" />
+        <mark key="^" line="3" column="35" />
+        <mark key="." line="3" column="35" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/ide/ide-scripting.groovy" timestamp="1571913437220">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/ResourceAppointment.java" timestamp="1571102529832">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="^" line="54" column="41" />
+        <mark key="." line="34" column="0" />
+      </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/SpringBootDeploy/src/main/java/com/uf/member/SwaggerConfig.java" timestamp="1564387971831">
+        <mark key="[" line="17" column="27" />
+        <mark key="]" line="17" column="27" />
+        <mark key="." line="17" column="27" />
+        <mark key="^" line="17" column="27" />
+      </file>
+      <file name="$USER_HOME$/github/java-design-patterns/flyweight/src/main/java/com/iluwatar/flyweight/AlchemistShop.java" timestamp="1569306605157">
+        <mark key="[" line="92" column="4" />
+        <mark key="]" line="92" column="3" />
+        <mark key="^" line="92" column="3" />
+        <mark key="." line="92" column="3" />
+      </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/CountCardDetailInfo.java" timestamp="1567065931294">
+        <mark key="[" line="38" column="31" />
+        <mark key="]" line="39" column="18" />
+        <mark key="." line="39" column="18" />
+        <mark key="^" line="39" column="18" />
+      </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/appointment/OneWeekAppointInfo.java" timestamp="1564738168194">
+        <mark key="[" line="6" column="44" />
+        <mark key="]" line="6" column="53" />
+        <mark key="^" line="6" column="53" />
+        <mark key="." line="6" column="53" />
+      </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem_WechatApp/pages/storeCenter/index.js" timestamp="1568010586504">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
+        <mark key="^" line="54" column="19" />
+      </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/SpringBootDeploy/pom.xml" timestamp="1564386514593">
+        <mark key="[" line="17" column="97" />
+        <mark key="]" line="17" column="97" />
+        <mark key="^" line="16" column="0" />
+        <mark key="." line="17" column="97" />
+      </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/SpringBootDeploy/src/main/resources/application-dev.properties" timestamp="1571104346626">
+        <mark key="[" line="0" column="22" />
+        <mark key="]" line="0" column="22" />
+        <mark key="." line="0" column="22" />
+        <mark key="^" line="0" column="22" />
+      </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/DeletedAppointmentToCustomerRepo.java" timestamp="1568793728734">
+        <mark key="[" line="23" column="12" />
+        <mark key="]" line="23" column="12" />
+        <mark key="^" line="26" column="83" />
+        <mark key="." line="23" column="12" />
+      </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/bean/OneAppointment.java" timestamp="1568786344251">
+        <mark key="'" line="40" column="15" />
+      </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/PlatformAdmin/src/main/java/com/uf/member/Constants.java" timestamp="1572837126472">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="67" />
+        <mark key="." line="12" column="64" />
+        <mark key="^" line="12" column="64" />
+      </file>
+      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-deal-sync/src/main/java/com/moodys/sav/sfs/dealsync/AbstractSynchronizer.java" timestamp="1568699754809">
+        <mark key="'" line="62" column="52" />
+      </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/CustomerInfoRobot/src/main/java/com/uf/member/robot/CustomerInfo.java" timestamp="1571022207119">
+        <mark key="[" line="11" column="3" />
+        <mark key="]" line="12" column="17" />
+        <mark key="^" line="12" column="17" />
+        <mark key="." line="12" column="17" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/cookie/CookieOrigin.java" timestamp="1568258780382">
+        <mark key="'" line="57" column="24" />
+      </file>
+      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-data-access/src/main/java/com/moodys/sav/sfs/data/bean/CollateralAssettypeMapping.java" timestamp="1565058883299">
+        <mark key="[" line="6" column="3" />
+        <mark key="]" line="7" column="27" />
+        <mark key="^" line="7" column="27" />
+        <mark key="." line="7" column="27" />
+      </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/CustomerInfoRobot/src/main/java/com/uf/member/robot/RequestInfo.java" timestamp="1571201215377">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="15" column="44" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/appointment/CategoryInfo.java" timestamp="1564659682408">
+        <mark key="[" line="12" column="8" />
+        <mark key="]" line="12" column="12" />
+        <mark key="^" line="12" column="12" />
+        <mark key="." line="12" column="12" />
+      </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/ResourceImage.java" timestamp="1566474628029">
+        <mark key="[" line="12" column="17" />
+        <mark key="]" line="12" column="16" />
+        <mark key="." line="12" column="16" />
+        <mark key="^" line="12" column="16" />
+      </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/ConfigKey.java" timestamp="1572856915680">
+        <mark key="[" line="7" column="45" />
+        <mark key="]" line="7" column="49" />
+        <mark key="^" line="7" column="49" />
+        <mark key="." line="7" column="49" />
+      </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AppointmentService.java" timestamp="1575856659186">
+        <mark key="'" line="855" column="24" />
+        <mark key="[" line="673" column="103" />
+        <mark key="]" line="673" column="103" />
+        <mark key="." line="673" column="103" />
+        <mark key="^" line="673" column="103" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1575856764255">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/customer/CustomerAppointmentController.java" timestamp="1564110950461">
+        <mark key="[" line="61" column="4" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
+        <mark key="^" line="61" column="0" />
+      </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/storemanager/CountCardDefInfo.java" timestamp="1566536961496">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="59" />
+        <mark key="." line="18" column="45" />
+        <mark key="^" line="18" column="45" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" timestamp="1571996995563">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/WechatAppApi/src/test/java/Test.java" timestamp="1571881281289">
+        <mark key="[" line="31" column="35" />
+        <mark key="]" line="32" column="52" />
+        <mark key="^" line="32" column="52" />
+        <mark key="." line="32" column="52" />
+      </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/customer/GetInfoService.java" timestamp="1566997800262">
+        <mark key="[" line="114" column="9" />
+        <mark key="]" line="115" column="32" />
+        <mark key="." line="115" column="32" />
+        <mark key="^" line="115" column="32" />
+      </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/CustomerInfoRobot/src/main/java/com/uf/member/robot/CsvContactList.java" timestamp="1571192468273">
+        <mark key="[" line="18" column="47" />
+        <mark key="]" line="19" column="130" />
+        <mark key="." line="19" column="130" />
+        <mark key="^" line="19" column="130" />
+      </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/CustomerInfoRobot/src/main/java/com/uf/member/robot/TextContactsOutput.java" timestamp="1571987190466">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+      </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/storemanager/ImageController.java" timestamp="1564493723348">
+        <mark key="[" line="30" column="61" />
+        <mark key="]" line="30" column="64" />
+        <mark key="^" line="30" column="64" />
+        <mark key="." line="30" column="64" />
+      </file>
+      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-deal-sync/src/main/java/com/moodys/sav/sfs/dealsync/DLSynchronizer.java" timestamp="1568699778329">
+        <mark key="'" line="167" column="8" />
+      </file>
+      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-data-access/src/main/java/com/moodys/sav/sfs/data/bean/DeviationFileInfo.java" timestamp="1565061104979">
+        <mark key="[" line="10" column="28" />
+        <mark key="]" line="12" column="27" />
+        <mark key="^" line="12" column="27" />
+        <mark key="." line="12" column="27" />
+      </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/admin/AdminController.java" timestamp="1567407015764">
+        <mark key="[" line="78" column="75" />
+        <mark key="]" line="78" column="79" />
+        <mark key="^" line="78" column="79" />
+        <mark key="." line="78" column="79" />
+      </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/appointment/WeeksAppointInfoResponse.java" timestamp="1564728671119">
+        <mark key="[" line="8" column="72" />
+        <mark key="]" line="10" column="58" />
+        <mark key="^" line="10" column="58" />
+        <mark key="." line="10" column="58" />
+      </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/bean/customer/appointment/AppointmentsInfoResponse.java" timestamp="1564106347557">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="12" column="28" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/CountCardImage.java" timestamp="1566475064769">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="7" />
+        <mark key="^" line="10" column="50" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1571996115685">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-data-access/src/main/java/com/moodys/sav/sfs/data/dao/DeviationFileInfoDao.java" timestamp="1565061202821">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="56" />
+        <mark key="." line="7" column="32" />
+        <mark key="^" line="7" column="32" />
+      </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/CountCardImageRepo.java" timestamp="1566529506712">
+        <mark key="[" line="12" column="33" />
+        <mark key="]" line="12" column="42" />
+        <mark key="^" line="12" column="42" />
+        <mark key="." line="12" column="42" />
+      </file>
+      <file name="$USER_HOME$/gitBucket/membersystem/CustomerInfoRobot/src/main/java/com/uf/member/robot/CustomerInfoOutput.java" timestamp="1571120764684">
+        <mark key="[" line="2" column="37" />
+        <mark key="]" line="5" column="56" />
+        <mark key="^" line="5" column="56" />
+        <mark key="." line="5" column="56" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="62" column="17" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9-sources.jar!/org/apache/http/impl/io/ContentLengthOutputStream.java" />
+      <jump line="106" column="17" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9-sources.jar!/org/apache/http/impl/io/ContentLengthOutputStream.java" />
+      <jump line="944" column="36" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/client/HttpClientBuilder.java" />
+      <jump line="945" column="12" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/client/HttpClientBuilder.java" />
+      <jump line="163" column="20" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/client/HttpClientBuilder.java" />
+      <jump line="408" column="13" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/client/HttpClientBuilder.java" />
+      <jump line="1137" column="34" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/client/HttpClientBuilder.java" />
+      <jump line="581" column="58" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AppointmentService.java" />
+      <jump line="583" column="43" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AppointmentService.java" />
+      <jump line="103" column="16" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AppointmentService.java" />
+      <jump line="147" column="31" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/customer/AppointmentController.java" />
+      <jump line="42" column="8" filename="$USER_HOME$/gitBucket/membersystem/WarDeploy/src/main/java/com/uf/member/filter/AuthenFilter.java" />
+      <jump line="44" column="20" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/storemanager/AdminService.java" />
+      <jump line="45" column="12" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/storemanager/AdminService.java" />
+      <jump line="46" column="12" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/storemanager/AdminService.java" />
+      <jump line="289" column="15" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AccountService.java" />
+      <jump line="296" column="16" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AccountService.java" />
+      <jump line="300" column="12" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AccountService.java" />
+      <jump line="301" column="16" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AccountService.java" />
+      <jump line="305" column="16" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AccountService.java" />
+      <jump line="308" column="12" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AccountService.java" />
+      <jump line="65" column="15" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/storemanager/AdminService.java" />
+      <jump line="66" column="81" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/storemanager/AdminService.java" />
+      <jump line="64" column="46" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/restful/controller/storemanager/SettingController.java" />
+      <jump line="34" column="27" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/storemanager/AdminService.java" />
+      <jump line="142" column="34" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem_WechatApp/pages/index.js" />
+      <jump line="146" column="20" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem_WechatApp/pages/index.js" />
+      <jump line="49" column="72" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/cookie/CookieOrigin.java" />
+      <jump line="53" column="21" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/cookie/CookieOrigin.java" />
+      <jump line="56" column="31" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/cookie/CookieOrigin.java" />
+      <jump line="57" column="24" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/cookie/CookieOrigin.java" />
+      <jump line="49" column="28" filename="$USER_HOME$/gitBucket/membersystem/CustomerInfoRobot/src/main/java/com/uf/member/robot/Main.java" />
+      <jump line="93" column="46" filename="$USER_HOME$/gitBucket/membersystem/CustomerInfoRobot/src/main/java/com/uf/member/robot/Main.java" />
+      <jump line="32" column="13" filename="$USER_HOME$/github/java-design-patterns/bridge/src/main/java/com/iluwatar/bridge/Sword.java" />
+      <jump line="127" column="32" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-deal-sync/src/main/java/com/moodys/sav/sfs/dealsync/AbstractSynchronizer.java" />
+      <jump line="128" column="64" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-deal-sync/src/main/java/com/moodys/sav/sfs/dealsync/AbstractSynchronizer.java" />
+      <jump line="62" column="52" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-deal-sync/src/main/java/com/moodys/sav/sfs/dealsync/AbstractSynchronizer.java" />
+      <jump line="167" column="8" filename="$USER_HOME$/Perforce/zhangja_workspace/MWSA/DEV/Danny/SF-Simulation/sfs-deal-sync/src/main/java/com/moodys/sav/sfs/dealsync/DLSynchronizer.java" />
+      <jump line="57" column="18" filename="$MAVEN_REPOSITORY$/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.0.Final/hibernate-jpa-2.1-api-1.0.0.Final-sources.jar!/javax/persistence/GeneratedValue.java" />
+      <jump line="11" column="12" filename="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/DeletedAppointmentToCustomer.java" />
+      <jump line="91" column="13" filename="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/DeletedAppointmentToCustomer.java" />
+      <jump line="696" column="47" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AppointmentService.java" />
+      <jump line="231" column="50" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AppointmentService.java" />
+      <jump line="234" column="114" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AppointmentService.java" />
+      <jump line="236" column="58" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AppointmentService.java" />
+      <jump line="237" column="33" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AppointmentService.java" />
+      <jump line="238" column="63" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AppointmentService.java" />
+      <jump line="12" column="20" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/bean/OneAppointment.java" />
+      <jump line="40" column="15" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/bean/OneAppointment.java" />
+      <jump line="731" column="20" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AppointmentService.java" />
+      <jump line="729" column="20" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AppointmentService.java" />
+      <jump line="705" column="40" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AppointmentService.java" />
+      <jump line="706" column="20" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AppointmentService.java" />
+      <jump line="707" column="20" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AppointmentService.java" />
+      <jump line="708" column="20" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AppointmentService.java" />
+      <jump line="709" column="20" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AppointmentService.java" />
+      <jump line="710" column="20" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AppointmentService.java" />
+      <jump line="713" column="24" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AppointmentService.java" />
+      <jump line="722" column="50" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AppointmentService.java" />
+      <jump line="726" column="24" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AppointmentService.java" />
+      <jump line="24" column="15" filename="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/DeletedAppointmentToCustomer.java" />
+      <jump line="27" column="38" filename="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/DeletedAppointmentToCustomer.java" />
+      <jump line="28" column="29" filename="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/DeletedAppointmentToCustomer.java" />
+      <jump line="13" column="17" filename="$USER_HOME$/gitBucket/membersystem/DataAccess/src/main/java/com/uf/member/dao/mysql/entity/DeletedAppointmentToCustomer.java" />
+      <jump line="76" column="17" filename="$USER_HOME$/github/java-design-patterns/repository/src/main/java/com/iluwatar/repository/App.java" />
+      <jump line="1370" column="28" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadPoolExecutor.java" />
+      <jump line="1564" column="36" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadPoolExecutor.java" />
+      <jump line="1566" column="20" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadPoolExecutor.java" />
+      <jump line="1745" column="15" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadPoolExecutor.java" />
+      <jump line="1765" column="26" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadPoolExecutor.java" />
+      <jump line="1781" column="42" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadPoolExecutor.java" />
+      <jump line="438" column="40" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadPoolExecutor.java" />
+      <jump line="1935" column="34" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadPoolExecutor.java" />
+      <jump line="1875" column="23" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadPoolExecutor.java" />
+      <jump line="1645" column="20" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadPoolExecutor.java" />
+      <jump line="1126" column="32" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadPoolExecutor.java" />
+      <jump line="1128" column="24" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadPoolExecutor.java" />
+      <jump line="605" column="21" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadPoolExecutor.java" />
+      <jump line="608" column="16" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadPoolExecutor.java" />
+      <jump line="612" column="45" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadPoolExecutor.java" />
+      <jump line="33" column="34" filename="$USER_HOME$/github/java-design-patterns/iterator/src/main/java/com/iluwatar/iterator/bst/BstIterator.java" />
+      <jump line="17" column="48" filename="$USER_HOME$/gitBucket/membersystem/CustomerInfoRobot/src/main/java/com/uf/member/robot/Main.java" />
+      <jump line="29" column="24" filename="$USER_HOME$/gitBucket/membersystem/CustomerInfoRobot/src/main/java/com/uf/member/robot/TextContactsOutput.java" />
+      <jump line="15" column="0" filename="$USER_HOME$/gitBucket/membersystem/CustomerInfoRobot/src/main/java/com/uf/member/robot/TextContactsOutput.java" />
+      <jump line="11" column="0" filename="$USER_HOME$/gitBucket/membersystem/CustomerInfoRobot/src/main/java/com/uf/member/robot/TextContactsOutput.java" />
+      <jump line="8" column="0" filename="$USER_HOME$/gitBucket/membersystem/CustomerInfoRobot/src/main/java/com/uf/member/robot/TextContactsOutput.java" />
+      <jump line="3" column="0" filename="$USER_HOME$/gitBucket/membersystem/CustomerInfoRobot/src/main/java/com/uf/member/robot/TextContactsOutput.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/gitBucket/membersystem/CustomerInfoRobot/src/main/java/com/uf/member/robot/TextContactsOutput.java" />
+      <jump line="46" column="48" filename="$USER_HOME$/gitBucket/membersystem/CustomerInfoRobot/src/main/java/com/uf/member/robot/Main.java" />
+      <jump line="18" column="18" filename="$USER_HOME$/gitBucket/membersystem/CustomerInfoRobot/src/main/java/com/uf/member/robot/Main.java" />
+      <jump line="28" column="49" filename="$USER_HOME$/gitBucket/membersystem/CustomerInfoRobot/src/main/java/com/uf/member/robot/Main.java" />
+      <jump line="29" column="12" filename="$USER_HOME$/github/java-design-patterns/builder/src/main/java/com/iluwatar/builder/Weapon.java" />
+      <jump line="263" column="48" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AccountService.java" />
+      <jump line="224" column="21" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AccountService.java" />
+      <jump line="222" column="34" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AccountService.java" />
+      <jump line="179" column="0" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AccountService.java" />
+      <jump line="154" column="0" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AccountService.java" />
+      <jump line="73" column="0" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AccountService.java" />
+      <jump line="302" column="33" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AccountService.java" />
+      <jump line="122" column="25" filename="$USER_HOME$/gitBucket/membersystem/MemberSystem/src/main/java/com/uf/member/service/AccountService.java" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>+ &quot;~&quot; + LocalTime.fromDateFields(atc.getEndTimePoint()).toString(&quot;HH:mm&quot;) + &quot;点&quot;;</text>
+      </register>
+      <register name="-" type="4">
+        <text>+ &quot;~&quot; + LocalTime.fromDateFields(atc.getEndTimePoint()).toString(&quot;HH:mm&quot;) + &quot;点&quot;;</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxzZXRDYXJkTnVtYmVyXD4=</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyB0aW1lID0gTG9jYWxUaW1lLmZyb21EYXRlRmllbGRzKGF0Yy5nZXRTdGFydFRpbWVQb2ludCgpKS50b1N0cmluZygiSEg6bW0iKSArICLngrkiICsgIn4iICsgTG9jYWxUaW1lLmZyb21EYXRlRmllbGRzKGF0Yy5nZXRFbmRUaW1lUG9pbnQoKSkudG9TdHJpbmcoIkhIOm1tIikgKyAi54K5IjsK</text>
+      </register>
+      <register name="1" type="4">
+        <text>add more output format
+
+(cherry picked from commit fad7066960b3bc7b96a22c0675a0dd46f95cac59)</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIE5FRURfQklORF9QSE9ORSA9ICJuZWVkLmJpbmQucGhvbmUiOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQkJCQljdXN0b21lclJlcG8uc2F2ZShjdXN0b21lcik7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJCQljdXN0b21lci5zZXRQaG9uZU51bWJlcigpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJCQkJY3VzdG9tZXIuc2V0Q2FyZE51bWJlcigpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJCQl9Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJCQkK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQkJCWkK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">CQkJICAgIC8vVE9ETwo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>map</text>
+      </register>
+    </registers>
+    <search>
+      <last-search encoding="base64">XDxzZXRDYXJkTnVtYmVyXD4=</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxzZXRDYXJkTnVtYmVyXD4=</last-pattern>
+      <last-replace>~</last-replace>
+      <last-substitute encoding="base64">XDxpc1Rhc2tFbmRcPg==</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzdGFydFw+</entry>
-        <entry encoding="base64">XDxTdHJpbmdcPg==</entry>
-        <entry encoding="base64">XDw/Pz9cPg==</entry>
-        <entry encoding="base64">XDw/P1w+</entry>
-        <entry encoding="base64">XDx0b2RheVRvdGFsQnV5XD4=</entry>
-        <entry encoding="base64">XDxjcmVkZW50aWFsc1w+</entry>
-        <entry encoding="base64">XDxzdG9yZUlkXD4=</entry>
-        <entry encoding="base64">XDxXZWNoYXRNaW5pQXBwQXBpXD4=</entry>
-        <entry encoding="base64">XDwpXD4=</entry>
-        <entry encoding="base64">XDxMb3dlc3RQcmljZVN0b2NrRmlsdGVyXD4=</entry>
-        <entry encoding="base64">XDxsb3dlc3RQcmljZVN0b2NrRmlsdGVyXD4=</entry>
-        <entry encoding="base64">XDxmXD4=</entry>
-        <entry encoding="base64">XDxyZWdpc3REYXRlXD4=</entry>
-        <entry encoding="base64">XDxuZWNlc3NhcnlTbGVlcFw+</entry>
-        <entry encoding="base64">XDxrb3RsaW5cPg==</entry>
-        <entry encoding="base64">XDxhZGRUb0xpc3RcPg==</entry>
-        <entry encoding="base64">XDxnZXRMYXRlc3REYXRlXD4=</entry>
-        <entry encoding="base64">XDxzdG9ja0RhdGFTeW5jaHJvbml6ZXJcPg==</entry>
-        <entry encoding="base64">XDxzeW5jXD4=</entry>
-        <entry encoding="base64">XDxkYXlzQXZnUHJpY2VGaWx0ZXJcPg==</entry>
+        <entry encoding="base64">XDxjYWNoZVw+</entry>
+        <entry encoding="base64">XDxtYW5hZ2VyXD4=</entry>
+        <entry encoding="base64">XDxjYWNoZU9ialw+</entry>
+        <entry encoding="base64">XDxtYW5hZ2VyS2V5XD4=</entry>
+        <entry encoding="base64">XDxjb250ZXh0TmFtZVw+</entry>
+        <entry encoding="base64">XDxwYXRoXD4=</entry>
+        <entry encoding="base64">XDxtRGVhbEluZm9cPg==</entry>
+        <entry encoding="base64">XDxyZXN1bHRcPg==</entry>
+        <entry encoding="base64">XDxhcHBvaW50U3RhdHVzXD4=</entry>
+        <entry encoding="base64">XDxwb2ludFw+</entry>
+        <entry encoding="base64">XDxhcHBvaW50bWVudFw+</entry>
+        <entry encoding="base64">XDxhcHBvaW50bWVudElkXD4=</entry>
+        <entry encoding="base64">XDxwZXJzb25zXD4=</entry>
+        <entry encoding="base64">XDx3b3JrUXVldWVcPg==</entry>
+        <entry encoding="base64">XDx3XD4=</entry>
+        <entry encoding="base64">XDx0aHJlYWRcPg==</entry>
+        <entry encoding="base64">XDxwYXRoU3RhY2tcPg==</entry>
+        <entry encoding="base64">XDxzaGVuWmhlblJlY1w+</entry>
+        <entry encoding="base64">XDxjb2RlXD4=</entry>
+        <entry encoding="base64">XDxzZXRDYXJkTnVtYmVyXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>q</entry>
+        <entry>maps</entry>
+        <entry>map</entry>
       </history-cmd>
       <history-expr />
       <history-input />
     </history>
-  </component>
-  <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
-        <text>ctrl pressed Y</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed D</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed U</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed V</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed A</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed B</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed W</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed X</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed M</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed N</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>shift ctrl pressed 2</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed C</text>
+        <text>ctrl pressed G</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed O</text>
@@ -86,31 +643,37 @@
         <text>ctrl pressed F</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
-        <text>ctrl pressed OPEN_BRACKET</text>
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
-        <text>ctrl pressed Q</text>
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed 2</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
-        <text>ctrl pressed R</text>
+        <text>ctrl pressed B</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
-        <text>ctrl pressed G</text>
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed H</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
-        <text>ctrl pressed CLOSE_BRACKET</text>
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>shift ctrl pressed 2</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>shift ctrl pressed 6</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
-        <text>ctrl pressed S</text>
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed T</text>
@@ -119,297 +682,23 @@
         <text>ctrl pressed I</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
-        <text>ctrl pressed L</text>
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed OPEN_BRACKET</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
-        <text>ctrl pressed K</text>
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed W</text>
       </shortcut-conflict>
     </shortcut-conflicts>
-  </component>
-  <component name="VimMarksSettings">
-    <globalmarks />
-    <filemarks>
-      <file name="/Dummy.txt" timestamp="1595054223907">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="C:/jason/quant/stock/src/main/java/com/uf/stock/schedule/AlertSchedule.java" timestamp="1594893658137">
-        <mark key="'" line="80" column="28" />
-        <mark key="[" line="44" column="26" />
-        <mark key="]" line="44" column="26" />
-        <mark key="^" line="44" column="29" />
-        <mark key="." line="44" column="26" />
-      </file>
-      <file name="C:/jason/quant/stock/src/main/java/com/uf/stock/service/backtest/selector/FundSelector.java" timestamp="1594892359828">
-        <mark key="[" line="45" column="33" />
-        <mark key="]" line="47" column="24" />
-        <mark key="." line="47" column="24" />
-        <mark key="^" line="47" column="24" />
-      </file>
-      <file name="C:/jason/quant/stock/src/main/java/com/uf/stock/service/business/StockDataSyncAndSave.java" timestamp="1594891100624">
-        <mark key="'" line="24" column="34" />
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="^" line="61" column="70" />
-        <mark key="." line="55" column="0" />
-      </file>
-      <file name="C:/jason/quant/stock/src/main/java/com/uf/stock/service/backtest/BuyingAmountPolicy.java" timestamp="1595141313617">
-        <mark key="[" line="2" column="37" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="C:/jason/quant/stock/src/main/java/com/uf/stock/dao/entity/Fund.java" timestamp="1594889337546">
-        <mark key="[" line="34" column="34" />
-        <mark key="]" line="34" column="37" />
-        <mark key="." line="34" column="37" />
-        <mark key="^" line="34" column="37" />
-      </file>
-      <file name="C:/jason/quant/stock/src/main/resources/application-dev.properties" timestamp="1594892417364">
-        <mark key="[" line="12" column="11" />
-        <mark key="]" line="12" column="3" />
-        <mark key="^" line="12" column="3" />
-        <mark key="." line="12" column="3" />
-      </file>
-      <file name="C:/jason/quant/stock/src/main/java/com/uf/stock/util/MapDbTest.java" timestamp="1594954730338">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="3" />
-        <mark key="." line="25" column="3" />
-        <mark key="^" line="25" column="3" />
-      </file>
-      <file name="C:/jason/quant/stock/src/main/java/com/uf/stock/service/backtest/selector/DaysAvgPriceFilter.java" timestamp="1595147327455">
-        <mark key="[" line="34" column="29" />
-        <mark key="]" line="34" column="29" />
-        <mark key="^" line="34" column="45" />
-        <mark key="." line="34" column="29" />
-      </file>
-      <file name="C:/jason/xx/src/main/java/com/uf/xx/Constant.java" timestamp="1595054605570">
-        <mark key="[" line="4" column="40" />
-        <mark key="]" line="4" column="40" />
-        <mark key="." line="4" column="40" />
-        <mark key="^" line="6" column="43" />
-      </file>
-      <file name="C:/jason/quant/stock/src/main/java/com/uf/stock/service/backtest/OneDayKeepBackTest.java" timestamp="1595148681324">
-        <mark key="'" line="63" column="37" />
-        <mark key="[" line="101" column="68" />
-        <mark key="]" line="101" column="69" />
-        <mark key="^" line="101" column="69" />
-        <mark key="." line="101" column="68" />
-      </file>
-      <file name="C:/jason/quant/stock/src/main/java/com/uf/stock/restful/BackTestController.java" timestamp="1595145014770">
-        <mark key="'" line="161" column="22" />
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="92" column="0" />
-        <mark key="." line="92" column="0" />
-        <mark key="^" line="124" column="50" />
-      </file>
-      <file name="C:/jason/membercenter_background/SpringBootDeploy/src/main/resources/application-dev.properties" timestamp="1594975684127">
-        <mark key="[" line="9" column="14" />
-        <mark key="]" line="9" column="14" />
-        <mark key="." line="9" column="14" />
-        <mark key="^" line="8" column="31" />
-      </file>
-      <file name="C:/jason/quant/stock/src/main/java/com/uf/stock/dao/service/MapDbAccessService.java" timestamp="1594954802966">
-        <mark key="'" line="94" column="21" />
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="0" />
-        <mark key="." line="78" column="0" />
-        <mark key="^" line="76" column="26" />
-      </file>
-      <file name="C:/jason/quant/stock/src/main/java/com/uf/stock/service/backtest/selector/StockFilter.java" timestamp="1594888770993">
-        <mark key="[" line="8" column="57" />
-        <mark key="]" line="8" column="57" />
-        <mark key="^" line="8" column="57" />
-        <mark key="." line="8" column="57" />
-      </file>
-      <file name="/fragment.java" timestamp="1594891051306">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/jason/quant/stock/src/main/java/com/uf/stock/service/crawler/StockDataSynchronizerImpl.java" timestamp="1594888432829">
-        <mark key="[" line="80" column="115" />
-        <mark key="]" line="80" column="116" />
-        <mark key="." line="80" column="116" />
-      </file>
-      <file name="C:/jason/quant/stock/src/main/java/com/uf/stock/restful/MonitorController.java" timestamp="1594887144461">
-        <mark key="[" line="17" column="21" />
-        <mark key="]" line="17" column="33" />
-        <mark key="^" line="17" column="33" />
-        <mark key="." line="17" column="33" />
-      </file>
-      <file name="C:/jason/quant/stock/src/main/java/com/uf/stock/dao/service/CachedDataAccessService.java" timestamp="1595142714765" />
-    </filemarks>
-    <jumps>
-      <jump line="65" column="21" filename="C:/jason/moodysGit/sfs-deal-sync/src/main/java/com/moodys/sav/sfs/dealsync/DLSynchronizer.java" />
-      <jump line="74" column="11" filename="C:/jason/moodysGit/products/sfs-web/src/main/java/com/moodys/sav/sfs/web/callable/SyncCmmDataThread.java" />
-      <jump line="245" column="37" filename="C:/jason/moodysGit/sfs-storm/src/main/java/com/moodys/sav/sfs/storm/LaunchExeSpout.java" />
-      <jump line="176" column="4" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/service/crawler/StockDataSynchronizerImpl.java" />
-      <jump line="188" column="0" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/service/crawler/StockDataSynchronizerImpl.java" />
-      <jump line="106" column="15" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/dao/service/DaoService.java" />
-      <jump line="278" column="0" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/dao/service/DaoService.java" />
-      <jump line="5" column="0" filename="C:/jason/quant/stock/src/main/resources/application-dev.properties" />
-      <jump line="31" column="35" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/service/crawler/StockDataSynchronizerImpl.java" />
-      <jump line="116" column="16" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/service/backtest/BuChangStyleBackTest.java" />
-      <jump line="144" column="0" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/service/backtest/BuChangStyleBackTest.java" />
-      <jump line="9" column="43" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/service/backtest/FixedMoneyBuyingAmountPolicy.java" />
-      <jump line="77" column="20" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/restful/BackTestController.java" />
-      <jump line="63" column="35" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/restful/BackTestController.java" />
-      <jump line="53" column="23" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/service/backtest/BuChangStyleBackTest.java" />
-      <jump line="54" column="40" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/service/backtest/BuChangStyleBackTest.java" />
-      <jump line="179" column="29" filename="C:/Java/openJdk/jdk1.8.0_252-amazon/src.zip!/java/util/concurrent/BlockingQueue.java" />
-      <jump line="208" column="16" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/service/backtest/BuChangStyleBackTest.java" />
-      <jump line="111" column="35" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/service/backtest/BuChangStyleBackTest.java" />
-      <jump line="81" column="13" filename="C:/Java/openJdk/jdk1.8.0_252-amazon/src.zip!/java/util/Collections.java" />
-      <jump line="184" column="17" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/service/backtest/BuChangStyleBackTest.java" />
-      <jump line="266" column="76" filename="C:/jason/moodysGit/products/sfs-cmm-proxy/src/main/java/com/moodys/sav/sfs/cmm/generator/v4/CmmDataGeneratorTask.java" />
-      <jump line="102" column="15" filename="C:/jason/moodysGit/sfs-commons/src/main/java/com/moodys/sav/sfs/commons/utils/DealInfoUtil.java" />
-      <jump line="116" column="32" filename="C:/jason/moodysGit/sfs-commons/src/main/java/com/moodys/sav/sfs/commons/utils/DealInfoUtil.java" />
-      <jump line="139" column="85" filename="C:/jason/moodysGit/sfs-commons/src/main/java/com/moodys/sav/sfs/commons/utils/DealInfoUtil.java" />
-      <jump line="166" column="25" filename="C:/jason/moodysGit/sfs-deal-sync/src/main/java/com/moodys/sav/sfs/dealsync/utils/SyncUtils.java" />
-      <jump line="49" column="0" filename="C:/jason/moodysGit/products/sfs-cmm-proxy/src/main/java/com/moodys/sav/sfs/cmm/generator/v4/SyncUtil.java" />
-      <jump line="196" column="55" filename="C:/jason/moodysGit/sfs-deal-sync/src/main/java/com/moodys/sav/sfs/dealsync/utils/SyncUtils.java" />
-      <jump line="24" column="13" filename="C:/jason/moodysGit/products/sfs-supervisory/src/main/java/com/moodys/sav/sfs/supervisory/task/FetchFromS3AndParserJsonTask.java" />
-      <jump line="213" column="19" filename="C:/jason/moodysGit/products/sfs-supervisory/src/main/java/com/moodys/sav/sfs/supervisory/task/FetchFromS3AndParserJsonTask.java" />
-      <jump line="763" column="23" filename="C:/jason/moodysGit/products/sfs-web/src/main/java/com/moodys/sav/sfs/web/controller/RunResultController.java" />
-      <jump line="772" column="29" filename="C:/jason/moodysGit/products/sfs-web/src/main/java/com/moodys/sav/sfs/web/controller/RunResultController.java" />
-      <jump line="773" column="56" filename="C:/jason/moodysGit/products/sfs-web/src/main/java/com/moodys/sav/sfs/web/controller/RunResultController.java" />
-      <jump line="774" column="33" filename="C:/jason/moodysGit/products/sfs-web/src/main/java/com/moodys/sav/sfs/web/controller/RunResultController.java" />
-      <jump line="783" column="41" filename="C:/jason/moodysGit/products/sfs-web/src/main/java/com/moodys/sav/sfs/web/controller/RunResultController.java" />
-      <jump line="806" column="36" filename="C:/jason/moodysGit/products/sfs-web/src/main/java/com/moodys/sav/sfs/web/controller/RunResultController.java" />
-      <jump line="130" column="12" filename="C:/jason/moodysGit/products/sfs-supervisory/src/main/java/com/moodys/sav/sfs/supervisory/monitor/JobOutputZipMonitor.java" />
-      <jump line="255" column="114" filename="C:/jason/moodysGit/products/sfs-supervisory/src/main/java/com/moodys/sav/sfs/supervisory/monitor/JobOutputZipMonitor.java" />
-      <jump line="374" column="12" filename="C:/jason/moodysGit/products/sfs-supervisory/src/main/java/com/moodys/sav/sfs/supervisory/monitor/JobOutputZipMonitor.java" />
-      <jump line="383" column="96" filename="C:/jason/moodysGit/products/sfs-supervisory/src/main/java/com/moodys/sav/sfs/supervisory/monitor/JobOutputZipMonitor.java" />
-      <jump line="256" column="32" filename="C:/jason/moodysGit/products/sfs-supervisory/src/main/java/com/moodys/sav/sfs/supervisory/monitor/JobOutputZipMonitor.java" />
-      <jump line="363" column="12" filename="C:/jason/moodysGit/products/sfs-supervisory/src/main/java/com/moodys/sav/sfs/supervisory/monitor/JobOutputZipMonitor.java" />
-      <jump line="365" column="16" filename="C:/jason/moodysGit/products/sfs-supervisory/src/main/java/com/moodys/sav/sfs/supervisory/monitor/JobOutputZipMonitor.java" />
-      <jump line="135" column="31" filename="C:/jason/moodysGit/products/sfs-supervisory/src/main/java/com/moodys/sav/sfs/supervisory/monitor/JobOutputZipMonitor.java" />
-      <jump line="227" column="16" filename="C:/jason/moodysGit/products/sfs-web/src/main/java/com/moodys/sav/sfs/web/monitor/RunUploadFileMonitor.java" />
-      <jump line="230" column="19" filename="C:/jason/moodysGit/products/sfs-web/src/main/java/com/moodys/sav/sfs/web/monitor/RunUploadFileMonitor.java" />
-      <jump line="235" column="23" filename="C:/jason/moodysGit/products/sfs-web/src/main/java/com/moodys/sav/sfs/web/monitor/RunUploadFileMonitor.java" />
-      <jump line="242" column="28" filename="C:/jason/moodysGit/products/sfs-web/src/main/java/com/moodys/sav/sfs/web/monitor/RunUploadFileMonitor.java" />
-      <jump line="343" column="31" filename="C:/jason/moodysGit/products/sfs-web/src/main/java/com/moodys/sav/sfs/web/monitor/RunUploadFileMonitor.java" />
-      <jump line="25" column="31" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/service/backtest/BuChangStyleBackTest.java" />
-      <jump line="55" column="40" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/service/backtest/BuChangStyleBackTest.java" />
-      <jump line="80" column="35" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/service/backtest/BuChangStyleBackTest.java" />
-      <jump line="82" column="43" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/service/backtest/BuChangStyleBackTest.java" />
-      <jump line="81" column="24" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/service/backtest/BuChangStyleBackTest.java" />
-      <jump line="72" column="24" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/service/backtest/BuChangStyleBackTest.java" />
-      <jump line="87" column="59" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/service/backtest/BuChangStyleBackTest.java" />
-      <jump line="67" column="22" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/service/backtest/BuChangStyleBackTest.java" />
-      <jump line="69" column="66" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/service/backtest/BuChangStyleBackTest.java" />
-      <jump line="70" column="43" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/service/backtest/BuChangStyleBackTest.java" />
-      <jump line="71" column="43" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/service/backtest/BuChangStyleBackTest.java" />
-      <jump line="91" column="81" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/service/backtest/BuChangStyleBackTest.java" />
-      <jump line="106" column="42" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/service/backtest/BuChangStyleBackTest.java" />
-      <jump line="76" column="11" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/restful/BackTestController.java" />
-      <jump line="17" column="344" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/dao/entity/Fund.java" />
-      <jump line="65" column="16" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/service/backtest/BuChangStyleBackTest.java" />
-      <jump line="120" column="28" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/service/backtest/BuChangStyleBackTest.java" />
-      <jump line="165" column="24" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/service/backtest/BuChangStyleBackTest.java" />
-      <jump line="174" column="45" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/service/backtest/BuChangStyleBackTest.java" />
-      <jump line="23" column="117" filename="C:/jason/moodysGit/sfs-commons/src/main/java/com/moodys/sav/sfs/commons/http/HttpClientUtils.java" />
-      <jump line="23" column="18" filename="C:/jason/membercenter_background/MemberSystem/src/main/java/com/uf/member/restful/controller/storemanager/StoreController.java" />
-      <jump line="35" column="95" filename="C:/jason/membercenter_background/MemberSystem/src/main/java/com/uf/member/restful/controller/storemanager/StoreController.java" />
-      <jump line="2" column="33" filename="C:/jason/membercenter_background/MemberSystem/src/main/java/com/uf/member/service/AccountService.java" />
-      <jump line="8" column="46" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/schedule/DataSyncSchedule.java" />
-      <jump line="56" column="35" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/schedule/DataSyncSchedule.java" />
-      <jump line="109" column="25" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/schedule/DataSyncSchedule.java" />
-      <jump line="9" column="17" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/dao/entity/StockBonus.java" />
-      <jump line="45" column="15" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/dao/entity/StockBonus.java" />
-      <jump line="59" column="0" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/dao/entity/StockBonus.java" />
-      <jump line="181" column="17" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/service/crawler/SinaDataSynchronizer.java" />
-      <jump line="246" column="8" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/service/crawler/SinaDataSynchronizer.java" />
-      <jump line="166" column="8" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/service/crawler/SinaDataSynchronizer.java" />
-      <jump line="370" column="27" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/service/crawler/SinaDataSynchronizer.java" />
-      <jump line="428" column="0" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/service/crawler/SinaDataSynchronizer.java" />
-      <jump line="52" column="20" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/schedule/DataSyncSchedule.java" />
-      <jump line="427" column="0" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/schedule/DataSyncSchedule.java" />
-      <jump line="113" column="27" filename="C:/jason/quant/stock/pom.xml" />
-      <jump line="108" column="8" filename="C:/jason/quant/stock/pom.xml" />
-      <jump line="70" column="21" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/dao/service/MapDbAccessService.java" />
-      <jump line="140" column="17" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/schedule/DataSyncSchedule.java" />
-      <jump line="29" column="34" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/service/business/StockDataSyncAndSave.java" />
-      <jump line="11" column="0" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/service/backtest/selector/LowestPriceStockFilter.java" />
-      <jump line="31" column="34" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/schedule/AlertSchedule.java" />
-      <jump line="43" column="30" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/schedule/AlertSchedule.java" />
-      <jump line="45" column="28" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/schedule/AlertSchedule.java" />
-      <jump line="46" column="30" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/schedule/AlertSchedule.java" />
-      <jump line="73" column="29" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/schedule/AlertSchedule.java" />
-      <jump line="78" column="28" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/schedule/AlertSchedule.java" />
-      <jump line="79" column="31" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/restful/BackTestController.java" />
-      <jump line="162" column="22" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/restful/BackTestController.java" />
-      <jump line="63" column="37" filename="C:/jason/quant/stock/src/main/java/com/uf/stock/service/backtest/OneDayKeepBackTest.java" />
-    </jumps>
-  </component>
-  <component name="VimRegisterSettings">
-    <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
-      </register>
-      <register name="*" type="2">
-        <text encoding="base64">CQk8cHJvcGVydHkgbmFtZT0iYXBwbHlWb2xhdGlsaXR5IiB0eXBlPSJzdHJpbmciPgoJCQk8Y29sdW1uIG5hbWU9ImFwcGx5X3ZvbGF0aWxpdHkiIC8+CgkJPC9wcm9wZXJ0eT4K</text>
-      </register>
-      <register name="+" type="4">
-        <text>groupId</text>
-      </register>
-      <register name="-" type="4">
-        <text>e</text>
-      </register>
-      <register name="/" type="4">
-        <text encoding="base64">XDxkYXlzQXZnUHJpY2VGaWx0ZXJcPg==</text>
-      </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmbG9hdCBidXlpbmdQcmljZTIgPSAoYnV5aW5EYXlJbmZvLmdldE9wZW5QcmljZSgpICogMC45NmYpOwo=</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGJhbGFuY2VNb25leTwwKXsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGJhbGFuY2VNb25leSkK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCB0b2RheUJ1eQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbml0Q2FjaCgpOwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmdW5kU2VsZWN0b3Iuc2V0RmlsdGVycyhkYXlzQXZnUHJpY2VGaWx0ZXIpOwo=</text>
-      </register>
-      <register name=":" type="4">
-        <text>q</text>
-      </register>
-    </registers>
-  </component>
-  <component name="VimSearchSettings">
-    <search>
-      <last-search encoding="base64">XDxkYXlzQXZnUHJpY2VGaWx0ZXJcPg==</last-search>
-      <last-offset />
-      <last-pattern encoding="base64">XDxkYXlzQXZnUHJpY2VGaWx0ZXJcPg==</last-pattern>
-      <last-replace>~</last-replace>
-      <last-substitute encoding="base64">XDxnZW5lcmF0ZUNtbUJhc2VPdXRwdXRCeUNtbVRvb2xcPg==</last-substitute>
-      <last-dir>1</last-dir>
-      <show-last>false</show-last>
-    </search>
-  </component>
-  <component name="VimSettings">
-    <state version="7" enabled="true" />
-    <notifications>
-      <idea-join enabled="true" />
-      <idea-put enabled="false" />
-    </notifications>
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
   </component>
 </application>

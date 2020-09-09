@@ -1,79 +1,22 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="满仓" />
-      <item value="亏损" />
-      <item value="fund" />
-      <item value="found" />
-      <item value="thick" />
-      <item value="knife" />
-      <item value="transient" />
-      <item value="transiant" />
-      <item value="transi" />
-      <item value="benefit" />
-      <item value="benefit " />
-      <item value="credentio" />
-      <item value="investegate" />
-      <item value="invest" />
-      <item value="zombie" />
-      <item value="syncronize" />
-      <item value="历史" />
-      <item value="minus" />
-      <item value="fixed" />
-      <item value="固定的" />
-      <item value="余额" />
-      <item value="balance" />
-      <item value="一手股票" />
-      <item value="手数" />
-      <item value="回测" />
-      <item value="migrate" />
-      <item value="unidirectional " />
-      <item value="propose" />
-      <item value="vulnerabilities" />
-      <item value="Curating" />
-      <item value="explore" />
-      <item value="fork" />
-      <item value="Sponsors" />
-      <item value="hackathons" />
-      <item value="meetups" />
-      <item value="approve" />
-      <item value="stash" />
-      <item value="Quantum" />
-      <item value="Ledger" />
-      <item value="Iterate" />
-      <item value="模拟器" />
-      <item value="最后的" />
-      <item value="lastest" />
-      <item value="last" />
-      <item value="销售" />
-      <item value="sell" />
-      <item value="i have a book" />
-      <item value="java" />
-      <item value="test" />
-      <item value="hin" />
+      <item value="need bind phone" />
+      <item value="Resources title" />
+      <item value="cancel appointment alert" />
+      <item value="set Input Content" />
+      <item value="Constants" />
+      <item value="constant" />
+      <item value="h" />
+      <item value="constants" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="10" />
-        <entry key="ENGLISH" value="11" />
-        <entry key="CATALAN" value="2" />
-        <entry key="CHICHEWA" value="1" />
-        <entry key="CEBUANO" value="1" />
+        <entry key="CHINESE" value="2" />
+        <entry key="ENGLISH" value="10" />
+        <entry key="CATALAN" value="1" />
+        <entry key="CORSICAN" value="1" />
       </map>
-    </option>
-  </component>
-  <component name="Settings">
-    <option name="googleTranslateSettings">
-      <google-translate>
-        <option name="primaryLanguage" value="CHINESE" />
-      </google-translate>
-    </option>
-    <option name="ignoreRegExp" value="" />
-    <option name="youdaoTranslateSettings">
-      <youdao-translate>
-        <option name="appId" value="a" />
-        <option name="appKeyConfigured" value="true" />
-      </youdao-translate>
     </option>
   </component>
 </application>
